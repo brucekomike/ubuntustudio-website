@@ -22,8 +22,8 @@ add text here
 
 # Troubleshooting
 
-- → [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting)
+- → [UbuntuStudio/TroubleShooting](UbuntuStudio/UserGuide/UbuntuStudio--TroubleShooting)
 
 ---
 
-[CategoryUbuntuStudio](CategoryUbuntuStudio)
+[CategoryUbuntuStudio](UbuntuStudio/UserGuide/CategoryUbuntuStudio)

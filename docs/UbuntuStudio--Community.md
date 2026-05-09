@@ -22,7 +22,7 @@ If mailing lists are your thing,you can join the Ubuntu Studio [Mailing Lists](h
 
 ## Chat with us on IRC
 
-We use IRC for live chat, which can also be accessed through Matrix using a client like Element. We have three channels - one focused on support, one focused on development and one for general chat. Find more details here: [IRC](UbuntuStudio--IRC).
+We use IRC for live chat, which can also be accessed through Matrix using a client like Element. We have three channels - one focused on support, one focused on development and one for general chat. Find more details here: [IRC](UbuntuStudio/UbuntuStudio--IRC).
 
 ## Follow us on Social
 

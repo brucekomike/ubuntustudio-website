@@ -22,11 +22,11 @@ Controlling pulseaudio is done mainly from the volume control in the indicator a
 
 ### Alsa provides driver support
 
-Any device that is supported by **[alsa](http://www.alsa-project.org)** is potentially supported by **[Pulseaudio](http://www.freedesktop.org/wiki/Software/PulseAudio)**. Usually only pro audio multichannel cards may have problems with pulseaudio. If you find that your multichannel card is not working with pulseaudio, but is supported by alsa, it will still work perfectly with **[jack](http://jackaudio.org/)**. To get desktop audio working for such a card, you will need to set up the **[pulseaudio to jack bridge](UbuntuStudio--ProAudioIntro--1204)** mentioned below.
+Any device that is supported by **[alsa](http://www.alsa-project.org)** is potentially supported by **[Pulseaudio](http://www.freedesktop.org/wiki/Software/PulseAudio)**. Usually only pro audio multichannel cards may have problems with pulseaudio. If you find that your multichannel card is not working with pulseaudio, but is supported by alsa, it will still work perfectly with **[jack](http://jackaudio.org/)**. To get desktop audio working for such a card, you will need to set up the **[pulseaudio to jack bridge](UbuntuStudio/UbuntuStudio--ProAudioIntro--1204)** mentioned below.
 
 ### Firewire will only work with special configuration
 
-Currently, firewire devices are not supported by alsa, and may only be used with jack using the ffado firewire driver. But, since we are now able to connect Pulseaudio to jack, using the **[pulseaudio to jack bridge](UbuntuStudio--ProAudioIntro--1204)**, we can circumvent this problem.
+Currently, firewire devices are not supported by alsa, and may only be used with jack using the ffado firewire driver. But, since we are now able to connect Pulseaudio to jack, using the **[pulseaudio to jack bridge](UbuntuStudio/UbuntuStudio--ProAudioIntro--1204)**, we can circumvent this problem.
 
 ## No Volume?
 
@@ -50,7 +50,7 @@ Here's a list of mixers for pci devices that are preinstalled with Ubuntu Studio
 
 ## More Information
 
-More information on supported hardware can be found [here](UbuntuStudio--SupportedHardware).
+More information on supported hardware can be found [here](UbuntuStudio/UbuntuStudio--SupportedHardware).
 
 # Jack - The Pro Audio Sound System
 
@@ -68,11 +68,11 @@ Jack is a sound server, and like pulseaudio, it is able to use alsa as it backen
 
 ## Starting Jack
 
-The easiest way to start jack is to use **Ubuntu Studio Controls**. To learn more, a guide to Ubuntu Studio Controls can be found [here](UbuntuStudio--ProAudioIntro--UbuntuStudioControls).
+The easiest way to start jack is to use **Ubuntu Studio Controls**. To learn more, a guide to Ubuntu Studio Controls can be found [here](UbuntuStudio/UbuntuStudio--ProAudioIntro--UbuntuStudioControls).
 
 ### Firewire Troubleshooting
 
-Sometimes it's just a matter of knowing what to do in which order. Maybe you need to start your computer with the firewire device already attached, or the other way around. Try different combinations, if you are sure the device is supported. (more info on supported devices [here](UbuntuStudio--SupportedHardware)).
+Sometimes it's just a matter of knowing what to do in which order. Maybe you need to start your computer with the firewire device already attached, or the other way around. Try different combinations, if you are sure the device is supported. (more info on supported devices [here](UbuntuStudio/UbuntuStudio--SupportedHardware)).
 
 ### USB troubleshooting
 

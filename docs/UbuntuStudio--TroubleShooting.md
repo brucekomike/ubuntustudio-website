@@ -40,4 +40,4 @@ If you can start jack, but there's no sound, there are two likely reasons for th
 
 ---
 
-[CategoryUbuntuStudio](CategoryUbuntuStudio)
+[CategoryUbuntuStudio](UbuntuStudio/CategoryUbuntuStudio)

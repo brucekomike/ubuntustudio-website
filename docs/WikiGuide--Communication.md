@@ -27,4 +27,4 @@ Good communication with other wiki contributors is essential to writing great re
 
 ---
 
-Back to [WikiGuide](WikiGuide)
+Back to [WikiGuide](WikiGuide/WikiGuide)

@@ -16,7 +16,7 @@ The pages in this wiki should be as easy to understand as possible and follow. W
 - *Operating Systems* - Capitalize the names of operating systems like Linux, Ubuntu, Windows, etc.
 - *Repositories* - Capitalize the names of the Universe & Multiverse repositories when you use them.
 - *Installing software* - When documenting how to install software, try to avoid recommending a particular package manager (such as *apt-get*) - instead, simply use an apt link to allow the user to click on the link to install the relevant package. So, for example:
-  - To enable support for mp3s in Ubuntu, [install the ''Ubuntu-restricted-extras'' package](apt:Ubuntu-restricted-extras).
+  - To enable support for mp3s in Ubuntu, [install the ''Ubuntu-restricted-extras'' package](WikiGuide/apt:Ubuntu-restricted-extras).
   - The wiki markup used to make the link in that example is: [[apt:Ubuntu-restricted-extras|install the ''Ubuntu-restricted-extras'' package]].
 
 # Page Titles
@@ -53,4 +53,4 @@ The pages in this wiki should be as easy to understand as possible and follow. W
 
 ---
 
-Go back to [WikiGuide](WikiGuide)
+Go back to [WikiGuide](WikiGuide/WikiGuide)

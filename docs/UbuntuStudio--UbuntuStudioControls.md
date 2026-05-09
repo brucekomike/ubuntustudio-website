@@ -26,7 +26,7 @@ Ubuntu Studio Controls is the easiest and best way to configure your Ubuntu Stud
 
 Ubuntu Studio Controls is installed in Ubuntu Studio by default. However, the version covered in this page is only part of Ubuntu Studio 20.04 and higher, or any supported Ubuntu Studio version with the backports PPA.
 
-To obtain this newer version, add the **[Ubuntu Studio Backports PPA](UbuntuStudio--BackportsPPA)**.
+To obtain this newer version, add the **[Ubuntu Studio Backports PPA](UbuntuStudio/UbuntuStudio--BackportsPPA)**.
 
 If you are running a different official flavor of Ubuntu than Ubuntu Studio, Ubuntu Studio Controls installs with the Ubuntu Studio Installer.
 
@@ -34,7 +34,7 @@ If not already installed, open a terminal and type: sudo apt install ubuntustudi
 
 Ubuntu Studio Controls can be found in the Audio Production menu.
 
-![ControlsMenu.png](../image/UbuntuStudioControls_d6f7cc32dc.png)
+![ControlsMenu.png](image/UbuntuStudioControls_d6f7cc32dc.png)
 
 ## Top of Window
 
@@ -42,7 +42,7 @@ At the top of the window, you will see a button to enable Real Time Permissions 
 
 ## System Tweaks Tab
 
-![Controls1.png](../image/UbuntuStudioControls_a99c72a860.png)
+![Controls1.png](image/UbuntuStudioControls_a99c72a860.png)
 
 - **CPU Governor:** Sets the CPU governor. If you are doing low latency audio work, the CPU Governor should be set to Performance
 - **Intel Boost:** Sets the Intel Boost to On or Off. Experiment with this setting to see what gives you the best performance/lowest latency without Xruns if doing audio work.
@@ -61,7 +61,7 @@ Additionally, to facilitate routing and audio control, three more buttons are pr
 
 ### Jack Master Settings
 
-![Controls2.png](../image/UbuntuStudioControls_84970bd33c.png)
+![Controls2.png](image/UbuntuStudioControls_84970bd33c.png)
 
 - **Jack Master Device (no USB):** This is for selecting which internal audio device should be the master device.
 - **USB device that should be Master:** If so desired, this enables you to configure JACK to treat a connected external USB audio device, such as a USB audio interface, to be treated as if it were the internal master audio device, overriding the setting set above.
@@ -73,7 +73,7 @@ Additionally, to facilitate routing and audio control, three more buttons are pr
 
 ### Extra Devices
 
-![Controls3.png](../image/UbuntuStudioControls_9e334bddd5.png)
+![Controls3.png](image/UbuntuStudioControls_9e334bddd5.png)
 
 - **Connect Other Internal Audio Interfaces:** If you have more than one internal audio device, this will allow you to add or remove those audio devices from being recognized by Jack.
 - **Bridge USB Devices to Jack When Plugged In:** This allows USB devices to be "hotpugged" and immediately recognized while Jack is running.
@@ -81,7 +81,7 @@ Additionally, to facilitate routing and audio control, three more buttons are pr
 
 ### Pulse Bridging
 
-![Controls4.png](../image/UbuntuStudioControls_70a9d310f9.png)
+![Controls4.png](image/UbuntuStudioControls_70a9d310f9.png)
 
 - **Add A Pulse Jack Bridge:** Here you can add an input bridge and/or an output bridge.
 - **Bridge to Configure:** This selects which bridge you are configuring for the buttons/fields that follow
@@ -90,4 +90,4 @@ Additionally, to facilitate routing and audio control, three more buttons are pr
 
 ---
 
-[CategoryUbuntuStudio](CategoryUbuntuStudio)
+[CategoryUbuntuStudio](UbuntuStudio/CategoryUbuntuStudio)

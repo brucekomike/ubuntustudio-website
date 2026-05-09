@@ -116,7 +116,7 @@ Let's apply some of the above ideas to make a simple funky bass, a classic analo
 6. Load the first sound by selecting it, then close the soundbank window.
 7. Now set the parameters to match the following screenshot.
 
-![Synth1FunkBass.png](../../image/SoundSynthesis101_44f1c2743c.png)
+![Synth1FunkBass.png](image/SoundSynthesis101_44f1c2743c.png)
 
 **Notes on the Funk Bass setup:**
 
@@ -133,7 +133,7 @@ To try out tip #10 above, download Poly 2106, a well-executed Juno 106 emulator,
 
 This plugin has very clearly marked "Arpegiator [sic] Gate" section at bottom right. Just click the "OFF" button so it changes to "ON" and turns red. Then play around with the controls in that section. Note that "HOLD" will keep the pattern playing even after you release the keys. Experiment with the other controls to vary the tempo and direction of the arpeggio. TR-GT mode lets you space chordal hits on a timeline, and they can be more or less legato.
 
-![Poly2106Arp.png](../../image/SoundSynthesis101_9cf8c7b906.png)
+![Poly2106Arp.png](image/SoundSynthesis101_9cf8c7b906.png)
 
 ## Crafting Noise
 
@@ -144,21 +144,21 @@ Install TAL-Noisemaker from here: [https://tal-software.com/products/tal-noisema
 
 The following setup modifies a noise signal. The envelope is set something like a crash cymbal, but instead of a static filter setting, LFO1 and LFO2 are controlling the filter. Adjust the rate on the LFOs to your liking, or click the dropdown that says "Filter" to disable them. Note that Master/Sub is turned all the way down.
 
-![TAL-NoiseMaker.png](../../image/SoundSynthesis101_4b0aa2bdd9.png)
+![TAL-NoiseMaker.png](image/SoundSynthesis101_4b0aa2bdd9.png)
 
 Disabling LFO1 and 2, slightly raising the Cutoff and Resonance, and shortening the envelope turns our wavy crash cymbal into something more akin to a hand-clap.
 
-![TAL_HandClap.png](../../image/SoundSynthesis101_f55f124feb.png)
+![TAL_HandClap.png](image/SoundSynthesis101_f55f124feb.png)
 
 And what discussion of noise patches would be complete without the Helicopter sound effect? This one fades into the distance when you release the key.
 
-![TAL_Helipad.png](../../image/SoundSynthesis101_b050f28e71.png) *Minor modifications to the envelope and other controls can change plain noise into different percussion sounds or sound effects. *
+![TAL_Helipad.png](image/SoundSynthesis101_b050f28e71.png) *Minor modifications to the envelope and other controls can change plain noise into different percussion sounds or sound effects. *
 
 ## Siren
 
 Here is an example of controlling the pitch of an oscillator with the LFO. Install Pure Pone from here: [http://www.vst4free.com/free_vst.php?plugin=Pure-Pone&id=877](http://www.vst4free.com/free_vst.php?plugin=Pure-Pone&id=877)
 
-![PurePoneSiren.png](../../image/SoundSynthesis101_893818df03.png) *Certainly not the most musical setting, but a good demonstration of how to modify a parameter from another parameter, the essence of synthesizer programming.*
+![PurePoneSiren.png](image/SoundSynthesis101_893818df03.png) *Certainly not the most musical setting, but a good demonstration of how to modify a parameter from another parameter, the essence of synthesizer programming.*
 
 1. Call up the patch called Analog 6 (because it is a relatively plain vanilla patch).
 2. Turn off Modulation Bus 2, we don't need it.
@@ -176,6 +176,6 @@ You should hear a slow rising and falling pitch.
 
 I had a little trouble finding a plugin where it was simple to make the Siren patch, but I hope these examples were enough to illustrate that there is a lot in common from one plugin to the next in editing and creating patches. One or more sources (oscillators) is modified by various signal processors and effects, some of which may themselves be waves, some will be filters. Once the wave is shaped, it goes through the ADSR envelope, the the master volume control. Usually, these controls are in some kind of sectional arrangement. It just becomes a question of figuring out how to assign them. With a little practice, you will be able to imagine a sound and have a rough idea of how to build that patch from scratch. While there is nothing wrong with using presets, as you can see, a tiny twist of a single knob can dramatically alter what you get from a given patch. Presets are intended to demonstrate the capabilities of a plugin, so don't be afraid to mess around with the controls. Any synth developer would tell you "that's what they're there for!"
 
-![Osiris6DelayPad.png](../../image/SoundSynthesis101_4742b4236b.png) *The opening preset of Osiris-6, "Delay Pad" is a perfect example of a sweep effect with a slow attack.*
+![Osiris6DelayPad.png](image/SoundSynthesis101_4742b4236b.png) *The opening preset of Osiris-6, "Delay Pad" is a perfect example of a sweep effect with a slow attack.*
 
 Osiris packs a lot of sound editing capability into a relatively easy-to-follow layout. Two oscillators are on the left. The yellow buttons rotate through all available options. You can pick filter 1, 2, or both. And the panel outline suggests that the filters have their own ADSR, which is above the ADSR for the gain. To the left of the keyboard is the mono on/off and portamento control. Tucked to the right of the keyboard is the arpeggiator. Effects are front and center. It is very easy to page through the options for LFO1 and LFO2 as you listen to how the sound is affected in real time. This is truly one of the best designed front panel layouts. Osiris shines in the pad department, but the cutoff and resonance knobs do not seem to alter those sorts of sounds much. One drawback of this plugin is that it appears to take up a lot of memory - it failed to load four times on my old laptop. Download it here: [http://www.vst4free.com/free_vst.php?plugin=Osiris-6&id=741](http://www.vst4free.com/free_vst.php?plugin=Osiris-6&id=741)

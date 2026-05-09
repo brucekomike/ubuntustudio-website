@@ -5,15 +5,15 @@
 
 # Search By Category
 
-[CategoryUbuntuStudio](CategoryUbuntuStudio):
+[CategoryUbuntuStudio](UbuntuStudio/CategoryUbuntuStudio):
 
-1. [**CategoryUbuntuStudio**](CategoryUbuntuStudio)
-2. [UbuntuStudio](UbuntuStudio)
-3. [UbuntuStudio/Search](UbuntuStudio--Search)
-4. [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting)
-5. [UbuntuStudio/UbuntuStudioControls](UbuntuStudio--UbuntuStudioControls)
-6. [UbuntuStudio/UserGuide/Graphics/draftpage](UbuntuStudio--UserGuide--Graphics--draftpage)
-7. [UbuntuStudio/UserGuide/Video](UbuntuStudio--UserGuide--Video)
+1. [**CategoryUbuntuStudio**](UbuntuStudio/CategoryUbuntuStudio)
+2. [UbuntuStudio](UbuntuStudio/UbuntuStudio)
+3. [UbuntuStudio/Search](UbuntuStudio/UbuntuStudio--Search)
+4. [UbuntuStudio/TroubleShooting](UbuntuStudio/UbuntuStudio--TroubleShooting)
+5. [UbuntuStudio/UbuntuStudioControls](UbuntuStudio/UbuntuStudio--UbuntuStudioControls)
+6. [UbuntuStudio/UserGuide/Graphics/draftpage](UbuntuStudio/UbuntuStudio--UserGuide--Graphics--draftpage)
+7. [UbuntuStudio/UserGuide/Video](UbuntuStudio/UbuntuStudio--UserGuide--Video)
 
 # All Ubuntu Studio supbpages for help.ubuntu.com/community/UbuntuStudio
 
@@ -23,4 +23,4 @@
 
 ---
 
-[CategoryUbuntuStudio](CategoryUbuntuStudio)
+[CategoryUbuntuStudio](UbuntuStudio/CategoryUbuntuStudio)

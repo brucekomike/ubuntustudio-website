@@ -48,11 +48,11 @@ While we're talking about novelty synths, the PAL-9000 is hilarious: [http://www
 
 Some of my personal favorites are sampled instruments like Chau Gongs, Redtron (Mellotron M400S strings), Revitar, and OMB1 (bass). A couple of keyboard plugins to check out: [MrTramp2](https://help.ubuntu.com/community/MrTramp2) (everyone agrees it really sounds like the keys on Supertramp's "The Logical Song" - definitely adjust the settings to taste). Looking for an old-fashioned pump organ? Try Harmonium. Maybe you are into EDM? Firebird is loaded with contemporary patches and a bright, enticing interface (follwong page, top). All of the above are available on [http://vst4free.com](http://vst4free.com) which has a Keywords search (top text menu, third link).
 
-![Firebird.png](../../image/Appendix_57d14a287f.png)
+![Firebird.png](image/Appendix_57d14a287f.png)
 
 **Super Spook Keys** (groan) is a great example of the diversity and specialization of plugins. This Theremin by Simple Media has a lot more of the subtlety of the real thing than your typical keyboard Theremin patch. Hear it in action along with its other presets at the following link: [http://www.vstplanet.com/News/2011/Super_Spook_Keys.htm](http://www.vstplanet.com/News/2011/Super_Spook_Keys.htm)
 
-![superspookkeys.jpg](../../image/Appendix_e23cb83cbc.jpg)
+![superspookkeys.jpg](image/Appendix_e23cb83cbc.jpg)
 
 Simple Media's page is worth a visit (paid and free VST instruments, with an emphasis on strings): [http://www.simple-media.co.uk/vsti.htm](http://www.simple-media.co.uk/vsti.htm)
 
@@ -64,7 +64,7 @@ As promised, some piano resources. The free **Piano One** is a good example of t
 
 [http://www.supremepiano.com/product/piano1.html](http://www.supremepiano.com/product/piano1.html)
 
-![NeoPiano.png](../../image/Appendix_d9c8f10732.png)
+![NeoPiano.png](image/Appendix_d9c8f10732.png)
 
 I've had some luck with **Upright 1** from Versilian Studios. This piano is warmer than some real uprights. It might have a little latency on older systems, the GUI may crash, and it might not pick up the sustain pedal signal - but the 64 Bit sound is quite good, offering a distinctive upright sound.
 
@@ -78,7 +78,7 @@ Some of the greatest pianists loved Baldwin pianos. I really like the sampled Ba
 
 [http://vst4free.com/free_vst.php?plugin=City_Piano&id=2293](http://vst4free.com/free_vst.php?plugin=City_Piano&id=2293)
 
-![CityPiano.png](../../image/Appendix_86d179d4f5.png)
+![CityPiano.png](image/Appendix_86d179d4f5.png)
 
 **Free Piano** from RDGAudio is more recent (2017) and has some layered sounds along with other controls (requires 64 Bit Windows 7). The KVR Audio site has many other free and paid plugins to browse.
 
