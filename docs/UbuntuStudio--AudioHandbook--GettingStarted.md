@@ -62,7 +62,7 @@ Before we leave this section, familiarize yourself with your desktop's software 
 
 First, all of the hardware connections need to be made. Connect the MIDI controller and the outboard sound card to USB ports on the laptop. For now, you can connect headphones to the sound card, being sure to set the volume level relatively low and keeping them off your ears until we're sure the levels are reasonable. If you have speakers, connect them directly or via mixer now. Many sound cards and controllers are powered via USB, so the only thing you may need to plug in is the laptop. Note that your monitors should be off or volume set to zero when powering down the laptop. If you want to record an instrument, that usually goes into the front panel of the sound card. Be sure to consult the sound card's manual for appropriate settings. In general, “Pad” is for boosting the signal from a microphone. There might be an additional switch between “Line” and “Instrument”. The latter should work for electric guitar. Pots may need to be adjusted for different input sources.
 
-![UbuntuLaunchMenu.png](image/GettingStarted_9dc91ef684.png)*The author's launch menu contains some items such as Wine that we'll add later|*
+![UbuntuLaunchMenu.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/GettingStarted_9dc91ef684.png)*The author's launch menu contains some items such as Wine that we'll add later|*
 
 ## Connecting a Sound Card With JACK and Patchage
 
@@ -70,7 +70,7 @@ The program called JACK is Ubuntu Studio's nerve center. From the launcher, clic
 
 Under Parameters, I chose Alsa, Realtime, and the default Sample Rate (44100) Frames/Period (1024) and Periods/Buffer (2). Latency is grayed out at 46.4 msec, as I choose the low-latency option (recommended). Although I have a 64-bit processor, I have experienced some trouble running 64-bit programs under Windows in Ubuntu – we will come back to that point when discussing Wine and Carla in chapter 5. With luck, your system should be ready to go now.
 
-![QjackCtlAdvancedSetup.png](image/GettingStarted_f83299590f.png) *The JACK advanced settings screen – this may or may not work for a given set of hardware. Details on the rig used for this book are in the appendix.*
+![QjackCtlAdvancedSetup.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/GettingStarted_f83299590f.png) *The JACK advanced settings screen – this may or may not work for a given set of hardware. Details on the rig used for this book are in the appendix.*
 
 Making connections in JACK is covered in the next chapter. For now, return to JACK's main panel and try the Connections and Patchbay buttons. A good workflow is to set up Connections, then go into Patchbay and store a given configuration that you might want to call up again when working on a particular style of music. There isn't much to do in either of these windows until we open other applications. IMPORTANT: one last preliminary step will help later - see this link: [http://manual.ardour.org/setting-up-your-system/setting-up-midi/midi-on-linux/](http://manual.ardour.org/setting-up-your-system/setting-up-midi/midi-on-linux/)
 
@@ -86,6 +86,6 @@ In current Ubuntu Studio releases, Ubuntu Studio Audio Configuration is the main
 
 You can use it to hook things up, as well. We're not quite ready to use this, but here's a preview.
 
-![PatchageExample.png](image/GettingStarted_24f0efc963.png)*Here a MIDI controller is connected to a amsynth, a soft synthesizer's MIDI input, the Hydrogen drum machine and amsynth's audio outs go to the system output, which we've already configured in JACK to use the outboard soundcard.*
+![PatchageExample.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/GettingStarted_24f0efc963.png)*Here a MIDI controller is connected to a amsynth, a soft synthesizer's MIDI input, the Hydrogen drum machine and amsynth's audio outs go to the system output, which we've already configured in JACK to use the outboard soundcard.*
 
 The audio generators depicted above are introduced in the next chapter, so read on!

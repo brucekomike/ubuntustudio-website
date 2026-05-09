@@ -21,11 +21,11 @@ By default, this new track is connected to MIDI through and will use the native 
 
 Now you can open any virtual synth, and assign the MIDI out from the new track in Ardour to it's MIDI in, under JACK/MIDI (click ardour to display the dropdown as in the screenshot below).
 
-![MIDItrack.png](image/AdvancedRecordingArdour_a890e45224.png) *Connecting Ardour's MIDI out (left) to a virtual synthesizer (right).*
+![MIDItrack.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/AdvancedRecordingArdour_a890e45224.png) *Connecting Ardour's MIDI out (left) to a virtual synthesizer (right).*
 
 In the Mixer window, set the input of a new track to the output of the plugin being played by the MIDI track, and arm this new track for recording. The plugin will appear under the Other tab (see below).
 
-![MIDItrackRec.png](image/AdvancedRecordingArdour_162bf992c0.png) *Yoshimi's output connected to EP input*
+![MIDItrackRec.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/AdvancedRecordingArdour_162bf992c0.png) *Yoshimi's output connected to EP input*
 
 A MIDI track can be imported like a wav file, and the same technique used to play it or record audio.
 
@@ -33,19 +33,19 @@ A MIDI track can be imported like a wav file, and the same technique used to pla
 
 Mouse over the very beginning or ending of a track, then click and hold the handle in the upper corner - a curved icon should appear. Drag to define a fade-in or fade-out zone. Note, this technique also works in Audacity.
 
-![fadeout.png](image/AdvancedRecordingArdour_1886e901de.png)
+![fadeout.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/AdvancedRecordingArdour_1886e901de.png)
 
 ## Automation
 
 One of the coolest features of Ardour is the ability to automate track attributes like volume, panning, trim, and muting. Automation will appear in its own "lane" associated with a track. You will create a curve made up of control points (which you can add or subtract as needed). The four modes are manual (overrides automation), play (use the curve to control the parameter during playback), write (set the automation in real-time), and touch (hand-edit only part of the automation curve, leaving the rest alone). To see all of the automation lanes, just click "a" under the track name. The parameters have dropdowns set to "manual" - changing that to "touch" for the L/R (pan) automation lane made it possible to create the curve in the following screenshot by maniputlating the slider during playback. You can read more about automation in the Ardour manual - it can even be applied to instrument parameters!
 
-![AutomationPan.png](image/AdvancedRecordingArdour_3d6d95c0c4.png)
+![AutomationPan.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/AdvancedRecordingArdour_3d6d95c0c4.png)
 
 ## Grouping Tracks
 
 When a song has a large number of tracks, it may be necessary to apply the same action to a subset of those tracks. As you might have guessed, the "g" button next to the "a" button lets you create and assign groups, as well as what properties the tracks will/won't share.
 
-![GroupingTracks.png](image/AdvancedRecordingArdour_18d2e0091a.png) Strings and Sinnah have been assigned to the "Pad Stuff" group, which was made bright green using the color picker we saw earlier. Grouping is also possible when first creating a track.
+![GroupingTracks.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/AdvancedRecordingArdour_18d2e0091a.png) Strings and Sinnah have been assigned to the "Pad Stuff" group, which was made bright green using the color picker we saw earlier. Grouping is also possible when first creating a track.
 
 ## Creating a Bus and Inserting Effects
 
@@ -56,13 +56,13 @@ A physical mixer has auxilliary send and return "buses" that are typically conne
 3. Still in the mixer window, at the bottom of each channel that you want to apply the effect, change the destination from "Master" to your new "Bus In".
 4. With the song playing, double click the effect and use its "Bypass" button to toggle it on and off to confirm everything is hooked up correctly. For testing, you might also want to crank up that effect's parameters to make the comparison less subtle as in the screenshot below.
 
-![BusWithPhaser.png](image/AdvancedRecordingArdour_1a1b32bd51.png) *Setting up a bus is a little bit of work, but not bad for something so powerful. Note that effects can be added per track without using a bus.*
+![BusWithPhaser.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/AdvancedRecordingArdour_1a1b32bd51.png) *Setting up a bus is a little bit of work, but not bad for something so powerful. Note that effects can be added per track without using a bus.*
 
 ## Additional Advanced Topics
 
 It's out of the scope of this book, but video editing is possible within Ardour. You can rip the soundtrack from a video, view it over a timeline, even frame-by-frame, and make all the moves needed to create that Hollywood movie soundtrack of your dreams.
 
-![ArdourFX.png](image/AdvancedRecordingArdour_0f0ec1ffd5.png) *Right-click and hold in a track's charcoal area to browse and add effects. Here a flanger was added to the EP track.*
+![ArdourFX.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/AdvancedRecordingArdour_0f0ec1ffd5.png) *Right-click and hold in a track's charcoal area to browse and add effects. Here a flanger was added to the EP track.*
 
 ## Carla Alternatives LinVST and Airwave
 

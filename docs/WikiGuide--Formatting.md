@@ -81,7 +81,7 @@ The following pages describe the elements (wiki markup) you can use to get speci
 - [HelpOnLists](https://help.ubuntu.com/community/HelpOnLists) - lists and indented sections
 - [HelpOnTables](https://help.ubuntu.com/community/HelpOnTables) - tables
 - [HelpOnDictionaries](https://help.ubuntu.com/community/HelpOnDictionaries) - dictionaries
-- [HelpOnSmileys](https://help.ubuntu.com/community/HelpOnSmileys) - how to insert a ![Smile :)](image/icon_smile_8cc8a7b0f8.png)
+- [HelpOnSmileys](https://help.ubuntu.com/community/HelpOnSmileys) - how to insert a ![Smile :)](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/icon_smile_8cc8a7b0f8.png)
 - [HelpOnMacros](https://help.ubuntu.com/community/HelpOnMacros) - Macros allow you to use dynamic elements in a page
 - [HelpOnParsers](https://help.ubuntu.com/community/HelpOnParsers) - data processing parsers (replaces Processors)
 - [HelpOnProcessingInstructions](https://help.ubuntu.com/community/HelpOnProcessingInstructions) - how to influence page formatting
@@ -99,9 +99,9 @@ Every time you are in the editor and use the "Preview", "Spell Check", "Cancel" 
 
 If you hit "cancel" accidentally, your machine crashes, or the browser window was accidentally closed, then the automatic backup of your draft may be easily recovered.
 
-To recover that draft, you simply edit that page again. If there is a draft, an alert message will be in the message box and a "load draft" button will be present. Clicking the "load draft" will load your saved draft into the editor box replacing the current revision already loaded. You can continue editing the loaded draft, but this time try to save it at the end. ![Smile :)](image/icon_smile_8cc8a7b0f8.png)
+To recover that draft, you simply edit that page again. If there is a draft, an alert message will be in the message box and a "load draft" button will be present. Clicking the "load draft" will load your saved draft into the editor box replacing the current revision already loaded. You can continue editing the loaded draft, but this time try to save it at the end. ![Smile :)](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/icon_smile_8cc8a7b0f8.png)
 
-![Info (!)](image/icon_cool_defb731546.png) Don't use the "preview", "spell check", "save changes" or "cancel" buttons on that page before "load draft" or you will overwrite your old draft with a new one.
+![Info (!)](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/docs/image/icon_cool_defb731546.png) Don't use the "preview", "spell check", "save changes" or "cancel" buttons on that page before "load draft" or you will overwrite your old draft with a new one.
 
 If you successfully save a page, the internal draft copy of it is not needed any more and will be deleted.
 <hr />
