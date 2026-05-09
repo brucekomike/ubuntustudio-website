@@ -19,7 +19,5 @@ To upload an image:
 5. To display the file on the wiki page, type {{attachment:filename.png}} where you want the image to appear.
 
 For greater details on uploading and managing screenshots using the wiki software, see [HelpOnActions/AttachFile](https://help.ubuntu.com/community/HelpOnActions/AttachFile).
-
----
-
+<hr />
 Go back to [WikiGuide](WikiGuide.md)

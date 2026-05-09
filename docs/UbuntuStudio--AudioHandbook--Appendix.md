@@ -91,9 +91,7 @@ Some of the greatest pianists loved Baldwin pianos. I really like the sampled Ba
 I hope this illustrates that results may vary widely when it comes to plugins in general and pianos in particular depending on your system and the instrument itself. The good news is there are many more available than covered in this short overview.
 
 *Still more plugins!* [http://vstmuseum.com/index/](http://vstmuseum.com/index/)
-
----
-
+<hr />
 # Review of HG Fortune Snythesizers
 
 Many synthesizers try to be all things to all people. And many VST plugins are emulators or "romplers" (sample players) of "vintage" synths. While it's amazing that every pre-existing type of synthesis is represented in one or another virtual instrument, often for free, after a point, there is some inevitable overlap. Even the GUIs generally follow a familiar hardware paradigm however artfully (or confusingly) masked by a GUI. By creating a suite of more narrowly-purposed plugins, no two of which look or sound alike, H G Fortune's instruments stand apart from the crowd. Unusual control interfaces that could not even exist in the physical world, randomizing buttons and ways to rapidly modify a sound all combine to encourage us to think outside the box.

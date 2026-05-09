@@ -47,13 +47,9 @@ An external links section can be used to point users towards general information
 - <Link> - Explanation of link.
 - <Link> - Explanation of link.
 - <Link> - Explanation of link.
-
----
-
+<hr />
 # Troubleshooting
 
 - → [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting.md)
-
----
-
+<hr />
 [CategoryUbuntuStudio](CategoryUbuntuStudio.md)

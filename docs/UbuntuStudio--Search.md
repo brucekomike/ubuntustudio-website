@@ -20,7 +20,5 @@
 # Archived Pages
 
 [http://help.ubuntu.com/community/Deprecated%20Ubuntu%20Studio%20Pages](http://help.ubuntu.com/community/Deprecated%20Ubuntu%20Studio%20Pages) - List of pages whose information is superseded but retained for archival purposes
-
----
-
+<hr />
 [CategoryUbuntuStudio](CategoryUbuntuStudio.md)

@@ -34,7 +34,5 @@ To edit this wiki, you need a [Launchpad](https://launchpad.net/) account.
 6. The wiki may not give you edit permissions until you login to the Launchpad site, and possibly update your username. (Alternatively, follow the instructions above - "If you have a Ubuntu One account, but no Launchpad account").
 
 Please note that creating a Launchpad account will create a [Ubuntu One](https://login.ubuntu.com/) account.
-
----
-
+<hr />
 Go back to [WikiGuide](WikiGuide.md)

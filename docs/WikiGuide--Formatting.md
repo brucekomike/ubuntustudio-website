@@ -106,7 +106,5 @@ To recover that draft, you simply edit that page again. If there is a draft, an 
 ![Info (!)](image/icon_cool_defb731546.png) Don't use the "preview", "spell check", "save changes" or "cancel" buttons on that page before "load draft" or you will overwrite your old draft with a new one.
 
 If you successfully save a page, the internal draft copy of it is not needed any more and will be deleted.
-
----
-
+<hr />
 Go back to [WikiGuide](WikiGuide.md)

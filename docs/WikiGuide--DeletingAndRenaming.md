@@ -19,7 +19,5 @@ However, before you do so, here are some things to think about:
 1. A good alternative to renaming is to insert a redirect from the target page to the original page. See [HelpOnProcessingInstructions](https://help.ubuntu.com/community/HelpOnProcessingInstructions).
 2. You can search for all of the pages containing a link to a specific page by clicking on the title of the page. If you rename or delete a page, you **MUST** fix all these links.
 3. If you are thinking about renaming a well-known or useful page, please discuss it on the [DocumentationTeam](https://help.ubuntu.com/community/DocumentationTeam) [mailing list](http://lists.ubuntu.com/mailman/listinfo/ubuntu-doc) first.
-
----
-
+<hr />
 Go back to [WikiGuide](WikiGuide.md)

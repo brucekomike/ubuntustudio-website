@@ -2,9 +2,7 @@
 
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
-
----
-
+<hr />
 # Ubuntu Studio Controls
 
 **This section is for the version of Ubuntu Studio Controls 1.12.6 included with Ubuntu Studio 20.04 LTS and already included in the Ubuntu Studio Backports PPA.**
@@ -87,7 +85,5 @@ Additionally, to facilitate routing and audio control, three more buttons are pr
 - **Bridge to Configure:** This selects which bridge you are configuring for the buttons/fields that follow
 - **Change Bridge's (unique) Name:** This allows you to give the selected bridge a unique, customized name
 - **Audio Connect Port:** Selects which system ports to which you would like automatically have the bridge connect.
-
----
-
+<hr />
 [CategoryUbuntuStudio](CategoryUbuntuStudio.md)

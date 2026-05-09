@@ -1,7 +1,5 @@
 # UbuntuStudio/Community - Community Help Wiki
-
----
-
+<hr />
 So, you want to get involved in the Ubuntu Studio community? Great! We're a friendly group of folk with a shared passion for Ubuntu and all things creative, and we'd love to have you join us!
 
 ## Check the website

@@ -10,20 +10,14 @@ add text here
 # Using Video software – some workflow examples
 
 add text here
-
----
-
+<hr />
 # See also
 
 - [RestrictedFormats](https://help.ubuntu.com/community/RestrictedFormats)
 - [Ubuntu Media Wiki: Codecs](https://wiki.ubuntu.com/Media/Codecs)
-
----
-
+<hr />
 # Troubleshooting
 
 - → [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting.md)
-
----
-
+<hr />
 [CategoryUbuntuStudio](CategoryUbuntuStudio.md)

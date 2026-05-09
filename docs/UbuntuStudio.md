@@ -56,7 +56,5 @@ Please note that much of the information in this wiki is obsolete and needs upda
 **[How do I use the terminal?](UbuntuStudio--UsingTheTerminal.md)** A simple guide on basic terminal usage
 
 **[TroubleShooting](UbuntuStudio--TroubleShooting.md)** - find answers to common problems
-
----
-
+<hr />
 [CategoryUbuntuStudio](CategoryUbuntuStudio.md)
