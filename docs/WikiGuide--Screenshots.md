@@ -22,4 +22,4 @@ For greater details on uploading and managing screenshots using the wiki softwar
 
 ---
 
-Go back to [WikiGuide](WikiGuide/WikiGuide)
+Go back to [WikiGuide](WikiGuide.md)

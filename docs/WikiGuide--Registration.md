@@ -37,4 +37,4 @@ Please note that creating a Launchpad account will create a [Ubuntu One](https:/
 
 ---
 
-Go back to [WikiGuide](WikiGuide/WikiGuide)
+Go back to [WikiGuide](WikiGuide.md)

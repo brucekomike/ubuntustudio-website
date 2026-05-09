@@ -109,4 +109,4 @@ If you successfully save a page, the internal draft copy of it is not needed any
 
 ---
 
-Go back to [WikiGuide](WikiGuide/WikiGuide)
+Go back to [WikiGuide](WikiGuide.md)

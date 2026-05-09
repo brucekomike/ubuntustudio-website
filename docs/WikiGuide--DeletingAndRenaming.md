@@ -22,4 +22,4 @@ However, before you do so, here are some things to think about:
 
 ---
 
-Go back to [WikiGuide](WikiGuide/WikiGuide)
+Go back to [WikiGuide](WikiGuide.md)

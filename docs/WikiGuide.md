@@ -15,7 +15,7 @@ This page contains guidelines and help on how to contribute to the documentation
 
 # Contributing
 
-Anyone can edit the Community Help Wiki. You just need a [Launchpad](http://launchpad.net) account (see [/Registration](WikiGuide--Registration)) and be a member of the [ubuntu-wiki-editors Launchpad team](https://launchpad.net/~ubuntu-wiki-editors/+join). Once your membership has been approved (a confirmation email will be sent in approximately 1-7 days), log out of the wiki and then log back in. Don't forget to tick "Team membership: ubuntu-wiki-editors" when logging back in if asked what information to share.
+Anyone can edit the Community Help Wiki. You just need a [Launchpad](http://launchpad.net) account (see [/Registration](WikiGuide--Registration.md)) and be a member of the [ubuntu-wiki-editors Launchpad team](https://launchpad.net/~ubuntu-wiki-editors/+join). Once your membership has been approved (a confirmation email will be sent in approximately 1-7 days), log out of the wiki and then log back in. Don't forget to tick "Team membership: ubuntu-wiki-editors" when logging back in if asked what information to share.
 
 Please note that there are two wikis where this applies, and to which you need to log in separately:
 
@@ -26,8 +26,8 @@ Please note that there are two wikis where this applies, and to which you need t
 
 If you haven't contributed to the wiki before, these are the best pages to start with.
 
-- [/PageCreation](WikiGuide--PageCreation) - Guidance on creating pages on this wiki
-- [/WritingGuide](WikiGuide--WritingGuide) - Writing style and conventions that are encouraged on the wiki
+- [/PageCreation](WikiGuide--PageCreation.md) - Guidance on creating pages on this wiki
+- [/WritingGuide](WikiGuide--WritingGuide.md) - Writing style and conventions that are encouraged on the wiki
 - [DocumentationTemplate](https://help.ubuntu.com/community/DocumentationTemplate) - Recommended page structure
 - [SandboxPages](https://help.ubuntu.com/community/SandboxPages) - Info on creating sandbox pages to test wiki pages
 - [Tags](https://help.ubuntu.com/community/Tag) - Tags are used to label pages as requiring attention from Wiki Editors
@@ -37,7 +37,7 @@ If you haven't contributed to the wiki before, these are the best pages to start
 
 This website is a wiki, and therefore uses wiki markup to define how text should be displayed, to make links to other pages and websites, and to add images to pages. Wiki markup is really easy to learn.
 
-- [WikiGuide/Formatting](WikiGuide--Formatting) - Help on getting started with wiki markup.
+- [WikiGuide/Formatting](WikiGuide--Formatting.md) - Help on getting started with wiki markup.
 - [Wiki Icons](https://help.ubuntu.com/community/IconsPage) - describes availability & use of icons in the Ubuntu wiki
 
 This should be enough to get started, but as you get more comfortable with the wiki as and want to try more advanced features, have a look at the "Advanced Reference" section below.
@@ -46,9 +46,9 @@ This should be enough to get started, but as you get more comfortable with the w
 
 Once you are familiar with the basics, it is worth familiarising yourself with the following pages.
 
-- [/Communication](WikiGuide--Communication) - Communicating with other editors is an important part of contributing
-- [/DeletingAndRenaming](WikiGuide--DeletingAndRenaming) - Advice on deleting and renaming pages
-- [/Screenshots](WikiGuide--Screenshots) - When and how to use screenshots
+- [/Communication](WikiGuide--Communication.md) - Communicating with other editors is an important part of contributing
+- [/DeletingAndRenaming](WikiGuide--DeletingAndRenaming.md) - Advice on deleting and renaming pages
+- [/Screenshots](WikiGuide--Screenshots.md) - When and how to use screenshots
 - [Tag](https://help.ubuntu.com/community/Tag) - Tags are used to mark the status of pages
 
 # Getting Involved

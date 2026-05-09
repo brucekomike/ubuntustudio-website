@@ -19,29 +19,29 @@ Ubuntu Studio is a community effort, targeted towards all skill levels, from beg
 
 Please note that much of the information in this wiki is obsolete and needs updating. While we are working on updating much of this, please be patient. If you would like to help in this effort, let us know!
 
-**If you came here from the IRC Chat Room after waiting for an answer, [Click Here](UbuntuStudio--SilentIRC).**
+**If you came here from the IRC Chat Room after waiting for an answer, [Click Here](UbuntuStudio--SilentIRC.md).**
 
 # Support
 
-**[Pro Audio Intro](UbuntuStudio--ProAudioIntro)** - Introduction to audio on Ubuntu Studio
+**[Pro Audio Intro](UbuntuStudio--ProAudioIntro.md)** - Introduction to audio on Ubuntu Studio
 
-**[Ubuntu Studio Audio Handbook](UbuntuStudio--AudioHandbook)** - Handbook for audio and music production on Ubuntu Studio
+**[Ubuntu Studio Audio Handbook](UbuntuStudio--AudioHandbook.md)** - Handbook for audio and music production on Ubuntu Studio
 
-**[Hardware Support](UbuntuStudio--SupportedHardware)** - Information about linux supported hardware
+**[Hardware Support](UbuntuStudio--SupportedHardware.md)** - Information about linux supported hardware
 
-**[Ubuntu Studio Controls](UbuntuStudio--UbuntuStudioControls)** - Ubuntu Studio's definitive configuration tool
+**[Ubuntu Studio Controls](UbuntuStudio--UbuntuStudioControls.md)** - Ubuntu Studio's definitive configuration tool
 
-**[Ubuntu Studio Installer](UbuntuStudio--UbuntuStudioInstaller)** - Adds additional packages and/or gives Ubuntu and its official flavors all of Ubuntu Studio's benefits.
+**[Ubuntu Studio Installer](UbuntuStudio--UbuntuStudioInstaller.md)** - Adds additional packages and/or gives Ubuntu and its official flavors all of Ubuntu Studio's benefits.
 
-**[Ubuntu Studio Backports PPA](UbuntuStudio--BackportsPPA)** - Contains updated tools for Ubuntu Studio
+**[Ubuntu Studio Backports PPA](UbuntuStudio--BackportsPPA.md)** - Contains updated tools for Ubuntu Studio
 
-**[Kernel Information](UbuntuStudio--RealTimeKernel)** - Information about Real Time Kernels vs the Low Latency Kernel
+**[Kernel Information](UbuntuStudio--RealTimeKernel.md)** - Information about Real Time Kernels vs the Low Latency Kernel
 
 ## Contact Us
 
 **[ubuntustudio.org](http://ubuntustudio.org)** - our website
 
-**[IRC](UbuntuStudio--IRC)** - **Get online** and talk with other users and Ubuntu Studio developers directly.
+**[IRC](UbuntuStudio--IRC.md)** - **Get online** and talk with other users and Ubuntu Studio developers directly.
 
 **[Mail List](http://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-users)** - Join The Ubuntu Studio User Mail list
 
@@ -49,14 +49,14 @@ Please note that much of the information in this wiki is obsolete and needs upda
 
 ## Common Questions
 
-**[Where can I find more help?](UbuntuStudio--Resources)** - links to Manuals, User Guides, Mailing lists etc..
+**[Where can I find more help?](UbuntuStudio--Resources.md)** - links to Manuals, User Guides, Mailing lists etc..
 
-**[How do I find software?](UbuntuStudio--FindingSoftware)** - Finding applications that may be useful for multimedia production.
+**[How do I find software?](UbuntuStudio--FindingSoftware.md)** - Finding applications that may be useful for multimedia production.
 
-**[How do I use the terminal?](UbuntuStudio--UsingTheTerminal)** A simple guide on basic terminal usage
+**[How do I use the terminal?](UbuntuStudio--UsingTheTerminal.md)** A simple guide on basic terminal usage
 
-**[TroubleShooting](UbuntuStudio--TroubleShooting)** - find answers to common problems
+**[TroubleShooting](UbuntuStudio--TroubleShooting.md)** - find answers to common problems
 
 ---
 
-[CategoryUbuntuStudio](CategoryUbuntuStudio)
+[CategoryUbuntuStudio](CategoryUbuntuStudio.md)
