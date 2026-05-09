@@ -1,7 +1,5 @@
 # UbuntuStudio/FindingSoftware - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/FindingSoftware
-
 # Finding Multimedia Software
 
 Finding additional software for Ubuntu Studio can be done in numerous ways and from various sources.

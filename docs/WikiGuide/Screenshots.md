@@ -1,7 +1,5 @@
 # WikiGuide/Screenshots - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/WikiGuide/Screenshots
-
 The use of screenshots in documentation is encouraged. However, we ask that you follow a few basic guidelines when introducing screenshots:
 
 - Do not try to use very big images - these crowd the page and confuse the user.
@@ -24,4 +22,4 @@ For greater details on uploading and managing screenshots using the wiki softwar
 
 ---
 
-Go back to [WikiGuide](../WikiGuide.md)
+Go back to [WikiGuide](../WikiGuide)

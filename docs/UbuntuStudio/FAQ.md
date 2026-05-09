@@ -1,7 +1,5 @@
 # UbuntuStudio/FAQ - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/FAQ
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 
@@ -16,7 +14,7 @@ Frequently asked questions about Ubuntu Studio.
 - **What is the difference between Ubuntu Studio and Ubuntu?**
   - Learn about some of the differences between Ubuntu and Ubuntu Studio at the [Ubuntu Studio vs. Ubuntu page](https://help.ubuntu.com/community/What Is Ubuntu Studio#Ubuntu Studio vs. Ubuntu).
 - **What is a low latency kernel?**
-  - See the [low latency kernels](RealTimeKernel.md) page for information about the various low latency kernels available in Ubuntu Studio.
+  - See the [low latency kernels](RealTimeKernel) page for information about the various low latency kernels available in Ubuntu Studio.
 - **When is the next version coming out?**
   - Ubuntu Studio follows the same [release cycle](https://wiki.ubuntu.com/Releases) as Ubuntu.
 
@@ -46,7 +44,7 @@ Frequently asked questions about Ubuntu Studio.
 # Hardware
 
 - **Does xyz piece of hardware work with Ubuntu Studio?**
-  - See [Supported Hardware](SupportedHardware.md)
+  - See [Supported Hardware](SupportedHardware)
   - For all other pieces of hardware, check for various Hardware Compatibility Lists, such as:
     - [Hardware Support](https://wiki.ubuntu.com/HardwareSupport)
     - [Linux Compatible](http://www.linuxcompatible.org/compatlist3.html)

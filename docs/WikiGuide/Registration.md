@@ -1,7 +1,5 @@
 # WikiGuide/Registration - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/WikiGuide/Registration
-
 To edit this wiki, you need a [Launchpad](https://launchpad.net/) account.
 
 ## If you have a Launchpad account
@@ -39,4 +37,4 @@ Please note that creating a Launchpad account will create a [Ubuntu One](https:/
 
 ---
 
-Go back to [WikiGuide](../WikiGuide.md)
+Go back to [WikiGuide](../WikiGuide)

@@ -1,7 +1,5 @@
 # UbuntuStudio/AudioHandbook/MixingMastering - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook/MixingMastering
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 

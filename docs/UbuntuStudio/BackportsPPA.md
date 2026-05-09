@@ -1,7 +1,5 @@
 # UbuntuStudio/BackportsPPA - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/BackportsPPA
-
 # Ubuntu Studio Backports PPA
 
 The Ubuntu Studio Backports PPA is available for those who wish to bring newer versions of Ubuntu Studio tools, themes, and functionality to earlier versions of Ubuntu. Currently, the Ubuntu Studio Backports PPA supports the following Ubuntu versions:

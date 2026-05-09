@@ -1,7 +1,5 @@
 # CommunityHelpWiki - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/CommunityHelpWiki
-
 ## Welcome!
 
 | This user-created and maintained wiki is a reference for various Ubuntu-related Howto's, tips, tricks and hacks. Scroll down to find the list of the major topics in this wiki. |  | Official Documentation Check out the official documentation consisting of the Desktop, Server and Installation Guides. |

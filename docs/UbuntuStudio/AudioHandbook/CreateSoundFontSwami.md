@@ -1,7 +1,5 @@
 # UbuntuStudio/AudioHandbook/CreateSoundFontSwami - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook/CreateSoundFontSwami
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 

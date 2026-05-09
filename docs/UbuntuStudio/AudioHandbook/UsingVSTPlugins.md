@@ -1,7 +1,5 @@
 # UbuntuStudio/AudioHandbook/UsingVSTPlugins - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook/UsingVSTPlugins
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 
@@ -22,7 +20,7 @@ One of the programs that can be used to run and manage VSTs is Carla. Here's how
 
 Carla is available in Ubuntu Studio from 19.10 (The Eoan Ermine). It is also available in the Ubuntu Studio backports ppa from 18.04 (The Bionic Beaver). However, the ppa is now frozen for 18.04 and will receive no further updates.
 
-[https://help.ubuntu.com/community/UbuntuStudio/BackportsPPA](../BackportsPPA.md)
+[https://help.ubuntu.com/community/UbuntuStudio/BackportsPPA](../BackportsPPA)
 
 ## Configuring and Using Carla
 

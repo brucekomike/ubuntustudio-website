@@ -1,7 +1,5 @@
 # UbuntuStudio/AudioHandbook/OverviewInstrumentsEffects - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook/OverviewInstrumentsEffects
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 

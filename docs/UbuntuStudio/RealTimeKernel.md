@@ -1,7 +1,5 @@
 # UbuntuStudio/RealTimeKernel - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/RealTimeKernel
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 

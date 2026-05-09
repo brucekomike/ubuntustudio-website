@@ -1,7 +1,5 @@
 # WikiGuide/Communication - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/WikiGuide/Communication
-
 | WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
 | --- | --- | --- | --- | --- | --- |
 
@@ -29,4 +27,4 @@ Good communication with other wiki contributors is essential to writing great re
 
 ---
 
-Back to [WikiGuide](../WikiGuide.md)
+Back to [WikiGuide](../WikiGuide)

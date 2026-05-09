@@ -1,7 +1,5 @@
 # WikiGuide/WritingGuide - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/WikiGuide/WritingGuide
-
 | WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
 | --- | --- | --- | --- | --- | --- |
 
@@ -55,4 +53,4 @@ The pages in this wiki should be as easy to understand as possible and follow. W
 
 ---
 
-Go back to [WikiGuide](../WikiGuide.md)
+Go back to [WikiGuide](../WikiGuide)

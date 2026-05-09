@@ -1,7 +1,5 @@
 # WikiGuide/DeletingAndRenaming - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/WikiGuide/DeletingAndRenaming
-
 | WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
 | --- | --- | --- | --- | --- | --- |
 
@@ -24,4 +22,4 @@ However, before you do so, here are some things to think about:
 
 ---
 
-Go back to [WikiGuide](../WikiGuide.md)
+Go back to [WikiGuide](../WikiGuide)

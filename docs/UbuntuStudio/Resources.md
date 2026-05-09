@@ -1,7 +1,5 @@
 # UbuntuStudio/Resources - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/Resources
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 

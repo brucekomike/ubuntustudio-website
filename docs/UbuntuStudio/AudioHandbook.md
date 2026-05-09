@@ -1,7 +1,5 @@
 # UbuntuStudio/AudioHandbook - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 
@@ -21,25 +19,25 @@ Please bear in mind that much of this handbook was written in the first-person p
 
 # Table of Contents
 
-1. [About this book](AudioHandbook/AboutThisBook.md)
+1. [About this book](AudioHandbook/AboutThisBook)
   - Who this book is for Why use this book? How to use this book – know what's possible Companion matter, if any - web site, disk, etc. Acknowledgements
-2. [Getting started](AudioHandbook/GettingStarted.md)
+2. [Getting started](AudioHandbook/GettingStarted)
   - Gear on a budget How to find out if your old laptop can run Ubuntu System Requirements Running Ubuntu from media Installing Ubuntu Studio Configuring and testing your soundcard Connecting with JACK and Patchage
-3. [Overview of out-of-the-box instruments and effects](AudioHandbook/OverviewInstrumentsEffects.md)
+3. [Overview of out-of-the-box instruments and effects](AudioHandbook/OverviewInstrumentsEffects)
   - Sound Generators Hexter Aeolus Synthv1 Qsynth, drumkv1, samplev1 Amsynth Hydrogen Audio Processors Guitarix Rakarrak Make your guitar a MIDI controller Tools and Utilities Major file types Tools for DJs Internet DJ Console SuperLooper TerminatorX
-4. [Basic Recording for Musicians](AudioHandbook/BasicRecordingForMusicians.md)
+4. [Basic Recording for Musicians](AudioHandbook/BasicRecordingForMusicians)
   - Audacity Ardour
-5. [Using VST Plugins](AudioHandbook/UsingVSTPlugins.md)
+5. [Using VST Plugins](AudioHandbook/UsingVSTPlugins)
   - Install Wine Install and run Carla Configuring and using Carla
-6. [Advanced Recording in Ardour](AudioHandbook/AdvancedRecordingArdour.md)
+6. [Advanced Recording in Ardour](AudioHandbook/AdvancedRecordingArdour)
   - Punch-ins Looping MIDI tracks Fade-in Fade-out Automation Grouping tracks Creating a bus and inserting effects Additional advanced topics LinVST
-7. [Mixing and Mastering](AudioHandbook/MixingMastering.md)
-8. [Creating Your Own SoundFont with Swami](AudioHandbook/CreateSoundFontSwami.md)
-9. [Sharing Your Music](AudioHandbook/SharingMusic.md)
+7. [Mixing and Mastering](AudioHandbook/MixingMastering)
+8. [Creating Your Own SoundFont with Swami](AudioHandbook/CreateSoundFontSwami)
+9. [Sharing Your Music](AudioHandbook/SharingMusic)
   - Creative Commons Copyright registration Royalty collection agencies Making a CD Sheet music with MuseScore
-10. [Sound Synthesis 101](AudioHandbook/SoundSynthesis101.md)
+10. [Sound Synthesis 101](AudioHandbook/SoundSynthesis101)
   - Knob acronyms Ten Things To Try On Any Synthesizer Approaches to sound synthesis Patch tutorials Funk Bass Arpeggiator Crafting Noise Siren
 
-[Appendix](AudioHandbook/Appendix.md)
+[Appendix](AudioHandbook/Appendix)
 
 - Troubleshooting Using the command line Links and resources

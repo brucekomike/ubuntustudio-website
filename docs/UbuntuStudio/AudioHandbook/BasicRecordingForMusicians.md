@@ -1,7 +1,5 @@
 # UbuntuStudio/AudioHandbook/BasicRecordingForMusicians - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook/BasicRecordingForMusicians
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 

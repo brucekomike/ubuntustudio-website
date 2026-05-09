@@ -1,7 +1,5 @@
 # License - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/License
-
 The material on this wiki is released under the [Creative Commons Attribution-ShareAlike 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 You are therefore free to share and adapt the material, provided that you do so under the same or similar license, and that you give credit to the original authors.

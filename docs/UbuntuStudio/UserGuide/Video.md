@@ -1,7 +1,5 @@
 # UbuntuStudio/UserGuide/Video - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/UserGuide/Video
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 
@@ -24,8 +22,8 @@ add text here
 
 # Troubleshooting
 
-- → [UbuntuStudio/TroubleShooting](../TroubleShooting.md)
+- → [UbuntuStudio/TroubleShooting](../TroubleShooting)
 
 ---
 
-[CategoryUbuntuStudio](../../CategoryUbuntuStudio.md)
+[CategoryUbuntuStudio](../../CategoryUbuntuStudio)

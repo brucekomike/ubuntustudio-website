@@ -1,7 +1,5 @@
 # UbuntuStudio/UbuntuStudioControls - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/UbuntuStudioControls
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 
@@ -28,7 +26,7 @@ Ubuntu Studio Controls is the easiest and best way to configure your Ubuntu Stud
 
 Ubuntu Studio Controls is installed in Ubuntu Studio by default. However, the version covered in this page is only part of Ubuntu Studio 20.04 and higher, or any supported Ubuntu Studio version with the backports PPA.
 
-To obtain this newer version, add the **[Ubuntu Studio Backports PPA](BackportsPPA.md)**.
+To obtain this newer version, add the **[Ubuntu Studio Backports PPA](BackportsPPA)**.
 
 If you are running a different official flavor of Ubuntu than Ubuntu Studio, Ubuntu Studio Controls installs with the Ubuntu Studio Installer.
 
@@ -92,4 +90,4 @@ Additionally, to facilitate routing and audio control, three more buttons are pr
 
 ---
 
-[CategoryUbuntuStudio](../CategoryUbuntuStudio.md)
+[CategoryUbuntuStudio](../CategoryUbuntuStudio)

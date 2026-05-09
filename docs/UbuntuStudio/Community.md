@@ -1,7 +1,5 @@
 # UbuntuStudio/Community - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/Community
-
 ---
 
 So, you want to get involved in the Ubuntu Studio community? Great! We're a friendly group of folk with a shared passion for Ubuntu and all things creative, and we'd love to have you join us!
@@ -24,7 +22,7 @@ If mailing lists are your thing,you can join the Ubuntu Studio [Mailing Lists](h
 
 ## Chat with us on IRC
 
-We use IRC for live chat, which can also be accessed through Matrix using a client like Element. We have three channels - one focused on support, one focused on development and one for general chat. Find more details here: [IRC](IRC.md).
+We use IRC for live chat, which can also be accessed through Matrix using a client like Element. We have three channels - one focused on support, one focused on development and one for general chat. Find more details here: [IRC](IRC).
 
 ## Follow us on Social
 

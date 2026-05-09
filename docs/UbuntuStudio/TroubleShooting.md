@@ -1,7 +1,5 @@
 # UbuntuStudio/TroubleShooting - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/UbuntuStudio/TroubleShooting
-
 | Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
 | --- | --- | --- | --- | --- |
 
@@ -42,4 +40,4 @@ If you can start jack, but there's no sound, there are two likely reasons for th
 
 ---
 
-[CategoryUbuntuStudio](../CategoryUbuntuStudio.md)
+[CategoryUbuntuStudio](../CategoryUbuntuStudio)

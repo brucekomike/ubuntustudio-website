@@ -1,7 +1,5 @@
 # WikiGuide/Formatting - Community Help Wiki
 
-Source: https://help.ubuntu.com/community/WikiGuide/Formatting
-
 | WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
 | --- | --- | --- | --- | --- | --- |
 
@@ -111,4 +109,4 @@ If you successfully save a page, the internal draft copy of it is not needed any
 
 ---
 
-Go back to [WikiGuide](../WikiGuide.md)
+Go back to [WikiGuide](../WikiGuide)
