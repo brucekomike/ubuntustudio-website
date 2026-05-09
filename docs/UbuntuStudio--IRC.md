@@ -1,52 +1,27 @@
 # UbuntuStudio/IRC - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
+NOTE: This page is community chat information, not the preferred support channel.
 
-NOTE: This page is undergoing heavy updating due to a change in IRC server for all Ubuntu channels
-| Contents Official Ubuntu Studio IRC channels Useful channels on libera.chat related to Ubuntu Studio: |
-| --- |
+# Community Chat
 
-# Official Ubuntu Studio IRC channels
+Ubuntu Studio community chat is on **irc.libera.chat** and Matrix. For support, use Ubuntu Discourse first and Matrix support chat second.
 
-Ubuntu Studio has two official channels at **irc.libera.chat**
-
-- **#ubuntustudio** - user channel for discussion and support
+- **#ubuntustudio** - user channel for discussion and community help
 - **#ubuntustudio-devel** - developer discussion
+
+# Matrix support chat: [Ubuntu Studio support room](https://matrix.to/#/#ubuntustudio:ubuntu.com)
 
 # Libera doesn't have webchat as of this writing.
 
-# Webchat - The Easy Way
-
-Webchat is accesible directly from your browser. To try out IRC for the first time, this may be the easiest way to do it.
-
-- Head to [http://webchat.freenode.net/](http://webchat.freenode.net/)
-- fill in your nick (make one up)
-- type **#ubuntustudio**" in the channel field
-- type the correct cathpa, and hit **Connect**.
-
-- LIKEWISE, these instructions for Xchat don't really fit since they use the default Freenode settings -
-
-# XCHAT
-
-Xchat is a program already installed on your computer, if you have installed Ubuntu Studio 20.04LTS or earlier. If you find you want to spend more time on IRC, you'll probably want to be able to save your channels and settings. Especially if you're frequently on several channels.
-
-To connect to the Ubuntu Studio channel, you will need to first connect to the server freenode.net. Then, look up the #ubuntustudio channel, and join it. A more detailed instruction on how to connect to libera.chat and ubuntustudio:
-
-- Start xchat
-- When you start XChat for the first time, it comes up with a Network List, which allows you to choose your nick name and the IRC Network you would like to connect to (If you have used XChat before, you can configure the Network options by selecting **XChat -> Network List** from the menu or by pressing CTRL+S)
-- Select and enter your nickname
-- In the Networks selection list, click on Freenode and press the **Edit...** button to verify the settings:
-- By checking **Auto connect** to this network on startup Xchat will automatically establish the connection when you start it up the next time. You can actually select this option for multiple IRC networks at the same time!
-- In the Edit Freenode window, click the **...** next to **Favorite channels** to add channels you would like to auto-connect to. Add **#ubuntustudio**.
-- Close the Edit Freenode window when you are done and click the **Connect** button in the Network list window to establish the connection. Xchat will now auto connect to the ubuntustudio user channel each time you restart it.
-- To look for more freenode channels (#ardour, #jack etc..), go to **Server -> List of Channels** and hit **Download List** to get the entire list.
-
 # Useful channels on libera.chat related to Ubuntu Studio:
 
-COMMENTED-OUT channels not currently on libera **#alsa** - user help and discussion **#ardour** - user help and discussion (not on Libera yet) **#blender** - high traffic channel, user help and discussion **#dataflow** - the puredata IRC channel **#ffado** - User help and discussion about firewire devices **#gimp** - User help and discussion
-
-- **#jack** - jack discussion
-- **#lau** - Linux Audio Users discussion - Popular channel for everything about Linux and Audio
-- **#opensourcemusicians** - popular channel discussing all things related to linux and music
+- **#alsa** - user help and discussion
+- **#ardour** - user help and discussion
+- **#blender** - high traffic channel, user help and discussion
+- **#dataflow** - the Pure Data IRC channel
+- **#ffado** - user help and discussion about FireWire devices
+- **#gimp** - user help and discussion
+- **#jack** - JACK discussion
+- **#lau** - Linux Audio Users discussion
+- **#opensourcemusicians** - Linux and music discussion
 - **#ubuntustudio**

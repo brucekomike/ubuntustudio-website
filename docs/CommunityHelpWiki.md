@@ -12,11 +12,11 @@
 
 | Release | Notes |
 | --- | --- |
-| 22.xx | This section includes wiki entries for Kinetic Kudu (22.10) and Jammy Jellyfish (22.04) |
-| 20.xx | This section includes wiki entries for Ubuntu 20.04 |
-| 18.xx | This section includes wiki entries for Ubuntu 18.04 |
-| 16.xx | This section includes wiki entries for Ubuntu 16.04 |
-| 14.xx | This section includes wiki entries for Ubuntu 14.04 and all earlier versions of Ubuntu |
+| 26.xx | This section includes wiki entries for Resolute Raccoon (26.04) |
+| 25.xx | This section includes wiki entries for Questing Quokka (25.10) |
+| 24.xx | This section includes wiki entries for Noble Numbat (24.04) |
+| 22.xx | This section includes wiki entries for Jammy Jellyfish (22.04) |
+| Older | This section includes earlier Ubuntu releases and historical wiki entries |
 
 ## Help topics
 
@@ -66,4 +66,4 @@
 |  | Browse this wiki by category Do you have questions that aren't answered here? Browse this wiki by category . |  |  | All pages in this wiki Still haven't found what you're looking for? Use the title index for this wiki. |  |  | Terminology Learn the most commonly-used terms in this wiki from our Glossary . |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 
-**IMPORTANT:** The upgrade for the latest LTS Versions from older versions (such as upgrading to 22.04 LTS from 20.04 LTS) will only be available when release.1 is released. It will take a few days, so please be patient. Thank you!
+**IMPORTANT:** The upgrade for the latest LTS versions from older versions will be available when the first point release is published. It can take a few days, so please be patient. Thank you!

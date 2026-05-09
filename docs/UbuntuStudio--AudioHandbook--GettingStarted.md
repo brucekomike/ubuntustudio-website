@@ -1,10 +1,5 @@
 # UbuntuStudio/AudioHandbook/GettingStarted - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
-| Contents Getting started Gear on a Budget How to find out if your old laptop can run Ubuntu System Requirements Running Ubuntu from media Installing Ubuntu Studio Connecting a Sound Card With JACK and Patchage |
-| --- |
 
 # Getting started
 
@@ -22,7 +17,7 @@ Linux does not run on every system. Fortunately, there are convenient web sites 
 
 **Linux on Laptops** [http://linux-laptop.net](http://linux-laptop.net) **Tuxmobile** [http://tuxmobil.org](http://tuxmobil.org)
 
-For the first draft of this book, I used a decade-old Dell Inspiron 1420 laptop running Ubuntu Studio version 14.04.05 LTS. It has a duo 1.5 GHz processor, 2 GB of RAM, and 145GB on the hard disk. Most used laptops have more horsepower than that, and you'll need it to run a more recent version of Ubuntu Studio. If you also have an ancient relic, all or most of what follows should work for you. Whatever hardware you end up with, check that it meets the requirements on the following page. In Windows 10, you can get the information via Settings/System/About.
+For the first draft of this book, I used a decade-old Dell Inspiron 1420 laptop. Most used laptops have more horsepower than that, and you'll need it to run a current version of Ubuntu Studio. If you also have an ancient relic, all or most of what follows should work for you. Whatever hardware you end up with, check that it meets the requirements on the following page. In Windows, you can get the information via Settings/System/About.
 
 ## System Requirements
 
@@ -63,7 +58,7 @@ After having a look at your new system from media, restart again with the DVD st
 
 Now you should take a moment and check out the non-musical software that comes with your new operating system, noting there is nothing mysterious about it. Ubuntu follows the standard concept of a launcher with icons that open assorted applications. A screenshot of the menu is on the next page. Start by opening Office. This book was written using Libre Office Writer. You'll notice it looks a bit like Word from a few years ago. Open a new document (File/New/Text Document). Enter some text in the white space and highlight it with the mouse. Guess what happens when you click the very large letter 'B' in the toolbar? I hope you can take it from there.
 
-Before we leave this section, familiarize yourself with the Ubuntu Software Center. There you can find a library of applications by category, with user ratings – almost anything you can imagine is available, and programs self-install at the click of a mouse. Have a look, play around with your new computer, and when you're ready, we'll do the finishing touch of setting up the sound card.
+Before we leave this section, familiarize yourself with your desktop's software manager. There you can find a library of applications by category, with user ratings – almost anything you can imagine is available, and programs self-install at the click of a mouse. Have a look, play around with your new computer, and when you're ready, we'll do the finishing touch of setting up the sound card.
 
 First, all of the hardware connections need to be made. Connect the MIDI controller and the outboard sound card to USB ports on the laptop. For now, you can connect headphones to the sound card, being sure to set the volume level relatively low and keeping them off your ears until we're sure the levels are reasonable. If you have speakers, connect them directly or via mixer now. Many sound cards and controllers are powered via USB, so the only thing you may need to plug in is the laptop. Note that your monitors should be off or volume set to zero when powering down the laptop. If you want to record an instrument, that usually goes into the front panel of the sound card. Be sure to consult the sound card's manual for appropriate settings. In general, “Pad” is for boosting the signal from a microphone. There might be an additional switch between “Line” and “Instrument”. The latter should work for electric guitar. Pots may need to be adjusted for different input sources.
 
@@ -79,13 +74,13 @@ Under Parameters, I chose Alsa, Realtime, and the default Sample Rate (44100) Fr
 
 Making connections in JACK is covered in the next chapter. For now, return to JACK's main panel and try the Connections and Patchbay buttons. A good workflow is to set up Connections, then go into Patchbay and store a given configuration that you might want to call up again when working on a particular style of music. There isn't much to do in either of these windows until we open other applications. IMPORTANT: one last preliminary step will help later - see this link: [http://manual.ardour.org/setting-up-your-system/setting-up-midi/midi-on-linux/](http://manual.ardour.org/setting-up-your-system/setting-up-midi/midi-on-linux/)
 
-**Ubuntu Studio Controls**
+**Ubuntu Studio Audio Configuration**
 
-In Ubuntu Studio 20.04, Ubuntu Studio Controls is a much improved interface for creating connections in Jack, even with non-Jack-compliant applications. Set the CPU Governor to "Performance" to assure your system is running low latency for audio. Full documentation: [https://help.ubuntu.com/community/UbuntuStudio/UbuntuStudioControls](UbuntuStudio--UbuntuStudioControls).
+In current Ubuntu Studio releases, Ubuntu Studio Audio Configuration is the main interface for configuring low-latency audio and JACK compatibility. Full documentation: [Ubuntu Studio Audio Configuration](UbuntuStudio--AudioConfiguration).
 
 **Patchage**
 
-**NOTE:** Patchage has been dropped from Ubuntu 20.04 due to the removal of Python2. Carla can be used for graphical patchbays such as Patchage.
+**NOTE:** Patchage is no longer part of the current Ubuntu Studio workflow. Carla can be used for graphical patchbays and routing.
 
 - Patchage allows you to drag items around the screen to better visualize their connections.
 

@@ -10,8 +10,6 @@ The Ubuntu Community Help Wiki can often seem like a daunting thing to start edi
 
 ## The basics
 
-| Contents The basics Advanced Features Page Editing Automatic Backup of Drafts |
-| --- |
 
 - Paragraphs should be separated by a blank line.
 - To make a list, use a white space at the beginning of a line, followed by either an asterisk (for bullet points), a number, letter etc.

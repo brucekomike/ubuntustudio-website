@@ -1,10 +1,5 @@
 # UbuntuStudio/AudioHandbook/AboutThisBook - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
-| Contents About this book Who this book is for Why use this book? How to use this book Acknowledgements |
-| --- |
 
 # About this book
 

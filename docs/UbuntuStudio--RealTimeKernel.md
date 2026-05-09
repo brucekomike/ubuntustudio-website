@@ -1,8 +1,5 @@
 # UbuntuStudio/RealTimeKernel - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
 # About RealTime Kernels
 
 Early on in Linux audio production, Real-Time kernels were the only way to get low- and no-latency audio for professional audio applications. However, since Linux 2.6, the real-time stack has been part of the Linux kernel, having a kernel patched with a real-time stack is no longer necessary.

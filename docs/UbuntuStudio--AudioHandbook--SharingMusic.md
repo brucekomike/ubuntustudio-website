@@ -1,10 +1,5 @@
 # UbuntuStudio/AudioHandbook/SharingMusic - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
-| Contents Sharing Your Music Creative Commons Copyright Registration Royalty Collection Agencies Making a CD Sheet Music With MuseScore |
-| --- |
 
 # Sharing Your Music
 

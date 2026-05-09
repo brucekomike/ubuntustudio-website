@@ -1,12 +1,7 @@
 # UbuntuStudio/Resources - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
 # Ubuntu Studio Resources
 
-| Contents Ubuntu Studio Resources Audio FLOSS Audio User Sites Software Manuals Mail Lists VIDEO AND GRAPHICS Software Manuals Tutorials |
-| --- |
 
 Links to informative pages that are somehow related to Ubuntu Studio.
 

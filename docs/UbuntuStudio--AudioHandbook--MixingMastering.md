@@ -1,8 +1,5 @@
 # UbuntuStudio/AudioHandbook/MixingMastering - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
 # Mixing and Mastering
 
 You've already been mixing - adding effects to tracks, adjusting faders with relation to one another, and so forth. Mastering is the final touch that helps make all tracks on a CD sound uniformly clean and balanced. Mastering includes frequency analysis to boost some parts of the spectrum that may be getting swamped, and notch out frequency spikes. It's an art unto itself. In fact, top musicians with years of studio experience tend to leave mastering to professionals. It can't hurt to at least understand what mastering is and how it differs from mixing, though. For the purposes of most people reading this book, an excellent mix may not require much mastering work, if any.

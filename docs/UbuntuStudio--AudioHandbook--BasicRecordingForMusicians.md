@@ -1,10 +1,5 @@
 # UbuntuStudio/AudioHandbook/BasicRecordingForMusicians - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
-| Contents Basic Recording For Musicians Audacity Ardour Other DAWs for Linux |
-| --- |
 
 # Basic Recording For Musicians
 

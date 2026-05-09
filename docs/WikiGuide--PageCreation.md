@@ -8,8 +8,6 @@
 
 # Introduction
 
-| Contents Introduction Search and Integrate. Don't Duplicate. Search Integrate New Pages Choose a Name Create the Page By visiting the page Add a link on another page By using the NewPage macro By using the GoTo macro Advanced |
-| --- |
 
 This section deals with how to create pages on the Ubuntu wiki.
 

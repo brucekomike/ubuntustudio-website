@@ -1,7 +1,5 @@
 # UbuntuStudio/ProAudioIntro/1204 - Community Help Wiki
 
-| Contents Audio User Guide for Ubuntu Studio Pulseaudio - The Desktop Sound System What is pulseaudio? Supported Devices Alsa provides driver support Firewire will only work with special configuration No Volume? Pci mixers More Information Jack - The Pro Audio Sound System Why use Jack? Starting Jack Firewire Troubleshooting USB troubleshooting Reducing Xruns |
-| --- |
 
 # Audio User Guide for Ubuntu Studio
 

@@ -1,8 +1,5 @@
 # UbuntuStudio/AudioHandbook - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
 # Ubuntu Studio Audio Handbook
 
 **by Peter Reppert**
@@ -11,7 +8,7 @@
 
 ## Preface
 
-Peter Reppert was kind enough to donate his time and work on an audio handbook targeting musicians for Ubuntu Studio. After contacting the team, he decided to open the book to being a living document on this wiki with constant updates. Currently, the handbook includes some updates for version **20.04 LTS** (long term support).
+Peter Reppert was kind enough to donate his time and work on an audio handbook targeting musicians for Ubuntu Studio. After contacting the team, he decided to open the book to being a living document on this wiki with constant updates. This copy is kept for historical reference; current Ubuntu Studio behavior is documented on ubuntustudio.org.
 
 The Ubuntu Studio team would like to thank Peter for his selfless contribution to Ubuntu Studio and for providing a guide for newcomers and experts alike.
 

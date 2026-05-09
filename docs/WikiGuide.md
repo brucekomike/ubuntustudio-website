@@ -8,8 +8,6 @@
 
 # Introduction
 
-| Contents Introduction Contributing Basics Wiki Markup Further Guidance Getting Involved Advanced Reference External Links Discussion |
-| --- |
 
 This page contains guidelines and help on how to contribute to the documentation in this wiki.
 

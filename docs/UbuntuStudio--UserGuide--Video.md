@@ -1,8 +1,5 @@
 # UbuntuStudio/UserGuide/Video - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
 # Intro to software, codecs, file formats, supported devices
 
 add text here
@@ -19,5 +16,3 @@ add text here
 # Troubleshooting
 
 - → [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting)
-<hr />
-[CategoryUbuntuStudio](CategoryUbuntuStudio)

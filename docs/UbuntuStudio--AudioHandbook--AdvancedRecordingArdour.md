@@ -1,10 +1,5 @@
 # UbuntuStudio/AudioHandbook/AdvancedRecordingArdour - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
-| Contents Advanced Recording in Ardour Punch-ins Looping MIDI Tracks Fade-in and Fade-out Automation Grouping Tracks Creating a Bus and Inserting Effects Additional Advanced Topics Carla Alternatives LinVST and Airwave |
-| --- |
 
 # Advanced Recording in Ardour
 

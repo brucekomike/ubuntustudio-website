@@ -1,24 +1,18 @@
 # UbuntuStudio/Search - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
+# Ubuntu Studio Subpages
 
-# Search By Category
+This page lists a few Ubuntu Studio pages that were mirrored from the old community wiki.
 
-[CategoryUbuntuStudio](CategoryUbuntuStudio):
+1. [Home](index)
+2. [UbuntuStudio/Search](UbuntuStudio--Search)
+3. [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting)
+4. [UbuntuStudio/UbuntuStudioControls](UbuntuStudio--UbuntuStudioControls)
+5. [UbuntuStudio/UserGuide/Graphics/draftpage](UbuntuStudio--UserGuide--Graphics--draftpage)
+6. [UbuntuStudio/UserGuide/Video](UbuntuStudio--UserGuide--Video)
 
-1. [**CategoryUbuntuStudio**](CategoryUbuntuStudio)
-2. [UbuntuStudio](UbuntuStudio)
-3. [UbuntuStudio/Search](UbuntuStudio--Search)
-4. [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting)
-5. [UbuntuStudio/UbuntuStudioControls](UbuntuStudio--UbuntuStudioControls)
-6. [UbuntuStudio/UserGuide/Graphics/draftpage](UbuntuStudio--UserGuide--Graphics--draftpage)
-7. [UbuntuStudio/UserGuide/Video](UbuntuStudio--UserGuide--Video)
-
-# All Ubuntu Studio supbpages for help.ubuntu.com/community/UbuntuStudio
+# Mirrored Ubuntu Studio subpages
 
 # Archived Pages
 
 [http://help.ubuntu.com/community/Deprecated%20Ubuntu%20Studio%20Pages](http://help.ubuntu.com/community/Deprecated%20Ubuntu%20Studio%20Pages) - List of pages whose information is superseded but retained for archival purposes
-<hr />
-[CategoryUbuntuStudio](CategoryUbuntuStudio)

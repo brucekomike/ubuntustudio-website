@@ -1,41 +1,33 @@
 # UbuntuStudio/FAQ - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
 Frequently asked questions about Ubuntu Studio.
 
 # General
 
 - **What is Ubuntu Studio?**
-  - Learn more about Ubuntu Studio at the [What Is Ubuntu Studio](https://help.ubuntu.com/community/What%20Is%20Ubuntu%20Studio) page.
+  - Ubuntu Studio is an official Ubuntu flavor built for creators, with KDE Plasma, PipeWire audio, and a low-latency workflow.
 - **What is the Jack Audio Connection Kit?**
-  - Also known as JACK for short, you can learn more at the [What is JACK](https://help.ubuntu.com/community/What%20is%20JACK) page.
+  - Also known as JACK for short, it is the low-latency audio graph used by pro-audio applications. Current Ubuntu Studio releases use PipeWire for desktop audio with JACK compatibility.
 - **What is the difference between Ubuntu Studio and Ubuntu?**
   - Learn about some of the differences between Ubuntu and Ubuntu Studio at the [Ubuntu Studio vs. Ubuntu page](https://help.ubuntu.com/community/What Is Ubuntu Studio#Ubuntu Studio vs. Ubuntu).
 - **What is a low latency kernel?**
-  - See the [low latency kernels](UbuntuStudio--RealTimeKernel) page for information about the various low latency kernels available in Ubuntu Studio.
+  - See the [low latency kernels](UbuntuStudio--RealTimeKernel) page for information about the current low-latency boot parameters and kernel behavior used in Ubuntu Studio.
 - **When is the next version coming out?**
-  - Ubuntu Studio follows the same [release cycle](https://wiki.ubuntu.com/Releases) as Ubuntu.
+  - Ubuntu Studio follows the same release cycle as Ubuntu, with current supported releases listed on the Ubuntu Studio support page.
 
 # Installation
 
 - **How do I install Ubuntu Studio?**
-  - Follow the [Installation Guide.](https://help.ubuntu.com/community/Ubuntu%20Studio%20Installation)
+  - Follow the current installation instructions on ubuntustudio.org.
 - **Can I install Ubuntu Studio onto an existing Ubuntu installation?**
-  - Yes, follow [this guide](https://help.ubuntu.com/community/Ubuntu%20Studio%20Upgrade%20from%20Ubuntu).
+  - Yes, use Ubuntu Studio Installer on a supported Ubuntu flavor.
 
 # Applications
 
 - **What applications are included in Ubuntu Studio?**
-  - A list of applications included in Ubuntu Studio can be found here: [Package List](https://wiki.ubuntu.com/UbuntuStudio/PackageList)
+  - The current Ubuntu Studio website lists the creative applications included with each release.
 - **Why is application xyz included and abc is not included in Ubuntu Studio?**
-  - To find reasons for inclusion or exclusion for a specific application, please see the [Application Selection](https://help.ubuntu.com/community/UbuntuStudio/ApplicationSelection) page.
-  - However, applications may be excluded be for many reasons, including: If it is either of the first two, feel free to help out by packaging the application and maintaining it. [Find out how](https://wiki.ubuntu.com/MOTU/Packages/New/HowTo). If none of the above seem to apply, feel free to add it to the list at [UbuntuStudio/Wishlist](https://wiki.ubuntu.com/UbuntuStudio/Wishlist)
-    - There currently does not exist a Debian/Ubuntu package for that application.
-    - There is no maintainer for the package.
-    - There are license issues restricting the application from being included.
-    - The application isn't stable or mature enough for inclusion.
+  - Selection is based on usefulness for creative workflows, maintenance status, licensing, and fit with the current desktop and audio stack.
 
 # How Can I Help?
 
@@ -52,9 +44,4 @@ Frequently asked questions about Ubuntu Studio.
 # Removal
 
 - **How can I safely remove Ubuntu Studio and return to "vanilla" Ubuntu?**
-  - Ubuntu studio is a series of packages and can be removed from the command line using apt-get using three lines of code:
-  - 1) sudo apt-get install ubuntu-desktop
-  - 2) sudo apt-get purge ubuntustudio-desktop
-    - *in Ubuntu 10.10 (Maverick Meerkat), you may also need to run:* sudo apt-get purge ubuntustudio-default-settings plymouth-theme-ubuntustudio
-  - 3) sudo apt-get --purge autoremove
-  - This will replace the Ubuntu Studio desktop with the "vanilla" Ubuntu desktop, and then remove the Ubuntu Studio desktop packages.
+  - Remove the Ubuntu Studio desktop packages with apt, then install the desktop flavor you want to keep.

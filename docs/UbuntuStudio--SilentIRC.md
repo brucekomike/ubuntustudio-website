@@ -1,8 +1,5 @@
 # UbuntuStudio/SilentIRC - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
 # No Answer in the IRC Chatroom!
 
 If you're here, chances are you have been to our IRC channel asking for help and received no answer. Since the Ubuntu Studio team is a fairly small group of volunteers with varying schedules around the world, this can happen.

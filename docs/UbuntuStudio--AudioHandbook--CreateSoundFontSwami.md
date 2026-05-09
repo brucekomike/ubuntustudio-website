@@ -1,8 +1,5 @@
 # UbuntuStudio/AudioHandbook/CreateSoundFontSwami - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
 # Creating Your Own SoundFont with Swami
 
 **Swami** is available in the Ubuntu Software Center. But first, you will need some samples to import. Hook up a mic to your soundcard, and record individual notes, percussion hits, or sound effects using Ardour and save in wav format. If you are recording individual notes on an instrument, be sure to include the corresponding keyboard note value in the file name for ease in mapping later. Of course, it's not necessary to make new samples - for the purposes of learning to use Swami, any short wav file will do. In the example below, I used sound effects from freesound.org.

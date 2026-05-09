@@ -1,10 +1,5 @@
 # UbuntuStudio/AudioHandbook/Appendix - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
-| Contents Appendix Troubleshooting Using the command line Additional Resources Pianos Review of HG Fortune Snythesizers Alienoctis Alphatron Altair Anvilla Pro Arracis Gold Alien Space Weaver (ASW) Atonoise Avatar Laserblade (Z) Percumat Protoplasm Shuniji Silver Orbit STS-26 Protoplasm Swamp XWOF-4 (Z) Plutonia Conclusion |
-| --- |
 
 # Appendix
 

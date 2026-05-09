@@ -1,10 +1,5 @@
 # UbuntuStudio/AudioHandbook/SoundSynthesis101 - Community Help Wiki
 
-| Home | Ubuntu Studio Controls | Audio Handbook | FAQ | Other Resources and Links |
-| --- | --- | --- | --- | --- |
-
-| Contents Sound Synthesis 101 Ten things to try on any synthesizer Approaches to Sound Synthesis Patch Tutorials - Funk Bass Arpeggiator Crafting Noise Siren |
-| --- |
 
 ## Sound Synthesis 101
 

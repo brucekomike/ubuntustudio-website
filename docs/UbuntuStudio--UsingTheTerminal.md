@@ -1,7 +1,5 @@
 # UbuntuStudio/UsingTheTerminal - Community Help Wiki
 
-| Contents Using The Terminal - Basic Guide Starting an application, and using the Tab key Installing applications More basic commands, and starting scripts Up and Down Arrow Keys Download a script Change to another directory and start the script How to find help about different commands More Information |
-| --- |
 
 # Using The Terminal - Basic Guide
 
