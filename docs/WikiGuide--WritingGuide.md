@@ -53,4 +53,4 @@ The pages in this wiki should be as easy to understand as possible and follow. W
 
 ---
 
-Go back to [WikiGuide](../WikiGuide)
+Go back to [WikiGuide](WikiGuide)

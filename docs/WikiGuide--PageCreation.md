@@ -72,4 +72,4 @@ For more information on linking to other pages, see [HelpOnLinking](https://help
 
 1. Enter the page name in the text box and click "Go To Page"
 2. Click "Create new page"
-3. Edit your page and save it Advanced To learn about creating and using template pages see [HelpOnTemplates](https://help.ubuntu.com/community/HelpOnTemplates). To learn more how to set variables see [HelpOnVariables](https://help.ubuntu.com/community/HelpOnVariables) Go back to [WikiGuide](../WikiGuide)
+3. Edit your page and save it Advanced To learn about creating and using template pages see [HelpOnTemplates](https://help.ubuntu.com/community/HelpOnTemplates). To learn more how to set variables see [HelpOnVariables](https://help.ubuntu.com/community/HelpOnVariables) Go back to [WikiGuide](WikiGuide)
