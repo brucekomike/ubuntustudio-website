@@ -25,4 +25,4 @@ Good communication with other wiki contributors is essential to writing great re
 
 - Subscribe to the pages you have contributed to. To do this, click on the Subscribe link of the page you wish to subscribe to.
 <hr />
-Back to [WikiGuide](WikiGuide.md)
+Back to [WikiGuide](WikiGuide)

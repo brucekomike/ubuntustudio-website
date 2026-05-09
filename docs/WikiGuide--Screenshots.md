@@ -20,4 +20,4 @@ To upload an image:
 
 For greater details on uploading and managing screenshots using the wiki software, see [HelpOnActions/AttachFile](https://help.ubuntu.com/community/HelpOnActions/AttachFile).
 <hr />
-Go back to [WikiGuide](WikiGuide.md)
+Go back to [WikiGuide](WikiGuide)

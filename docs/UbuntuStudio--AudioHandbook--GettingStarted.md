@@ -81,7 +81,7 @@ Making connections in JACK is covered in the next chapter. For now, return to JA
 
 **Ubuntu Studio Controls**
 
-In Ubuntu Studio 20.04, Ubuntu Studio Controls is a much improved interface for creating connections in Jack, even with non-Jack-compliant applications. Set the CPU Governor to "Performance" to assure your system is running low latency for audio. Full documentation: [https://help.ubuntu.com/community/UbuntuStudio/UbuntuStudioControls](UbuntuStudio--UbuntuStudioControls.md).
+In Ubuntu Studio 20.04, Ubuntu Studio Controls is a much improved interface for creating connections in Jack, even with non-Jack-compliant applications. Set the CPU Governor to "Performance" to assure your system is running low latency for audio. Full documentation: [https://help.ubuntu.com/community/UbuntuStudio/UbuntuStudioControls](UbuntuStudio--UbuntuStudioControls).
 
 **Patchage**
 

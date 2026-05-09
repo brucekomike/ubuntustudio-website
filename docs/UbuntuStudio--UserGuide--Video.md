@@ -18,6 +18,6 @@ add text here
 <hr />
 # Troubleshooting
 
-- → [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting.md)
+- → [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting)
 <hr />
-[CategoryUbuntuStudio](CategoryUbuntuStudio.md)
+[CategoryUbuntuStudio](CategoryUbuntuStudio)

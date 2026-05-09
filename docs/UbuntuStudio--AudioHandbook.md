@@ -19,25 +19,25 @@ Please bear in mind that much of this handbook was written in the first-person p
 
 # Table of Contents
 
-1. [About this book](UbuntuStudio--AudioHandbook--AboutThisBook.md)
+1. [About this book](UbuntuStudio--AudioHandbook--AboutThisBook)
   - Who this book is for Why use this book? How to use this book – know what's possible Companion matter, if any - web site, disk, etc. Acknowledgements
-2. [Getting started](UbuntuStudio--AudioHandbook--GettingStarted.md)
+2. [Getting started](UbuntuStudio--AudioHandbook--GettingStarted)
   - Gear on a budget How to find out if your old laptop can run Ubuntu System Requirements Running Ubuntu from media Installing Ubuntu Studio Configuring and testing your soundcard Connecting with JACK and Patchage
-3. [Overview of out-of-the-box instruments and effects](UbuntuStudio--AudioHandbook--OverviewInstrumentsEffects.md)
+3. [Overview of out-of-the-box instruments and effects](UbuntuStudio--AudioHandbook--OverviewInstrumentsEffects)
   - Sound Generators Hexter Aeolus Synthv1 Qsynth, drumkv1, samplev1 Amsynth Hydrogen Audio Processors Guitarix Rakarrak Make your guitar a MIDI controller Tools and Utilities Major file types Tools for DJs Internet DJ Console SuperLooper TerminatorX
-4. [Basic Recording for Musicians](UbuntuStudio--AudioHandbook--BasicRecordingForMusicians.md)
+4. [Basic Recording for Musicians](UbuntuStudio--AudioHandbook--BasicRecordingForMusicians)
   - Audacity Ardour
-5. [Using VST Plugins](UbuntuStudio--AudioHandbook--UsingVSTPlugins.md)
+5. [Using VST Plugins](UbuntuStudio--AudioHandbook--UsingVSTPlugins)
   - Install Wine Install and run Carla Configuring and using Carla
-6. [Advanced Recording in Ardour](UbuntuStudio--AudioHandbook--AdvancedRecordingArdour.md)
+6. [Advanced Recording in Ardour](UbuntuStudio--AudioHandbook--AdvancedRecordingArdour)
   - Punch-ins Looping MIDI tracks Fade-in Fade-out Automation Grouping tracks Creating a bus and inserting effects Additional advanced topics LinVST
-7. [Mixing and Mastering](UbuntuStudio--AudioHandbook--MixingMastering.md)
-8. [Creating Your Own SoundFont with Swami](UbuntuStudio--AudioHandbook--CreateSoundFontSwami.md)
-9. [Sharing Your Music](UbuntuStudio--AudioHandbook--SharingMusic.md)
+7. [Mixing and Mastering](UbuntuStudio--AudioHandbook--MixingMastering)
+8. [Creating Your Own SoundFont with Swami](UbuntuStudio--AudioHandbook--CreateSoundFontSwami)
+9. [Sharing Your Music](UbuntuStudio--AudioHandbook--SharingMusic)
   - Creative Commons Copyright registration Royalty collection agencies Making a CD Sheet music with MuseScore
-10. [Sound Synthesis 101](UbuntuStudio--AudioHandbook--SoundSynthesis101.md)
+10. [Sound Synthesis 101](UbuntuStudio--AudioHandbook--SoundSynthesis101)
   - Knob acronyms Ten Things To Try On Any Synthesizer Approaches to sound synthesis Patch tutorials Funk Bass Arpeggiator Crafting Noise Siren
 
-[Appendix](UbuntuStudio--AudioHandbook--Appendix.md)
+[Appendix](UbuntuStudio--AudioHandbook--Appendix)
 
 - Troubleshooting Using the command line Links and resources

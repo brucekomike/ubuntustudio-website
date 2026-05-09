@@ -5,7 +5,7 @@
 
 # Introduction To Computer Aided Graphics
 
-In computing, **Graphics** is a broad term used to invoke many things related to the visual feedback of a computer. In this guide we will use the term **Graphics** to describe CAD [(Computer Aided Design)](https://en.wikipedia.org/wiki/Computer-aided_design) and Photography. One could argue that video would fit into this guide. But given the complex nature of Computer Aided Video, it has it's own workflow explained in detail [here.](UbuntuStudio--UserGuide--Video.md)
+In computing, **Graphics** is a broad term used to invoke many things related to the visual feedback of a computer. In this guide we will use the term **Graphics** to describe CAD [(Computer Aided Design)](https://en.wikipedia.org/wiki/Computer-aided_design) and Photography. One could argue that video would fit into this guide. But given the complex nature of Computer Aided Video, it has it's own workflow explained in detail [here.](UbuntuStudio--UserGuide--Video)
 
 ## The Realms Of Graphic Design
 
@@ -50,6 +50,6 @@ An external links section can be used to point users towards general information
 <hr />
 # Troubleshooting
 
-- → [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting.md)
+- → [UbuntuStudio/TroubleShooting](UbuntuStudio--TroubleShooting)
 <hr />
-[CategoryUbuntuStudio](CategoryUbuntuStudio.md)
+[CategoryUbuntuStudio](CategoryUbuntuStudio)

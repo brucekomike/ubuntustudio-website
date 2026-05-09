@@ -107,4 +107,4 @@ To recover that draft, you simply edit that page again. If there is a draft, an 
 
 If you successfully save a page, the internal draft copy of it is not needed any more and will be deleted.
 <hr />
-Go back to [WikiGuide](WikiGuide.md)
+Go back to [WikiGuide](WikiGuide)

@@ -51,4 +51,4 @@ The pages in this wiki should be as easy to understand as possible and follow. W
 
 - [Documentation Style Guide](https://wiki.ubuntu.com/DocumentationTeam/StyleGuide) - The Documentation Team style guide.
 <hr />
-Go back to [WikiGuide](WikiGuide.md)
+Go back to [WikiGuide](WikiGuide)

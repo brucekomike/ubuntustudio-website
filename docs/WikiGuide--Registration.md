@@ -35,4 +35,4 @@ To edit this wiki, you need a [Launchpad](https://launchpad.net/) account.
 
 Please note that creating a Launchpad account will create a [Ubuntu One](https://login.ubuntu.com/) account.
 <hr />
-Go back to [WikiGuide](WikiGuide.md)
+Go back to [WikiGuide](WikiGuide)

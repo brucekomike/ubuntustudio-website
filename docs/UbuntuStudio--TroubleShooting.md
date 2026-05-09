@@ -34,4 +34,4 @@ If you can start jack, but there's no sound, there are two likely reasons for th
 
 - [Troubleshooting in the Command Line: Tips for Linux Beginners](https://www.linux.com/learn/tutorials/752708-linux-commands-for-troubleshooting-linux-graphical-apps-for-beginners)
 <hr />
-[CategoryUbuntuStudio](CategoryUbuntuStudio.md)
+[CategoryUbuntuStudio](CategoryUbuntuStudio)
