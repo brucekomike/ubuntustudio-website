@@ -57,7 +57,7 @@ Emerald Theme for [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
 
 [http://www.gnome-look.org/content/show.php/UbuntuStudio+Emerald?content=59198](http://www.gnome-look.org/content/show.php/UbuntuStudio+Emerald?content=59198)
 
----
+***
 
 Elementary Studio for [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
 
@@ -113,7 +113,7 @@ Dirty [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) by Peter
 
 [2560x1600](../../../_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/UserContributed/Dirty_UbuntuStudio_2560x1600.png) (Original Dirty Ubuntu by mtax) Licens GPL
 
----
+***
 
 By Olis
 
@@ -153,7 +153,7 @@ Taken from [http://alleluja64.deviantart.com/art/Grunge-studio-129700119](http:/
 
 ![http://img363.imageshack.us/img363/6477/ubuntustudiocliche12560ul9.th.png](http://img363.imageshack.us/img363/6477/ubuntustudiocliche12560ul9.th.png) [2560x1600](http://img363.imageshack.us/img363/6477/ubuntustudiocliche12560ul9.png) Cliche by Juan Montoya
 
----
+***
 
 Ubuntu Studio Carbon by: CKontros
 
@@ -161,7 +161,7 @@ Ubuntu Studio Carbon by: CKontros
 
 [2560x1600](../../../_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/UserContributed/ubuntustudio_carbon.png)
 
----
+***
 
 ![UbuntuStudioDSthumb.jpg](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/UserContributed/UbuntuStudioDSthumb.jpg)
 
@@ -169,7 +169,7 @@ Ubuntu Studio Carbon by: CKontros
 
 (a .blend file of this wallpaper for the community is strongly welcome!)
 
----
+***
 
 ![http://wecanfly.eu/studio_small.jpg](http://wecanfly.eu/studio_small.jpg)
 
@@ -177,7 +177,7 @@ Ubuntu Studio Carbon by: CKontros
 
 Made by Loombago
 
----
+***
 
 ![http://www.gnome-look.org/CONTENT/content-pre1/56620-1.jpg](http://www.gnome-look.org/CONTENT/content-pre1/56620-1.jpg)
 
@@ -191,17 +191,17 @@ This is a great wallpaper to go with the suggested gnome-splash on this page, it
 
 Made by qinjuehang
 
----
+***
 
 ![http://img225.imageshack.us/img225/5649/hardyij3.jpg](http://img225.imageshack.us/img225/5649/hardyij3.jpg) Higher resolutions will be made available if requested, so will .blend file and Yafray XML file (has been edited by hand). Made with the "DIY" look in mind.
 
 - Please contact coryisatm[AT]ubuntu.com about getting higher res versions of this. I could see a feel like this for Ubuntu Studio 8.10.
 
----
+***
 
 [http://www.gnome-look.org/content/show.php/Ubuntu+Studio+Watermark?content=100792](http://www.gnome-look.org/content/show.php/Ubuntu+Studio+Watermark?content=100792) I like the old logo better. I hope you won't totally remove the old, pre-hardy look. I'm not too keen on the "DIY" style.
 
----
+***
 
 By vdtoorn
 
@@ -285,7 +285,7 @@ xcf and png files available at [http://spreadubuntu.neomenlo.org/en/material/unu
 
 [Avaliable on Box-Look](http://box-look.org/content/show.php/ubuntustudio?content=59671)
 
----
+***
 
 [CategoryUbuntuStudioArtwork](https://wiki.ubuntu.com/CategoryUbuntuStudioArtwork) [CategoryUbuntuStudio](https://wiki.ubuntu.com/CategoryUbuntuStudio)
 

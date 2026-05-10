@@ -197,11 +197,11 @@ Ubuntu Studio Quantal Roadmap at [launchpad](http://blueprints.launchpad.net/ubu
 
 Progress Status at [status.ubuntu.com](http://status.ubuntu.com/ubuntu-quantal/group/topic-quantal-flavor-ubuntustudio.html)
 
----
+***
 
 [Blueprints Template for Development Release](https://wiki.ubuntu.com/UbuntuStudio/Blueprints/DevelopmentReleaseTemplate)
 
----
+***
 
 [CategoryUbuntuStudio](https://wiki.ubuntu.com/CategoryUbuntuStudio) [CategoryUbuntuStudioPlanning](https://wiki.ubuntu.com/CategoryUbuntuStudioPlanning)
 

@@ -79,9 +79,9 @@ April 2018
 
 Project Lead
 
----
+***
 
----
+***
 
 [CategoryUbuntuStudio](https://wiki.ubuntu.com/CategoryUbuntuStudio) [CategoryUbuntuStudioTeams](https://wiki.ubuntu.com/CategoryUbuntuStudioTeams)
 

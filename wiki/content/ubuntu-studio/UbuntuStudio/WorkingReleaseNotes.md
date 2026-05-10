@@ -99,7 +99,7 @@ Hopefully you find this release to be our best yet, and we encourage any feedbac
 
 We hope you enjoy it!
 
----
+***
 
 ## Ubuntu Studio Maverick Meerkat 10.10
 
@@ -186,7 +186,7 @@ Hopefully you find this release to be our best yet, and we encourage any feedbac
 
 We hope you enjoy it!
 
----
+***
 
 ## Ubuntu Studio Lucid Lynx 10.04
 

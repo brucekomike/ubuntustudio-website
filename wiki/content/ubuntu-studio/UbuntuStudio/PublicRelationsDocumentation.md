@@ -32,7 +32,7 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation
 
 ** -- [PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/PRSideBar?action=edit))** **Team Pages** - [Public Relations Team Page](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage) **[Public Relations Documentation](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation)**
 
----
+***
 
 [CategoryCleanup](https://wiki.ubuntu.com/CategoryCleanup) [CategoryCleanup](https://wiki.ubuntu.com/CategoryCleanup)
 
@@ -377,7 +377,7 @@ gpg --decrypt <filename.gpg>
 
 [UbuntuStudio/PublicRelationsDocumentationArchive](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive)
 
----
+***
 
 [CategoryUbuntuStudioPublicRelations](https://wiki.ubuntu.com/CategoryUbuntuStudioPublicRelations)
 

@@ -16,7 +16,7 @@ A scratch page for Ubuntu Studio-Intrepid artwork ideas.
 
 * Buttons could be glossy with scratches, and a Disabled button would have a cracked glass effect on it.
 
----
+***
 
 This looks good, but too much trashy, i think the idea behind the DIY Artwork is 'Alternative', not 'Gore' ![Wink ;)](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_wink.png/icon_wink.png) We should, also, try to respect the Ubuntustudio palette.
 
@@ -24,7 +24,7 @@ However, we have to decide now the priority for this new grungy UI : should we g
 
 I personally can help, as this inspires me and I have already done a few submissions (bottom of these pages : [UbuntuStudio/Artwork/DIYConcept/Theme](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Theme) [UbuntuStudio/Artwork/DIYConcept/Wallpaper](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Wallpaper) -nilux
 
----
+***
 
 Personally, I think the theme you made is great, except
 
@@ -36,7 +36,7 @@ Such a huge change means people will like it or hate it. And then comes the usab
 
 *--qinjuehang*
 
----
+***
 
 The buttons...well, look sorta incomplete. It not just need to have subtle stripes, but a weathered, and maybe dusty look. Scratches need to be more obvious. Also, I wonder if its possible to make the texture tile instead of scale up when button size increases. And...it seemed to be very similar to one of the skins I used to use :). I think someone ported it to GTK for you?
 
@@ -72,7 +72,7 @@ I redid the logo yet again. [Here](http://img371.imageshack.us/my.php?image=ubun
 
 And again. I think I overdid the effect previously. [Here](http://img382.imageshack.us/my.php?image=ubuntustudiohardytn9.png)
 
----
+***
 
 Well I got a new rig that possibly fits into what Toma meant by high end...(9600gt anyone?)
 

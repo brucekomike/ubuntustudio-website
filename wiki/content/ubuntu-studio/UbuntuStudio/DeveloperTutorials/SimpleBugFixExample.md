@@ -109,7 +109,7 @@ Above it we see the commit id:
 
 We see a diff, that looks like this:
 
----
+***
 
 ```
 Author: Mattia Rizzolo <mattia@mapreri.org>
@@ -165,7 +165,7 @@ index 527b78f..5389e5a 100644
 +usr/share/mimelnk/application/vnd.scribus.desktop usr/share/applications
 ```
 
----
+***
 
 ### Analyzing the commit with the fix
 
@@ -239,7 +239,7 @@ Follow the [Debian Patch Tagging Guidelines](http://dep.debian.net/deps/dep3/) o
 
 So, the end result might look something like this:
 
----
+***
 
 ```
 ## Description: Fixes missing desktop file
@@ -263,7 +263,7 @@ So, the end result might look something like this:
 +usr/share/mimelnk/application/vnd.scribus.desktop usr/share/applications
 ```
 
----
+***
 
 That's it. Next, we commit, test build, and upload our package with the fix.
 

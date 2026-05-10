@@ -4,7 +4,7 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Navigation/Menu
 
 ## [Menu](https://wiki.ubuntu.com/UbuntuStudio/Navigation/Menu)
 
----
+***
 
 | Home | Testing | Documentation | PR & Support | Artwork | Developer/Contributor | Planning |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -23,6 +23,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Navigation/Menu
 
 **[Planning](https://wiki.ubuntu.com/UbuntuStudio/Planning)**
 
----
+***
 
 UbuntuStudio/Navigation/Menu (last edited 2015-08-23 11:09:28 by h-141-65)
