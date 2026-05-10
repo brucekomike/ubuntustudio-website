@@ -1,0 +1,30 @@
+# UtopicUnicorn/ReleaseNotes/UbuntuStudio - Ubuntu Wiki
+
+Source: https://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes/UbuntuStudio
+
+## [UbuntuStudio](https://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes/UbuntuStudio)
+
+# Ubuntu Studio 14.10 Utopic Unnicorn Release Notes
+
+Ubuntu Studio shares a lot with flavors Ubuntu and Xubuntu, so, please do read the release notes for those as well:
+
+- [http://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes](http://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes)
+- [http://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes/Xubuntu](http://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes/Xubuntu)
+
+[http://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes](http://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes)
+
+[http://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes/Xubuntu](http://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes/Xubuntu)
+
+## Notable Changes Since Last Release
+
+Since version 3.16 of the linux kernel, there is now ALSA support for firewire devices. Read more at [https://ieee1394.wiki.kernel.org/index.php/Release_Notes#Linux_3.16](https://ieee1394.wiki.kernel.org/index.php/Release_Notes#Linux_3.16). Linux-lowlatency 3.16 will also be backported to Ubuntu 14.04.
+
+Many packages have been updated, such as qtractor, jackd2, blender, lmms and many others.
+
+Beginning with the release of 14.10 Utopic Unicorn the Ubuntu Studio team will recommend users to install the latest LTS version of Ubuntu Studio rather than the latest release. Mostly due to the fact that 14.10 will only be supported for 9 months.
+
+## Download
+
+ISOs are available at [http://cdimage.ubuntu.com/ubuntustudio/releases/utopic/release/](http://cdimage.ubuntu.com/ubuntustudio/releases/utopic/release/)
+
+UtopicUnicorn/ReleaseNotes/UbuntuStudio (last edited 2014-10-23 20:41:08 by h-141-65)

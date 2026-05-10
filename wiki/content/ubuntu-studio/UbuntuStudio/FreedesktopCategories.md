@@ -1,0 +1,348 @@
+# UbuntuStudio/FreedesktopCategories - Ubuntu Wiki
+
+Source: https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories
+
+## [FreedesktopCategories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories)
+
+[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+
+[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+
+[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+
+| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
+| --- | --- | --- | --- | --- | --- | --- |
+
+**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+
+**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+
+**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+
+**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+
+**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+
+**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+
+**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+
+| -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
+| --- |
+
+**-- [Developer](https://wiki.ubuntu.com/UbuntuStudio/Development) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/DevSideBar?action=edit&editor=text))** **Team Pages** - [Bugs Team](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeamPage) - [Contributor Team](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeamPage) - [Core Team](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage) - [Dev Team](https://wiki.ubuntu.com/UbuntuStudio/DevTeamPage) - [Kernel Team](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamPage) - [Release Team](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeamPage) - [Testing Team](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage) **[Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy)** - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) **[UbuntuStudio/Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging)** [Needs Packaging](https://wiki.ubuntu.com/UbuntuStudio/NeedsPackaging) **[Developer Documentation](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)** - [Setup Dev Environment](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment) - [Bzr Cheat Sheet](https://wiki.ubuntu.com/UbuntuStudio/Bzr) - [Bug Management](https://wiki.ubuntu.com/UbuntuStudio/BugManagement) - [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging) -- [Ubuntu Studio Package Maintenance](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackageMaintenance) -- [Uploading Packages (to the archive)](https://wiki.ubuntu.com/UbuntuStudio/Packaging/UploadingPackages) - [Backports](https://wiki.ubuntu.com/UbuntuStudio/Backports) - [Stable Release Updates (SRU)](https://wiki.ubuntu.com/UbuntuStudio/StableReleaseUpdates) - [Seed Management](https://wiki.ubuntu.com/UbuntuStudio/Seeds) - [Uploading to PPA](https://wiki.ubuntu.com/UbuntuStudio/UploadingToPPA) - [Applying Patches](https://wiki.ubuntu.com/UbuntuStudio/PatchingSourcePackages) - [Deb Diff](https://wiki.ubuntu.com/UbuntuStudio/DebDiff) - [Setup Local ISO Build Server](https://wiki.ubuntu.com/UbuntuStudio/SetupLocalIsoBuildServer) - [All About ISOs](https://wiki.ubuntu.com/UbuntuStudio/AllAboutISOs) - [Kernel Maintenance](https://wiki.ubuntu.com/UbuntuStudio/KernelMaintenance) - [Ubiquity - the live installer](https://wiki.ubuntu.com/UbuntuStudio/Ubiquity) **[Developer Tutorials](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample) **[Workflows](https://wiki.ubuntu.com/UbuntuStudio/Workflows)** - [Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio) - [Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video) - [Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics) - [Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography) - [Publishing](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Publishing) **[Workflow Categories](https://wiki.ubuntu.com/UbuntuStudio/WorkflowCategories)** **[Freedesktop Categories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories)** **[Deb Tags](https://wiki.ubuntu.com/UbuntuStudio/Debtags)** **[Ubuntu Studio Packages](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](https://wiki.ubuntu.com/UbuntuStudio/LaunchpadProjects)** **Reference** - [Terminology](https://wiki.ubuntu.com/UbuntuStudio/Terminology)
+
+# Freedesktop Categories
+
+One of the main features of Ubuntu Studio is how we categorize software. Currently (2013) we are doing this in a custom fashion in our XFCE menu, but that doesn't help the rest of the Linux multimedia community, as not everyone are on XFCE, or even on Ubuntu. So, the answer to that problem is that we work on creating new standards for multimedia specific categories in the freedesktop registered categories [http://standards.freedesktop.org/menu-spec/latest/apa.html](http://standards.freedesktop.org/menu-spec/latest/apa.html).
+
+The following tables show the Freedesktop Categories that fit with the Ubuntu Studio workflow categories, and also contain a little description to help categorise the Ubuntu Studio default applications. As the categories listed in a ".desktop" file determine the menu the application is desplayed in, the number of Additional Categories for an application needs to be limited to prevent the same application appearing in many menus.
+
+## Audio Category
+
+In the freedesktop category standard, it is stated that any desktop file with the category Audio must also include the category [AudioVideo](https://wiki.ubuntu.com/AudioVideo).
+
+Some of these are duplicates of what exist in the Video category. What separates them should be that something that is strictly Audio should also have the [AudioVideo](https://wiki.ubuntu.com/AudioVideo) category, but not have the Video category, and vice versa.
+
+| Additional Category | Description | Subcategory to |
+| --- | --- | --- |
+| Midi | An app related to MIDI | AudioVideo ;Audio |
+| Mixer | Just a mixer | AudioVideo ;Audio |
+| Sequencer | A sequencer | AudioVideo ;Audio |
+| Tuner | A tuner | AudioVideo ;Audio |
+| AudioVideoEditing | Application to edit audio/video files | Audio or Video or AudioVideo |
+| Player | Application to play audio/video files | Audio or Video or AudioVideo |
+| Recorder | Application to record audio/video files | Audio or Video or AudioVideo |
+| X- AudioEditing | Application that can at least edit audio | AudioVideo ;Audio |
+| X- AudioUtility | Any form of audio related utility | AudioVideo ;Audio |
+| X-DAW | Digital Audio Workstation | AudioVideo ;Audio |
+| X- VirtualInstrument | Software Synthesizer / Sampler | AudioVideo ;Audio |
+| X- AudioProcessing | Software Effects (usually plugins) | AudioVideo ;Audio |
+
+**Additional Category**
+
+**Description**
+
+**Subcategory to**
+
+Midi
+
+An app related to MIDI
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
+
+Mixer
+
+Just a mixer
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
+
+Sequencer
+
+A sequencer
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
+
+Tuner
+
+A tuner
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
+
+[AudioVideoEditing](https://wiki.ubuntu.com/AudioVideoEditing)
+
+Application to edit audio/video files
+
+Audio or Video or [AudioVideo](https://wiki.ubuntu.com/AudioVideo)
+
+Player
+
+Application to play audio/video files
+
+Audio or Video or [AudioVideo](https://wiki.ubuntu.com/AudioVideo)
+
+Recorder
+
+Application to record audio/video files
+
+Audio or Video or [AudioVideo](https://wiki.ubuntu.com/AudioVideo)
+
+X-[AudioEditing](https://wiki.ubuntu.com/AudioEditing)
+
+Application that can at least edit audio
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
+
+X-[AudioUtility](https://wiki.ubuntu.com/AudioUtility)
+
+Any form of audio related utility
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
+
+X-DAW
+
+Digital Audio Workstation
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
+
+X-[VirtualInstrument](https://wiki.ubuntu.com/VirtualInstrument)
+
+Software Synthesizer / Sampler
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
+
+X-[AudioProcessing](https://wiki.ubuntu.com/AudioProcessing)
+
+Software Effects (usually plugins)
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
+
+## Graphics Category
+
+| Additional Category | Description | Subcategory to |
+| --- | --- | --- |
+| 2DGraphics | 2D based graphical application | Graphics |
+| VectorGraphics | Application for viewing, creating, or processing vector graphics | Graphics;2DGraphics |
+| RasterGraphics | Application for viewing, creating, or processing raster (bitmap) graphics | Graphics;2DGraphics |
+| 3DGraphics | Application for viewing, creating, or processing 3-D graphics | Graphics |
+| Scanning | Tool to scan a file/text | Graphics |
+| OCR | Optical character recognition application | Graphics;Scanning |
+| Photography | Camera tools, etc. | Graphics or Office |
+| Publishing | Desktop Publishing applications and Color Management tools | Graphics or Office |
+| Viewer | Tool to view e.g. a graphic or pdf file | Graphics or Office |
+| X-Typography | Tools to work with typefaces and fonts | Graphics (or Office) |
+
+**Additional Category**
+
+**Description**
+
+**Subcategory to**
+
+2DGraphics
+
+2D based graphical application
+
+Graphics
+
+[VectorGraphics](https://wiki.ubuntu.com/VectorGraphics)
+
+Application for viewing, creating, or processing vector graphics
+
+Graphics;2DGraphics
+
+[RasterGraphics](https://wiki.ubuntu.com/RasterGraphics)
+
+Application for viewing, creating, or processing raster (bitmap) graphics
+
+Graphics;2DGraphics
+
+3DGraphics
+
+Application for viewing, creating, or processing 3-D graphics
+
+Graphics
+
+Scanning
+
+Tool to scan a file/text
+
+Graphics
+
+OCR
+
+Optical character recognition application
+
+Graphics;Scanning
+
+Photography
+
+Camera tools, etc.
+
+Graphics or Office
+
+Publishing
+
+Desktop Publishing applications and Color Management tools
+
+Graphics or Office
+
+Viewer
+
+Tool to view e.g. a graphic or pdf file
+
+Graphics or Office
+
+X-Typography
+
+Tools to work with typefaces and fonts
+
+Graphics (or Office)
+
+## Video Category
+
+In the freedesktop category standard, it is stated that any desktop file with the category Video must also include the category [AudioVideo](https://wiki.ubuntu.com/AudioVideo).
+
+Some of these are duplicates of what exist in the Audio category. What separates them should be that something that is strictly Video should have the [AudioVideo](https://wiki.ubuntu.com/AudioVideo) category, but not have the Audio category, and vice versa.
+
+| Additional Category | Description | Subcategory to |
+| --- | --- | --- |
+| TV | A TV application | AudioVideo ;Video |
+| AudioVideoEditing | Application to edit audio/video files | Audio or Video or AudioVideo |
+| Player | Application to play audio/video files | Audio or Video or AudioVideo |
+| Recorder | Application to record audio/video files | Audio or Video or AudioVideo |
+| X- VideoEditing | Application that can at least edit video | AudioVideo ;Video |
+| X- VideoUtility | Any form of video related utility | AudioVideo ;Video |
+
+**Additional Category**
+
+**Description**
+
+**Subcategory to**
+
+TV
+
+A TV application
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Video
+
+[AudioVideoEditing](https://wiki.ubuntu.com/AudioVideoEditing)
+
+Application to edit audio/video files
+
+Audio or Video or [AudioVideo](https://wiki.ubuntu.com/AudioVideo)
+
+Player
+
+Application to play audio/video files
+
+Audio or Video or [AudioVideo](https://wiki.ubuntu.com/AudioVideo)
+
+Recorder
+
+Application to record audio/video files
+
+Audio or Video or [AudioVideo](https://wiki.ubuntu.com/AudioVideo)
+
+X-[VideoEditing](https://wiki.ubuntu.com/VideoEditing)
+
+Application that can at least edit video
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Video
+
+X-[VideoUtility](https://wiki.ubuntu.com/VideoUtility)
+
+Any form of video related utility
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo);Video
+
+## Categories that do not fit the standard
+
+Categories below are categories that Ubuntu Studio feels are misplaced.
+
+| Additional Category | Description | Subcategory to | Information |
+| --- | --- | --- | --- |
+| DiscBurning | Application to burn a disc | AudioVideo | Not a multimedia type of application at all, but a utility. |
+
+**Additional Category**
+
+**Description**
+
+**Subcategory to**
+
+Information
+
+[DiscBurning](https://wiki.ubuntu.com/DiscBurning)
+
+Application to burn a disc
+
+[AudioVideo](https://wiki.ubuntu.com/AudioVideo)
+
+Not a multimedia type of application at all, but a utility.
+
+## Categories that are not reserved by Freedesktop
+
+These categories do not exist in the list of standard Freedesktop categories, but could be used by Ubuntu Studio as a category extension (with an "X-" prefix):
+
+| Audio | X- AudioEditing |
+| --- | --- |
+| Audio | X- AudioUtility |
+| Audio | X-DAW |
+| Audio | X- AudioProcessing |
+| Audio | X- VirtualInstrument |
+| Graphics | X-Typography |
+| Video | X- VideoEditing |
+| Video | X- VideoUtility |
+
+Audio
+
+X-[AudioEditing](https://wiki.ubuntu.com/AudioEditing)
+
+Audio
+
+X-[AudioUtility](https://wiki.ubuntu.com/AudioUtility)
+
+Audio
+
+X-DAW
+
+Audio
+
+X-[AudioProcessing](https://wiki.ubuntu.com/AudioProcessing)
+
+Audio
+
+X-[VirtualInstrument](https://wiki.ubuntu.com/VirtualInstrument)
+
+Graphics
+
+X-Typography
+
+Video
+
+X-[VideoEditing](https://wiki.ubuntu.com/VideoEditing)
+
+Video
+
+X-[VideoUtility](https://wiki.ubuntu.com/VideoUtility)
+
+UbuntuStudio/FreedesktopCategories (last edited 2015-06-27 12:07:46 by h-141-65)

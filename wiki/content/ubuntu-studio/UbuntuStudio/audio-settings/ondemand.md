@@ -1,0 +1,11 @@
+# UbuntuStudio/audio-settings/ondemand - Ubuntu Wiki
+
+Source: https://wiki.ubuntu.com/UbuntuStudio/audio-settings/ondemand
+
+## [ondemand](https://wiki.ubuntu.com/UbuntuStudio/audio-settings/ondemand)
+
+# CPU Throttling
+
+CPU Throttling can save power and make a system create less heat. Ubuntu uses this at least on battery operated systems, but possibly on newer desktop systems as well. CPU load can be over 30% and yet the CPU speed can be sitting at half speed. That is, a netbook that can run at 1.6 Ghz might run at .8Ghz while the user is recording audio, while a sequencer is playing two or three soft synths. This mode is called "ondemand". It works very well but sometimes in audio it doesn't work good enough. For one bar another soft synth is used for added emphasis and the speed doesn't ramp up fast enough and there is an audio drop out. There is another mode of operation called "performance". Setting the system to "performance" mode while recording might be a good idea.
+
+UbuntuStudio/audio-settings/ondemand (last edited 2012-05-16 05:50:22 by [len-ovenwerks](https://launchpad.net/~len-ovenwerks))

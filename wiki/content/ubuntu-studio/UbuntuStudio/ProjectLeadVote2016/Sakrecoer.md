@@ -1,0 +1,46 @@
+# UbuntuStudio/ProjectLeadVote2016/Sakrecoer - Ubuntu Wiki
+
+Source: https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016/Sakrecoer
+
+## [Sakrecoer](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016/Sakrecoer)
+
+# Personal Info
+
+| Name: | Set Hallstrom |
+| --- | --- |
+| Launchpad Page: | https://launchpad.net/~sakrecoer |
+| Other links of interest: | http://set.hallstrom.ch http://sakrecoer.com |
+
+**Name:**
+
+Set Hallstrom
+
+**Launchpad Page:**
+
+[https://launchpad.net/~sakrecoer](https://launchpad.net/~sakrecoer)
+
+**Other links of interest:**
+
+[http://set.hallstrom.ch](http://set.hallstrom.ch) [http://sakrecoer.com](http://sakrecoer.com)
+
+# Bio
+
+I am a 1980 born half-Swiss, half-Swedish happy human. I spent my formative years in Sweden but moved to Switzerland when I was 7 years old. The move helped me to develop my interest for different languages, and today I speak five fluently; French (Native), Swedish (Native), Spanish (Fluent), German (Fluent), English (Fluent). I have a broad and genuine interest for people and this, combined with my well-developed communication skills, gives me the perfect tools to work with in social environments. I believe I am reliable and upfront and a few years as tech-support and product specialist for WACOM has given me good experiences in conflict-management.
+
+At the moment I have a part-time employment in a power-plant fuelled with recycled and sorted garbage, giving me financial security whilst letting me dispose of my time very freely. When I'm not working, I spend most of my time writing music, poetry, creating graphics and animating them, doing PR for a Musician syndicate called Basspistol, creating web-design, experimenting with my GNU/Linux computers, socialising and lately contributing to Ubuntu-Studio in the PR, Documentation and Artwork teams.
+
+# Goals for Ubuntu Studio
+
+Becoming the Lead for the project would be an honour and a pleasure. My main focus would be to carry on the legacy of my predecessors and the values that are Ubuntu-Studio, in order to lift it further up. I want to push the envelope of the PR channels in order to refurbish the user-pool of contributors. I want to make sure my favourite Operative System is going to have a continuity in time, remain vibrant, easy to access and relevant in an ever evolving computing universe.
+
+Given my lacking skills in Debian packaging and lacking knowledge of the Debian Policy, my candidacy as a team-lead would be irrelevant without being teamed up with someone possessing those skills. However, I intend to learn these requirements as we work together for an ever better, friendlier and popular Ubuntu-Studio. In the plausible case where my candidacy would be rejected, I would be happy to assist the Team-Lead as head of the PR, documentation and Artwork teams.
+
+For Ubuntu-Studio in time, yours,
+
+Set Hallström AKA Sakrecoer
+
+---
+
+[CategoryUbuntuStudio](https://wiki.ubuntu.com/CategoryUbuntuStudio)
+
+UbuntuStudio/ProjectLeadVote2016/Sakrecoer (last edited 2015-12-25 11:34:13 by 93-52-173)

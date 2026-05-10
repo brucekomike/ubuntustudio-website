@@ -1,0 +1,40 @@
+# UbuntuStudio/Artwork/DIYConcept/UI - Ubuntu Wiki
+
+Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/UI
+
+## [UI](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/UI)
+
+In this section we're looking for simple UI change suggestions. ATM we're looking at moving to 1 panel across the top. It was suggested at one point that changing the default Ubuntu desktop layout would break documentation. Upon investigation the GNOME documentation allows for this with these disclaimers:
+
+- *"Your distribution of GNOME may have altered this default setup."*
+- *"This chapter describes the default configuration of GNOME. Your vendor or system administrator may have configured your desktop to look different than what is described here."*
+
+*"Your distribution of GNOME may have altered this default setup."*
+
+*"This chapter describes the default configuration of GNOME. Your vendor or system administrator may have configured your desktop to look different than what is described here."*
+
+So here I'm thinking:
+
+- **Gnome Menu/Show Desktop/Window List/Notification Area/Clock/Quit** for the items on a single panel across the top.
+- **Computer/Home/Trash** icons on the desktop.
+
+**Gnome Menu/Show Desktop/Window List/Notification Area/Clock/Quit** for the items on a single panel across the top.
+
+**Computer/Home/Trash** icons on the desktop.
+
+![u-s_hardy_ui.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/DIYConcept/UI/u-s_hardy_ui.png)
+
+---
+
+**Discussion**
+
+- I use a two bar system, one hidden on the bottom used as an app launcher and one always visible on top customized exactally like you showed. Except with the system preformace widget but we don't really need that. However the launcher bar is nice. Especially because the small menu icon is sometimes hard to click. I would put up a pic but I'm not on my computer right now. - [JamesSavage](https://wiki.ubuntu.com/JamesSavage) I agree, especially when using Brightside. Which would be handy to have installed by default, since workspace switching in Gnome is rather lacking. Also, It moves away from the Windows feel a little more and gives Gnome a bit more originality in terms of menus. (Toma-) Sorry guys. This isn't gonna happen. I should just lock this page as this setup in the pic above was really decided a release ago. Just never implemented. -CKontros
+- Id like to see the Volume Manager applet enabled by default, as its quite handy when plugging USB backup drives and thumbdrives. (Toma-)
+
+I use a two bar system, one hidden on the bottom used as an app launcher and one always visible on top customized exactally like you showed. Except with the system preformace widget but we don't really need that. However the launcher bar is nice. Especially because the small menu icon is sometimes hard to click. I would put up a pic but I'm not on my computer right now. - [JamesSavage](https://wiki.ubuntu.com/JamesSavage)
+
+- I agree, especially when using Brightside. Which would be handy to have installed by default, since workspace switching in Gnome is rather lacking. Also, It moves away from the Windows feel a little more and gives Gnome a bit more originality in terms of menus. (Toma-) Sorry guys. This isn't gonna happen. I should just lock this page as this setup in the pic above was really decided a release ago. Just never implemented. -CKontros
+
+- Sorry guys. This isn't gonna happen. I should just lock this page as this setup in the pic above was really decided a release ago. Just never implemented. -CKontros
+
+UbuntuStudio/Artwork/DIYConcept/UI (last edited 2008-08-06 16:40:01 by localhost)

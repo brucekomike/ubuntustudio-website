@@ -1,0 +1,146 @@
+# PrecisePangolin/ReleaseNotes/UbuntuStudio - Ubuntu Wiki
+
+Source: https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio
+
+## [UbuntuStudio](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio)
+
+| Contents Ubuntu Studio 12.04.4 LTS Ubuntu Studio Applications Common Infrastructure Linux-lowlatency kernel Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 11.10 Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS Upgrading from Other Releases Support |
+| --- |
+
+Contents
+
+1. [Ubuntu Studio 12.04.4 LTS](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_12.04.4_LTS) [Ubuntu Studio Applications](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_Applications) [Common Infrastructure](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Common_Infrastructure) [Linux-lowlatency kernel](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Linux-lowlatency_kernel)
+2. [Installation](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Installation) [Overview](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Overview) [Download](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Download) [System Requirements](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#System_Requirements)
+3. [Upgrading](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 11.10](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_11.10) [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS) [Upgrading from Other Releases](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Other_Releases)
+4. [Support](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Support)
+
+1. [Ubuntu Studio Applications](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_Applications)
+2. [Common Infrastructure](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Common_Infrastructure) [Linux-lowlatency kernel](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Linux-lowlatency_kernel)
+
+1. [Linux-lowlatency kernel](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Linux-lowlatency_kernel)
+
+1. [Overview](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Overview)
+2. [Download](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Download)
+3. [System Requirements](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#System_Requirements)
+
+1. [Upgrading from Ubuntu Studio 11.10](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_11.10)
+2. [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS)
+3. [Upgrading from Other Releases](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Other_Releases)
+
+# Ubuntu Studio 12.04.4 LTS
+
+Ubuntu Studio is the Ubuntu flavour designed for content creation.
+
+It's produced as a DVD image that can also be converted to an USB stick and includes support for most languages by default.
+
+Ubuntu Studio 12.04 LTS is a 5 year Long Term Support release and will be supported until April 2017.
+
+Due to overwhelming improvements during this development cycle, the Ubuntu Studio Team is very proud and excited to have users experience Ubuntu Studio 12.04 LTS and provide feedback. We look forward to hearing from you.
+
+New features in 12.04 include:
+
+- Live-DVD
+- GUI-based installation
+- lowlatency kernel installed by default
+- lowlatency-pae kernel installed by default in i386.
+- XFCE is default desktop environment
+- Pulse Audio <-> JACK bridging enabled by default
+- New theme, icons, and default font
+- New LightDM and Desktop background/backdrop images
+- Documented work flows/new application choices provide better user support
+- Menu restructured for better work flow support
+- ARandR included for improved multi-monitor functionality
+- mudita24 replaces envycontrol24 for ice1712 chip audio interfaces
+- Long Term Support release (5 years)
+
+Pulse Audio <-> JACK bridging enabled by default
+
+## Ubuntu Studio Applications
+
+This cycle we focused on developing [work flows](https://wiki.ubuntu.com/UbuntuStudio/Workflows) based on user tasks. This should give a more complete, functional, and robust application tool chain for users to create content. *Please note that not all work flows listed in the wiki are directly supported in a default installation.*
+
+Notable applications for audio/video/graphic/photography work flows include:
+
+- JACK - lowlatency and flexible routing sound server
+- Ardour - multitrack digital audio workstation
+- qtractor - multitrack audio recorder and sequencer
+- LADSPA/LV2 - audio plugins
+- [OpenShot](https://wiki.ubuntu.com/OpenShot) - easy to use video editor
+- Blender - 3D modeler and incredible video editor/compositor
+- GIMP - powerful pixel-based image editor
+- Inkscape - scalable vector graphics editor/creator
+- Darktable - RAW digital photograph editor
+
+[OpenShot](https://wiki.ubuntu.com/OpenShot) - easy to use video editor
+
+Common desktop applications saw changes as well:
+
+- gedit - text editor
+- Ristretto - image viewer
+- Firefox - internet browser
+- Transmission - bittorrent client
+- XChat - IRC client
+- Audacious - audio player
+- Totem - movie player
+- Brasero - disc burner
+
+## Common Infrastructure
+
+- Up until Ubuntu 11.10, administrator access using the sudo tool was granted via the "admin" Unix group. In Ubuntu 12.04, administrator access will be granted via the "sudo" group. This makes Ubuntu more consistent with the upstream implementation and Debian. For compatibility purposes, the "admin" group will continue to provide sudo/administrator access in 12.04.
+- Hibernate (suspend to disk) has been disabled by default, as it was found to be unreliable, very slow and confusing to have two suspend modes. See bug 812394 for details. If you want to re-enable it, please follow this recipe.
+- pm-utils now has two new scripts to power down USB and various PCI devices in battery mode. A number of desktop packages were fixed to wake up less often. Both of these reduce power consumption and thus improve battery lifetime.
+- resolvconf is now used to manage /etc/resolv.conf on all Ubuntu systems. You can learn more here
+- Backports are now more easily accessible -- to enable users to more easily receive new versions of software, the Ubuntu Backports repository is now enabled by default. Packages from backports will not be installed by default — they must explicitly be selected in package management software. However, once installed, packages from backports will automatically be upgraded to newer versions.
+- DVD Images -- the DVD images have been cleaned up significantly reducing their size to around 1.9GB to ease consumption. The remaining software remains available via download.
+
+### Linux-lowlatency kernel
+
+The linux-lowlatency kernel is still of the 3.2 version, but includes all security updates until release time. User may experience problems installing and running Ubuntu Studio on a UEFI booted system.
+
+# Installation
+
+## Overview
+
+Preparing your computer for Ubuntu Studio is now much simpler, with a wider range of disk setup options. Each of these are detailed at length to provide you with a clear understanding of the actions that will take place with your selection.
+
+You can now reinstall or upgrade an existing copy of Ubuntu Studio with the Ubuntu Studio DVD installer, provided that your computer is connected to the Internet.
+
+## Download
+
+Ubuntu Studio 12.04.4 images can be downloaded from:
+
+- [http://cdimage.ubuntu.com/ubuntustudio/releases/12.04.4/](http://cdimage.ubuntu.com/ubuntustudio/releases/12.04.4/)
+
+[http://cdimage.ubuntu.com/ubuntustudio/releases/12.04.4/](http://cdimage.ubuntu.com/ubuntustudio/releases/12.04.4/)
+
+## System Requirements
+
+The minimum memory requirement for Ubuntu Studio 12.04.4 is 512 MB of memory. It is highly recommended that you have 2GB or more memory though so that the system will perform much better. More information about other recommended hardware on the new Ubuntu Studio website when it is released.
+
+# Upgrading
+
+## Upgrading from Ubuntu Studio 11.10
+
+It is recommended to do a fresh install over upgrading from a previous version, however to upgrade from Ubuntu Studio 11.10, press Alt+F2 and type in "update-manager" (without the quotes) into the command box. Update Manager should open up and display following message: "New distribution release '12.04' is available. Click Upgrade and follow the on-screen instructions".
+
+## Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS
+
+It is recommended that users perform a complete instal rather than upgrade from Ubuntu Studio 10.04 LTS due to extent of the changes, including desktop environments.
+
+## Upgrading from Other Releases
+
+Users of other Ubuntu Studio releases need to upgrade first to 11.10, and then to 12.04.
+
+For further information on upgrading to 11.10, please see the [Ubuntu Oneiric upgrade instructions](https://help.ubuntu.com/community/OneiricUpgrades).
+
+# Support
+
+- Ubuntu Studio 12.04 LTS is a Long Term Support release with 5-year support.
+- Security and bugfix updates for Ubuntu Studio are provided by the Ubuntu Studio Team and Community
+- "Point releases" will also be provided at the same time as Ubuntu's, offering refreshed installation medias
+- Support via email can be found at the [Ubuntu Studio Users Mailing List](https://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-users).
+- Support via IRC can be found in the #ubuntustudio channel on the freenode network
+
+Support via email can be found at the [Ubuntu Studio Users Mailing List](https://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-users).
+
+PrecisePangolin/ReleaseNotes/UbuntuStudio (last edited 2014-02-06 15:54:40 by 90-230-174-182-no35)

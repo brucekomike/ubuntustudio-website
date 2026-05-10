@@ -1,0 +1,28 @@
+# UbuntuStudio/Artwork/OneiricConcepts - Ubuntu Wiki
+
+Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/OneiricConcepts
+
+## [OneiricConcepts](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OneiricConcepts)
+
+This page reflects the current developmental concepts for Ubuntu Studio's 11.10 artwork.
+
+[scott] I would still like to keep a dark UI theme going, it's kinda like a trademark...even if we go with XFCE. Lots of black with dark gray.
+
+I would actually like to see a dark theme like this: [http://ubuntu-art.org/content/show.php/Ambiance+dark?content=132875](http://ubuntu-art.org/content/show.php/Ambiance+dark?content=132875)
+
+And maybe use the Faenza icons: [http://tiheum.deviantart.com/art/Faenza-Icons-173323228](http://tiheum.deviantart.com/art/Faenza-Icons-173323228)
+
+I think the basis for the new overall theme might come from how different it seems that 11.10 will be. The differences look to be:
+
+- using a new desktop environment, XFCE most likely
+- rocking a new UI
+- new kernel - snappier, -lowlatency (hopefully), can thread irq
+- better support for user tasks (i.e. documented work flows)
+- hopefully new website > [Jorge] New website/theme will be ready by then (and even a lot earlier)
+- hopefully new documentation (or at least in process)
+
+hopefully new website > [Jorge] New website/theme will be ready by then (and even a lot earlier)
+
+The overarching theme might be "a new beginning" or "you thought you knew Ubuntu Studio" or similar. Somehow we need to mention the transition and the evolution/updating after a period of dormancy or stagnation.
+
+UbuntuStudio/Artwork/OneiricConcepts (last edited 2011-04-13 05:23:43 by c-76-127-115-163)

@@ -1,0 +1,343 @@
+# UbuntuStudio/FeatureDefinitions/WacomScripts - Ubuntu Wiki
+
+Source: https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WacomScripts
+
+## [WacomScripts](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WacomScripts)
+
+[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+
+[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+
+[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+
+| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
+| --- | --- | --- | --- | --- | --- | --- |
+
+**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+
+**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+
+**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+
+**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+
+**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+
+**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+
+**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+
+| -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
+| --- |
+
+**-- [Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/OrganizationSideBar?action=edit))** **Organization** - [Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy) - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) -- [Project Lead Vote 2016](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016) - [Team Structure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) - [Release Procedure](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule) - [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) - [Feature Definitions](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions) - [Package Selection](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection) - [Dates (not used)](https://wiki.ubuntu.com/UbuntuStudio/Dates) - [Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings) **Planning Documentation** - [Managing Blueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints) - [Development Cycle](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle) .. [Feature Definition Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition) .. [Development Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development) .. [Testing Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing) .. [Releasing](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Release)
+
+# Feature definition for Wacom scripts
+
+## Description
+
+Add scripts or better detailed settings for wacom tablets. (most tablet work out of the box, but the settings we provide are very minimalistic)
+
+## Technical Implementation
+
+(add one here)
+
+app level thoughts:
+
+- ideally needs a way to deal with switching layouts automatically based on application used
+- link to calibrator for cintiq users There is one here, ([xinput-calibrator](https://github.com/tias/xinput_calibrator) ALso in repos and seems to works fine as of 16.04
+- for button mapping, can be very hard because it is not obvious from xset button what buttons mean [the old wacom utility](https://github.com/lubosz/wacom-utility) is still around in some form and function even though nobody has made it to a package in a while in my knowledge. (you can test it by downloading the repos and executing wacom_utility.py)
+- NEW: active project that currently works: [Gnome wacom settings in XFCE](https://github.com/Zeioth/XFCE-Wacom-Settings) author is apparently working on porting the settings in actual XFCE Gnome wacom settings are pretty limited (no presets. also I think no keymapping) edit (2017): actually the screenshot shows button mapping
+
+- There is one here, ([xinput-calibrator](https://github.com/tias/xinput_calibrator) ALso in repos and seems to works fine as of 16.04
+
+There is one here, ([xinput-calibrator](https://github.com/tias/xinput_calibrator) ALso in repos and seems to works fine as of 16.04
+
+- [the old wacom utility](https://github.com/lubosz/wacom-utility) is still around in some form
+
+[the old wacom utility](https://github.com/lubosz/wacom-utility) is still around in some form
+
+NEW: active project that currently works: [Gnome wacom settings in XFCE](https://github.com/Zeioth/XFCE-Wacom-Settings)
+
+- author is apparently working on porting the settings in actual XFCE
+- Gnome wacom settings are pretty limited (no presets. also I think no keymapping) edit (2017): actually the screenshot shows button mapping
+
+- edit (2017): actually the screenshot shows button mapping
+
+proof of concept commandline script
+
+- todo: handle nouveau naming of screens
+- todo: handle more screens
+- todo: allow user to set their defaults
+- todo: implement the key setup (including handling many wacom layouts, and multiple layouts per wacom to swap between)
+- todo: generally, a lot of things are hardcoded here.
+
+```
+#eylul
+
+#2013-2017
+
+#GPLv.3
+
+
+
+
+
+mydevice="Wacom Intuos4 6x9"
+
+pad="$mydevice pad"
+
+cursor="$mydevice cursor"
+
+stylus="$mydevice stylus"
+
+eraser="$mydevice eraser"
+
+
+
+toggle1=$HOME/.wacomscreen.1
+
+toggle2=$HOME/.wacomscreen.2
+
+
+
+
+
+usage ()
+
+{
+
+  echo "Wacom Setup script of doom - usage"
+
+  echo "setup:Intuos4 screen:Nvidia binary drivers,dualscreen"
+
+  echo ""
+
+  echo "--screen [0,1,2]: screen mode, toggle or"
+
+  echo " 0: both screens, 1: primary(laptop), 2:HDMI"
+
+  echo ""
+
+  echo "--key [profile]: set up leds and buttons"
+
+  
+
+}
+
+
+
+button ()
+
+{
+
+echo xsetwacom --set '$pad' button $1 \"$2\"
+
+}
+
+
+
+screensetter ()
+
+{
+
+echo xsetwacom --set '$stylus' MapToOutput $1 
+
+}
+
+
+
+screen()
+
+{
+
+
+
+  #how coordinates works - see link below for screen rotation cases
+
+  #http://sourceforge.net/apps/mediawiki/linuxwacom/index.php?title=Dual_and_Multi-Monitor_Set_Up
+
+  #
+
+  #| width     0      x-offset|      
+
+  #|   0     height   y-offset|       all sizes in percentage to total width/height
+
+  #|   0       0         1    |
+
+  #
+
+  # examples:
+
+  #     all    |    top       bottom    |
+
+  # |1  0  0|  | |1  0  0|  |1  0   0 | |
+
+  # |0  1  0|  | |0 0.5 0|  |0 0.5 0.5| |
+
+  # |0  0  1|  | |0  0  1|  |0  0   1 | |
+
+
+
+  #both screens - remove all indicators
+
+  if test "$1" == "0"; then
+
+   if test -e $toggle1; then rm $toggle1; fi
+
+   if test -e $toggle2; then rm $toggle2; fi
+
+   echo "xinput set-prop \"$stylus\" --type=float \"Coordinate Transformation Matrix\" 1 0 0 0 1 0 0 0 1"  
+
+   echo "xinput set-prop \"$eraser\" --type=float \"Coordinate Transformation Matrix\" 1 0 0 0 1 0 0 0 1"
+
+  elif test "$1" == "1"; then
+
+   touch $toggle1
+
+   if test -e $toggle2; then rm $toggle2; fi
+
+   echo "xsetwacom --set \"$stylus\" MapToOutput \"Head-0\"" #name of my primary monitor
+
+   echo "xsetwacom --set \"$eraser\" MapToOutput \"Head-0\""
+
+  elif test "$1" == "2"; then
+
+   if test -e $toggle1; then rm $toggle1; fi
+
+   touch $toggle2
+
+   echo "xsetwacom --set \"$stylus\" MapToOutput \"Head-1\"" #name of my primary monitor
+
+   echo "xsetwacom --set \"$eraser\" MapToOutput \"Head-1\""
+
+  else
+
+   echo "wrong argument for -screen: $1"
+
+   usage
+
+  fi
+
+  exit
+
+} 
+
+
+
+#first
+
+#device list
+
+
+
+
+
+
+
+#script for setting up Wacom buttons and abilities
+
+#for intuos4 6x9 pad
+
+
+
+#------------------
+
+# pad
+
+#------------------
+
+
+
+echo $mydevice
+
+echo "xsetwacom --get '$pad' button 1"
+
+
+
+#set the top buttons. 
+
+button 2 "key b"
+
+button 3 "key c"
+
+button 8 "key d"
+
+button 9 "key e"
+
+
+
+#wheel
+
+button 1 "key a"
+
+
+
+#set the bottom buttons
+
+button 10 "key f"
+
+button 11 "key g"
+
+button 12 "key h"
+
+button 13 "key i"
+
+
+
+#check for screen
+
+if test "$1" == "--screen"
+
+ then
+
+ if test ! -e $2  
+
+ then 
+
+  screen "$2"
+
+ else
+
+  #no arguments, toggle then exit
+
+  if test -e $toggle1; then screen "2" #switch 1->2
+
+  elif test -e $toggle2; then screen "0" #switch 2->0
+
+  else screen "1"  #switch 0->1
+
+  fi
+
+ fi
+
+
+
+#check for key
+
+elif test "$1" == "--key"
+
+ then
+
+ echo "key!"
+
+
+
+else
+
+ echo "wrong argument!"
+
+fi
+
+
+
+#if it gets this far either the options were blank or wrong input
+
+usage
+```
+
+---
+
+[CategoryUbuntuStudio](https://wiki.ubuntu.com/CategoryUbuntuStudio) [CategoryUbuntuStudioOrganization](https://wiki.ubuntu.com/CategoryUbuntuStudioOrganization)
+
+UbuntuStudio/FeatureDefinitions/WacomScripts (last edited 2017-06-04 14:44:21 by [eylul](https://launchpad.net/~eylul))

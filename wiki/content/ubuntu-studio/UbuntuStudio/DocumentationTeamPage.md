@@ -1,0 +1,112 @@
+# UbuntuStudio/DocumentationTeamPage - Ubuntu Wiki
+
+Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage
+
+## [DocumentationTeamPage](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage)
+
+[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+
+[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+
+[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+
+| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
+| --- | --- | --- | --- | --- | --- | --- |
+
+**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+
+**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+
+**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+
+**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+
+**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+
+**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+
+**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+
+| -- Documentation Sidebar -- ( edit ) Team Pages - Documentation Team Page Documentation - Video Format - For Video-tutorials - Youtube Specifics - Archive.org Specifics |
+| --- |
+
+** -- [Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/DocSideBar?action=edit))** **Team Pages** - [Documentation Team Page](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage) **[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)** - [Video Format](https://wiki.ubuntu.com/UbuntuStudio/VideoFormat) - For Video-tutorials - [Youtube Specifics](https://wiki.ubuntu.com/UbuntuStudio/YoutubeVideoFormat) - [Archive.org Specifics](https://wiki.ubuntu.com/UbuntuStudio/ArchiveVideoFormat)
+
+# Ubuntu Studio Documentation Team Landing Page
+
+| Task Description | Write user and developer documentation for the website and wikis. Maintains http://wiki.ubuntu.com/UbuntuStudio and http://help.ubuntu.com/community/UbuntuStudio as well as ubuntustudio.org |
+| --- | --- |
+| Launchpad Team | ~ubuntustudio-documentation |
+| Team Wiki | Documentation Team Page |
+| Team Documentation | Documentation |
+| Blueprint | Documentation Blueprint |
+| Mail Lists | ubuntu-studio-devel |
+| IRC Channels | #ubuntustudio-devel at irc.freenode.net |
+| Schedules | UbuntuStudio/DevelopmentReleaseSchedule |
+
+**Task Description**
+
+Write user and developer documentation for the website and wikis. Maintains [http://wiki.ubuntu.com/UbuntuStudio](http://wiki.ubuntu.com/UbuntuStudio) and [http://help.ubuntu.com/community/UbuntuStudio](http://help.ubuntu.com/community/UbuntuStudio) as well as [ubuntustudio.org](http://ubuntustudio.org)
+
+**Launchpad Team**
+
+[~ubuntustudio-documentation](https://launchpad.net/~ubuntustudio-documentation)
+
+**Team Wiki**
+
+[Documentation Team Page](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage)
+
+**Team Documentation**
+
+[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)
+
+**Blueprint**
+
+[Documentation Blueprint](https://blueprints.launchpad.net/ubuntustudio/+spec/topic-ubuntustudio-documentation)
+
+**Mail Lists**
+
+[ubuntu-studio-devel](https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-devel)
+
+**IRC Channels**
+
+**#ubuntustudio-devel** at irc.freenode.net
+
+**Schedules**
+
+[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+
+| Name | Location | IRC Nick | Time Commitment | Title |
+| --- | --- | --- | --- | --- |
+| autumna | ? | autumna |  | Team-Member |
+| Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
+
+**Name**
+
+**Location**
+
+**IRC Nick**
+
+**Time Commitment**
+
+**Title**
+
+[autumna](http://launchpad.net/~autumna)
+
+?
+
+autumna
+
+Team-Member
+
+[Set Hallstrom](https://wiki.ubuntu.com/SetHallstrom)
+
+Sweden
+
+sakrecoer
+
+April 2018
+
+Project Lead
+
+UbuntuStudio/DocumentationTeamPage (last edited 2013-05-17 02:26:08 by h-4-180)
