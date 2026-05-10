@@ -59,7 +59,29 @@ PY
 
 Expected: `collisions=0`
 
-### 2) Standalone `---` Can Be Misread As YAML Front Matter
+### 2) Internal Links Must Not End In `.md` or `index.md`
+
+Problem:
+- Git it Write maps pages to extensionless URL slugs.
+- If an internal link includes the `.md` extension (e.g., `[Page](Foo.md)`) or ends in `index.md` (e.g., `[Page](Bar/index.md)`), the link will resolve to the raw file on GitHub rather than the published page on the site.
+
+Avoid it:
+- Write internal links without the file extension and without the `index.md` filename:
+  - `[Page](content/support/UbuntuStudio--FAQ)` ✓
+  - `[Page](content/handbook/UbuntuStudio--AudioHandbook--GettingStarted)` ✓
+  - `[Page](content/support/UbuntuStudio--FAQ.md)` ✗
+  - `[Page](content/handbook/)` ✓  (directory links resolve to the index page)
+  - `[Page](content/handbook/index.md)` ✗
+
+Quick check:
+
+```bash
+grep -rn '\.md)' help/content/ wiki/content/ help/index.md wiki/index.md
+```
+
+Expected: no output.
+
+### 3) Standalone `---` Can Be Misread As YAML Front Matter
 
 Problem:
 - Some pages with standalone Markdown separators `---` were interpreted as YAML blocks.
@@ -100,6 +122,7 @@ Expected: `remaining_files_with_2plus_triple_dash=0`
 
 - [ ] Edited in the correct bucket under `help/content/` or `wiki/content/`.
 - [ ] Links and assets are relative and valid.
+- [ ] Internal links do not end in `.md` or `index.md`.
 - [ ] No file/folder slug collisions introduced.
 - [ ] No accidental standalone `---` separators introduced in body text.
 - [ ] Obsolete guidance was not reintroduced.
