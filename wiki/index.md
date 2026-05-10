@@ -1,26 +1,21 @@
-# Ubuntu Studio Content Hub
+# Welcome to the Ubuntu Studio developer wiki!
 
-This is the GitHub-managed source tree for the Ubuntu Studio site replacement.
+Ubuntu Studio is an official flavor of [Ubuntu](http://ubuntu.com/), and the most widely used multimedia orientated [GNU/Linux](http://en.wikipedia.org/wiki/GNU/Linux) distribution in the world.
 
-## Contributing
+Ubuntu Studio is a community effort, targeted towards all skill levels, from beginner to pro, and aims to be easy to install and easy to use, as well as providing all the tools necessary for any type of media content creation.
 
-- Edit the markdown in this repository and open pull requests through GitHub.
-- Use the bucket indexes below to find the right section to update.
-- Keep imports, images, and page links relative to this repository structure.
+## What we do..
 
-## Buckets
+Our goal is to be an example on how to configure a [Debian](http://debian.org/) and Ubuntu based operative system for our [workflows](http://ubuntustudio.org/tour/), contributing in bringing improvements upstream to Debian, and communicating with developers directly, by doing testing, fixing bugs and providing feedback.
 
-- [Release Content](content/releases/)
-- [Artwork Content](content/artwork/)
-- [Community Content](content/community/)
-- [Testing Content](content/testing/)
-- [Reference Content](content/reference/)
-- [Ubuntu Studio Content](content/ubuntu-studio/)
-- [Legacy Content](content/legacy/)
+We aim at being the gateway for new users coming into the Linux world, wanting to use Linux for multimedia content creation, by providing applications and documentation, as well as being a portal to other GNU/Linux and FLOSS communities in the world.
 
-## Notes
+# Please Join Us!
 
-- Seed URLs: 365
-- Total URLs attempted: 389
-- Pages written: 372
-- Fetch failures: 16
+Interested in contributing? Go ahead, and join the Ubuntu Studio team! We are always looking for new contributors of any skill level. We are all volunteers.
+
+You may find us at:
+
+- [IRC](../help/content/community/UbuntuStudio--IRC) - Chat with us online
+- [Mail Lists](http://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-users) - These are our mailing lists
+- [ubuntustudio.org](http://ubuntustudio.org/) - our website
