@@ -19,3 +19,14 @@ You may find us at:
 - [IRC](../help/content/community/UbuntuStudio--IRC) - Chat with us online
 - [Mail Lists](http://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-users) - These are our mailing lists
 - [ubuntustudio.org](http://ubuntustudio.org/) - our website
+
+# Wiki Sections
+
+- [Testing](content/ubuntu-studio/UbuntuStudio/Testing/) - QA and testing team information
+- [PR & Support](content/ubuntu-studio/UbuntuStudio/PublicRelationsDocumentation) - Public relations documentation
+- [Artwork](content/ubuntu-studio/UbuntuStudio/Artwork/) - Artwork team resources
+- [Packaging/Development](content/ubuntu-studio/UbuntuStudio/Development) - Developer and packaging information
+- [Documentation](content/ubuntu-studio/UbuntuStudio/Documentation) - Documentation team resources
+- [Organization](content/ubuntu-studio/UbuntuStudio/Organization) - Team organization and structure
+- [Join The Team](content/ubuntu-studio/UbuntuStudio/JoinTheTeam) - How to get involved
+- [Sub Pages](content/ubuntu-studio/UbuntuStudio/SubPages) - Full index of wiki sub-pages
