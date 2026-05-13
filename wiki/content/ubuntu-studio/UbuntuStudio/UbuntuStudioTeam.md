@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeam
 
 ## [UbuntuStudioTeam](UbuntuStudioTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio |
 | Team Wiki | Ubuntu Studio Team Page |
 | Mail Lists | Ubuntu-Studio-users |

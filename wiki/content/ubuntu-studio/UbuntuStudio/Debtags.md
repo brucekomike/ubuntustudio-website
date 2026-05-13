@@ -31,6 +31,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Debtags
 Currently, not all Debian packages have a rich set of correct debtags. It is planned to assist Debian with correcting this for applications applicable to Ubuntu Studio worksflows. The following table lists the Debtags that fit with the Ubuntu Studio workflow categories. A short description is also provided to help with the process of choosing the right tags so that we do it in a consistent way. The more applicable tags that are added to each Debian package, the easier it will be for an Ubuntu Studio user to find the desired package when they search for it.
 
 Audio Workflow:
+|  |  |  |
+| --- | --- | --- |
 | sound | recorder | Application to record audio (single or multi-track) |
 | sound | mixer | Application to set levels and do signal processing on individual tracks |
 | sound | midi | Application that has midi functionality (or relates to midi) |
@@ -165,6 +167,8 @@ sound
 A software instrument for playing recorded samples
 
 Graphics Workflow:
+|  |  |  |
+| --- | --- | --- |
 | graphics | sketch | Application for producing and editing sketches |
 | graphics | image | Application for producing and editing images |
 | graphics | paint | Application for producing and editing paintings |
@@ -278,6 +282,8 @@ typeface
 Application for working with fonts and typefaces
 
 Video Workflow:
+|  |  |  |
+| --- | --- | --- |
 | video | compositing | Application for editing frames in a sequence of images |
 | video | rendering | Application for creating a finalized video-file |
 | video | animation | Application for creating animations |
@@ -342,6 +348,8 @@ encoding
 Application for encoding video to various video-file formats
 
 Photography Workflow:
+|  |  |  |
+| --- | --- | --- |
 | photography | developing | Application for developing raw files |
 | photography | management | Application for Photo-Library management |
 | photography | library | Application for Photo-Library management |

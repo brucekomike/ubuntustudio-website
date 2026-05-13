@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/ArtTeam
 
 ## [ArtTeam](ArtTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team |  |
 | Team Wiki | Art Team Page |
 | Blueprint | See the Blueprints Overview |
@@ -35,6 +37,8 @@ See the [Blueprints Overview](Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Geirdal | Iceland | geirdal |  | Team Member |
 | madeinkobaia | Belgium | madeinkobaia |  | Independent Team-Asset |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |

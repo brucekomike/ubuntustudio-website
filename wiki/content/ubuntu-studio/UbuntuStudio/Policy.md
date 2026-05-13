@@ -53,6 +53,8 @@ Contents
 # Ubuntu Studio Policy
 
 ## The Purpose of Ubuntu Studio
+|  |  |
+| --- | --- |
 | 2. | Optimize system performance needed for multimedia applications |
 | 3. | Include relevant and up to date applications that cover all digital arts workflows |
 | 4. | Provide documentation for users that covers every aspect of digital arts creation on Linux |

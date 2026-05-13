@@ -25,6 +25,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage
 ** -- [Documentation](Documentation) Sidebar -- ([edit](Navigation/DocSideBar))** **Team Pages** - [Documentation Team Page](DocumentationTeamPage) **[Documentation](Documentation)** - [Video Format](VideoFormat) - For Video-tutorials - [Youtube Specifics](YoutubeVideoFormat) - [Archive.org Specifics](ArchiveVideoFormat)
 
 # Ubuntu Studio Documentation Team Landing Page
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-documentation |
 | Team Wiki | Documentation Team Page |
 | Team Documentation | Documentation |

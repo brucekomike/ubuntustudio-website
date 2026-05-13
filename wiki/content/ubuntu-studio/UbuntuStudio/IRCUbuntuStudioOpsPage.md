@@ -29,6 +29,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage
 [CategoryCleanup](https://wiki.ubuntu.com/CategoryCleanup) [CategoryCleanup](https://wiki.ubuntu.com/CategoryCleanup)
 
 # Ubuntu Studio IRC Ops Team Landing Page
+|  |  |
+| --- | --- |
 | Launchpad Team | ~irc-ubuntustudio-ops |
 | Team Wiki | IRC Ubuntu Studio Ops Page |
 | Mail Lists | ubuntu-studio-devel |
@@ -53,6 +55,8 @@ Operators for the Ubuntu Studio IRC channels.
 **IRC Channels**
 
 **#ubuntustudio** and **#ubuntustudio-devel** at irc.freenode.net
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Jimmy Sjölund | Sweden | cub |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |
 | Janne Jokitalo | Finland | astraljava |  |  |

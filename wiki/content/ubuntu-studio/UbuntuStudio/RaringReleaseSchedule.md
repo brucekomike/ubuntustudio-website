@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/RaringReleaseSchedule
 
 ## [RaringReleaseSchedule](RaringReleaseSchedule)
+|  |  |  |
+| --- | --- | --- |
 | October 2012 |  |  |
 | 1 | October 25th | Announce Brainstorming for this release at the ubuntu-studio-devel mail list |
 | November 2012 |  |  |

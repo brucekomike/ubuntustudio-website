@@ -35,6 +35,8 @@ The following tables show the Freedesktop Categories that fit with the Ubuntu St
 In the freedesktop category standard, it is stated that any desktop file with the category Audio must also include the category [AudioVideo](https://wiki.ubuntu.com/AudioVideo).
 
 Some of these are duplicates of what exist in the Video category. What separates them should be that something that is strictly Audio should also have the [AudioVideo](https://wiki.ubuntu.com/AudioVideo) category, but not have the Video category, and vice versa.
+|  |  |  |
+| --- | --- | --- |
 | Midi | An app related to MIDI | AudioVideo ;Audio |
 | Mixer | Just a mixer | AudioVideo ;Audio |
 | Sequencer | A sequencer | AudioVideo ;Audio |
@@ -127,6 +129,8 @@ Software Effects (usually plugins)
 [AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
 
 ## Graphics Category
+|  |  |  |
+| --- | --- | --- |
 | 2DGraphics | 2D based graphical application | Graphics |
 | VectorGraphics | Application for viewing, creating, or processing vector graphics | Graphics;2DGraphics |
 | RasterGraphics | Application for viewing, creating, or processing raster (bitmap) graphics | Graphics;2DGraphics |
@@ -209,6 +213,8 @@ Graphics (or Office)
 In the freedesktop category standard, it is stated that any desktop file with the category Video must also include the category [AudioVideo](https://wiki.ubuntu.com/AudioVideo).
 
 Some of these are duplicates of what exist in the Audio category. What separates them should be that something that is strictly Video should have the [AudioVideo](https://wiki.ubuntu.com/AudioVideo) category, but not have the Audio category, and vice versa.
+|  |  |  |
+| --- | --- | --- |
 | TV | A TV application | AudioVideo ;Video |
 | AudioVideoEditing | Application to edit audio/video files | Audio or Video or AudioVideo |
 | Player | Application to play audio/video files | Audio or Video or AudioVideo |
@@ -282,6 +288,8 @@ Not a multimedia type of application at all, but a utility.
 ## Categories that are not reserved by Freedesktop
 
 These categories do not exist in the list of standard Freedesktop categories, but could be used by Ubuntu Studio as a category extension (with an "X-" prefix):
+|  |  |
+| --- | --- |
 | Audio | X- AudioUtility |
 | Audio | X-DAW |
 | Audio | X- AudioProcessing |

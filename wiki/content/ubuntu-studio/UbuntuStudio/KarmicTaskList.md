@@ -7,6 +7,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/KarmicTaskList
 # Tasks to be completed for Karmic
 
 There are several tasks that need to be either completed, or have continuous maintenance for Karmic and beyond. This page attempts to list these tasks, and who they are assigned to. Feel free to add to this list if you have any more tasks that you think need addressing.
+|  |  |  |
+| --- | --- | --- |
 | Maintain realtime kernel package | This is on a best effort basis, since the realtime patches often lag behind the latest kernel upstream release, as well as the Ubuntu kernel release. | LukeYelavich ( TheMuso ) |
 | DVD Testing | Testing alpha images at a minimum, testing one or two dailies a week would be preferable. | AsmoKoskinen , Eric Hedekar (stochastic) , Rafa Gálvez (Galvesband) |
 | Audio/Video/Graphics package selection | We need to review what we currently ship, and see if there is anything else that needs replacing with something better, removed, or kept. | LukeYelavich (Taking care of the core desktop), still need one or more people to help with audio/video/graphics seeds. |

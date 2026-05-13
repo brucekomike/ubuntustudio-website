@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/TrustyReleaseSchedule
 
 ## [TrustyReleaseSchedule](TrustyReleaseSchedule)
+|  |  |  |
+| --- | --- | --- |
 | October 2013 |  |  |
 | 1 | October 24th |  |
 | 2 | October 31st |  |

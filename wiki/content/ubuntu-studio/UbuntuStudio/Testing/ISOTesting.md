@@ -48,6 +48,8 @@ Contents
 # When do we test?
 
 An ISO is tested just before it is released, always on a Thursday. These are the possible ISO releases during a development period (releases marked as opt-in are not obligatory for flavors):
+|  |  |
+| --- | --- |
 | Alpha 1(opt-in) | About four months before FinalRelease |
 | Alpha 2(opt-in) | About three months before FinalRelease |
 | Beta 1(opt-in) | About two months before FinalRelease |

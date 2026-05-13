@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/DevTeam
 
 ## [DevTeam](DevTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-dev |
 | Team Landing Page | Development Team Page |
 | Team Documentation | Developer Documentation |
@@ -42,6 +44,8 @@ See the [Blueprint Overview](Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Janne Jokitalo | Finland | astraljava |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |
 | Len Ovens | Canada | OvenWerks |  |  |

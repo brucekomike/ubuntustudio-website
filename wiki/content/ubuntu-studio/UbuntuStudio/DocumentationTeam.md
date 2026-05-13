@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeam
 
 ## [DocumentationTeam](DocumentationTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-documentation |
 | Team Wiki | Documentation Team Page |
 | Team Documentation | Documentation |

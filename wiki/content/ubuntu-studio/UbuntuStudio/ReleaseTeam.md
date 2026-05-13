@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeam
 
 ## [ReleaseTeam](ReleaseTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-release |
 | Team Wiki | Release Team Page |
 | Blueprint | N/A |

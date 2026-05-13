@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeam
 
 ## [WebsiteTeam](WebsiteTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-website |
 | Team Wiki | Website Team Page |
 | Blueprint | Website blueprint |
@@ -37,6 +39,8 @@ Design and administration of the Ubuntu Studio web site.
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | autumna | ? | autumna |  | Team-Member |
 | Jimmy Sjölund | Sweden | cub |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |

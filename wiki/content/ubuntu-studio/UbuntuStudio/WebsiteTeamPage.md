@@ -25,6 +25,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeamPage
 **-- [Artwork](Artwork) -- ([edit](Navigation/ArtSideBar))** **Team Pages** - [Art Team Page](ArtTeamPage) - [Website Team Page](WebsiteTeamPage) **[Ubuntu Studio Artwork](Artwork)** - [User Show Case](Artwork/UserShowcase) - [Official 13.10 S Art](Artwork/Official1310) -- [S blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-s-artwork) - [Official 14.04 T Art](Artwork/Official1404) -- [T blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-t-artwork) - [Official 16.04 T Art](Artwork/OfficialXenial)
 
 # Ubuntu Studio Website Team Landing Page
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-website |
 | Team Wiki | Website Team Page |
 | Blueprint | Website blueprint |
@@ -59,6 +61,8 @@ Design and administration of the Ubuntu Studio web site.
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | autumna | ? | autumna |  | Team-Member |
 | Jimmy Sjölund | Sweden | cub |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |

@@ -24,6 +24,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Dates
 **[Organization](Organization)**
 
 # Color Codes
+|  |  |
+| --- | --- |
 |  | Final Release |
 |  | Milestone Release (Beta, Alpha) |
 |  | Freeze |

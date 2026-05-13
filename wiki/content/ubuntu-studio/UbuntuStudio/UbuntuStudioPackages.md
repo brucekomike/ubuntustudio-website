@@ -27,6 +27,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackages
 This page deals with all of the packages that include Ubuntu Studio source.
 
 ## Listed by the Binary Package Name
+|  |  |
+| --- | --- |
 | plymouth-theme-ubuntustudio | ubuntustudio-look |
 | ubiquity-slideshow-ubuntustudio | ubiquity-slideshow-ubuntu |
 | ubuntustudio-audio | ubuntustudio-meta |
@@ -143,6 +145,8 @@ This page deals with all of the packages that include Ubuntu Studio source.
 [ubuntustudio-look](Source/ubuntustudio-look)
 
 ## Listed by the Source Package Name
+|  |  |
+| --- | --- |
 | ubiquity-slideshow-ubuntu | ubiquity-slideshow-ubuntustudio |
 | ubuntustudio-controls | ubuntustudio-controls |
 | ubuntustudio-default-settings | ubuntustudio-default-settings , ubuntustudio-live-settings |

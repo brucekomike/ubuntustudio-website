@@ -17,6 +17,8 @@ Some background information and Q&A about the Ubuntu release process can be foun
 Compare with [GNOME release schedule](http://live.gnome.org/TwoPointNineteen)
 
 See the [Schedules of other projects](https://wiki.ubuntu.com/OtherProjectSchedules)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | April 2007 |  |  |  |  |
 | 1 | April 26th |  |  | Toolchain Uploaded |
 | May 2007 |  |  |  |  |

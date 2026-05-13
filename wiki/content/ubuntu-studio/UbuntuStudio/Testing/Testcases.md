@@ -35,6 +35,9 @@ Marked as synced once merged, with testcase number added to package name
 Set priorities for testcase creation.
 
 Meta packages - GR-Graphics, VI - Video, PU - Publishing, PH- Photography - everything with that 'code' missing is Audio.
+
+| Meta | Package | Bug number | Priority | Bzr | Tracker |
+| --- | --- | --- | --- | --- | --- |
 |  | aeolus | 1184777 | 2 |  |  |
 | GR,PU | agave | 1184753 | 2 | 1662_Agave | 1662_Agave |
 |  | alsa-tools-gui |  |  |  |  |

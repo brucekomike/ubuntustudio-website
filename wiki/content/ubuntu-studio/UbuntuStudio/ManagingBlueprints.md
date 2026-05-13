@@ -66,6 +66,8 @@ When starting to work on a workitem, change the assignee to your own LP name, an
 When the workitem is done, change the implementation to DONE.
 
 Possible implementations are:
+|  |  |  |
+| --- | --- | --- |
 | TODO | empty string, INPROGRESS | Item is expected to be done by the end of the cycle |
 | INPROGRESS |  | By default, this is an alias for TODO, but teams can choose to track it separately. |
 | BLOCKED |  | Item is still expected to be done by end of cycle, but cannot move forward due to issues outside assignees control |
@@ -164,6 +166,8 @@ Structure for the [ubuntustudio project blueprint](https://blueprints.launchpad.
 **website-social-?** (subtopic)
 
 Each subtopic will have dependencies to blueprints from other Ubuntu Studio projects. Next is a table that shows the structure of those dependencies:
+|  |  |
+| --- | --- |
 | core-? | linux-lowlatency , linux-rt , ubuntustudio-meta , ubuntustudio-default-settings , ubuntustudio-live |
 | applications-? | ubuntustudio-controls , ubuntustudio-menu , ubuntustudio-installer |
 | testing-? | ubuntustudio-testing |

@@ -24,6 +24,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeamPage
 **[Organization](Organization)**
 
 # Ubuntu Studio User Team Page
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio |
 | Team Wiki | Ubuntu Studio Team Page |
 | Mail Lists | Ubuntu-Studio-users |

@@ -59,6 +59,7 @@ See our [TroubleShooting](https://wiki.ubuntu.com/TroubleShooting) page to figur
 
 # Headers Testing
 |  | Main |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Beginners Team Home Join Us Mission Statement Meetings */ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Projects |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | FAQ for Beginners Bash Scripting Development Focus Groups |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -996,6 +997,8 @@ Do you want to continue [Y/n]?
 the small size is rather surprising.
 
 ## summary
+|  |  |  |  |
+| --- | --- | --- | --- |
 | Application Type | Application Name | # New Packages | Size of Install |
 | File Manager | nautilus | 16 | 14.0 MB |
 | Disc Burner | brasero | 10 | 7.7 MB |

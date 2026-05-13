@@ -24,6 +24,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development
 **[Organization](../Organization)**
 
 ## Tasks during development
+|  |  |
+| --- | --- |
 | week 5-17 | Implement features as defined in blueprints until FeatureFreeze |
 | week 5-20 | User interface development continues until UserInterfaceFreeze |
 | week 5-21 | Documentation development confinues until DocumentationStringFreeze |

@@ -9,6 +9,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/LucidTaskList
 There are several tasks that need to be either completed, or have continuous maintenance for Lucid and beyond. This page attempts to list these tasks, and who they are assigned to. Feel free to add to this list if you have any more tasks that you think need addressing.
 
 ### Recurring Tasks across all development cycles
+|  |  |  |
+| --- | --- | --- |
 | Maintain realtime kernel package | This is on a best effort basis, since the realtime patches often lag behind the latest kernel upstream release, as well as the Ubuntu kernel release. | LukeYelavich |
 | DVD Testing | Testing alpha images at a minimum, testing one or two dailies a week would be preferable. | Eric Hedekar |
 | Audio/Video/Graphics package selection | We need to review what we currently ship, and see if there is anything else that needs replacing with something better, removed, or kept. |  |
@@ -53,6 +55,8 @@ Generally a community effort, but it's fallen by the wayside and is an easy way 
 [ScottLavender](https://wiki.ubuntu.com/ScottLavender)
 
 ### Lucid Targeted milestone projects
+|  |  |  |
+| --- | --- | --- |
 | Migrate UbuntuStudio Controls to GtkBuilder | Glade is going to go away upstream, and GtkBuilder is now available in GTK, so we should get ubuntustudio-controls moved to GtkBuilder ASAP. |  |
 | Promotion of Jack into main | This requires a Main inclusion report to be written for libffado . LukeYelavich is happy to provide assistance for anyone who wishes to do this. | ScottLavender , Eric Hedekar (stochastic) |
 | New Art Look for Lucid | A revamped design style for the GTK, Bootsplash, Website, Desktop, and other artwork-centered portions of Ubuntu Studio | CKontros |

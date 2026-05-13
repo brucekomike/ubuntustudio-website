@@ -15,6 +15,8 @@ Contents
 5. [Audio](UserSurvey#Audio)
 
 ### Hardware
+|  |  |
+| --- | --- |
 | single, dual, or quad core? | give indication of users capabilities (i.e. jackdmp) |
 | laptop or desktop computer? | which hardware paradigm to support |
 | audio interface - pci card, firewire, usb, or other? | helps us understand which interface to support |
@@ -58,6 +60,8 @@ which installation vector to support/develop
 || what other applications do you routinely install after studio installation? || might include these in metapackage or -controls
 
 ### Experience
+|  |  |
+| --- | --- |
 | do you use Ubuntu Studio professionally? | user's experience |
 | do you make money using Ubuntu Studio? | user's experience |
 | do you use Ubuntu Studio for live gigs? | user's experience |

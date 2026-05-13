@@ -32,6 +32,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Documentation
 If you want to make sure our documentation is up to date, just browse through everything below..
 
 ## ubuntustudio.org
+|  |  |  |
+| --- | --- | --- |
 | Main Page | 6 months | The slideshow, or otherwise known as front tabs, give an introduction to the Ubuntu Studio workflows. Make sure both the front tab and the side panel are up to date, at least once before each release. |
 | About | 2 years (LTS) | A page that explains what Ubuntu Studio is about. Improve if needed for each LTS release. |
 | Feature Tour | 2 years (LTS) | The feature tour should be relevant for the last LTS release at least. |

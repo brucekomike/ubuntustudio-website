@@ -31,6 +31,8 @@ Contents
 When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](../../FreedesktopCategories).
 
 # Universe
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 | aconnectgui | graphical ALSA sequencer connection manager | aconnectgui.desktop | Application; AudioVideo ; | AudioVideo ;Audio;Midi |  |
 | acoustid-fingerprinter | Acoustid fingerprinter | acoustid-fingerprinter.desktop | AudioVideo ;Audio;Qt; AudioVideoEditing ; | AudioVideo ;Audio;Qt;X- AudioUtility |  |
 | aeolus | Synthesised pipe organ emulator | aeolus.desktop | AudioVideo ;Audio; | AudioVideo ;Audio;X- VirtualInstrument |  |

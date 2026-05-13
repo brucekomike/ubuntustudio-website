@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/CoreTeam
 
 ## [CoreTeam](CoreTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-core |
 | Team Wiki | Core Team Page |
 | Team Documentation | Core Team Documentation |
@@ -42,6 +44,8 @@ See [Blueprints](Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Kaj Ailomaa | Sweden | zequence | indefinite |  |
 | Len Ovens | Canada | Ovenwerks | indefinite |  |
 | Set Hallstrom | Sweden | sakrecoer | april 2018 | Project Lead |

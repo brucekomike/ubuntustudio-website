@@ -27,6 +27,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule
 ### The current Ubuntu Studio Development Release Schedule
 
 *Edit original page at [UbuntuStudio/TrustyReleaseSchedule](TrustyReleaseSchedule)*
+|  |  |  |
+| --- | --- | --- |
 | October 2013 |  |  |
 | 1 | October 24th |  |
 | 2 | October 31st |  |

@@ -68,6 +68,8 @@ It's not working perfectly yet, but it's workable..
 **UNDER CONSTRUCTION**
 
 ## A
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | a2jmidid | [universe] | Daemon for exposing legacy ALSA MIDI in JACK MIDI systems | Audio-Glue (Example) | X (example) |
 | aac-enc | [multiverse] | Fraunhofer FDK AAC Codec Library - frontend binary | Codec (example ) | (License) (example) |
 | abcde | [universe] | A Better CD Encoder | Encoding (example) |  |
@@ -577,6 +579,8 @@ azr3-jack
 drawbar organ simulator
 
 ## B
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | banshee | [universe] | Media Management and Playback application |  |  |
 | banshee-extension-alarm | [universe] | Alarm extension for Banshee |  |  |
 | banshee-extension-albumartwriter | [universe] | Album art writer extension for Banshee |  |  |
@@ -834,6 +838,8 @@ buzztard-data
 Modular music composer - shared data files
 
 ## C
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | calf-plugins | [universe] | Calf Studiogear - audio effects and sound generators |  |  |
 | cam | [universe] | Cpu's Audio Mixer for Linux |  |  |
 | canorus | [universe] | graphical music score editor |  |  |
@@ -1084,6 +1090,8 @@ cynthiune.app
 Music player for GNUstep
 
 ## D
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | daisy-player | [universe] | player for DAISY Digital Talking Books |  |  |
 | darkice | [multiverse] | Live audio streamer |  |  |
 | darksnow | [multiverse] | simple graphical user interface to darkice |  |  |
@@ -1264,6 +1272,8 @@ dssi-vst
 Adapter for VST an VSTi audio plugins
 
 ## E
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | ears | [universe] | collection of Last.fm clients and CD-ripping tools |  |  |
 | easyh10 | [universe] | Utility to manage the iRiver H10 music player |  |  |
 | easymp3gain-data | [universe] | GUI for MP3Gain, VorbisGain and AACGain (data files) |  |  |
@@ -1480,6 +1490,8 @@ ezstream
 easy media streaming client over icecast servers
 
 ## F
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | faac | [multiverse] | AAC audio encoder |  |  |
 | faad | [universe] | freeware Advanced Audio Decoder player |  |  |
 | fadecut | [universe] | toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles |  |  |
@@ -1959,6 +1971,8 @@ freqtweak
 Realtime audio frequency spectral manipulation
 
 ## G
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | gbemol | [universe] | Graphical frontend for the Music Player Daemon |  |  |
 | gbsplay | [universe] | A Gameboy sound player |  |  |
 | gdigi | [universe] | utility to control DigiTech effect pedals |  |  |
@@ -2364,6 +2378,8 @@ gxtuner
 Tuner for Jack
 
 ## H, I, J
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | harvid | [universe] | HTTP Ardour Video Server |  |  |
 | hexter | [universe] | Yamaha DX7 modeling DSSI plugin |  |  |
 | horgand | [universe] | JACK capable organ softsynth |  |  |
@@ -2766,6 +2782,8 @@ julius-voxforge
 acoustic models for Julius
 
 ## K, L
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | klick | [universe] | advanced metronome for JACK |  |  |
 | kluppe | [universe] | a loop-player and recorder designed for live use |  |  |
 | kmetronome | [universe] | ALSA MIDI Metronome |  |  |
@@ -3576,6 +3594,8 @@ lxmusic
 LXDE music player
 
 ## M
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | madfuload | [multiverse] | Firmware loader for M-Audio DFU audio devices |  |  |
 | madplay | [universe] | MPEG audio player in fixed point |  |  |
 | mbrola | [multiverse] | Multilingual software speech synthesizer |  |  |
@@ -4380,6 +4400,8 @@ mythmusic
 Music add-on module for MythTV
 
 ## N, O, P
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | nama | [universe] | Ecasound-based multitrack recorder/mixer |  |  |
 | nas | [universe] | Network Audio System - local server |  |  |
 | nas-bin | [universe] | Network Audio System - client binaries |  |  |
@@ -5321,6 +5343,8 @@ pytone
 Music jukebox with advanced features for DJs and a text-mode user interface
 
 ## Q
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | qarecord | [universe] | audio recording tool |  |  |
 | qasconfig | [universe] | ALSA configuration browser |  |  |
 | qashctl | [universe] | mixer for ALSA's High level Control Interface |  |  |
@@ -5487,6 +5511,8 @@ qutecsound
 frontend for the csound sound processor
 
 ## R
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | radio | [universe] | ncurses-based radio application |  |  |
 | radiotray | [universe] | online radio streaming player |  |  |
 | radium-compressor | [universe] | audio compressor for JACK |  |  |
@@ -5807,6 +5833,8 @@ rumor
 Realtime MIDI keyboard to Lilypond converter
 
 ## S
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | samplv1 | [universe] | polyphonic sampler synthesizer |  |  |
 | saytime | [universe] | speaks the current time through your sound card |  |  |
 | schism | [universe] | ImpulseTracker clone aiming at providing the same look&feel |  |  |
@@ -6360,6 +6388,8 @@ synthv1
 old-school polyphonic synthesizer
 
 ## T
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | taggrepper | [universe] | search and match tags of audio files against regular expressions |  |  |
 | tagtool | [universe] | Tool to tag and rename MP3 and Ogg Vorbis files |  |  |
 | taopm | [universe] | Sound synthesis software with physical models |  |  |
@@ -6554,6 +6584,8 @@ twolame
 MPEG Audio Layer 2 encoder (command line frontend)
 
 ## U, V, W
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | ubuntu-touch-sounds | [universe] | sounds for the Ubuntu Touch image |  |  |
 | udj-desktop-client | [universe] | social music player |  |  |
 | upse123 | [universe] | commandline player based on libupse |  |  |
@@ -6781,6 +6813,8 @@ wsynth-dssi
 hack on Xsynth-DSSI to allow wavetable synthesis
 
 ## X, Y, Z
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | xcfa | [universe] | X Convert File Audio |  |  |
 | xcutmp3 | [universe] | a simple frontend for cutmp3 |  |  |
 | xjadeo | [multiverse] | Video player with JACK sync |  |  |

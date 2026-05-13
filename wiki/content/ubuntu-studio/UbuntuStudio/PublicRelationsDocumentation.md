@@ -91,6 +91,8 @@ Furthermore, it might be wise to assign one PR team member for some large, speci
 ## Writing Posts
 
 (update or remove? )
+|  |  |  |  |
+| --- | --- | --- | --- |
 | Event | Description | Channels | Assignee |
 | Release News | Make an official post on a new release every 6 months | website & social channels, G+, mail lists, forums, |  |
 | Milestone Testing | Announce testing, and ask for participants for Beta2 and R.C | website & social channels, G+, mail lists, forums |  |

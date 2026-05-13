@@ -176,6 +176,8 @@ It is important to note the diversity of displays which Ubuntustudio needs to su
 *Typical screen resolutions:*
 
 ### Desktops
+|  |  |  |  |
+| --- | --- | --- | --- |
 | 3840 | 2160 | 1.77 | 16:9 * Desired Format |
 | 2560 | 1600 | 1.6 | 8:5 |
 | 2560 | 1600 | 1.6 | 8:5 |
@@ -294,6 +296,8 @@ It is important to note the diversity of displays which Ubuntustudio needs to su
 5:4
 
 ### Laptops
+|  |  |  |  |
+| --- | --- | --- | --- |
 | 1920 | 1200 | 1.6 | 8:5 |
 | 1680 | 1050 | 1.6 | 8:5 |
 | 1440 | 900 | 1.6 | 8:5 |

@@ -7,6 +7,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/MaintainedPackages
 These packages are maintained by the Ubuntu Studio packaging team.
 
 ### Metapackages
+|  |  |
+| --- | --- |
 | ubuntustudio-desktop | joejaxx |
 | ubuntustudio-desktop-settings | joejaxx |
 | ubuntustudio-audio | joejaxx |
@@ -17,11 +19,15 @@ These packages are maintained by the Ubuntu Studio packaging team.
 See also: [MetapackagesBreakdown](MetapackagesBreakdown)
 
 ### Packaged by Ubuntu Studio
+|  |  |
+| --- | --- |
 | wired | TobySmithe |
 | murrine | rexbron |
 | enblend | TobySmithe |
 
 ### Ubuntu Studio Artwork Source Packages
+|  |  |
+| --- | --- |
 | ubuntustudio-look | TobySmithe |
 | ubuntustudio-screensaver | TobySmithe |
 | ubuntustudio-sounds | TobySmithe |

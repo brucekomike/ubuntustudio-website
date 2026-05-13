@@ -25,6 +25,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage
 ** -- [Testing](Testing) Sidebar -- ([edit](Navigation/TestingSideBar))** **Team Pages** - **[Testing Team Page](TestingTeamPage)** **[Testing Documentation](TestingDocumentation)** - [Application Testing](Testing/ApplicationTesting) ..[Test Cases](Testing/Testcases) - [ISO Testing](Testing/ISOTesting) - [Performance Testing](Testing/PerformanceTesting) - [Kernel Testing](Testing/KernelTesting) **[Desktop Environment Testing](DesktopEnvironmentTesting)**
 
 # Ubuntu Studio Testing Team Landing Page
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-testing |
 | Team Landing Page | Testing Team Page |
 | Team Documentation | Testing Team Documentation |

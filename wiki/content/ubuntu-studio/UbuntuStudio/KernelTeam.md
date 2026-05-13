@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/KernelTeam
 
 ## [KernelTeam](KernelTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-kernel-team |
 | Team Wiki | Kernel Team Page |
 | Team Documentation | Kernel Team Documentation |

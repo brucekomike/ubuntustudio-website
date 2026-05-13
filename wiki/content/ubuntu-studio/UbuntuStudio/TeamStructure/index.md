@@ -35,6 +35,8 @@ The organization of the teams is related to the design of launchpad, which we us
 # Ubuntu Studio Leadership
 
 Lead positions that may or may not correspond with any of the teams. A lead will have special duties and responsibilities.
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 | Set Hallstrom | Sweden | sakrecoer | Project Lead | Overall Quality Assurance and last say | Until April 2018 |
 | Currently undefined (zequence?) | -- | -- | Art Lead | Lead the artwork design for Ubuntu Studio | At least until April 2016 |
 | Ross Gammon | Denmark |  | Testing Lead | Release manager and organizes application testing | At least until April 2016 |
@@ -91,6 +93,8 @@ At least until April 2016
 **Moderated Teams** Need confirmation to join
 
 **Restricted Teams** Invitations only
+|  |  |  |
+| --- | --- | --- |
 | Ubuntu Studio User Team | ~ubuntustudio | Open team for Ubuntu Studio users that acts as a portal for information. Members of this team are allowed to comment on posts at the website. |
 | Testing Team | ~ubuntustudio-testing | Team that does testing and QA insurance. May include test development and writing documentation. |
 | Documentation Team | ~ubuntustudio-documentation-team | Writes user and developer documentation for the website and wikis. Maintains UbuntuStudio and UbuntuStudio |
@@ -190,6 +194,8 @@ Operators for the Ubuntu Studio IRC channels.
 Owns and administers all the official Ubuntu Studio teams
 
 ## [Ubuntu Studio User Team (edit)](../UbuntuStudioTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio |
 | Team Wiki | Ubuntu Studio Team Page |
 | Mail Lists | Ubuntu-Studio-users |
@@ -216,6 +222,8 @@ Open team for ubuntu Studio users. Members of the launchpad team are allowed to 
 **#ubuntustudio** at irc.freenode.net
 
 ## [Testing Team (edit)](../TestingTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-testing |
 | Team Landing Page | Testing Team Page |
 | Team Documentation | Testing Team Documentation |
@@ -276,6 +284,8 @@ Rosco2
 Testing Lead
 
 ## [Documentation Team (edit)](../DocumentationTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-documentation |
 | Team Wiki | Documentation Team Page |
 | Team Documentation | Documentation |
@@ -382,6 +392,8 @@ Rosco2
 Testing Lead
 
 ## [Contributor Team (edit)](../ContributorTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-contributors |
 | Team Wiki | Contributor Team Page |
 | Blueprint | See the Blueprints Overview |
@@ -416,6 +428,8 @@ See the [Blueprints Overview](../../Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Maik Adamietz | Belgium | D arkEra |  |  |
 | Luke Kuhn | USA |  |  |  |
 | Jimmy Sjölund | Sweden | cub |  |  |
@@ -445,6 +459,8 @@ Sweden
 cub
 
 ## [Public Relations/Support Team (edit)](../PRSupportTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-public-relations |
 | Team Wiki | PR/Support team Page |
 | Blueprint | PR Blueprint |
@@ -479,6 +495,8 @@ Makes announcements on social channels and mail lists. Also handles support and 
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | cfhowlett | japan | cfhowlett |  | Team-Member |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 | Ttoine | France | ttoine |  | currently unavailable |
@@ -520,6 +538,8 @@ ttoine
 currently unavailable
 
 ## [Art Team (edit)](../ArtTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team |  |
 | Team Wiki | Art Team Page |
 | Blueprint | See the Blueprints Overview |
@@ -552,6 +572,8 @@ See the [Blueprints Overview](../../Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Geirdal | Iceland | geirdal |  | Team Member |
 | madeinkobaia | Belgium | madeinkobaia |  | Independent Team-Asset |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
@@ -593,6 +615,8 @@ April 2018
 Project Lead
 
 ## [Release Team (edit)](../ReleaseTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-release |
 | Team Wiki | Release Team Page |
 | Blueprint | N/A |
@@ -657,6 +681,8 @@ Rosco2
 Testing Lead
 
 ## [Development Team (edit)](../DevTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-dev |
 | Team Landing Page | Development Team Page |
 | Team Documentation | Developer Documentation |
@@ -696,6 +722,8 @@ See the [Blueprint Overview](../../Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Janne Jokitalo | Finland | astraljava |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |
 | Len Ovens | Canada | OvenWerks |  |  |
@@ -747,6 +775,8 @@ April 2018
 Project Lead
 
 ## [Kernel Team (edit)](../KernelTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-kernel-team |
 | Team Wiki | Kernel Team Page |
 | Team Documentation | Kernel Team Documentation |
@@ -807,6 +837,8 @@ zequence
 indefinite
 
 ## [Website Team (edit)](../WebsiteTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-website |
 | Team Wiki | Website Team Page |
 | Blueprint | Website blueprint |
@@ -841,6 +873,8 @@ Design and administration of the Ubuntu Studio web site.
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | autumna | ? | autumna |  | Team-Member |
 | Jimmy Sjölund | Sweden | cub |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |
@@ -887,6 +921,8 @@ April 2018
 Project Lead
 
 ## [IRC Ops Team (edit)](../IRCUbuntuStudioOps)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~irc-ubuntustudio-ops |
 | Team Wiki | IRC Ubuntu Studio Ops Page |
 | Mail Lists | ubuntu-studio-devel |
@@ -911,6 +947,8 @@ Operators for the Ubuntu Studio IRC channels.
 **IRC Channels**
 
 **#ubuntustudio** and **#ubuntustudio-devel** at irc.freenode.net
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Jimmy Sjölund | Sweden | cub |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |
 | Janne Jokitalo | Finland | astraljava |  |  |
@@ -944,6 +982,8 @@ Finland
 astraljava
 
 ## [Ubuntu Studio Core Team (edit)](../CoreTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-core |
 | Team Wiki | Core Team Page |
 | Team Documentation | Core Team Documentation |
@@ -983,6 +1023,8 @@ See [Blueprints](../Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Kaj Ailomaa | Sweden | zequence | indefinite |  |
 | Len Ovens | Canada | Ovenwerks | indefinite |  |
 | Set Hallstrom | Sweden | sakrecoer | april 2018 | Project Lead |

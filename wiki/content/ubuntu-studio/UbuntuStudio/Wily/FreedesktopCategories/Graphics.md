@@ -32,6 +32,8 @@ Contents
 When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](../../FreedesktopCategories).
 
 # Main
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 | gimp | The GNU Image Manipulation Program | gimp.desktop | Graphics;2DGraphics; RasterGraphics ;GTK; |  |  |
 | imagemagick | image manipulation programs -- binaries | display-im6.desktop | Graphics; |  |  |
 | imagemagick-6.q16 | image manipulation programs -- quantum depth Q16 | display-im6.q16.desktop | Graphics; |  |  |
@@ -82,6 +84,8 @@ inkscape.desktop
 Graphics;[VectorGraphics](https://wiki.ubuntu.com/VectorGraphics);GTK;
 
 # Universe
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 | amide | software for Medical Imaging | amide.desktop | Graphics;Education;Science; MedicalSoftware ; |  |  |
 | apitrace-gl-frontend | tools for debugging OpenGL applications and drivers - tracing frontends | qapitrace.desktop | Development;Debugger;Profiling; |  |  |
 | aqsis | 3D rendering solution adhering to the RenderMan (R) standard, binaries | aqsl.desktop | Graphics;3DGraphics; ConsoleOnly ; |  |  |
@@ -1489,6 +1493,8 @@ YAGF.desktop
 Qt;Office;OCR;
 
 # Multiverse
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 | avidemux | a free video editor - GTK version | avidemux-gtk.desktop | GTK; AudioVideo |  |  |
 | avidemux-qt | a free video editor - QT version | avidemux-qt.desktop | Qt; AudioVideo |  |  |
 | mythtv-backend | Personal video recorder application (server) | mythtv-setup.desktop | GTK;System;Settings |  |  |

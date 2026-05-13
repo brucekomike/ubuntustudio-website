@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/TestingTeam
 
 ## [TestingTeam](TestingTeam)
+|  |  |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-testing |
 | Team Landing Page | Testing Team Page |
 | Team Documentation | Testing Team Documentation |

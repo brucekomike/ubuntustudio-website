@@ -18,6 +18,8 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Oneiric/Timeline
 [Current Release Schedule](https://wiki.ubuntu.com/OneiricReleaseSchedule)
 
 # Timeline
+|  |  |  |  |
+| --- | --- | --- | --- |
 | XFCE settings and UI mockup | CKontros | May 20 | req'd to confirm DE and UI |
 | confirm DE and UI | Studio Team | May 27 | required to original seed update |
 | original seed update | CKontros and SLavender | June 10 | DE, UI, LV2, language packs |

@@ -32,6 +32,8 @@ Contents
 When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](../../FreedesktopCategories).
 
 # Universe
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 | aegisub | advanced subtitle editor | aegisub.desktop | AudioVideo ; AudioVideoEditing ; | Video |  |
 | bino | 3D video player | bino.desktop | AudioVideo ;Player;Video; | OK |  |
 | freetuxtv | Internet television and radio player | freetuxtv.desktop | AudioVideo ;Video;TV; | Player |  |

@@ -104,6 +104,8 @@ To test genpo add "deb [http://ppa.launchpad.net/rexbron/ubuntu](http://ppa.laun
 # Soma Suite
 
 About: [http://www.somasuite.org](http://www.somasuite.org)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Soma | rexbron | Defered. | n/a | See Note [1] |
 | SomaX | TobySmithe | Pushed back to +1 | n/a | Waiting on developer instruction or documentation |
 | SomaPlayer | none | Done | ← | Synced From Debian |

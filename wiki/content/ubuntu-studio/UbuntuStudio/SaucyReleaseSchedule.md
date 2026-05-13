@@ -3,6 +3,8 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/SaucyReleaseSchedule
 
 ## [SaucyReleaseSchedule](SaucyReleaseSchedule)
+|  |  |  |
+| --- | --- | --- |
 | May 2013 |  |  |
 | 1 | May 2nd | Announce Brainstorming for this release at the ubuntu-studio-devel mail list, S toolchain uploaded to Ubuntu archive |
 | 2 | May 9th |  |

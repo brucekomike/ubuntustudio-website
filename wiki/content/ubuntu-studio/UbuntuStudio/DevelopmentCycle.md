@@ -35,6 +35,8 @@ To keep track of important dates, we use a development release schedule. See our
 ## Important Events
 
 A development cycle is divided into different periods, following the important events that occur.
+|  |  |  |  |
+| --- | --- | --- | --- |
 | Feature Definition | We plan for what features to add for the next release of Ubuntu Studio. | week 1 | week 4 - FeatureDefinitionFreeze |
 | Development | The period during which we add features to Ubuntu Studio - application development, changing settings, artwork, etc. The end date depends on the development type. | week 1 (or before) | feature addition ends: week 17 - FeatureFreeze artwork development ends: week 20 - UserInterfaceFreeze kernel development ends: week 24 - KernelFreeze |
 | Beta Testing | Begins at DebianImportFreeze . Initially we test Debian packages for bugs. Once we hit feature freeze, we start doing beta testing. | week 17 | week 25 - FinalFreeze |

@@ -45,6 +45,8 @@ INPROGRESS
 Note that any features with no assignee will not be driven, and most probably won't make it to the Precise Pangolin release.
 
 /* Please use a #ededed and #fafafa rowstyles alternately so readability stays. /* See existing rows for example. /* Please don't edit the importance column yourself. /* It will be set by the Project Lead or the concerned Team Lead. /*
+|  |  |  |  |
+| --- | --- | --- | --- |
 | check live-dvd | ubuntustudio-dev | DONE | Blueprint |
 | update lowlatency kernel per REVU | slavender, aboganni, themuso | DONE | Blueprint |
 | LTS application | slavender | DONE | Xubuntu example |
@@ -186,6 +188,8 @@ TODO
 Note that any features with no assignee will not be driven, and most probably won't make it to the Precise Pangolin release.
 
 /* Please use a #ededed and #fafafa rowstyles alternately so readability stays. /* See existing rows for example. /* Please don't edit the importance column yourself. /* It will be set by the Project Lead or the concerned Team Lead. /*
+|  |  |  |  |
+| --- | --- | --- | --- |
 | define final work flows | slavender | TODO | Blueprint |
 | update seeds on final work flows | slavender | INPROGRESS | Blueprint |
 | update ubiquity per final work flows |  | TODO | Blueprint |
