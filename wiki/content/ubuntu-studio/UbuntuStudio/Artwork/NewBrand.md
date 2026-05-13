@@ -65,25 +65,25 @@ References:
 
 Current localized artwork assets in this repository:
 
-- [UbuntuStudio-logo-2022_banner.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png) (standalone mark-only banner, no wordmark)
-- [UbuntuStudio-logo-2022_wordmark-horizontal.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png) (full horizontal wordmark)
-- [UbuntuStudio-logo-2022_RGB.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB.png) (legacy horizontal wordmark alias)
-- [UbuntuStudio-logo-2022_RGB_reverse.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB_reverse.png) (reverse for dark backgrounds)
-- [UbuntuStudio-logo-2022_stacked.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png) (stacked wordmark)
-- [UbuntuStudio-logo-2022_square.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_square.png) (square variant)
-- [UbuntuStudio-icon-2022_RGB.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-icon-2022_RGB.png)
+- [UbuntuStudio-logo-2022_banner.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png) (standalone mark-only banner, no wordmark)
+- [UbuntuStudio-logo-2022_wordmark-horizontal.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png) (full horizontal wordmark)
+- [UbuntuStudio-logo-2022_RGB.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB.png) (legacy horizontal wordmark alias)
+- [UbuntuStudio-logo-2022_RGB_reverse.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB_reverse.png) (reverse for dark backgrounds)
+- [UbuntuStudio-logo-2022_stacked.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png) (stacked wordmark)
+- [UbuntuStudio-logo-2022_square.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_square.png) (square variant)
+- [UbuntuStudio-icon-2022_RGB.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-icon-2022_RGB.png)
 
 Current mark-only banner preview:
 
-![Ubuntu Studio 2022 mark-only banner](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png)
+![Ubuntu Studio 2022 mark-only banner](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png)
 
 Current horizontal wordmark preview:
 
-![Ubuntu Studio 2022 horizontal wordmark](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png)
+![Ubuntu Studio 2022 horizontal wordmark](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png)
 
 Current stacked wordmark preview:
 
-![Ubuntu Studio 2022 stacked logo](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png)
+![Ubuntu Studio 2022 stacked logo](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png)
 
 ### Clone from Git
 

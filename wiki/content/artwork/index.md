@@ -10,13 +10,13 @@ Typography and color palette references are documented in:
 
 Current logo artwork (March 2022 refresh) is localized under:
 
-- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png](../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png) (standalone mark-only banner, no wordmark)
-- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png](../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png) (full horizontal wordmark)
-- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB.png](../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB.png) (legacy horizontal wordmark alias)
-- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB_reverse.png](../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB_reverse.png) (reverse for dark backgrounds)
-- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png](../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png) (stacked wordmark)
-- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_square.png](../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_square.png) (square variant)
-- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-icon-2022_RGB.png](../_assets/ubuntustudio_org/branding/UbuntuStudio-icon-2022_RGB.png)
+- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png) (standalone mark-only banner, no wordmark)
+- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png) (full horizontal wordmark)
+- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB.png) (legacy horizontal wordmark alias)
+- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB_reverse.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB_reverse.png) (reverse for dark backgrounds)
+- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png) (stacked wordmark)
+- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_square.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_square.png) (square variant)
+- [wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-icon-2022_RGB.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/ubuntustudio_org/branding/UbuntuStudio-icon-2022_RGB.png)
 
 The full imported UbuntuStudio Artwork section is available under:
 
