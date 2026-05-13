@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/CreateSSHKey
 
-## [CreateSSHKey](https://wiki.ubuntu.com/UbuntuStudio/CreateSSHKey)
+## [CreateSSHKey](CreateSSHKey)
 
 SSH stands for [Secure Shell](http://www.openssh.com/). It's a method for connecting to remote places.
 

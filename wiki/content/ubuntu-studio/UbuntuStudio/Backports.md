@@ -2,37 +2,37 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Backports
 
-## [Backports](https://wiki.ubuntu.com/UbuntuStudio/Backports)
+## [Backports](Backports)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
 | --- |
 
-**-- [Developer](https://wiki.ubuntu.com/UbuntuStudio/Development) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/DevSideBar?action=edit&editor=text))** **Team Pages** - [Bugs Team](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeamPage) - [Contributor Team](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeamPage) - [Core Team](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage) - [Dev Team](https://wiki.ubuntu.com/UbuntuStudio/DevTeamPage) - [Kernel Team](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamPage) - [Release Team](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeamPage) - [Testing Team](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage) **[Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy)** - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) **[UbuntuStudio/Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging)** [Needs Packaging](https://wiki.ubuntu.com/UbuntuStudio/NeedsPackaging) **[Developer Documentation](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)** - [Setup Dev Environment](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment) - [Bzr Cheat Sheet](https://wiki.ubuntu.com/UbuntuStudio/Bzr) - [Bug Management](https://wiki.ubuntu.com/UbuntuStudio/BugManagement) - [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging) -- [Ubuntu Studio Package Maintenance](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackageMaintenance) -- [Uploading Packages (to the archive)](https://wiki.ubuntu.com/UbuntuStudio/Packaging/UploadingPackages) - [Backports](https://wiki.ubuntu.com/UbuntuStudio/Backports) - [Stable Release Updates (SRU)](https://wiki.ubuntu.com/UbuntuStudio/StableReleaseUpdates) - [Seed Management](https://wiki.ubuntu.com/UbuntuStudio/Seeds) - [Uploading to PPA](https://wiki.ubuntu.com/UbuntuStudio/UploadingToPPA) - [Applying Patches](https://wiki.ubuntu.com/UbuntuStudio/PatchingSourcePackages) - [Deb Diff](https://wiki.ubuntu.com/UbuntuStudio/DebDiff) - [Setup Local ISO Build Server](https://wiki.ubuntu.com/UbuntuStudio/SetupLocalIsoBuildServer) - [All About ISOs](https://wiki.ubuntu.com/UbuntuStudio/AllAboutISOs) - [Kernel Maintenance](https://wiki.ubuntu.com/UbuntuStudio/KernelMaintenance) - [Ubiquity - the live installer](https://wiki.ubuntu.com/UbuntuStudio/Ubiquity) **[Developer Tutorials](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample) **[Workflows](https://wiki.ubuntu.com/UbuntuStudio/Workflows)** - [Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio) - [Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video) - [Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics) - [Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography) - [Publishing](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Publishing) **[Workflow Categories](https://wiki.ubuntu.com/UbuntuStudio/WorkflowCategories)** **[Freedesktop Categories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories)** **[Deb Tags](https://wiki.ubuntu.com/UbuntuStudio/Debtags)** **[Ubuntu Studio Packages](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](https://wiki.ubuntu.com/UbuntuStudio/LaunchpadProjects)** **Reference** - [Terminology](https://wiki.ubuntu.com/UbuntuStudio/Terminology)
+**-- [Developer](Development) Side Bar -- ([Edit](Navigation/DevSideBar))** **Team Pages** - [Bugs Team](UbuntuStudioBugsTeamPage) - [Contributor Team](ContributorTeamPage) - [Core Team](CoreTeamPage) - [Dev Team](DevTeamPage) - [Kernel Team](KernelTeamPage) - [Release Team](ReleaseTeamPage) - [Testing Team](TestingTeamPage) **[Ubuntu Studio Policy](Policy)** - [Project Lead Vote](ProjectLeadVote) **[UbuntuStudio/Packaging](Packaging)** [Needs Packaging](NeedsPackaging) **[Developer Documentation](DeveloperDocumentation)** - [Setup Dev Environment](SetupDeveloperEnvironment) - [Bzr Cheat Sheet](Bzr) - [Bug Management](BugManagement) - [Packaging](Packaging) -- [Ubuntu Studio Package Maintenance](Packaging/UploadingPackages) -- [Uploading Packages (to the archive)](Packaging/UploadingPackages) - [Backports](Backports) - [Stable Release Updates (SRU)](StableReleaseUpdates) - [Seed Management](PackageSelectionDevelopment) - [Uploading to PPA](Packaging/UploadingPackages) - [Applying Patches](PatchingSourcePackages) - [Deb Diff](DebDiff) - [Setup Local ISO Build Server](SetupLocalIsoBuildServer) - [All About ISOs](AllAboutISOs) - [Kernel Maintenance](KernelMaintenance) - [Ubiquity - the live installer](Ubiquity) **[Developer Tutorials](DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](DeveloperTutorials/SimpleBugFixExample) **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Video](Workflows/Video) - [Graphics](Workflows/Graphics) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) **[Workflow Categories](WorkflowCategories)** **[Freedesktop Categories](FreedesktopCategories)** **[Deb Tags](Debtags)** **[Ubuntu Studio Packages](UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](LaunchpadProjects)** **Reference** - [Terminology](Terminology)
 
-[UbuntuStudio/BackportsList](https://wiki.ubuntu.com/UbuntuStudio/BackportsList) - List of applications that are to be backported. [UbuntuStudio/BackportsHowToHelp](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp) - Older howto on backporting
+[UbuntuStudio/BackportsList](BackportsList) - List of applications that are to be backported. [UbuntuStudio/BackportsHowToHelp](BackportsHowToHelp) - Older howto on backporting
 
 # What is backporting?
 
@@ -40,13 +40,13 @@ Backporting means adding an application from a newer release to an older release
 
 # When to do a backport?
 
-When wanting to add new features to an older release, you may backport an application. Backporting is not done when wanting to fix a bug. In the case where you want to fix a bug, do a [SRU](https://wiki.ubuntu.com/UbuntuStudio/StableReleaseUpdates) (Stable Release Update) instead.
+When wanting to add new features to an older release, you may backport an application. Backporting is not done when wanting to fix a bug. In the case where you want to fix a bug, do a [SRU](StableReleaseUpdates) (Stable Release Update) instead.
 
 # How to Backport
 
 ## Claim the task
 
-Go to [UbuntuStudio/BackportsList](https://wiki.ubuntu.com/UbuntuStudio/BackportsList) and look for a package on the list that needs backporting. Double check the latest version in the development release by visiting launchpad using the link in the table. There may be a new version since the package was last backported.
+Go to [UbuntuStudio/BackportsList](BackportsList) and look for a package on the list that needs backporting. Double check the latest version in the development release by visiting launchpad using the link in the table. There may be a new version since the package was last backported.
 
 Claim a backport by putting yourself in the Responsible column, and putting the status to "not started".
 
@@ -68,7 +68,7 @@ The first time you do this, you might need to authorise the *requestbackport* to
 
 An editor will opened for you to edit the bug description. Normally all you need to do is to explain the reason for the backport. Just state that "The Ubuntu Studio Team plan to regularly backport our priority packages to all still supported LTS releases."
 
-The *requestbackport* tool will submit the bug for you, and output a URL for it. Copy this link to your clipboard, and then copy this link into the table on the [UbuntuStudio/BackportsList](https://wiki.ubuntu.com/UbuntuStudio/BackportsList).
+The *requestbackport* tool will submit the bug for you, and output a URL for it. Copy this link to your clipboard, and then copy this link into the table on the [UbuntuStudio/BackportsList](BackportsList).
 
 ## Build the source packages & upload to a ppa
 
@@ -82,13 +82,13 @@ backportpackage -u ppa:ubuntustudio-dev/backport-testing -s yakkety -d xenial ar
 
 The *backportpackage* tool will download the package source, and build the source package. You will need to sign the *.dsc & *.changes files with your gpg key, and then you will be prompted about uploading to the ppa. Say yes! Then the package will be uploaded to the ppa for building.
 
-Go to [UbuntuStudio/BackportsList](https://wiki.ubuntu.com/UbuntuStudio/BackportsList) and change the status of your backport to 'started'.
+Go to [UbuntuStudio/BackportsList](BackportsList) and change the status of your backport to 'started'.
 
 ## Build the binary packages & test
 
 Monitor the ppa and confirm that the package successfully builds. If so, go to the backport bug in Launchpad, and edit the bug description by placing a 'X' in the box 'builds without modification'.
 
-It is possible that the build fails. This may be due to a build dependency missing in the target release. If so, you will need to backport the missing dependencies. Make a note in the tables on [UbuntuStudio/BackportsList](https://wiki.ubuntu.com/UbuntuStudio/BackportsList). It may also fail due to an incompatibility between the version of the libraries in the target release compared to the development release. This may be harder to track down, but also potentially fixed by backporting something.
+It is possible that the build fails. This may be due to a build dependency missing in the target release. If so, you will need to backport the missing dependencies. Make a note in the tables on [UbuntuStudio/BackportsList](BackportsList). It may also fail due to an incompatibility between the version of the libraries in the target release compared to the development release. This may be harder to track down, but also potentially fixed by backporting something.
 
 Worst case, it may be necessary to modify the package to get it to build in the target release (perhaps by applying a patch). This will need to be done using traditional packaging skills and build in a *pbuilder* chroot of the target release.
 

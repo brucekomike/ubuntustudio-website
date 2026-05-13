@@ -2,17 +2,17 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/WorkflowPanel
 
-## [WorkflowPanel](https://wiki.ubuntu.com/UbuntuStudio/WorkflowPanel)
+## [WorkflowPanel](WorkflowPanel)
 
 | Contents Menus Utilities Workflow Menu |
 | --- |
 
 Contents
 
-1. [Menus](https://wiki.ubuntu.com/UbuntuStudio/WorkflowPanel#Menus) [Utilities](https://wiki.ubuntu.com/UbuntuStudio/WorkflowPanel#Utilities) [Workflow Menu](https://wiki.ubuntu.com/UbuntuStudio/WorkflowPanel#Workflow_Menu)
+1. [Menus](WorkflowPanel#Menus) [Utilities](WorkflowPanel#Utilities) [Workflow Menu](WorkflowPanel#Workflow_Menu)
 
-1. [Utilities](https://wiki.ubuntu.com/UbuntuStudio/WorkflowPanel#Utilities)
-2. [Workflow Menu](https://wiki.ubuntu.com/UbuntuStudio/WorkflowPanel#Workflow_Menu)
+1. [Utilities](WorkflowPanel#Utilities)
+2. [Workflow Menu](WorkflowPanel#Workflow_Menu)
 
 This is a custom panel being designed for Ubuntu Studio.
 

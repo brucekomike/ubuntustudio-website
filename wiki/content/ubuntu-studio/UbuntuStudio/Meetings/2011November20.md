@@ -2,14 +2,14 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20
 
-## [2011November20](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20)
+## [2011November20](2011November20)
 
 | Ubuntu Studio Meetings Schedule | Old Meeting Logs |
 | --- | --- |
 
-[Ubuntu Studio Meetings Schedule](https://wiki.ubuntu.com/UbuntuStudio/Meetings)
+[Ubuntu Studio Meetings Schedule](index)
 
-[Old Meeting Logs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/Minutes)
+[Old Meeting Logs](Minutes)
 
 **What:** Ubuntu Studio Contributors Meeting
 
@@ -22,15 +22,15 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20
 
 Contents
 
-1. [Agenda for Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Agenda_for_Meeting) [Call Meeting to Order](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Call_Meeting_to_Order) [Old Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Old_Business) [previous action items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#previous_action_items) [Any Other Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Any_Other_Business) [Next Meeting Time/Location](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Next_Meeting_Time.2FLocation) [Next Meeting Chair](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Next_Meeting_Chair)
-2. [action items and logs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#action_items_and_logs)
+1. [Agenda for Meeting](2011November20#Agenda_for_Meeting) [Call Meeting to Order](2011November20#Call_Meeting_to_Order) [Old Business](2011November20#Old_Business) [previous action items](2011November20#previous_action_items) [Any Other Business](2011November20#Any_Other_Business) [Next Meeting Time/Location](2011November20#Next_Meeting_Time.2FLocation) [Next Meeting Chair](2011November20#Next_Meeting_Chair)
+2. [action items and logs](2011November20#action_items_and_logs)
 
-1. [Call Meeting to Order](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Call_Meeting_to_Order)
-2. [Old Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Old_Business)
-3. [previous action items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#previous_action_items)
-4. [Any Other Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Any_Other_Business)
-5. [Next Meeting Time/Location](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Next_Meeting_Time.2FLocation)
-6. [Next Meeting Chair](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20#Next_Meeting_Chair)
+1. [Call Meeting to Order](2011November20#Call_Meeting_to_Order)
+2. [Old Business](2011November20#Old_Business)
+3. [previous action items](2011November20#previous_action_items)
+4. [Any Other Business](2011November20#Any_Other_Business)
+5. [Next Meeting Time/Location](2011November20#Next_Meeting_Time.2FLocation)
+6. [Next Meeting Chair](2011November20#Next_Meeting_Chair)
 
 # Agenda for Meeting
 

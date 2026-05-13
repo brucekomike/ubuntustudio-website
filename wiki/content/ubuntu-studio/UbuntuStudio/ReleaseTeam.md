@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeam
 
-## [ReleaseTeam](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeam)
+## [ReleaseTeam](ReleaseTeam)
 
 | Task Description | Maintains and executes the release in a specific wiki page |
 | --- | --- |
@@ -15,7 +15,7 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeam
 
 **Task Description**
 
-Maintains and executes the release in [a specific wiki page](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure)
+Maintains and executes the release in [a specific wiki page](ReleaseProcedure)
 
 **Launchpad Team**
 
@@ -23,7 +23,7 @@ Maintains and executes the release in [a specific wiki page](https://wiki.ubuntu
 
 **Team Wiki**
 
-[Release Team Page](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeamPage)
+[Release Team Page](ReleaseTeamPage)
 
 **Blueprint**
 
@@ -39,7 +39,7 @@ N/A
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

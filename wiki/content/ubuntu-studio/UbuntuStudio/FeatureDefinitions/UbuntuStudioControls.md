@@ -2,71 +2,71 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls
 
-## [UbuntuStudioControls](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls)
+## [UbuntuStudioControls](UbuntuStudioControls)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
-[../FeatureDefinitions](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions)
+[../FeatureDefinitions](index)
 
 # Ubuntu Studio Controls Feature Definition
 
 Contents
 
-1. [Ubuntu Studio Controls Feature Definition](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Ubuntu_Studio_Controls_Feature_Definition)
-2. [Graphical Design:](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Graphical_Design:) [AppIndicator](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#AppIndicator)
-3. [Features](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Features) [System Info](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#System_Info) [System Check Script](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#System_Check_Script) [Monitor System Resources](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Monitor_System_Resources) [System Settings](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#System_Settings) [Realtime Administration](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Realtime_Administration) [Swappiness](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Swappiness) [CPU governor](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#CPU_governor) [Third Party Application Control](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Third_Party_Application_Control) [Jack](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Jack) [Pulseaudio](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Pulseaudio) [a2jmidid](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#a2jmidid) [zita-a2j](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#zita-a2j) [Third Party Application Launchers](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Third_Party_Application_Launchers) [pavucontrol](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#pavucontrol) [card mixer](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#card_mixer) [patchage](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#patchage) [Session Settings](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Session_Settings) [Systray/Indicator App Menu](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Systray.2FIndicator_App_Menu)
+1. [Ubuntu Studio Controls Feature Definition](UbuntuStudioControls#Ubuntu_Studio_Controls_Feature_Definition)
+2. [Graphical Design:](UbuntuStudioControls#Graphical_Design:) [AppIndicator](UbuntuStudioControls#AppIndicator)
+3. [Features](UbuntuStudioControls#Features) [System Info](UbuntuStudioControls#System_Info) [System Check Script](UbuntuStudioControls#System_Check_Script) [Monitor System Resources](UbuntuStudioControls#Monitor_System_Resources) [System Settings](UbuntuStudioControls#System_Settings) [Realtime Administration](UbuntuStudioControls#Realtime_Administration) [Swappiness](UbuntuStudioControls#Swappiness) [CPU governor](UbuntuStudioControls#CPU_governor) [Third Party Application Control](UbuntuStudioControls#Third_Party_Application_Control) [Jack](UbuntuStudioControls#Jack) [Pulseaudio](UbuntuStudioControls#Pulseaudio) [a2jmidid](UbuntuStudioControls#a2jmidid) [zita-a2j](UbuntuStudioControls#zita-a2j) [Third Party Application Launchers](UbuntuStudioControls#Third_Party_Application_Launchers) [pavucontrol](UbuntuStudioControls#pavucontrol) [card mixer](UbuntuStudioControls#card_mixer) [patchage](UbuntuStudioControls#patchage) [Session Settings](UbuntuStudioControls#Session_Settings) [Systray/Indicator App Menu](UbuntuStudioControls#Systray.2FIndicator_App_Menu)
 
-1. [AppIndicator](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#AppIndicator)
+1. [AppIndicator](UbuntuStudioControls#AppIndicator)
 
-1. [System Info](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#System_Info) [System Check Script](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#System_Check_Script) [Monitor System Resources](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Monitor_System_Resources)
-2. [System Settings](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#System_Settings) [Realtime Administration](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Realtime_Administration) [Swappiness](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Swappiness) [CPU governor](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#CPU_governor)
-3. [Third Party Application Control](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Third_Party_Application_Control) [Jack](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Jack) [Pulseaudio](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Pulseaudio) [a2jmidid](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#a2jmidid) [zita-a2j](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#zita-a2j)
-4. [Third Party Application Launchers](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Third_Party_Application_Launchers) [pavucontrol](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#pavucontrol) [card mixer](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#card_mixer) [patchage](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#patchage)
-5. [Session Settings](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Session_Settings)
-6. [Systray/Indicator App Menu](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Systray.2FIndicator_App_Menu)
+1. [System Info](UbuntuStudioControls#System_Info) [System Check Script](UbuntuStudioControls#System_Check_Script) [Monitor System Resources](UbuntuStudioControls#Monitor_System_Resources)
+2. [System Settings](UbuntuStudioControls#System_Settings) [Realtime Administration](UbuntuStudioControls#Realtime_Administration) [Swappiness](UbuntuStudioControls#Swappiness) [CPU governor](UbuntuStudioControls#CPU_governor)
+3. [Third Party Application Control](UbuntuStudioControls#Third_Party_Application_Control) [Jack](UbuntuStudioControls#Jack) [Pulseaudio](UbuntuStudioControls#Pulseaudio) [a2jmidid](UbuntuStudioControls#a2jmidid) [zita-a2j](UbuntuStudioControls#zita-a2j)
+4. [Third Party Application Launchers](UbuntuStudioControls#Third_Party_Application_Launchers) [pavucontrol](UbuntuStudioControls#pavucontrol) [card mixer](UbuntuStudioControls#card_mixer) [patchage](UbuntuStudioControls#patchage)
+5. [Session Settings](UbuntuStudioControls#Session_Settings)
+6. [Systray/Indicator App Menu](UbuntuStudioControls#Systray.2FIndicator_App_Menu)
 
-1. [System Check Script](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#System_Check_Script)
-2. [Monitor System Resources](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Monitor_System_Resources)
+1. [System Check Script](UbuntuStudioControls#System_Check_Script)
+2. [Monitor System Resources](UbuntuStudioControls#Monitor_System_Resources)
 
-1. [Realtime Administration](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Realtime_Administration)
-2. [Swappiness](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Swappiness)
-3. [CPU governor](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#CPU_governor)
+1. [Realtime Administration](UbuntuStudioControls#Realtime_Administration)
+2. [Swappiness](UbuntuStudioControls#Swappiness)
+3. [CPU governor](UbuntuStudioControls#CPU_governor)
 
-1. [Jack](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Jack)
-2. [Pulseaudio](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#Pulseaudio)
-3. [a2jmidid](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#a2jmidid)
-4. [zita-a2j](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#zita-a2j)
+1. [Jack](UbuntuStudioControls#Jack)
+2. [Pulseaudio](UbuntuStudioControls#Pulseaudio)
+3. [a2jmidid](UbuntuStudioControls#a2jmidid)
+4. [zita-a2j](UbuntuStudioControls#zita-a2j)
 
-1. [pavucontrol](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#pavucontrol)
-2. [card mixer](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#card_mixer)
-3. [patchage](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioControls#patchage)
+1. [pavucontrol](UbuntuStudioControls#pavucontrol)
+2. [card mixer](UbuntuStudioControls#card_mixer)
+3. [patchage](UbuntuStudioControls#patchage)
 
 **Resources**
 
-- [UbuntuStudio/ControlsRedesign](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign) (outdated but shows direction)
+- [UbuntuStudio/ControlsRedesign](../ControlsRedesign) (outdated but shows direction)
 
-[UbuntuStudio/ControlsRedesign](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign) (outdated but shows direction)
+[UbuntuStudio/ControlsRedesign](../ControlsRedesign) (outdated but shows direction)
 
 # Graphical Design:
 

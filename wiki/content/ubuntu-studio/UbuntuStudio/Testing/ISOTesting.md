@@ -2,56 +2,56 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting
 
-## [ISOTesting](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting)
+## [ISOTesting](ISOTesting)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](index)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Testing Sidebar -- ( edit ) Team Pages - Testing Team Page Testing Documentation - Application Testing .. Test Cases - ISO Testing - Performance Testing - Kernel Testing Desktop Environment Testing |
 | --- |
 
-** -- [Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/TestingSideBar?action=edit))** **Team Pages** - **[Testing Team Page](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage)** **[Testing Documentation](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)** - [Application Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ApplicationTesting) ..[Test Cases](https://wiki.ubuntu.com/UbuntuStudio/Testing/Testcases) - [ISO Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting) - [Performance Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/PerformanceTesting) - [Kernel Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/KernelTesting) **[Desktop Environment Testing](https://wiki.ubuntu.com/UbuntuStudio/DesktopEnvironmentTesting)**
+** -- [Testing](index) Sidebar -- ([edit](../Navigation/TestingSideBar))** **Team Pages** - **[Testing Team Page](../TestingTeamPage)** **[Testing Documentation](../TestingDocumentation)** - [Application Testing](ApplicationTesting) ..[Test Cases](Testcases) - [ISO Testing](ISOTesting) - [Performance Testing](Testing/PerformanceTesting) - [Kernel Testing](KernelTesting) **[Desktop Environment Testing](../DesktopEnvironmentTesting)**
 
 Contents
 
-1. [When do we test?](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#When_do_we_test.3F)
-2. [Testing ISO How To](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Testing_ISO_How_To) [Launchpad Account](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Launchpad_Account) [Where do we do testing?](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Where_do_we_do_testing.3F) [The milestones (Alpha, Beta, Release Candidate, Final Release)](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#The_milestones_.28Alpha.2C_Beta.2C_Release_Candidate.2C_Final_Release.29) [The Builds at the Testing Tracker Page](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#The_Builds_at_the_Testing_Tracker_Page) [What if all tests are completed?](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#What_if_all_tests_are_completed.3F) [Upgrade Tests](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Upgrade_Tests) [Where are the testing instructions?](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Where_are_the_testing_instructions.3F) [Downloading the ISO](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Downloading_the_ISO) [Check your ISO for errors - important!](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Check_your_ISO_for_errors_-_important.21) [Create an Installer](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Create_an_Installer) [Performing a test](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Performing_a_test) [If you find bugs](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#If_you_find_bugs) [How to know which package to report the bug against](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#How_to_know_which_package_to_report_the_bug_against) [Someone already reported this bug](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Someone_already_reported_this_bug) [Submitting a test result](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Submitting_a_test_result)
+1. [When do we test?](ISOTesting#When_do_we_test.3F)
+2. [Testing ISO How To](ISOTesting#Testing_ISO_How_To) [Launchpad Account](ISOTesting#Launchpad_Account) [Where do we do testing?](ISOTesting#Where_do_we_do_testing.3F) [The milestones (Alpha, Beta, Release Candidate, Final Release)](ISOTesting#The_milestones_.28Alpha.2C_Beta.2C_Release_Candidate.2C_Final_Release.29) [The Builds at the Testing Tracker Page](ISOTesting#The_Builds_at_the_Testing_Tracker_Page) [What if all tests are completed?](ISOTesting#What_if_all_tests_are_completed.3F) [Upgrade Tests](ISOTesting#Upgrade_Tests) [Where are the testing instructions?](ISOTesting#Where_are_the_testing_instructions.3F) [Downloading the ISO](ISOTesting#Downloading_the_ISO) [Check your ISO for errors - important!](ISOTesting#Check_your_ISO_for_errors_-_important.21) [Create an Installer](ISOTesting#Create_an_Installer) [Performing a test](ISOTesting#Performing_a_test) [If you find bugs](ISOTesting#If_you_find_bugs) [How to know which package to report the bug against](ISOTesting#How_to_know_which_package_to_report_the_bug_against) [Someone already reported this bug](ISOTesting#Someone_already_reported_this_bug) [Submitting a test result](ISOTesting#Submitting_a_test_result)
 
-1. [Launchpad Account](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Launchpad_Account)
-2. [Where do we do testing?](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Where_do_we_do_testing.3F)
-3. [The milestones (Alpha, Beta, Release Candidate, Final Release)](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#The_milestones_.28Alpha.2C_Beta.2C_Release_Candidate.2C_Final_Release.29)
-4. [The Builds at the Testing Tracker Page](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#The_Builds_at_the_Testing_Tracker_Page)
-5. [What if all tests are completed?](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#What_if_all_tests_are_completed.3F)
-6. [Upgrade Tests](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Upgrade_Tests)
-7. [Where are the testing instructions?](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Where_are_the_testing_instructions.3F)
-8. [Downloading the ISO](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Downloading_the_ISO)
-9. [Check your ISO for errors - important!](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Check_your_ISO_for_errors_-_important.21)
-10. [Create an Installer](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Create_an_Installer)
-11. [Performing a test](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Performing_a_test)
-12. [If you find bugs](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#If_you_find_bugs)
-13. [How to know which package to report the bug against](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#How_to_know_which_package_to_report_the_bug_against)
-14. [Someone already reported this bug](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Someone_already_reported_this_bug)
-15. [Submitting a test result](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting#Submitting_a_test_result)
+1. [Launchpad Account](ISOTesting#Launchpad_Account)
+2. [Where do we do testing?](ISOTesting#Where_do_we_do_testing.3F)
+3. [The milestones (Alpha, Beta, Release Candidate, Final Release)](ISOTesting#The_milestones_.28Alpha.2C_Beta.2C_Release_Candidate.2C_Final_Release.29)
+4. [The Builds at the Testing Tracker Page](ISOTesting#The_Builds_at_the_Testing_Tracker_Page)
+5. [What if all tests are completed?](ISOTesting#What_if_all_tests_are_completed.3F)
+6. [Upgrade Tests](ISOTesting#Upgrade_Tests)
+7. [Where are the testing instructions?](ISOTesting#Where_are_the_testing_instructions.3F)
+8. [Downloading the ISO](ISOTesting#Downloading_the_ISO)
+9. [Check your ISO for errors - important!](ISOTesting#Check_your_ISO_for_errors_-_important.21)
+10. [Create an Installer](ISOTesting#Create_an_Installer)
+11. [Performing a test](ISOTesting#Performing_a_test)
+12. [If you find bugs](ISOTesting#If_you_find_bugs)
+13. [How to know which package to report the bug against](ISOTesting#How_to_know_which_package_to_report_the_bug_against)
+14. [Someone already reported this bug](ISOTesting#Someone_already_reported_this_bug)
+15. [Submitting a test result](ISOTesting#Submitting_a_test_result)
 
 # When do we test?
 

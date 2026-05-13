@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadCandidateTemplate
 
-## [ProjectLeadCandidateTemplate](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadCandidateTemplate)
+## [ProjectLeadCandidateTemplate](ProjectLeadCandidateTemplate)
 
 # Personal Info
 

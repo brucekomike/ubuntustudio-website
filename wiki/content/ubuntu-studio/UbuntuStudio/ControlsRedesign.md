@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign
 
-## [ControlsRedesign](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign)
+## [ControlsRedesign](ControlsRedesign)
 
 # Ubuntu Studio Controls Redesign
 
@@ -11,23 +11,23 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign
 
 Contents
 
-1. [Ubuntu Studio Controls Redesign](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Ubuntu_Studio_Controls_Redesign) [Summary](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Summary) [Changes for Natty](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Changes_for_Natty) [Fix Broken Items](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Fix_Broken_Items) [Improve User Experience](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Improve_User_Experience) [Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10)](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Ubuntu_Studio_controls_redesign_proposal_for_the_next_release_of_Ubuntu_.2810.10.29) [Development information about this application](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Development_information_about_this_application) [Features Proposed](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Features_Proposed) [This topic is intended to propose new features or redesign of already existent](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#This_topic_is_intended_to_propose_new_features_or_redesign_of_already_existent) [Mock-ups](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Mock-ups) [Links and tutorials](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Links_and_tutorials)
+1. [Ubuntu Studio Controls Redesign](ControlsRedesign#Ubuntu_Studio_Controls_Redesign) [Summary](ControlsRedesign#Summary) [Changes for Natty](ControlsRedesign#Changes_for_Natty) [Fix Broken Items](ControlsRedesign#Fix_Broken_Items) [Improve User Experience](ControlsRedesign#Improve_User_Experience) [Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10)](ControlsRedesign#Ubuntu_Studio_controls_redesign_proposal_for_the_next_release_of_Ubuntu_.2810.10.29) [Development information about this application](ControlsRedesign#Development_information_about_this_application) [Features Proposed](ControlsRedesign#Features_Proposed) [This topic is intended to propose new features or redesign of already existent](ControlsRedesign#This_topic_is_intended_to_propose_new_features_or_redesign_of_already_existent) [Mock-ups](ControlsRedesign#Mock-ups) [Links and tutorials](ControlsRedesign#Links_and_tutorials)
 
-1. [Summary](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Summary)
-2. [Changes for Natty](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Changes_for_Natty) [Fix Broken Items](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Fix_Broken_Items) [Improve User Experience](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Improve_User_Experience) [Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10)](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Ubuntu_Studio_controls_redesign_proposal_for_the_next_release_of_Ubuntu_.2810.10.29) [Development information about this application](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Development_information_about_this_application)
-3. [Features Proposed](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Features_Proposed) [This topic is intended to propose new features or redesign of already existent](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#This_topic_is_intended_to_propose_new_features_or_redesign_of_already_existent)
-4. [Mock-ups](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Mock-ups)
-5. [Links and tutorials](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Links_and_tutorials)
+1. [Summary](ControlsRedesign#Summary)
+2. [Changes for Natty](ControlsRedesign#Changes_for_Natty) [Fix Broken Items](ControlsRedesign#Fix_Broken_Items) [Improve User Experience](ControlsRedesign#Improve_User_Experience) [Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10)](ControlsRedesign#Ubuntu_Studio_controls_redesign_proposal_for_the_next_release_of_Ubuntu_.2810.10.29) [Development information about this application](ControlsRedesign#Development_information_about_this_application)
+3. [Features Proposed](ControlsRedesign#Features_Proposed) [This topic is intended to propose new features or redesign of already existent](ControlsRedesign#This_topic_is_intended_to_propose_new_features_or_redesign_of_already_existent)
+4. [Mock-ups](ControlsRedesign#Mock-ups)
+5. [Links and tutorials](ControlsRedesign#Links_and_tutorials)
 
-1. [Fix Broken Items](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Fix_Broken_Items)
-2. [Improve User Experience](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Improve_User_Experience) [Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10)](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Ubuntu_Studio_controls_redesign_proposal_for_the_next_release_of_Ubuntu_.2810.10.29)
-3. [Development information about this application](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Development_information_about_this_application)
+1. [Fix Broken Items](ControlsRedesign#Fix_Broken_Items)
+2. [Improve User Experience](ControlsRedesign#Improve_User_Experience) [Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10)](ControlsRedesign#Ubuntu_Studio_controls_redesign_proposal_for_the_next_release_of_Ubuntu_.2810.10.29)
+3. [Development information about this application](ControlsRedesign#Development_information_about_this_application)
 
-1. [Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10)](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#Ubuntu_Studio_controls_redesign_proposal_for_the_next_release_of_Ubuntu_.2810.10.29)
+1. [Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10)](ControlsRedesign#Ubuntu_Studio_controls_redesign_proposal_for_the_next_release_of_Ubuntu_.2810.10.29)
 
-1. [This topic is intended to propose new features or redesign of already existent](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#This_topic_is_intended_to_propose_new_features_or_redesign_of_already_existent)
+1. [This topic is intended to propose new features or redesign of already existent](ControlsRedesign#This_topic_is_intended_to_propose_new_features_or_redesign_of_already_existent)
 
-1. [This topic is intended to propose new features or redesign of already existent](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign#This_topic_is_intended_to_propose_new_features_or_redesign_of_already_existent)
+1. [This topic is intended to propose new features or redesign of already existent](ControlsRedesign#This_topic_is_intended_to_propose_new_features_or_redesign_of_already_existent)
 
 ## Summary
 

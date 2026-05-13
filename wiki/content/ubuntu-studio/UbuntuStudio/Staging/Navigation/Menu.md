@@ -2,23 +2,23 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Staging/Navigation/Menu
 
-## [Menu](https://wiki.ubuntu.com/UbuntuStudio/Staging/Navigation/Menu)
+## [Menu](Menu)
 
 | Home | Testing | Documentation | PR & Support | Artwork | Developer/Contributor | Planning |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](../..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)**
+**[Testing](../../TestingDocumentation)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../../Documentation)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation)**
+**[PR & Support](../../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../../Artwork)**
 
-**[Developer/Contributor](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)**
+**[Developer/Contributor](../../DeveloperDocumentation)**
 
-**[Planning](https://wiki.ubuntu.com/UbuntuStudio/Planning)**
+**[Planning](../../ReleasePlanning)**
 
 UbuntuStudio/Staging/Navigation/Menu (last edited 2015-09-03 08:22:39 by 83)

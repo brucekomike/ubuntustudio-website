@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/BlueprintsT
 
-## [BlueprintsT](https://wiki.ubuntu.com/UbuntuStudio/BlueprintsT)
+## [BlueprintsT](BlueprintsT)
 
 Blueprints for Ubuntu Studio 14.04
 

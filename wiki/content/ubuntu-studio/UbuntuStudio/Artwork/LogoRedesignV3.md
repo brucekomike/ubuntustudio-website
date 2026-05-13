@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/LogoRedesignV3
 
-## [LogoRedesignV3](https://wiki.ubuntu.com/UbuntuStudio/Artwork/LogoRedesignV3)
+## [LogoRedesignV3](LogoRedesignV3)
 
 This page is for ideas of the 3rd iteration of the Ubuntu Studio logo.
 
@@ -11,9 +11,9 @@ This page is for ideas of the 3rd iteration of the Ubuntu Studio logo.
 
 Contents
 
-1. [Cory K.'s Ideas](https://wiki.ubuntu.com/UbuntuStudio/Artwork/LogoRedesignV3#Cory_K..27s_Ideas)
-2. [Scott L.'s Ideas](https://wiki.ubuntu.com/UbuntuStudio/Artwork/LogoRedesignV3#Scott_L..27s_Ideas)
-3. [Brian David.'s Ideas](https://wiki.ubuntu.com/UbuntuStudio/Artwork/LogoRedesignV3#Brian_David..27s_Ideas)
+1. [Cory K.'s Ideas](LogoRedesignV3#Cory_K..27s_Ideas)
+2. [Scott L.'s Ideas](LogoRedesignV3#Scott_L..27s_Ideas)
+3. [Brian David.'s Ideas](LogoRedesignV3#Brian_David..27s_Ideas)
 
 **Logo should:**
 

@@ -6,107 +6,107 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork
 >
 > Typography and palette references for current branding are documented in [NewBrand](NewBrand).
 
-## [Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)
+## [Artwork](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](index)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Artwork -- ( edit ) Team Pages - Art Team Page - Website Team Page Ubuntu Studio Artwork - User Show Case - Official 13.10 S Art -- S blueprint - Official 14.04 T Art -- T blueprint - Official 16.04 T Art |
 | --- |
 
-**-- [Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork) -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/ArtSideBar?action=edit))** **Team Pages** - [Art Team Page](https://wiki.ubuntu.com/UbuntuStudio/ArtTeamPage) - [Website Team Page](https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeamPage) **[Ubuntu Studio Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)** - [User Show Case](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase) - [Official 13.10 S Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1310) -- [S blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-s-artwork) - [Official 14.04 T Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1404) -- [T blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-t-artwork) - [Official 16.04 T Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialXenial)
+**-- [Artwork](index) -- ([edit](../Navigation/ArtSideBar))** **Team Pages** - [Art Team Page](../ArtTeamPage) - [Website Team Page](../WebsiteTeamPage) **[Ubuntu Studio Artwork](index)** - [User Show Case](UserShowcase) - [Official 13.10 S Art](Official1310) -- [S blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-s-artwork) - [Official 14.04 T Art](Official1404) -- [T blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-t-artwork) - [Official 16.04 T Art](OfficialXenial)
 
 ## New Branding
 
-- [New Ubuntu Studio Brand Resources](https://wiki.ubuntu.com/UbuntuStudio/Artwork/NewBrand)
+- [New Ubuntu Studio Brand Resources](NewBrand)
 
-[New Ubuntu Studio Brand Resources](https://wiki.ubuntu.com/UbuntuStudio/Artwork/NewBrand)
+[New Ubuntu Studio Brand Resources](NewBrand)
 
 ## Art Showcase
 
-- [Social Networks Creations](https://wiki.ubuntu.com/UbuntuStudio/Artwork/SocialNetworksCreations)
-- [Wallpapers](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Wallpapers) (coming soon) ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png)
+- [Social Networks Creations](SocialNetworksCreations)
+- [Wallpapers](Artwork/Wallpaper) (coming soon) ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png)
 
-[Social Networks Creations](https://wiki.ubuntu.com/UbuntuStudio/Artwork/SocialNetworksCreations)
+[Social Networks Creations](SocialNetworksCreations)
 
-[Wallpapers](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Wallpapers) (coming soon) ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png)
+[Wallpapers](Artwork/Wallpaper) (coming soon) ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png)
 
 ## Releases Related
 
-- [Official Feisty Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialFeisty)
-- [Official Gutsy Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialGutsy)
-- [Official Hardy Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialHardy)
-- [Official Intrepid Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialIntrepid)
-- [Official Lucid Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialLucid)
-- [Official Natty Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialNatty)
-- [Official Oneiric Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialOneiric)
-- [Official Precise Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialPrecise)
-- [Official Raring Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialRaring)
-- [Official 13.10 "S" Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1310)
-- [Official 14.04 "T" Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1404)
-- [Official Xenial 16.04 LTS Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialXenial)
-- [Official Jammy 22.04 LTS Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialJammy)
-- [User Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserContributed)
-- [D.I.Y. Concept](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept) (Work In Progress) ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png)
+- [Official Feisty Art](OfficialFeisty)
+- [Official Gutsy Art](OfficialGutsy)
+- [Official Hardy Art](OfficialHardy)
+- [Official Intrepid Art](OfficialIntrepid)
+- [Official Lucid Art](OfficialLucid)
+- [Official Natty Art](Artwork/OfficialNatty)
+- [Official Oneiric Art](OfficialOneiric)
+- [Official Precise Art](OfficialPrecise)
+- [Official Raring Art](OfficialRaring)
+- [Official 13.10 "S" Art](Official1310)
+- [Official 14.04 "T" Art](Official1404)
+- [Official Xenial 16.04 LTS Art](OfficialXenial)
+- [Official Jammy 22.04 LTS Art](Artwork/OfficialJammy)
+- [User Art](UserContributed)
+- [D.I.Y. Concept](DIYConcept) (Work In Progress) ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png)
 
-[Official Feisty Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialFeisty)
+[Official Feisty Art](OfficialFeisty)
 
-[Official Gutsy Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialGutsy)
+[Official Gutsy Art](OfficialGutsy)
 
-[Official Hardy Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialHardy)
+[Official Hardy Art](OfficialHardy)
 
-[Official Intrepid Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialIntrepid)
+[Official Intrepid Art](OfficialIntrepid)
 
-[Official Lucid Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialLucid)
+[Official Lucid Art](OfficialLucid)
 
-[Official Natty Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialNatty)
+[Official Natty Art](Artwork/OfficialNatty)
 
-[Official Oneiric Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialOneiric)
+[Official Oneiric Art](OfficialOneiric)
 
-[Official Precise Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialPrecise)
+[Official Precise Art](OfficialPrecise)
 
-[Official Raring Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialRaring)
+[Official Raring Art](OfficialRaring)
 
-[Official 13.10 "S" Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1310)
+[Official 13.10 "S" Art](Official1310)
 
-[Official 14.04 "T" Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1404)
+[Official 14.04 "T" Art](Official1404)
 
-[Official Xenial 16.04 LTS Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialXenial)
+[Official Xenial 16.04 LTS Art](OfficialXenial)
 
-[Official Jammy 22.04 LTS Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialJammy)
+[Official Jammy 22.04 LTS Art](Artwork/OfficialJammy)
 
-[User Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserContributed)
+[User Art](UserContributed)
 
-[D.I.Y. Concept](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept) (Work In Progress) ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png)
+[D.I.Y. Concept](DIYConcept) (Work In Progress) ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png)
 
 ## Themes
 
-- [Carbon Theme Wallpapers](https://wiki.ubuntu.com/UbuntuStudio/Artwork/CarbonTheme) (In Development)
-- [Rock Theme Wallpapers](https://wiki.ubuntu.com/UbuntuStudio/Artwork/RockTheme)
+- [Carbon Theme Wallpapers](CarbonTheme) (In Development)
+- [Rock Theme Wallpapers](RockTheme)
 
-[Carbon Theme Wallpapers](https://wiki.ubuntu.com/UbuntuStudio/Artwork/CarbonTheme) (In Development)
+[Carbon Theme Wallpapers](CarbonTheme) (In Development)
 
-[Rock Theme Wallpapers](https://wiki.ubuntu.com/UbuntuStudio/Artwork/RockTheme)
+[Rock Theme Wallpapers](RockTheme)
 
 ---
 

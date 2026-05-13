@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-audio
 
-## [ubuntustudio-audio](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-audio)
+## [ubuntustudio-audio](ubuntustudio-audio)
 
 ```
 ===Package : aconnectgui===

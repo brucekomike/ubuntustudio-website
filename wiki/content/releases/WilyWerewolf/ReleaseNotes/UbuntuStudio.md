@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/WilyWerewolf/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/WilyWerewolf/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # Release Notes for Ubuntu Studio 15.10 Wily Werewolf
 

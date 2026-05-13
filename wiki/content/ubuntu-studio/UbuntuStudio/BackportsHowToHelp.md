@@ -2,36 +2,36 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp
 
-## [BackportsHowToHelp](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp)
+## [BackportsHowToHelp](BackportsHowToHelp)
 
 | Contents Abstract Required Tools Process Overview Prerequisites Setting Up Pbuilder Packages for Building Get the Source Code File Bug Report Updating changelog Package Number Distribution Change Details Name/Email Date/Time Example Build in pbuilder Uploading to PPA Detailed Process for Ubuntu Studio |
 | --- |
 
 Contents
 
-1. [Abstract](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Abstract)
-2. [Required Tools](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Required_Tools)
-3. [Process Overview](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Process_Overview)
-4. [Prerequisites](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Prerequisites)
-5. [Setting Up Pbuilder](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Setting_Up_Pbuilder)
-6. [Packages for Building](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Packages_for_Building)
-7. [Get the Source Code](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Get_the_Source_Code)
-8. [File Bug Report](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#File_Bug_Report)
-9. [Updating changelog](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Updating_changelog) [Package Number](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Package_Number) [Distribution](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Distribution) [Change Details](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Change_Details) [Name/Email](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Name.2FEmail) [Date/Time](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Date.2FTime) [Example](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Example)
-10. [Build in pbuilder](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Build_in_pbuilder)
-11. [Uploading to PPA](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Uploading_to_PPA)
-12. [Detailed Process for Ubuntu Studio](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Detailed_Process_for_Ubuntu_Studio)
+1. [Abstract](BackportsHowToHelp#Abstract)
+2. [Required Tools](BackportsHowToHelp#Required_Tools)
+3. [Process Overview](BackportsHowToHelp#Process_Overview)
+4. [Prerequisites](BackportsHowToHelp#Prerequisites)
+5. [Setting Up Pbuilder](BackportsHowToHelp#Setting_Up_Pbuilder)
+6. [Packages for Building](BackportsHowToHelp#Packages_for_Building)
+7. [Get the Source Code](BackportsHowToHelp#Get_the_Source_Code)
+8. [File Bug Report](BackportsHowToHelp#File_Bug_Report)
+9. [Updating changelog](BackportsHowToHelp#Updating_changelog) [Package Number](BackportsHowToHelp#Package_Number) [Distribution](BackportsHowToHelp#Distribution) [Change Details](BackportsHowToHelp#Change_Details) [Name/Email](BackportsHowToHelp#Name.2FEmail) [Date/Time](BackportsHowToHelp#Date.2FTime) [Example](BackportsHowToHelp#Example)
+10. [Build in pbuilder](BackportsHowToHelp#Build_in_pbuilder)
+11. [Uploading to PPA](BackportsHowToHelp#Uploading_to_PPA)
+12. [Detailed Process for Ubuntu Studio](BackportsHowToHelp#Detailed_Process_for_Ubuntu_Studio)
 
-1. [Package Number](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Package_Number)
-2. [Distribution](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Distribution)
-3. [Change Details](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Change_Details)
-4. [Name/Email](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Name.2FEmail)
-5. [Date/Time](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Date.2FTime)
-6. [Example](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp#Example)
+1. [Package Number](BackportsHowToHelp#Package_Number)
+2. [Distribution](BackportsHowToHelp#Distribution)
+3. [Change Details](BackportsHowToHelp#Change_Details)
+4. [Name/Email](BackportsHowToHelp#Name.2FEmail)
+5. [Date/Time](BackportsHowToHelp#Date.2FTime)
+6. [Example](BackportsHowToHelp#Example)
 
 ## Abstract
 
-This page was created to help assist backporting applications for the Ubuntu Studio team and is linked from [UbuntuStudio/Backports](https://wiki.ubuntu.com/UbuntuStudio/Backports). More detailed instructions specific to the Ubuntu Studio workflow will be found there.
+This page was created to help assist backporting applications for the Ubuntu Studio team and is linked from [UbuntuStudio/Backports](Backports). More detailed instructions specific to the Ubuntu Studio workflow will be found there.
 
 We will describe the tools to be used, the overall process, and how to set up your environment.
 
@@ -325,6 +325,6 @@ dput ppa:your-lp-id/ppa <source.changes>
 
 ## Detailed Process for Ubuntu Studio
 
-A more step by step process will be found on the [UbuntuStudio/Backports](https://wiki.ubuntu.com/UbuntuStudio/Backports) wiki. This will also help us to track where we are with each backport.
+A more step by step process will be found on the [UbuntuStudio/Backports](Backports) wiki. This will also help us to track where we are with each backport.
 
 UbuntuStudio/BackportsHowToHelp (last edited 2016-05-23 16:31:47 by [rosco2](https://launchpad.net/~rosco2))

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Wishlist
 
-## [Wishlist](https://wiki.ubuntu.com/UbuntuStudio/Wishlist)
+## [Wishlist](Wishlist)
 
 This is the page for users to contribute feature request ideas to Ubuntu Studio. The page will continually be updated. We will comment on things as much as possible. Give ideas a Yes/No vote.
 
@@ -14,7 +14,7 @@ This is the page for users to contribute feature request ideas to Ubuntu Studio.
 - A Specific "team" for each part of ubuntu-studio i.e. Audio team, Video Team, and Graphics team. This way, users with the same interests can get together and work to develop specific parts of ubuntu-studio
 - I'm not sure what benefit this would provide. Please take this idea to the [ML](https://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-devel). -C.Kontros
 - Wiki pages for getting started, tutorials, best practices, walk-throughs, troubleshooting, etc. I think the biggest stumbling block is how to get started for new users. There should be detailed info about jack, how jack connects to ardour, how to use ladspa plugins, how to use soft instruments with ardour, etc....
-- There is already a place for this. [HERE](https://help.ubuntu.com/community/UbuntuStudio) It's up to everyone to develop the documentation. -C.Kontros
+- There is already a place for this. [HERE](../../../../help) It's up to everyone to develop the documentation. -C.Kontros
 - Simplicity, but with options: The default-out-of-the-box install should not have too much duplication in packages for a given function. Clearly some packages will offer features that others do not, and so would be complimentary, but too many options on the screen & menus can be a little paralyzing, distracting at least, even for experienced users. Make it easy to acquire the "secondary" set of packages but be choosy about the default set. As a cut-off criteria, packages that are still in beta, or are not feature-complete (by their own description), or do not have a "stable" rating (on a site such as freshmeat.net) should be omitted from the default install. -JW
 - Please keep the package names below alphabetically sorted. This would allow an easier reading and editing, except those findable now in the repository, which should be listed apart. As well it will help packagers to find out what were not yet packaged.
 - Extending the notion of "Studio" in Ubuntu Studio, to fit the needs of Web Designers (WYSIWYG editors for webpages, text editors etc.) and Web Developers (IDEs, text editors, apache, mysql/postgresql, php/perl/ruby/python, ftp-server).
@@ -23,7 +23,7 @@ Please check at [https://launchpad.net/projects/](https://launchpad.net/projects
 
 I'm not sure what benefit this would provide. Please take this idea to the [ML](https://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-devel). -C.Kontros
 
-There is already a place for this. [HERE](https://help.ubuntu.com/community/UbuntuStudio) It's up to everyone to develop the documentation. -C.Kontros
+There is already a place for this. [HERE](../../../../help) It's up to everyone to develop the documentation. -C.Kontros
 
 Simplicity, but with options: The default-out-of-the-box install should not have too much duplication in packages for a given function. Clearly some packages will offer features that others do not, and so would be complimentary, but too many options on the screen & menus can be a little paralyzing, distracting at least, even for experienced users. Make it easy to acquire the "secondary" set of packages but be choosy about the default set. As a cut-off criteria, packages that are still in beta, or are not feature-complete (by their own description), or do not have a "stable" rating (on a site such as freshmeat.net) should be omitted from the default install. -JW
 
@@ -318,7 +318,7 @@ Xaos ([http://wmi.math.u-szeged.hu/xaos/doku.php](http://wmi.math.u-szeged.hu/xa
 - GREYCstoration ([http://www.greyc.ensicaen.fr/~dtschump/greycstoration/](http://www.greyc.ensicaen.fr/~dtschump/greycstoration/)) - image restoration
 - JPatch ([http://www.jpatch.com/](http://www.jpatch.com/)) - 3d mesh editor (very useful for working with Blender and alike)
 - [LightZone](https://wiki.ubuntu.com/LightZone) ([http://www-old.lightcrafts.com/linux/](http://www-old.lightcrafts.com/linux/)) - RAW converter
-- Offical "Made in [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)" or similar logos for promoting Ubuntu and [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) distributions in print and electronic mediums. (See "Made on a Mac" images.)
+- Offical "Made in [UbuntuStudio](index)" or similar logos for promoting Ubuntu and [UbuntuStudio](index) distributions in print and electronic mediums. (See "Made on a Mac" images.)
 - PSPI ([http://www.gimp.org/~tml/gimp/win32/pspi.html](http://www.gimp.org/~tml/gimp/win32/pspi.html)) - GIMP plugin to run photoshop plugins
 - sk1 ([http://sk1project.org/](http://sk1project.org/)) - vectorial drawing editor with CMYK support
 - UIRA ([http://uira.sourceforge.net/](http://uira.sourceforge.net/)) vector animation Authoring Environment (SWF/SVG)
@@ -341,7 +341,7 @@ JPatch ([http://www.jpatch.com/](http://www.jpatch.com/)) - 3d mesh editor (very
 
 [LightZone](https://wiki.ubuntu.com/LightZone) ([http://www-old.lightcrafts.com/linux/](http://www-old.lightcrafts.com/linux/)) - RAW converter
 
-Offical "Made in [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)" or similar logos for promoting Ubuntu and [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) distributions in print and electronic mediums. (See "Made on a Mac" images.)
+Offical "Made in [UbuntuStudio](index)" or similar logos for promoting Ubuntu and [UbuntuStudio](index) distributions in print and electronic mediums. (See "Made on a Mac" images.)
 
 PSPI ([http://www.gimp.org/~tml/gimp/win32/pspi.html](http://www.gimp.org/~tml/gimp/win32/pspi.html)) - GIMP plugin to run photoshop plugins
 

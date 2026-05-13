@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackagingTeam/GutsySchedule
 
-## [GutsySchedule](https://wiki.ubuntu.com/UbuntuStudio/PackagingTeam/GutsySchedule)
+## [GutsySchedule](GutsySchedule)
 
 - *Please do not edit*
 - Freezes normally happen at the start of the given date, UTC time. So last minute changes need to happen the day before.
@@ -131,7 +131,7 @@ June 21st
 
 June 24th
 
-**[Ubuntu Studio Team Meeting](http://wiki.ubuntu.com/UbuntuStudio/Meeting240507)**
+**[Ubuntu Studio Team Meeting](../Meeting240507)**
 
 10
 

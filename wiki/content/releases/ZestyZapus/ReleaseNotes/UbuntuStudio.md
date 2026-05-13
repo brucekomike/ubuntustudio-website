@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/ZestyZapus/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/ZestyZapus/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # Release Notes for Ubuntu Studio 17.04 Zesty Zapus
 
@@ -96,10 +96,10 @@ Ubiquity resizes partition even when not asked to ([1218702](https://bugs.launch
 
 # Support
 
-Ubuntu Studio Zesty Zapus (17.04) will be supported for 9 months until Jan 2018. If you need Long Term Support, it is recommended you use [Ubuntu Studio Xenial 16.04 LTS](https://wiki.ubuntu.com/XenialXerus/ReleaseNotes/UbuntuStudio) instead.
+Ubuntu Studio Zesty Zapus (17.04) will be supported for 9 months until Jan 2018. If you need Long Term Support, it is recommended you use [Ubuntu Studio Xenial 16.04 LTS](../../XenialXerus/ReleaseNotes/UbuntuStudio) instead.
 
 # Contact Us
 
-Ways to contact the Ubuntu Studio Team are listed [here](https://wiki.ubuntu.com/UbuntuStudio)
+Ways to contact the Ubuntu Studio Team are listed [here](../../../ubuntu-studio/UbuntuStudio)
 
 ZestyZapus/ReleaseNotes/UbuntuStudio (last edited 2017-04-13 15:23:30 by [eylul](https://launchpad.net/~eylul))

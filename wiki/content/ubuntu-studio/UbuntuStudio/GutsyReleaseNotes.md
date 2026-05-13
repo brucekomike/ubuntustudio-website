@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/GutsyReleaseNotes
 
-## [GutsyReleaseNotes](https://wiki.ubuntu.com/UbuntuStudio/GutsyReleaseNotes)
+## [GutsyReleaseNotes](GutsyReleaseNotes)
 
 # Ubuntu Studio 7.10 Release Notes
 
@@ -20,7 +20,7 @@ With Ubuntu Studio 7.10, the real-time (RT) kernel is shipped by default. The re
 
 In this release, Ubuntu Studio has built upon the usability and support of Ubuntu as a foundation. Ubuntu Studio draws upon the firm base of Ubuntu and Debian. This allows Ubuntu Studio to benefit from all the improvements occurring there.
 
-As our wiki page at [https://wiki.ubuntu.com/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) states: "Our aim is to make it more accessible for new users to get into the tools that GNU/Linux has to offer for multimedia creation/production. We also want to spotlight what's out there,show users tools they might not have know existed." We have certainly fulfilled that aim with our second release with 7.10, and can only continue to improve.
+As our wiki page at [UbuntuStudio](index) states: "Our aim is to make it more accessible for new users to get into the tools that GNU/Linux has to offer for multimedia creation/production. We also want to spotlight what's out there,show users tools they might not have know existed." We have certainly fulfilled that aim with our second release with 7.10, and can only continue to improve.
 
 Thanks to all who helped in Ubuntu Studios creation! Bring on the show!
 

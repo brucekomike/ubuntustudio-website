@@ -2,53 +2,53 @@
 
 Source: https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[Ubuntu Studio Help](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](../../../ubuntu-studio/UbuntuStudio)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[Ubuntu Studio Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](../../../ubuntu-studio/UbuntuStudio)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../../../ubuntu-studio/UbuntuStudio/Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../../../ubuntu-studio/UbuntuStudio/PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../../../ubuntu-studio/UbuntuStudio/Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../../../ubuntu-studio/UbuntuStudio/Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../../../ubuntu-studio/UbuntuStudio/Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../../../ubuntu-studio/UbuntuStudio/Organization)**
 
 | Contents Release Notes for Ubuntu Studio 16.10 Yakkety Yak Beta 1 Getting Ubuntu Studio Yakkety Yak (16.10) Beta 1 Download a Disk Image Check MD5SUM for the downloaded ISO Known Problems Additions and Changes Audio Graphics Publishing Video Current Version Of Main Multimedia Packages Feedback Testing Ubuntu Studio Contact Us |
 | --- |
 
 Contents
 
-1. [Release Notes for Ubuntu Studio 16.10 Yakkety Yak Beta 1](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Release_Notes_for_Ubuntu_Studio_16.10_Yakkety_Yak_Beta_1)
-2. [Getting Ubuntu Studio Yakkety Yak (16.10) Beta 1](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Getting_Ubuntu_Studio_Yakkety_Yak_.2816.10.29_Beta_1) [Download a Disk Image](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Download_a_Disk_Image) [Check MD5SUM for the downloaded ISO](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Check_MD5SUM_for_the_downloaded_ISO)
-3. [Known Problems](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Known_Problems)
-4. [Additions and Changes](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Additions_and_Changes) [Audio](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Audio) [Graphics](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Graphics) [Publishing](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Publishing) [Video](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Video)
-5. [Current Version Of Main Multimedia Packages](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Current_Version_Of_Main_Multimedia_Packages)
-6. [Feedback](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Feedback) [Testing Ubuntu Studio](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Testing_Ubuntu_Studio) [Contact Us](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Contact_Us)
+1. [Release Notes for Ubuntu Studio 16.10 Yakkety Yak Beta 1](UbuntuStudio#Release_Notes_for_Ubuntu_Studio_16.10_Yakkety_Yak_Beta_1)
+2. [Getting Ubuntu Studio Yakkety Yak (16.10) Beta 1](UbuntuStudio#Getting_Ubuntu_Studio_Yakkety_Yak_.2816.10.29_Beta_1) [Download a Disk Image](UbuntuStudio#Download_a_Disk_Image) [Check MD5SUM for the downloaded ISO](UbuntuStudio#Check_MD5SUM_for_the_downloaded_ISO)
+3. [Known Problems](UbuntuStudio#Known_Problems)
+4. [Additions and Changes](UbuntuStudio#Additions_and_Changes) [Audio](UbuntuStudio#Audio) [Graphics](UbuntuStudio#Graphics) [Publishing](UbuntuStudio#Publishing) [Video](UbuntuStudio#Video)
+5. [Current Version Of Main Multimedia Packages](UbuntuStudio#Current_Version_Of_Main_Multimedia_Packages)
+6. [Feedback](UbuntuStudio#Feedback) [Testing Ubuntu Studio](UbuntuStudio#Testing_Ubuntu_Studio) [Contact Us](UbuntuStudio#Contact_Us)
 
-1. [Download a Disk Image](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Download_a_Disk_Image)
-2. [Check MD5SUM for the downloaded ISO](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Check_MD5SUM_for_the_downloaded_ISO)
+1. [Download a Disk Image](UbuntuStudio#Download_a_Disk_Image)
+2. [Check MD5SUM for the downloaded ISO](UbuntuStudio#Check_MD5SUM_for_the_downloaded_ISO)
 
-1. [Audio](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Audio)
-2. [Graphics](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Graphics)
-3. [Publishing](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Publishing)
-4. [Video](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Video)
+1. [Audio](UbuntuStudio#Audio)
+2. [Graphics](UbuntuStudio#Graphics)
+3. [Publishing](UbuntuStudio#Publishing)
+4. [Video](UbuntuStudio#Video)
 
-1. [Testing Ubuntu Studio](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Testing_Ubuntu_Studio)
-2. [Contact Us](https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio#Contact_Us)
+1. [Testing Ubuntu Studio](UbuntuStudio#Testing_Ubuntu_Studio)
+2. [Contact Us](UbuntuStudio#Contact_Us)
 
 # Release Notes for Ubuntu Studio 16.10 Yakkety Yak Beta 1
 
@@ -87,7 +87,7 @@ It is recommended to [check your image file](https://wiki.ubuntu.com/HowToMD5SUM
 # Known Problems
 
 - On amd64 version setting localization and keyboard layout other than to English may corrupt installation process. ([1611010](https://bugs.launchpad.net/bugs/1611010)) ([1612448](https://bugs.launchpad.net/bugs/1612448))
-- First entry of the boot-menu "Try [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
+- First entry of the boot-menu "Try [UbuntuStudio](../../../ubuntu-studio/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
 - parole crashing with SIGSEGV in cogl_matrix_entry_ref() ([1550198](https://bugs.launchpad.net/bugs/1550198))
 - [ImageMagick](https://wiki.ubuntu.com/ImageMagick) Entries not working in whiskers menu ([1550210](https://bugs.launchpad.net/bugs/1550210))
 - Scribus defaults to 10.15 Saturday Night BRK Regular font ([1550216](https://bugs.launchpad.net/bugs/1550216))
@@ -97,7 +97,7 @@ It is recommended to [check your image file](https://wiki.ubuntu.com/HowToMD5SUM
 
 On amd64 version setting localization and keyboard layout other than to English may corrupt installation process. ([1611010](https://bugs.launchpad.net/bugs/1611010)) ([1612448](https://bugs.launchpad.net/bugs/1612448))
 
-First entry of the boot-menu "Try [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
+First entry of the boot-menu "Try [UbuntuStudio](../../../ubuntu-studio/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
 
 parole crashing with SIGSEGV in cogl_matrix_entry_ref() ([1550198](https://bugs.launchpad.net/bugs/1550198))
 
@@ -149,10 +149,10 @@ I can be faster to update your previously downloaded image to the latest build u
 
 ## Testing Ubuntu Studio
 
-[More Information about Testing Ubuntu Studio is here](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)
+[More Information about Testing Ubuntu Studio is here](../../../ubuntu-studio/UbuntuStudio/TestingDocumentation)
 
 ## Contact Us
 
-[Ways to contact the Ubuntu Studio Team are here](https://wiki.ubuntu.com/UbuntuStudio)
+[Ways to contact the Ubuntu Studio Team are here](../../../ubuntu-studio/UbuntuStudio)
 
 YakketyYak/Beta1/UbuntuStudio (last edited 2016-08-25 19:13:24 by [sakrecoer](https://launchpad.net/~sakrecoer))

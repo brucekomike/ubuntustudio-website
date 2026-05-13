@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Roadmap
 
-## [Roadmap](https://wiki.ubuntu.com/UbuntuStudio/Roadmap)
+## [Roadmap](Roadmap)
 
 ## Roadmap for Precise Pangolin
 

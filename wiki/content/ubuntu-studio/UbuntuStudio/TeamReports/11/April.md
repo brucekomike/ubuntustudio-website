@@ -2,28 +2,28 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April
 
-## [April](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April)
+## [April](April)
 
 | Contents Release Development Website Update ubuntustudio-controls Backports Bug Reports Opened Bugs Updated Bugs Marked as Incomplete Bugs Closed Bugs Kernel Development |
 | --- |
 
 Contents
 
-1. [Release Development](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Release_Development)
-2. [Website Update](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Website_Update)
-3. [ubuntustudio-controls](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#ubuntustudio-controls)
-4. [Backports](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Backports)
-5. [Bug Reports](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Bug_Reports) [Opened Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Opened_Bugs) [Updated Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Updated_Bugs) [Marked as Incomplete Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Marked_as_Incomplete_Bugs) [Closed Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Closed_Bugs)
-6. [Kernel Development](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Kernel_Development)
+1. [Release Development](April#Release_Development)
+2. [Website Update](April#Website_Update)
+3. [ubuntustudio-controls](April#ubuntustudio-controls)
+4. [Backports](April#Backports)
+5. [Bug Reports](April#Bug_Reports) [Opened Bugs](April#Opened_Bugs) [Updated Bugs](April#Updated_Bugs) [Marked as Incomplete Bugs](April#Marked_as_Incomplete_Bugs) [Closed Bugs](April#Closed_Bugs)
+6. [Kernel Development](April#Kernel_Development)
 
-1. [Opened Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Opened_Bugs)
-2. [Updated Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Updated_Bugs)
-3. [Marked as Incomplete Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Marked_as_Incomplete_Bugs)
-4. [Closed Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April#Closed_Bugs)
+1. [Opened Bugs](April#Opened_Bugs)
+2. [Updated Bugs](April#Updated_Bugs)
+3. [Marked as Incomplete Bugs](April#Marked_as_Incomplete_Bugs)
+4. [Closed Bugs](April#Closed_Bugs)
 
 # Release Development
 
-See the [Natty release planning wiki page](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu%20Studio%2011.04%20Natty%20Narwhal) for details.
+See the [Natty release planning wiki page](../../ReleasePlanning#Ubuntu%20Studio%2011.04%20Natty%20Narwhal) for details.
 
 - TODO
 
@@ -31,7 +31,7 @@ See the [Natty release planning wiki page](https://wiki.ubuntu.com/UbuntuStudio/
 
 - TODO - update this section with new URL
 
-See the [Website Update wiki page](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp) for details.
+See the [Website Update wiki page](../../TaskWebRevamp) for details.
 
 - Brian David emailed the dev mailing list with the example website files for testing Testers will need a local instance of Drupal Testers will most likely also need a local instance of MySQL Testing will need to follow the included README.txt file
 - [ScottLavender](https://wiki.ubuntu.com/ScottLavender) agreed to prepare 2nd draft of site map focusing on primary features
@@ -44,7 +44,7 @@ See the [Website Update wiki page](https://wiki.ubuntu.com/UbuntuStudio/TaskWebR
 
 # ubuntustudio-controls
 
-See the [-controls development wiki page](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu%20Studio%20Controls) for details.
+See the [-controls development wiki page](../../ReleasePlanning#Ubuntu%20Studio%20Controls) for details.
 
 - ailo and paultag have been hacking up code for the update
 - [ScottLavender](https://wiki.ubuntu.com/ScottLavender) is getting anxious to get it built, testing, and pushed to the repos :/
@@ -53,10 +53,10 @@ See the [-controls development wiki page](https://wiki.ubuntu.com/UbuntuStudio/R
 
 # Backports
 
-See the [Ubuntu Studio Backports wiki page](https://wiki.ubuntu.com/UbuntuStudio/Backports) for details.
+See the [Ubuntu Studio Backports wiki page](../../Backports) for details.
 
 - [ScottLavender](https://wiki.ubuntu.com/ScottLavender) firmed up details with [ScottKitterman](https://wiki.ubuntu.com/ScottKitterman) about backporting for Lucid
-- [The Ubuntu Studio Backports wiki page](https://wiki.ubuntu.com/UbuntuStudio/Backports) was updated...a LOT
+- [The Ubuntu Studio Backports wiki page](../../Backports) was updated...a LOT
 - [qjackctl backport bug #681873](https://bugs.launchpad.net/lucid-backports/+bug/681873) updated and [PPA package ready for testing](https://launchpad.net/~slavender/+archive/backports-testing)
 - [qsynth backport bug #729430](https://bugs.launchpad.net/lucid-backports/+bug/729430) filed and [PPA package ready for testing](https://launchpad.net/~slavender/+archive/backports-testing)
 - [yoshimi backport bug #729450](https://bugs.launchpad.net/lucid-backports/+bug/729450) filed and [PPA package ready for testing](https://launchpad.net/~slavender/+archive/backports-testing)
@@ -75,7 +75,7 @@ See the [Ubuntu Studio Backports wiki page](https://wiki.ubuntu.com/UbuntuStudio
 
 [ScottLavender](https://wiki.ubuntu.com/ScottLavender) firmed up details with [ScottKitterman](https://wiki.ubuntu.com/ScottKitterman) about backporting for Lucid
 
-[The Ubuntu Studio Backports wiki page](https://wiki.ubuntu.com/UbuntuStudio/Backports) was updated...a LOT
+[The Ubuntu Studio Backports wiki page](../../Backports) was updated...a LOT
 
 [qjackctl backport bug #681873](https://bugs.launchpad.net/lucid-backports/+bug/681873) updated and [PPA package ready for testing](https://launchpad.net/~slavender/+archive/backports-testing)
 

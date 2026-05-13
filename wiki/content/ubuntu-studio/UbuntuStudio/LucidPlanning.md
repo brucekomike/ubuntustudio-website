@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/LucidPlanning
 
-## [LucidPlanning](https://wiki.ubuntu.com/UbuntuStudio/LucidPlanning)
+## [LucidPlanning](LucidPlanning)
 
 Brainstorming page for Ubuntu Studio's Lucid Lynx release.
 
@@ -14,6 +14,6 @@ So what do we wanna tackle?
 - Point site to wiki?
 - LV2 in Lucid - what needs to be done?
 
-[/UbuntuStudio/ReleasePlanning](https://wiki.ubuntu.com/UbuntuStudio/LucidPlanning/UbuntuStudio/ReleasePlanning)
+[/UbuntuStudio/ReleasePlanning](LucidPlanning/UbuntuStudio/ReleasePlanning)
 
 UbuntuStudio/LucidPlanning (last edited 2010-04-18 12:42:43 by conr-adsl-209-169-122-85)

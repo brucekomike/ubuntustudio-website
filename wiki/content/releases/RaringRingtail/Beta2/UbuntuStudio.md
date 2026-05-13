@@ -2,32 +2,32 @@
 
 Source: https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 | Contents New Features in Ubuntu Studio 13.04 Beta 2 Ubuntu Studio Applications Fixed bugs Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 12.10 Upgrading from Other Releases Infrastructure Linux kernel 3.8 GNU Toolchain Java Toolchain Support |
 | --- |
 
 Contents
 
-1. [New Features in Ubuntu Studio 13.04 Beta 2](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#New_Features_in_Ubuntu_Studio_13.04_Beta_2) [Ubuntu Studio Applications](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Ubuntu_Studio_Applications) [Fixed bugs](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Fixed_bugs)
-2. [Installation](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Installation) [Overview](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Overview) [Download](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Download) [System Requirements](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#System_Requirements)
-3. [Upgrading](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 12.10](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.10) [Upgrading from Other Releases](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Upgrading_from_Other_Releases) [Infrastructure](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Infrastructure) [Linux kernel 3.8](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Linux_kernel_3.8) [GNU Toolchain](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#GNU_Toolchain) [Java Toolchain](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Java_Toolchain)
-4. [Support](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Support)
+1. [New Features in Ubuntu Studio 13.04 Beta 2](UbuntuStudio#New_Features_in_Ubuntu_Studio_13.04_Beta_2) [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications) [Fixed bugs](UbuntuStudio#Fixed_bugs)
+2. [Installation](UbuntuStudio#Installation) [Overview](UbuntuStudio#Overview) [Download](UbuntuStudio#Download) [System Requirements](UbuntuStudio#System_Requirements)
+3. [Upgrading](UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 12.10](UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.10) [Upgrading from Other Releases](UbuntuStudio#Upgrading_from_Other_Releases) [Infrastructure](UbuntuStudio#Infrastructure) [Linux kernel 3.8](UbuntuStudio#Linux_kernel_3.8) [GNU Toolchain](UbuntuStudio#GNU_Toolchain) [Java Toolchain](UbuntuStudio#Java_Toolchain)
+4. [Support](UbuntuStudio#Support)
 
-1. [Ubuntu Studio Applications](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Ubuntu_Studio_Applications)
-2. [Fixed bugs](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Fixed_bugs)
+1. [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications)
+2. [Fixed bugs](UbuntuStudio#Fixed_bugs)
 
-1. [Overview](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Overview)
-2. [Download](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Download)
-3. [System Requirements](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#System_Requirements)
+1. [Overview](UbuntuStudio#Overview)
+2. [Download](UbuntuStudio#Download)
+3. [System Requirements](UbuntuStudio#System_Requirements)
 
-1. [Upgrading from Ubuntu Studio 12.10](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.10)
-2. [Upgrading from Other Releases](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Upgrading_from_Other_Releases)
-3. [Infrastructure](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Infrastructure) [Linux kernel 3.8](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Linux_kernel_3.8) [GNU Toolchain](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#GNU_Toolchain) [Java Toolchain](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Java_Toolchain)
+1. [Upgrading from Ubuntu Studio 12.10](UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.10)
+2. [Upgrading from Other Releases](UbuntuStudio#Upgrading_from_Other_Releases)
+3. [Infrastructure](UbuntuStudio#Infrastructure) [Linux kernel 3.8](UbuntuStudio#Linux_kernel_3.8) [GNU Toolchain](UbuntuStudio#GNU_Toolchain) [Java Toolchain](UbuntuStudio#Java_Toolchain)
 
-1. [Linux kernel 3.8](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Linux_kernel_3.8)
-2. [GNU Toolchain](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#GNU_Toolchain)
-3. [Java Toolchain](https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio#Java_Toolchain)
+1. [Linux kernel 3.8](UbuntuStudio#Linux_kernel_3.8)
+2. [GNU Toolchain](UbuntuStudio#GNU_Toolchain)
+3. [Java Toolchain](UbuntuStudio#Java_Toolchain)
 
 **NOTE:** This is a Beta pre-release. Ubuntu Studio Pre-releases are NOT recommended for:
 
@@ -82,9 +82,9 @@ You can now reinstall or upgrade an existing copy of Ubuntu Studio with the Ubun
 
 Ubuntu Studio 13.04 Beta 2 images can be downloaded from:
 
-- [http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/beta-2](http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/beta-2) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+- [http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/beta-2](http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/beta-2) ([UbuntuStudio](../../../ubuntu-studio/UbuntuStudio))
 
-[http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/beta-2](http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/beta-2) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+[http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/beta-2](http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/beta-2) ([UbuntuStudio](../../../ubuntu-studio/UbuntuStudio))
 
 ## System Requirements
 

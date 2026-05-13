@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Teams
 
-## [Teams](https://wiki.ubuntu.com/UbuntuStudio/Teams)
+## [Teams](Teams)
 
 | Team Pages |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -10,16 +10,16 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Teams
 
 **Team Pages**
 
-[Testing](https://wiki.ubuntu.com/UbuntuStudio/TestingTeam)
+[Testing](TestingTeam)
 
-[Development](https://wiki.ubuntu.com/UbuntuStudio/DevTeam)
+[Development](DevTeam)
 
-[Documentation](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeam)
+[Documentation](DocumentationTeam)
 
-[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeam)
+[PR & Support](PRSupportTeam)
 
-[Artwork](https://wiki.ubuntu.com/UbuntuStudio/ArtTeam)
+[Artwork](ArtTeam)
 
-[Planning](https://wiki.ubuntu.com/UbuntuStudio/CoreTeam)
+[Planning](CoreTeam)
 
 UbuntuStudio/Teams (last edited 2013-03-13 07:19:58 by h-4-180)

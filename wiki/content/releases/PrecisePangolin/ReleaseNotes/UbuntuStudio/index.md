@@ -2,30 +2,30 @@
 
 Source: https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](index)
 
 | Contents Ubuntu Studio 12.04.4 LTS Ubuntu Studio Applications Common Infrastructure Linux-lowlatency kernel Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 11.10 Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS Upgrading from Other Releases Support |
 | --- |
 
 Contents
 
-1. [Ubuntu Studio 12.04.4 LTS](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_12.04.4_LTS) [Ubuntu Studio Applications](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_Applications) [Common Infrastructure](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Common_Infrastructure) [Linux-lowlatency kernel](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Linux-lowlatency_kernel)
-2. [Installation](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Installation) [Overview](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Overview) [Download](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Download) [System Requirements](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#System_Requirements)
-3. [Upgrading](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 11.10](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_11.10) [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS) [Upgrading from Other Releases](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Other_Releases)
-4. [Support](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Support)
+1. [Ubuntu Studio 12.04.4 LTS](index#Ubuntu_Studio_12.04.4_LTS) [Ubuntu Studio Applications](index#Ubuntu_Studio_Applications) [Common Infrastructure](index#Common_Infrastructure) [Linux-lowlatency kernel](index#Linux-lowlatency_kernel)
+2. [Installation](index#Installation) [Overview](index#Overview) [Download](index#Download) [System Requirements](index#System_Requirements)
+3. [Upgrading](index#Upgrading) [Upgrading from Ubuntu Studio 11.10](index#Upgrading_from_Ubuntu_Studio_11.10) [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](index#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS) [Upgrading from Other Releases](index#Upgrading_from_Other_Releases)
+4. [Support](index#Support)
 
-1. [Ubuntu Studio Applications](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_Applications)
-2. [Common Infrastructure](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Common_Infrastructure) [Linux-lowlatency kernel](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Linux-lowlatency_kernel)
+1. [Ubuntu Studio Applications](index#Ubuntu_Studio_Applications)
+2. [Common Infrastructure](index#Common_Infrastructure) [Linux-lowlatency kernel](index#Linux-lowlatency_kernel)
 
-1. [Linux-lowlatency kernel](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Linux-lowlatency_kernel)
+1. [Linux-lowlatency kernel](index#Linux-lowlatency_kernel)
 
-1. [Overview](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Overview)
-2. [Download](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Download)
-3. [System Requirements](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#System_Requirements)
+1. [Overview](index#Overview)
+2. [Download](index#Download)
+3. [System Requirements](index#System_Requirements)
 
-1. [Upgrading from Ubuntu Studio 11.10](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_11.10)
-2. [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS)
-3. [Upgrading from Other Releases](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio#Upgrading_from_Other_Releases)
+1. [Upgrading from Ubuntu Studio 11.10](index#Upgrading_from_Ubuntu_Studio_11.10)
+2. [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](index#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS)
+3. [Upgrading from Other Releases](index#Upgrading_from_Other_Releases)
 
 # Ubuntu Studio 12.04.4 LTS
 
@@ -57,7 +57,7 @@ Pulse Audio <-> JACK bridging enabled by default
 
 ## Ubuntu Studio Applications
 
-This cycle we focused on developing [work flows](https://wiki.ubuntu.com/UbuntuStudio/Workflows) based on user tasks. This should give a more complete, functional, and robust application tool chain for users to create content. *Please note that not all work flows listed in the wiki are directly supported in a default installation.*
+This cycle we focused on developing [work flows](../../../../ubuntu-studio/UbuntuStudio/Workflows) based on user tasks. This should give a more complete, functional, and robust application tool chain for users to create content. *Please note that not all work flows listed in the wiki are directly supported in a default installation.*
 
 Notable applications for audio/video/graphic/photography work flows include:
 

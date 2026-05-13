@@ -2,45 +2,45 @@
 
 Source: https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](index)
 
 | Contents New Features in Ubuntu Studio 12.10 Ubuntu Studio Applications Common Infrastructure Secure Boot Migration-support deprecated Linux kernel 3.5.5 Python 3.2 GNU Toolchain Java Toolchain Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 12.04 Upgrading from Other Releases Known Issues Graphics and Display Applications Installation Kernel Networking Libvirt Toolchain VMware Player Video Drivers Support |
 | --- |
 
 Contents
 
-1. [New Features in Ubuntu Studio 12.10](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#New_Features_in_Ubuntu_Studio_12.10) [Ubuntu Studio Applications](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_Applications) [Common Infrastructure](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Common_Infrastructure) [Secure Boot](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Secure_Boot) [Migration-support deprecated](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Migration-support_deprecated) [Linux kernel 3.5.5](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Linux_kernel_3.5.5) [Python 3.2](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Python_3.2) [GNU Toolchain](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.GNU_Toolchain) [Java Toolchain](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Java_Toolchain)
-2. [Installation](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Installation) [Overview](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Overview) [Download](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Download) [System Requirements](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#System_Requirements)
-3. [Upgrading](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 12.04](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.04) [Upgrading from Other Releases](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Upgrading_from_Other_Releases)
-4. [Known Issues](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Known_Issues) [Graphics and Display](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Graphics_and_Display) [Applications](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Applications) [Installation](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Installation) [Kernel](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Kernel) [Networking](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Networking) [Libvirt](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Libvirt) [Toolchain](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Toolchain) [VMware Player](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.VMware_Player) [Video Drivers](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Video_Drivers)
-5. [Support](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Support)
+1. [New Features in Ubuntu Studio 12.10](index#New_Features_in_Ubuntu_Studio_12.10) [Ubuntu Studio Applications](index#Ubuntu_Studio_Applications) [Common Infrastructure](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Common_Infrastructure) [Secure Boot](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Secure_Boot) [Migration-support deprecated](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Migration-support_deprecated) [Linux kernel 3.5.5](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Linux_kernel_3.5.5) [Python 3.2](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Python_3.2) [GNU Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.GNU_Toolchain) [Java Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Java_Toolchain)
+2. [Installation](index#Installation) [Overview](index#Overview) [Download](index#Download) [System Requirements](index#System_Requirements)
+3. [Upgrading](index#Upgrading) [Upgrading from Ubuntu Studio 12.04](index#Upgrading_from_Ubuntu_Studio_12.04) [Upgrading from Other Releases](index#Upgrading_from_Other_Releases)
+4. [Known Issues](index#Known_Issues) [Graphics and Display](index#Graphics_and_Display) [Applications](index#Applications) [Installation](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Installation) [Kernel](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Kernel) [Networking](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Networking) [Libvirt](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Libvirt) [Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Toolchain) [VMware Player](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.VMware_Player) [Video Drivers](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Video_Drivers)
+5. [Support](index#Support)
 
-1. [Ubuntu Studio Applications](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_Applications)
-2. [Common Infrastructure](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Common_Infrastructure) [Secure Boot](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Secure_Boot) [Migration-support deprecated](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Migration-support_deprecated) [Linux kernel 3.5.5](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Linux_kernel_3.5.5) [Python 3.2](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Python_3.2) [GNU Toolchain](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.GNU_Toolchain) [Java Toolchain](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Java_Toolchain)
+1. [Ubuntu Studio Applications](index#Ubuntu_Studio_Applications)
+2. [Common Infrastructure](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Common_Infrastructure) [Secure Boot](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Secure_Boot) [Migration-support deprecated](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Migration-support_deprecated) [Linux kernel 3.5.5](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Linux_kernel_3.5.5) [Python 3.2](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Python_3.2) [GNU Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.GNU_Toolchain) [Java Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Java_Toolchain)
 
-1. [Secure Boot](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Secure_Boot)
-2. [Migration-support deprecated](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Migration-support_deprecated)
-3. [Linux kernel 3.5.5](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Linux_kernel_3.5.5)
-4. [Python 3.2](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Python_3.2)
-5. [GNU Toolchain](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.GNU_Toolchain)
-6. [Java Toolchain](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Java_Toolchain)
+1. [Secure Boot](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Secure_Boot)
+2. [Migration-support deprecated](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Migration-support_deprecated)
+3. [Linux kernel 3.5.5](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Linux_kernel_3.5.5)
+4. [Python 3.2](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Python_3.2)
+5. [GNU Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.GNU_Toolchain)
+6. [Java Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Java_Toolchain)
 
-1. [Overview](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Overview)
-2. [Download](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Download)
-3. [System Requirements](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#System_Requirements)
+1. [Overview](index#Overview)
+2. [Download](index#Download)
+3. [System Requirements](index#System_Requirements)
 
-1. [Upgrading from Ubuntu Studio 12.04](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.04)
-2. [Upgrading from Other Releases](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Upgrading_from_Other_Releases)
+1. [Upgrading from Ubuntu Studio 12.04](index#Upgrading_from_Ubuntu_Studio_12.04)
+2. [Upgrading from Other Releases](index#Upgrading_from_Other_Releases)
 
-1. [Graphics and Display](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Graphics_and_Display)
-2. [Applications](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#Applications)
-3. [Installation](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Installation)
-4. [Kernel](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Kernel)
-5. [Networking](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Networking)
-6. [Libvirt](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Libvirt)
-7. [Toolchain](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Toolchain)
-8. [VMware Player](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.VMware_Player)
-9. [Video Drivers](https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Video_Drivers)
+1. [Graphics and Display](index#Graphics_and_Display)
+2. [Applications](index#Applications)
+3. [Installation](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Installation)
+4. [Kernel](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Kernel)
+5. [Networking](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Networking)
+6. [Libvirt](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Libvirt)
+7. [Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Toolchain)
+8. [VMware Player](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.VMware_Player)
+9. [Video Drivers](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure-1.Video_Drivers)
 
 # New Features in Ubuntu Studio 12.10
 
@@ -130,9 +130,9 @@ You can now reinstall or upgrade an existing copy of Ubuntu Studio with the Ubun
 
 Ubuntu Studio 12.10 images can be downloaded from:
 
-- [http://cdimage.ubuntu.com/ubuntustudio/releases/12.10/release/](http://cdimage.ubuntu.com/ubuntustudio/releases/12.10/release/) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+- [http://cdimage.ubuntu.com/ubuntustudio/releases/12.10/release/](http://cdimage.ubuntu.com/ubuntustudio/releases/12.10/release/) ([UbuntuStudio](../../../../ubuntu-studio/UbuntuStudio))
 
-[http://cdimage.ubuntu.com/ubuntustudio/releases/12.10/release/](http://cdimage.ubuntu.com/ubuntustudio/releases/12.10/release/) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+[http://cdimage.ubuntu.com/ubuntustudio/releases/12.10/release/](http://cdimage.ubuntu.com/ubuntustudio/releases/12.10/release/) ([UbuntuStudio](../../../../ubuntu-studio/UbuntuStudio))
 
 ## System Requirements
 
@@ -234,7 +234,7 @@ Installing either version 4 or 5 of VMware Player on Ubuntu 12.10 will trigger a
 ## Video Drivers
 
 - Several video drivers are not functioning with some legacy chip-sets. xserver-xorg-video-trident with some Trident Cyberblade chip-sets. Black screen and lock-up. [Bugs](https://bugs.launchpad.net/bugs/+bugs?field.searchtext=trident&search=Search+Bug+Reports&field.scope=all&field.scope.target=t/) xserver-xorg-video-intel with i810 chip-sets. Segfault. [1060492](https://bugs.launchpad.net/ubuntu/+source/xserver-xorg-video-intel/+bug/1060492/) xserver-xorg-video-sis with 315 series (SiS 315/E/PRO, 550, [M]650, 651, 740, [M]661[FMG]X,[M]741[GX]) chip-sets. Black screen or loops around login screen. [1034812](https://bugs.launchpad.net/ubuntu/+source/xserver-xorg-video-sis/+bug/1034812/) xserver-xorg-video-ati with ATI Rage Pro chip-sets. Black screen.
-- Workarounds Test with a [Live CD](https://wiki.ubuntu.com/%20) to see if your hardware is effected. Trident Cyberblade - As the vesa driver doesn't work with this chip-set the only solution is to remain with 12.04. Intel i810 - A new install can only be accomplished from the [Alternate ISO.](https://wiki.ubuntu.com/%20) On reboot go to Recovery Mode and delete the video driver. apt-get remove xserver-xorg-video-intel This will also remove xserver-xorg-video-all but this is only a meta package and isn't needed. On reboot create suitable [xorg.conf](https://wiki.ubuntu.com/X/Config/Resolution) or use [RandR](https://wiki.ubuntu.com/X/Config/Resolution) to get [correct resolution](https://wiki.ubuntu.com/X/Config/Resolution) if necessary. SiS 315 Series - As Intel i810 except apt-get remove xserver-xorg-video-sis ATI Rage Pro - As Intel i810 except apt-get remove xserver-xorg-video-ati
+- Workarounds Test with a Live CD to see if your hardware is effected. Trident Cyberblade - As the vesa driver doesn't work with this chip-set the only solution is to remain with 12.04. Intel i810 - A new install can only be accomplished from the Alternate ISO. On reboot go to Recovery Mode and delete the video driver. apt-get remove xserver-xorg-video-intel This will also remove xserver-xorg-video-all but this is only a meta package and isn't needed. On reboot create suitable [xorg.conf](https://wiki.ubuntu.com/X/Config/Resolution) or use [RandR](https://wiki.ubuntu.com/X/Config/Resolution) to get [correct resolution](https://wiki.ubuntu.com/X/Config/Resolution) if necessary. SiS 315 Series - As Intel i810 except apt-get remove xserver-xorg-video-sis ATI Rage Pro - As Intel i810 except apt-get remove xserver-xorg-video-ati
 
 - xserver-xorg-video-trident with some Trident Cyberblade chip-sets. Black screen and lock-up. [Bugs](https://bugs.launchpad.net/bugs/+bugs?field.searchtext=trident&search=Search+Bug+Reports&field.scope=all&field.scope.target=t/)
 - xserver-xorg-video-intel with i810 chip-sets. Segfault. [1060492](https://bugs.launchpad.net/ubuntu/+source/xserver-xorg-video-intel/+bug/1060492/)
@@ -247,15 +247,15 @@ xserver-xorg-video-intel with i810 chip-sets. Segfault. [1060492](https://bugs.l
 
 xserver-xorg-video-sis with 315 series (SiS 315/E/PRO, 550, [M]650, 651, 740, [M]661[FMG]X,[M]741[GX]) chip-sets. Black screen or loops around login screen. [1034812](https://bugs.launchpad.net/ubuntu/+source/xserver-xorg-video-sis/+bug/1034812/)
 
-- Test with a [Live CD](https://wiki.ubuntu.com/%20) to see if your hardware is effected.
+- Test with a Live CD to see if your hardware is effected.
 - Trident Cyberblade - As the vesa driver doesn't work with this chip-set the only solution is to remain with 12.04.
-- Intel i810 - A new install can only be accomplished from the [Alternate ISO.](https://wiki.ubuntu.com/%20) On reboot go to Recovery Mode and delete the video driver. apt-get remove xserver-xorg-video-intel This will also remove xserver-xorg-video-all but this is only a meta package and isn't needed. On reboot create suitable [xorg.conf](https://wiki.ubuntu.com/X/Config/Resolution) or use [RandR](https://wiki.ubuntu.com/X/Config/Resolution) to get [correct resolution](https://wiki.ubuntu.com/X/Config/Resolution) if necessary.
+- Intel i810 - A new install can only be accomplished from the Alternate ISO. On reboot go to Recovery Mode and delete the video driver. apt-get remove xserver-xorg-video-intel This will also remove xserver-xorg-video-all but this is only a meta package and isn't needed. On reboot create suitable [xorg.conf](https://wiki.ubuntu.com/X/Config/Resolution) or use [RandR](https://wiki.ubuntu.com/X/Config/Resolution) to get [correct resolution](https://wiki.ubuntu.com/X/Config/Resolution) if necessary.
 - SiS 315 Series - As Intel i810 except apt-get remove xserver-xorg-video-sis
 - ATI Rage Pro - As Intel i810 except apt-get remove xserver-xorg-video-ati
 
-Test with a [Live CD](https://wiki.ubuntu.com/%20) to see if your hardware is effected.
+Test with a Live CD to see if your hardware is effected.
 
-Intel i810 - A new install can only be accomplished from the [Alternate ISO.](https://wiki.ubuntu.com/%20) On reboot go to Recovery Mode and delete the video driver. apt-get remove xserver-xorg-video-intel This will also remove xserver-xorg-video-all but this is only a meta package and isn't needed. On reboot create suitable [xorg.conf](https://wiki.ubuntu.com/X/Config/Resolution) or use [RandR](https://wiki.ubuntu.com/X/Config/Resolution) to get [correct resolution](https://wiki.ubuntu.com/X/Config/Resolution) if necessary.
+Intel i810 - A new install can only be accomplished from the Alternate ISO. On reboot go to Recovery Mode and delete the video driver. apt-get remove xserver-xorg-video-intel This will also remove xserver-xorg-video-all but this is only a meta package and isn't needed. On reboot create suitable [xorg.conf](https://wiki.ubuntu.com/X/Config/Resolution) or use [RandR](https://wiki.ubuntu.com/X/Config/Resolution) to get [correct resolution](https://wiki.ubuntu.com/X/Config/Resolution) if necessary.
 
 SiS 315 Series - As Intel i810 except apt-get remove xserver-xorg-video-sis
 

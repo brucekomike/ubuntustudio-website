@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeam
 
-## [UbuntuStudioTeam](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeam)
+## [UbuntuStudioTeam](UbuntuStudioTeam)
 
 | Task Description | Open team for ubuntu Studio users. Members of the launchpad team are allowed to comment on posts at ubuntustudio.org . |
 | --- | --- |
@@ -21,7 +21,7 @@ Open team for ubuntu Studio users. Members of the launchpad team are allowed to 
 
 **Team Wiki**
 
-[Ubuntu Studio Team Page](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeamPage)
+[Ubuntu Studio Team Page](UbuntuStudioTeamPage)
 
 **Mail Lists**
 

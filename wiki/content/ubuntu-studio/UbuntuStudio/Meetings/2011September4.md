@@ -2,14 +2,14 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011September4
 
-## [2011September4](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011September4)
+## [2011September4](2011September4)
 
 | Ubuntu Studio Meetings Schedule | Old Meeting Logs |
 | --- | --- |
 
-[Ubuntu Studio Meetings Schedule](https://wiki.ubuntu.com/UbuntuStudio/Meetings)
+[Ubuntu Studio Meetings Schedule](index)
 
-[Old Meeting Logs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/Minutes)
+[Old Meeting Logs](Minutes)
 
 **What:** Ubuntu Studio Contributors Meeting
 
@@ -22,7 +22,7 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011September4
 
 Contents
 
-1. [Agenda for Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011September4#Agenda_for_Meeting)
+1. [Agenda for Meeting](2011September4#Agenda_for_Meeting)
 
 ### Agenda for Meeting
 

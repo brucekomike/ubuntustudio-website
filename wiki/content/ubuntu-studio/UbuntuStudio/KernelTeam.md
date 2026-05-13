@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/KernelTeam
 
-## [KernelTeam](https://wiki.ubuntu.com/UbuntuStudio/KernelTeam)
+## [KernelTeam](KernelTeam)
 
 | Task Description | Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatency. |
 | --- | --- |
@@ -24,11 +24,11 @@ Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatenc
 
 **Team Wiki**
 
-[Kernel Team Page](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamPage)
+[Kernel Team Page](KernelTeamPage)
 
 **Team Documentation**
 
-[Kernel Team Documentation](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamDocumentation)
+[Kernel Team Documentation](KernelTeamDocumentation)
 
 **Blueprint**
 
@@ -44,7 +44,7 @@ Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatenc
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

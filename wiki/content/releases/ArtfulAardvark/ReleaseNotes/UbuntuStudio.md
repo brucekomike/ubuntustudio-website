@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/ArtfulAardvark/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/ArtfulAardvark/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # Release Notes for Ubuntu Studio 17.10 Artful Aardvark
 
@@ -87,10 +87,10 @@ The Ubuntu Studio Controls package has been updated to provide an option to set 
 
 # Support
 
-Ubuntu Studio Artful Aardvark (17.10) will be supported for 9 months until July 2018. If you need Long Term Support, it is recommended you use [Ubuntu Studio Xenial 16.04 LTS](https://wiki.ubuntu.com/XenialXerus/ReleaseNotes/UbuntuStudio) instead.
+Ubuntu Studio Artful Aardvark (17.10) will be supported for 9 months until July 2018. If you need Long Term Support, it is recommended you use [Ubuntu Studio Xenial 16.04 LTS](../../XenialXerus/ReleaseNotes/UbuntuStudio) instead.
 
 # Contact Us
 
-Ways to contact the Ubuntu Studio Team are listed [here](https://wiki.ubuntu.com/UbuntuStudio)
+Ways to contact the Ubuntu Studio Team are listed [here](../../../ubuntu-studio/UbuntuStudio)
 
 ArtfulAardvark/ReleaseNotes/UbuntuStudio (last edited 2017-10-18 20:38:57 by [rosco2](https://launchpad.net/~rosco2))

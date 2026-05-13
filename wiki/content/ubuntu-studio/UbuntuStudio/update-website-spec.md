@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/update-website-spec
 
-## [update-website-spec](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec)
+## [update-website-spec](update-website-spec)
 
 - **Launchpad Entry**: [other-p-ubuntustudio-update-website](https://blueprints.launchpad.net/ubuntu/+spec/other-p-ubuntustudio-update-website)
 - **Created**: 2011-09-06
@@ -22,31 +22,31 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/update-website-spec
 
 Contents
 
-1. [Summary](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Summary)
-2. [Rationale](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Rationale)
-3. [Use Cases](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Use_Cases) [Primary](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Primary) [Secondary](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Secondary)
-4. [Scope](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Scope)
-5. [Design](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Design)
-6. [Implementation](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Implementation) [Development](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Development) [Launchpad Branch](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Launchpad_Branch)
-7. [Website Content](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Website_Content) [Home Page](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Home_Page) [News](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#News) [Blog](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Blog) [Download](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Download) [Tutorials](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Tutorials) [Support](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Support) [Contribute](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Contribute) [Feedback](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Feedback) [Feature Tour](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Feature_Tour)
-8. [Outstanding Issues](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Outstanding_Issues)
-9. [BoF agenda and discussion](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#BoF_agenda_and_discussion)
+1. [Summary](update-website-spec#Summary)
+2. [Rationale](update-website-spec#Rationale)
+3. [Use Cases](update-website-spec#Use_Cases) [Primary](update-website-spec#Primary) [Secondary](update-website-spec#Secondary)
+4. [Scope](update-website-spec#Scope)
+5. [Design](update-website-spec#Design)
+6. [Implementation](update-website-spec#Implementation) [Development](update-website-spec#Development) [Launchpad Branch](update-website-spec#Launchpad_Branch)
+7. [Website Content](update-website-spec#Website_Content) [Home Page](update-website-spec#Home_Page) [News](update-website-spec#News) [Blog](update-website-spec#Blog) [Download](update-website-spec#Download) [Tutorials](update-website-spec#Tutorials) [Support](update-website-spec#Support) [Contribute](update-website-spec#Contribute) [Feedback](update-website-spec#Feedback) [Feature Tour](update-website-spec#Feature_Tour)
+8. [Outstanding Issues](update-website-spec#Outstanding_Issues)
+9. [BoF agenda and discussion](update-website-spec#BoF_agenda_and_discussion)
 
-1. [Primary](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Primary)
-2. [Secondary](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Secondary)
+1. [Primary](update-website-spec#Primary)
+2. [Secondary](update-website-spec#Secondary)
 
-1. [Development](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Development)
-2. [Launchpad Branch](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Launchpad_Branch)
+1. [Development](update-website-spec#Development)
+2. [Launchpad Branch](update-website-spec#Launchpad_Branch)
 
-1. [Home Page](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Home_Page)
-2. [News](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#News)
-3. [Blog](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Blog)
-4. [Download](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Download)
-5. [Tutorials](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Tutorials)
-6. [Support](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Support)
-7. [Contribute](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Contribute)
-8. [Feedback](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Feedback)
-9. [Feature Tour](https://wiki.ubuntu.com/UbuntuStudio/update-website-spec#Feature_Tour)
+1. [Home Page](update-website-spec#Home_Page)
+2. [News](update-website-spec#News)
+3. [Blog](update-website-spec#Blog)
+4. [Download](update-website-spec#Download)
+5. [Tutorials](update-website-spec#Tutorials)
+6. [Support](update-website-spec#Support)
+7. [Contribute](update-website-spec#Contribute)
+8. [Feedback](update-website-spec#Feedback)
+9. [Feature Tour](update-website-spec#Feature_Tour)
 
 ## Summary
 
@@ -177,7 +177,7 @@ email - [ubuntu-studio-users@lists.ubuntu.com](mailto:ubuntu-studio-users@lists.
 
 list and description of the ways to help contribute to ubuntu studio
 
-include link to "contribute to develop" wiki page - [https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment](https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment)
+include link to "contribute to develop" wiki page - [UbuntuStudio/ContributeToDevelopment](ContributeToDevelopment)
 
 ### Feedback
 

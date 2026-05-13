@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/UI
 
-## [UI](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/UI)
+## [UI](UI)
 
 In this section we're looking for simple UI change suggestions. ATM we're looking at moving to 1 panel across the top. It was suggested at one point that changing the default Ubuntu desktop layout would break documentation. Upon investigation the GNOME documentation allows for this with these disclaimers:
 

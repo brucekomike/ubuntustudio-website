@@ -2,38 +2,38 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Video
 
-## [Video](https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Video)
+## [Video](Video)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](../..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](../..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../../Organization)**
 
 Package lists are grouped by release pocket
 
 Contents
 
-1. [Universe](https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Video#Universe)
+1. [Universe](Video#Universe)
 
-When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories).
+When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](../../FreedesktopCategories).
 
 # Universe
 

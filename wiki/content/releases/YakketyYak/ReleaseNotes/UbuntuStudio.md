@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/YakketyYak/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/YakketyYak/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # Release Notes for Ubuntu Studio 16.10 Yakkety Yak
 
@@ -85,10 +85,10 @@ Krita temporarily removed from Yakkety ([1633129](https://bugs.launchpad.net/bug
 
 # Support
 
-Ubuntu Studio Yakkety Yak (16.10) will be supported for 9 months until July 2017. If you need Long Term Support, it is recommended you use [Ubuntu Studio Xenial 16.04 LTS](https://wiki.ubuntu.com/XenialXerus/ReleaseNotes/UbuntuStudio) instead.
+Ubuntu Studio Yakkety Yak (16.10) will be supported for 9 months until July 2017. If you need Long Term Support, it is recommended you use [Ubuntu Studio Xenial 16.04 LTS](../../XenialXerus/ReleaseNotes/UbuntuStudio) instead.
 
 # Contact Us
 
-Ways to contact the Ubuntu Studio Team are listed [here](https://wiki.ubuntu.com/UbuntuStudio)
+Ways to contact the Ubuntu Studio Team are listed [here](../../../ubuntu-studio/UbuntuStudio)
 
 YakketyYak/ReleaseNotes/UbuntuStudio (last edited 2016-10-13 16:01:05 by [rosco2](https://launchpad.net/~rosco2))

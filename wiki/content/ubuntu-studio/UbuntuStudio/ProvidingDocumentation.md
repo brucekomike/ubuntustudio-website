@@ -2,13 +2,13 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ProvidingDocumentation
 
-## [ProvidingDocumentation](https://wiki.ubuntu.com/UbuntuStudio/ProvidingDocumentation)
+## [ProvidingDocumentation](ProvidingDocumentation)
 
-Provide documentation on the three components of [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) such that a new user will be able to easily get up and running, with little guess-work on the installer's behalf as to, say, how they want their system to work. The set-up is likely to be customised, and thus having an automatic system is likely to not be very effective.
+Provide documentation on the three components of [UbuntuStudio](index) such that a new user will be able to easily get up and running, with little guess-work on the installer's behalf as to, say, how they want their system to work. The set-up is likely to be customised, and thus having an automatic system is likely to not be very effective.
 
 ## Scope
 
-The [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) documentation should be enough to teach a new user about the various components of their system and how to use them, to a slight extent; maybe even example configurations. It should provide the user enough information so that they can expand, and become more advanced under their own steam. This is for two reasons: we want the user to learn by doing; and we don't want to expend too much effort.
+The [UbuntuStudio](index) documentation should be enough to teach a new user about the various components of their system and how to use them, to a slight extent; maybe even example configurations. It should provide the user enough information so that they can expand, and become more advanced under their own steam. This is for two reasons: we want the user to learn by doing; and we don't want to expend too much effort.
 
 ## Use cases
 

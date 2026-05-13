@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-video
 
-## [ubuntustudio-video](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-video)
+## [ubuntustudio-video](ubuntustudio-video)
 
 ```
 ===Package : pitivi===

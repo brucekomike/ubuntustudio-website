@@ -2,15 +2,15 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Usplash
 
-## [Usplash](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Usplash)
+## [Usplash](Usplash)
 
 Keep in mind:
 
 - Thumbnails should be no greater in height than 300px. Link to larger images.
-- All submissions must fit the design direction as laid out [HERE](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Usplash/UbuntuStudio/Artwork/DIYConcept).
+- All submissions must fit the design direction as laid out [HERE](Artwork/DIYConcept/Usplash).
 - Must use logo.
 
-All submissions must fit the design direction as laid out [HERE](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Usplash/UbuntuStudio/Artwork/DIYConcept).
+All submissions must fit the design direction as laid out [HERE](Artwork/DIYConcept/Usplash).
 
 ## Simple Usplash, and an idea
 

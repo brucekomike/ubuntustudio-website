@@ -2,52 +2,52 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation
 
-## [TestingDocumentation](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)
+## [TestingDocumentation](TestingDocumentation)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Testing Sidebar -- ( edit ) Team Pages - Testing Team Page Testing Documentation - Application Testing .. Test Cases - ISO Testing - Performance Testing - Kernel Testing Desktop Environment Testing |
 | --- |
 
-** -- [Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/TestingSideBar?action=edit))** **Team Pages** - **[Testing Team Page](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage)** **[Testing Documentation](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)** - [Application Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ApplicationTesting) ..[Test Cases](https://wiki.ubuntu.com/UbuntuStudio/Testing/Testcases) - [ISO Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting) - [Performance Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/PerformanceTesting) - [Kernel Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/KernelTesting) **[Desktop Environment Testing](https://wiki.ubuntu.com/UbuntuStudio/DesktopEnvironmentTesting)**
+** -- [Testing](Testing) Sidebar -- ([edit](Navigation/TestingSideBar))** **Team Pages** - **[Testing Team Page](TestingTeamPage)** **[Testing Documentation](TestingDocumentation)** - [Application Testing](Testing/ApplicationTesting) ..[Test Cases](Testing/Testcases) - [ISO Testing](Testing/ISOTesting) - [Performance Testing](Testing/PerformanceTesting) - [Kernel Testing](Testing/KernelTesting) **[Desktop Environment Testing](DesktopEnvironmentTesting)**
 
 ## Preliminary
 
 Testing team at Launchpad [https://launchpad.net/~ubuntustudio-testing](https://launchpad.net/~ubuntustudio-testing)
 
-- [ISO testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting) - Catch bugs, report them, get them fixed
-- [Desktop and Application Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ApplicationTesting) - Catch bugs, report them, get them fixed
-- [Performance Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/PerformanceTesting) - Look for parameters that affect system performance
-- [Kernel Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/KernelTesting) - Testing the kernel
+- [ISO testing](Testing/ISOTesting) - Catch bugs, report them, get them fixed
+- [Desktop and Application Testing](Testing/ApplicationTesting) - Catch bugs, report them, get them fixed
+- [Performance Testing](Testing/PerformanceTesting) - Look for parameters that affect system performance
+- [Kernel Testing](Testing/KernelTesting) - Testing the kernel
 
-[ISO testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting) - Catch bugs, report them, get them fixed
+[ISO testing](Testing/ISOTesting) - Catch bugs, report them, get them fixed
 
-[Desktop and Application Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ApplicationTesting) - Catch bugs, report them, get them fixed
+[Desktop and Application Testing](Testing/ApplicationTesting) - Catch bugs, report them, get them fixed
 
-[Performance Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/PerformanceTesting) - Look for parameters that affect system performance
+[Performance Testing](Testing/PerformanceTesting) - Look for parameters that affect system performance
 
-[Kernel Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/KernelTesting) - Testing the kernel
+[Kernel Testing](Testing/KernelTesting) - Testing the kernel
 
 **Possible Tools**
 
@@ -60,17 +60,17 @@ Testing team at Launchpad [https://launchpad.net/~ubuntustudio-testing](https://
 
 [UTAH](https://wiki.ubuntu.com/Testing/UTAH)
 
-[DesktopEnvironmentTesting](https://wiki.ubuntu.com/UbuntuStudio/DesktopEnvironmentTesting) - see which DEs are best performing
+[DesktopEnvironmentTesting](DesktopEnvironmentTesting) - see which DEs are best performing
 
 ## ISO Testing
 
-- Manual [ISO Testing](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages)
+- Manual [ISO Testing](TestingQA-ISOImages)
 
-Manual [ISO Testing](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages)
+Manual [ISO Testing](TestingQA-ISOImages)
 
 ## Kernel Testing
 
-[Kernel Testing](https://wiki.ubuntu.com/UbuntuStudio/KernelTesting)
+[Kernel Testing](KernelTesting)
 
 ## Desktop and Application Testing
 

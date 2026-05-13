@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/64bitOptimization
 
-## [64bitOptimization](https://wiki.ubuntu.com/UbuntuStudio/64bitOptimization)
+## [64bitOptimization](64bitOptimization)
 
 This page will list the packages that could be optimized for operation on 64-bit processors.
 

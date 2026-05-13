@@ -2,19 +2,19 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment
 
-## [ContributeToDevelopment](https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment)
+## [ContributeToDevelopment](index)
 
 | Contents Testing Workflow Meetings Team Reports User Documentation Backports |
 | --- |
 
 Contents
 
-1. [Testing](https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment#Testing)
-2. [Workflow](https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment#Workflow)
-3. [Meetings](https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment#Meetings)
-4. [Team Reports](https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment#Team_Reports)
-5. [User Documentation](https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment#User_Documentation)
-6. [Backports](https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment#Backports)
+1. [Testing](index#Testing)
+2. [Workflow](index#Workflow)
+3. [Meetings](index#Meetings)
+4. [Team Reports](index#Team_Reports)
+5. [User Documentation](index#User_Documentation)
+6. [Backports](index#Backports)
 
 | W elcome to the Contribute to Ubuntu Studio Development page on wiki.ubuntu.com. The purpose of this document to help those who are not currently contributing to Ubuntu Studio development to do so. Below are items that require attention, find one that interests you and see if you can help. Most of these items do not require development experience. For further assistance or additional directions please email the Contact: listed for each item or visit #ubuntustudio-devel on Freenode IRC. |
 | --- |
@@ -31,7 +31,7 @@ Additionally, we will also be doing some kernel testing and application specific
 
 **Contact:** [Scott Lavender](https://launchpad.net/~slavender)
 
-**Resources:** [https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages)
+**Resources:** [UbuntuStudio/TestingQA-ISOImages](../TestingQA-ISOImages)
 
 # Workflow
 
@@ -43,7 +43,7 @@ Please either add to the 'work flows' wiki page (please don't delete other's wor
 
 **Contact:** [Scott Lavender](https://launchpad.net/~slavender)
 
-**Resources:** [https://wiki.ubuntu.com/UbuntuStudio/Workflows](https://wiki.ubuntu.com/UbuntuStudio/Workflows)
+**Resources:** [UbuntuStudio/Workflows](../Workflows)
 
 # Meetings
 
@@ -53,7 +53,7 @@ Formal meetings are held every two weeks on Sunday currently and informal meetin
 
 **Contact:** [Scott Lavender](https://launchpad.net/~slavender)
 
-**Resources:** [https://wiki.ubuntu.com/UbuntuStudio/Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings)
+**Resources:** [UbuntuStudio/Meetings](../Meetings)
 
 # Team Reports
 
@@ -65,7 +65,7 @@ Any wiki markup required (the formatting syntax for wikis) is minimal and easily
 
 **Contact:** [Scott Lavender](https://launchpad.net/~slavender)
 
-**Resources:** [https://wiki.ubuntu.com/UbuntuStudio/TeamReports](https://wiki.ubuntu.com/UbuntuStudio/TeamReports) , example: [https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/February](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/February)
+**Resources:** [UbuntuStudio/TeamReports](../TeamReports) , example: [UbuntuStudio/TeamReports/11/February](../TeamReports/11/February)
 
 # User Documentation
 
@@ -77,7 +77,7 @@ This is a large undertaking and we would appreciate someone who will commit to c
 
 **Contact:** [Scott Lavender](https://launchpad.net/~slavender)
 
-**Resources:** [https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio) and [https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos)
+**Resources:** [UbuntuStudio](../../../../../help) and [UbuntuStudio/IntroTutVideos](../IntroTutVideos)
 
 # Backports
 

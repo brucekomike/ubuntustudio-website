@@ -2,11 +2,11 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment
 
-## [PackageSelectionDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment)
+## [PackageSelectionDevelopment](PackageSelectionDevelopment)
 
 # Current vs. Proposed Applications
 
-This list contrasts and compares between applications in Maverick and proposed for Natty and is derived from the [workflows page](https://wiki.ubuntu.com/UbuntuStudio/Workflows).
+This list contrasts and compares between applications in Maverick and proposed for Natty and is derived from the [workflows page](Workflows).
 
 ** Please do not edit the Package Selection page unless you are a Ubuntu Studio Developer!**
 

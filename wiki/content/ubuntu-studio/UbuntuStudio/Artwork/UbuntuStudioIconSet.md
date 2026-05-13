@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/UbuntuStudioIconSet
 
-## [UbuntuStudioIconSet](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UbuntuStudioIconSet)
+## [UbuntuStudioIconSet](UbuntuStudioIconSet)
 
 This set follows [FreeDesktop](https://wiki.ubuntu.com/FreeDesktop) naming specification. [LINK](http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html)
 

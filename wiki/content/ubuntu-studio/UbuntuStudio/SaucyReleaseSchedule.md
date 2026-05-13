@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/SaucyReleaseSchedule
 
-## [SaucyReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/SaucyReleaseSchedule)
+## [SaucyReleaseSchedule](SaucyReleaseSchedule)
 
 | Week | Date (Thursday) | Planning Week 1-5 |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ Ubuntu (Virtual) Developer Summit, May 14th-15th.
 
 May 23rd
 
-Register blueprints at [https://blueprints.launchpad.net/ubuntu](https://blueprints.launchpad.net/ubuntu) using this [template](https://wiki.ubuntu.com/UbuntuStudio/Blueprints/DevelopmentReleaseTemplate), and use the results from the previous brainstorming discussions to create workitems for these blueprints (see [UbuntuStudio/Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) to get an overview of existing blueprints)
+Register blueprints at [https://blueprints.launchpad.net/ubuntu](https://blueprints.launchpad.net/ubuntu) using this [template](Blueprints/DevelopmentReleaseTemplate), and use the results from the previous brainstorming discussions to create workitems for these blueprints (see [UbuntuStudio/Blueprints](Blueprints) to get an overview of existing blueprints)
 
 5
 
@@ -189,7 +189,7 @@ October 3rd
 
 October 10th
 
-![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png) [FinalFreeze](https://wiki.ubuntu.com/FinalFreeze), ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png) [ReleaseCandidate](https://wiki.ubuntu.com/ReleaseCandidate) prepare [PR](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations) announcements for the new release
+![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png) [FinalFreeze](https://wiki.ubuntu.com/FinalFreeze), ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png) [ReleaseCandidate](https://wiki.ubuntu.com/ReleaseCandidate) prepare [PR](PublicRelationsDocumentation) announcements for the new release
 
 **Week**
 

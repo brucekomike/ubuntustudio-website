@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ContributorTeam
 
-## [ContributorTeam](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeam)
+## [ContributorTeam](ContributorTeam)
 
 | Task Description | moderated team for those looking to become Ubuntu Studio developers. |
 | --- | --- |
@@ -23,11 +23,11 @@ moderated team for those looking to become Ubuntu Studio developers.
 
 **Team Wiki**
 
-[Contributor Team Page](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeamPage)
+[Contributor Team Page](ContributorTeamPage)
 
 **Blueprint**
 
-See the [Blueprints Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlueprintOverview)
+See the [Blueprints Overview](Blueprints)
 
 **Mail Lists**
 
@@ -39,7 +39,7 @@ See the [Blueprints Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlue
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment |  |
 | --- | --- | --- | --- | --- |

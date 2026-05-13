@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TaskLV2Inclusion
 
-## [TaskLV2Inclusion](https://wiki.ubuntu.com/UbuntuStudio/TaskLV2Inclusion)
+## [TaskLV2Inclusion](TaskLV2Inclusion)
 
 # LV2 Packaging Policy
 

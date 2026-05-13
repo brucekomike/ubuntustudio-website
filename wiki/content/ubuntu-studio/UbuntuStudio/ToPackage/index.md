@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ToPackage
 
-## [ToPackage](https://wiki.ubuntu.com/UbuntuStudio/ToPackage)
+## [ToPackage](index)
 
 **PLEASE DO NOT EDIT THIS PAGE UNLESS YOU'RE ON THE UBUNTU STUDIO TEAM.**
 
@@ -78,7 +78,7 @@ In Progress
 
 Hardy Heron
 
-See [UbuntuStudio/ToPackage/Celtx](https://wiki.ubuntu.com/UbuntuStudio/ToPackage/Celtx) for a plan of action.
+See [UbuntuStudio/ToPackage/Celtx](Celtx) for a plan of action.
 
 # Genpo
 

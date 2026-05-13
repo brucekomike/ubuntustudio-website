@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ArtTeam
 
-## [ArtTeam](https://wiki.ubuntu.com/UbuntuStudio/ArtTeam)
+## [ArtTeam](ArtTeam)
 
 | Task Description | Collects and creates art for Ubuntu Studio. |
 | --- | --- |
@@ -21,11 +21,11 @@ Collects and creates art for Ubuntu Studio.
 
 **Team Wiki**
 
-[Art Team Page](https://wiki.ubuntu.com/UbuntuStudio/ArtTeamPage)
+[Art Team Page](ArtTeamPage)
 
 **Blueprint**
 
-See the [Blueprints Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlueprintOverview)
+See the [Blueprints Overview](Blueprints)
 
 **Mail Lists**
 
@@ -37,7 +37,7 @@ See the [Blueprints Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlue
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

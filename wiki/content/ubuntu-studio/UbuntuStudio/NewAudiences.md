@@ -2,38 +2,38 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/NewAudiences
 
-## [NewAudiences](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences)
+## [NewAudiences](NewAudiences)
 
 | Contents Rationale Potential Audiences DJ's Scope of Needs Pros Cons Podcasters Scope of Needs Pros Cons University Audio Lab Scope of Needs Pros Cons Musicians Scope of Needs Pros Cons |
 | --- |
 
 Contents
 
-1. [Rationale](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Rationale)
-2. [Potential Audiences](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Potential_Audiences) [DJ's](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#DJ.27s) [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs) [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros) [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons) [Podcasters](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Podcasters) [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs-1) [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros-1) [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons-1) [University Audio Lab](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#University_Audio_Lab) [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs-2) [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros-2) [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons-2) [Musicians](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Musicians) [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs-3) [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros-3) [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons-3)
+1. [Rationale](NewAudiences#Rationale)
+2. [Potential Audiences](NewAudiences#Potential_Audiences) [DJ's](NewAudiences#DJ.27s) [Scope of Needs](NewAudiences#Scope_of_Needs) [Pros](NewAudiences#Pros) [Cons](NewAudiences#Cons) [Podcasters](NewAudiences#Podcasters) [Scope of Needs](NewAudiences#Scope_of_Needs-1) [Pros](NewAudiences#Pros-1) [Cons](NewAudiences#Cons-1) [University Audio Lab](NewAudiences#University_Audio_Lab) [Scope of Needs](NewAudiences#Scope_of_Needs-2) [Pros](NewAudiences#Pros-2) [Cons](NewAudiences#Cons-2) [Musicians](NewAudiences#Musicians) [Scope of Needs](NewAudiences#Scope_of_Needs-3) [Pros](NewAudiences#Pros-3) [Cons](NewAudiences#Cons-3)
 
-1. [DJ's](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#DJ.27s) [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs) [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros) [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons)
-2. [Podcasters](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Podcasters) [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs-1) [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros-1) [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons-1)
-3. [University Audio Lab](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#University_Audio_Lab) [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs-2) [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros-2) [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons-2)
-4. [Musicians](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Musicians) [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs-3) [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros-3) [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons-3)
+1. [DJ's](NewAudiences#DJ.27s) [Scope of Needs](NewAudiences#Scope_of_Needs) [Pros](NewAudiences#Pros) [Cons](NewAudiences#Cons)
+2. [Podcasters](NewAudiences#Podcasters) [Scope of Needs](NewAudiences#Scope_of_Needs-1) [Pros](NewAudiences#Pros-1) [Cons](NewAudiences#Cons-1)
+3. [University Audio Lab](NewAudiences#University_Audio_Lab) [Scope of Needs](NewAudiences#Scope_of_Needs-2) [Pros](NewAudiences#Pros-2) [Cons](NewAudiences#Cons-2)
+4. [Musicians](NewAudiences#Musicians) [Scope of Needs](NewAudiences#Scope_of_Needs-3) [Pros](NewAudiences#Pros-3) [Cons](NewAudiences#Cons-3)
 
-1. [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs)
-2. [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros)
-3. [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons)
+1. [Scope of Needs](NewAudiences#Scope_of_Needs)
+2. [Pros](NewAudiences#Pros)
+3. [Cons](NewAudiences#Cons)
 
-1. [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs-1)
-2. [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros-1)
-3. [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons-1)
+1. [Scope of Needs](NewAudiences#Scope_of_Needs-1)
+2. [Pros](NewAudiences#Pros-1)
+3. [Cons](NewAudiences#Cons-1)
 
-1. [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs-2)
-2. [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros-2)
-3. [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons-2)
+1. [Scope of Needs](NewAudiences#Scope_of_Needs-2)
+2. [Pros](NewAudiences#Pros-2)
+3. [Cons](NewAudiences#Cons-2)
 
-1. [Scope of Needs](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Scope_of_Needs-3)
-2. [Pros](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Pros-3)
-3. [Cons](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences#Cons-3)
+1. [Scope of Needs](NewAudiences#Scope_of_Needs-3)
+2. [Pros](NewAudiences#Pros-3)
+3. [Cons](NewAudiences#Cons-3)
 
-This page tracks back to [UbuntuStudio/ReleasePlanning](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning)
+This page tracks back to [UbuntuStudio/ReleasePlanning](ReleasePlanning)
 
 ## Rationale
 

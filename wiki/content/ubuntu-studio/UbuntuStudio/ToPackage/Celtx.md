@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ToPackage/Celtx
 
-## [Celtx](https://wiki.ubuntu.com/UbuntuStudio/ToPackage/Celtx)
+## [Celtx](Celtx)
 
 This is the action plan for how to package Celtx. The page will get updated as more information is available.
 

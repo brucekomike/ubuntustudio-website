@@ -2,11 +2,11 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialIntrepid
 
-## [OfficialIntrepid](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialIntrepid)
+## [OfficialIntrepid](OfficialIntrepid)
 
-This page reflects the current official Ubuntu Studio 8.10 artwork. If your a user who would like to post your art please do so in our [User Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserContributed) section.
+This page reflects the current official Ubuntu Studio 8.10 artwork. If your a user who would like to post your art please do so in our [User Art](UserContributed) section.
 
-There is a scratch page for Intrepid artwork ideas [HERE](https://wiki.ubuntu.com/UbuntuStudio/Artwork/IntrepidBrainstorm)
+There is a scratch page for Intrepid artwork ideas [HERE](IntrepidBrainstorm)
 
 ## Logo
 

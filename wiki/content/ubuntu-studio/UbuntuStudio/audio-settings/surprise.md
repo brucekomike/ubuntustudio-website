@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/audio-settings/surprise
 
-## [surprise](https://wiki.ubuntu.com/UbuntuStudio/audio-settings/surprise)
+## [surprise](surprise)
 
 ## Cron tasks can take a large chunk of system resources at unexpected times
 

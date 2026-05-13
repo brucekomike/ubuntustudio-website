@@ -2,12 +2,12 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/UserSurvey
 
-## [UserSurvey](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey)
+## [UserSurvey](UserSurvey)
 
 | Back to Maverick Meerkat Release Planning |
 | --- |
 
-[Back to Maverick Meerkat Release Planning](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning)
+[Back to Maverick Meerkat Release Planning](ReleasePlanning)
 
 Scratch pad for developing questions for a user survey. Reasons for questions should also be included.
 
@@ -16,11 +16,11 @@ Scratch pad for developing questions for a user survey. Reasons for questions sh
 
 Contents
 
-1. [Hardware](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey#Hardware)
-2. [Installation](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey#Installation)
-3. [Experience](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey#Experience)
-4. [Workflow](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey#Workflow)
-5. [Audio](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey#Audio)
+1. [Hardware](UserSurvey#Hardware)
+2. [Installation](UserSurvey#Installation)
+3. [Experience](UserSurvey#Experience)
+4. [Workflow](UserSurvey#Workflow)
+5. [Audio](UserSurvey#Audio)
 
 ### Hardware
 

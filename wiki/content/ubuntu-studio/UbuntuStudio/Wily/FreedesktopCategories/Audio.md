@@ -2,37 +2,37 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Audio
 
-## [Audio](https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Audio)
+## [Audio](Audio)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](../..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](../..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../../Organization)**
 
 Contents
 
-1. [Universe](https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Audio#Universe)
-2. [Multiverse](https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Audio#Multiverse)
+1. [Universe](Audio#Universe)
+2. [Multiverse](Audio#Multiverse)
 
-When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories).
+When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](../../FreedesktopCategories).
 
 # Universe
 

@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeam
 
-## [DocumentationTeam](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeam)
+## [DocumentationTeam](DocumentationTeam)
 
-| Task Description | Write user and developer documentation for the website and wikis. Maintains http://wiki.ubuntu.com/UbuntuStudio and http://help.ubuntu.com/community/UbuntuStudio as well as ubuntustudio.org |
+| Task Description | Write user and developer documentation for the website and wikis. Maintains UbuntuStudio and UbuntuStudio as well as ubuntustudio.org |
 | --- | --- |
 | Launchpad Team | ~ubuntustudio-documentation |
 | Team Wiki | Documentation Team Page |
@@ -16,7 +16,7 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeam
 
 **Task Description**
 
-Write user and developer documentation for the website and wikis. Maintains [http://wiki.ubuntu.com/UbuntuStudio](http://wiki.ubuntu.com/UbuntuStudio) and [http://help.ubuntu.com/community/UbuntuStudio](http://help.ubuntu.com/community/UbuntuStudio) as well as [ubuntustudio.org](http://ubuntustudio.org)
+Write user and developer documentation for the website and wikis. Maintains [UbuntuStudio](index) and [UbuntuStudio](../../../../help) as well as [ubuntustudio.org](http://ubuntustudio.org)
 
 **Launchpad Team**
 
@@ -24,11 +24,11 @@ Write user and developer documentation for the website and wikis. Maintains [htt
 
 **Team Wiki**
 
-[Documentation Team Page](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage)
+[Documentation Team Page](DocumentationTeamPage)
 
 **Team Documentation**
 
-[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)
+[Documentation](Documentation)
 
 **Blueprint**
 
@@ -44,7 +44,7 @@ Write user and developer documentation for the website and wikis. Maintains [htt
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

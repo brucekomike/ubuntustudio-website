@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016/Sakrecoer
 
-## [Sakrecoer](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016/Sakrecoer)
+## [Sakrecoer](Sakrecoer)
 
 # Personal Info
 

@@ -2,45 +2,45 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote
 
-## [ProjectLeadVote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote)
+## [ProjectLeadVote](ProjectLeadVote)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
 | --- |
 
-**-- [Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/OrganizationSideBar?action=edit))** **Organization** - [Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy) - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) -- [Project Lead Vote 2016](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016) - [Team Structure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) - [Release Procedure](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule) - [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) - [Feature Definitions](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions) - [Package Selection](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection) - [Dates (not used)](https://wiki.ubuntu.com/UbuntuStudio/Dates) - [Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings) **Planning Documentation** - [Managing Blueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints) - [Development Cycle](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle) .. [Feature Definition Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition) .. [Development Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development) .. [Testing Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing) .. [Releasing](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Release)
+**-- [Organization](Organization) Side Bar -- ([Edit](Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](Policy) - [Project Lead Vote](ProjectLeadVote) -- [Project Lead Vote 2016](ProjectLeadVote2016) - [Team Structure](TeamStructure) - [Release Procedure](ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](DevelopmentReleaseSchedule) - [Blueprints](Blueprints) - [Feature Definitions](FeatureDefinitions) - [Package Selection](PackageSelection) - [Dates (not used)](Dates) - [Meetings](Meetings) **Planning Documentation** - [Managing Blueprints](ManagingBlueprints) - [Development Cycle](DevelopmentCycle) .. [Feature Definition Period](DevEvents/FeatureDefinition) .. [Development Period](DevEvents/Development) .. [Testing Period](DevEvents/Testing) .. [Releasing](DevEvents/Release)
 
 Contents
 
-1. [When is the vote?](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote#When_is_the_vote.3F)
-2. [How do we vote?](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote#How_do_we_vote.3F)
-3. [Who is allowed to vote?](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote#Who_is_allowed_to_vote.3F)
-4. [Candidate requirements](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote#Candidate_requirements)
-5. [Announcing your candidacy](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote#Announcing_your_candidacy) [Creating the wiki page](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote#Creating_the_wiki_page)
+1. [When is the vote?](ProjectLeadVote#When_is_the_vote.3F)
+2. [How do we vote?](ProjectLeadVote#How_do_we_vote.3F)
+3. [Who is allowed to vote?](ProjectLeadVote#Who_is_allowed_to_vote.3F)
+4. [Candidate requirements](ProjectLeadVote#Candidate_requirements)
+5. [Announcing your candidacy](ProjectLeadVote#Announcing_your_candidacy) [Creating the wiki page](ProjectLeadVote#Creating_the_wiki_page)
 
-1. [Creating the wiki page](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote#Creating_the_wiki_page)
+1. [Creating the wiki page](ProjectLeadVote#Creating_the_wiki_page)
 
 # When is the vote?
 
@@ -77,6 +77,6 @@ To announce your candidacy, you need to:
 
 ## Creating the wiki page
 
-To create the page you can start by adding the link [UbuntuStudio/ProjectLeadVote<year>/<yournickname>](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote%3Cyear%3E/%3Cyournickname%3E) to the main wiki page for candidates (2016 vote uses [UbuntuStudio/ProjectLeadVote2016](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016)). Once the link is added, save the page and click on the link. Since the page does not exist, you will be asked to create one. Use the template [UbuntuStudio/ProjectLeadCandidateTemplate](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadCandidateTemplate).
+To create the page you can start by adding the link [UbuntuStudio/ProjectLeadVote<year>/<yournickname>](ProjectLeadVoteTemplate) to the main wiki page for candidates (2016 vote uses [UbuntuStudio/ProjectLeadVote2016](ProjectLeadVote2016)). Once the link is added, save the page and click on the link. Since the page does not exist, you will be asked to create one. Use the template [UbuntuStudio/ProjectLeadCandidateTemplate](ProjectLeadCandidateTemplate).
 
 UbuntuStudio/ProjectLeadVote (last edited 2015-12-04 14:19:57 by h-141-65)

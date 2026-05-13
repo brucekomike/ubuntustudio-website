@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/MeetingLogs/openweekgutsy/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/MeetingLogs/openweekgutsy/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 ## Ubuntu Open Week - Ubuntu Studio - Cory Kontros - Sat, Oct 27, 2007
 
@@ -57,7 +57,7 @@ Source: https://wiki.ubuntu.com/MeetingLogs/openweekgutsy/UbuntuStudio
 
 18:10 <+_MMA_>  * Documentation
 
-18:10 <+_MMA_>  * Artwork for Gutsy. https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialHardyIncoming (this includes all aspects for the "look&feel of Ubuntu Studio-Gutsy as well as the website.)
+18:10 <+_MMA_>  * Artwork for Gutsy. Artwork/OfficialHardy (this includes all aspects for the "look&feel of Ubuntu Studio-Gutsy as well as the website.)
 
 18:10 <+_MMA_>  * Knowledgeable help with packaging and technical issues around Linux audio.
 
@@ -311,7 +311,7 @@ Source: https://wiki.ubuntu.com/MeetingLogs/openweekgutsy/UbuntuStudio
 
 18:55 <+_MMA_> Apart from new ideas people can help with testing ISOs. Writing HOW-TOs/Documentation. And our art is open to the community this time around.
 
-18:55 <+_MMA_> https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialHardyIncoming
+18:55 <+_MMA_> Artwork/OfficialHardy
 
 18:57 <+_MMA_> Well lets kill it then.
 

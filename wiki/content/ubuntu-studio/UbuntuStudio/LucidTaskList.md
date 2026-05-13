@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/LucidTaskList
 
-## [LucidTaskList](https://wiki.ubuntu.com/UbuntuStudio/LucidTaskList)
+## [LucidTaskList](LucidTaskList)
 
 # Tasks to be completed for Lucid
 
@@ -25,31 +25,31 @@ There are several tasks that need to be either completed, or have continuous mai
 
 **Assignee**
 
-[Maintain realtime kernel package](https://wiki.ubuntu.com/UbuntuStudio/TaskMaintainRealtimeKernelPackage)
+[Maintain realtime kernel package](TaskMaintainRealtimeKernelPackage)
 
 This is on a best effort basis, since the realtime patches often lag behind the latest kernel upstream release, as well as the Ubuntu kernel release.
 
 [LukeYelavich](https://wiki.ubuntu.com/LukeYelavich)
 
-[DVD Testing](https://wiki.ubuntu.com/UbuntuStudio/TaskDVDTesting)
+[DVD Testing](TaskDVDTesting)
 
 Testing alpha images at a minimum, testing one or two dailies a week would be preferable.
 
 [Eric Hedekar](https://wiki.ubuntu.com/stochastic)
 
-[Audio/Video/Graphics package selection](https://wiki.ubuntu.com/UbuntuStudio/TaskMetaPackageContentsSelection)
+[Audio/Video/Graphics package selection](TaskMetaPackageContentsSelection)
 
 We need to review what we currently ship, and see if there is anything else that needs replacing with something better, removed, or kept.
 
-[Recruiting more helpers](https://wiki.ubuntu.com/UbuntuStudio/TaskRecruiting)
+[Recruiting more helpers](TaskRecruiting)
 
 This will always be ongoing, but its listed here as it needs to be done.
 
-[Application update monitoring](https://wiki.ubuntu.com/UbuntuStudio/TaskUpstreamPackageUpdates)
+[Application update monitoring](TaskUpstreamPackageUpdates)
 
 We need to know if there any applications that need updating to a new upstream release either from Debian, or upstream directly. Best to talk to the Debian maintainer if there is one to see how soon Debian can be updated. If a package is not updated in Debian by the end of July, we need to consider updating it directly in Ubuntu.
 
-[Documentation maintenance and co-ordination](https://wiki.ubuntu.com/UbuntuStudio/TaskDocumentationMaintenance)
+[Documentation maintenance and co-ordination](TaskDocumentationMaintenance)
 
 Generally a community effort, but it's fallen by the wayside and is an easy way for anyone to help.
 
@@ -71,29 +71,29 @@ Generally a community effort, but it's fallen by the wayside and is an easy way 
 
 **Assignee**
 
-[Migrate UbuntuStudio Controls to GtkBuilder](https://wiki.ubuntu.com/UbuntuStudio/TaskControlsGtkBuilder)
+[Migrate UbuntuStudio Controls to GtkBuilder](TaskControlsGtkBuilder)
 
 Glade is going to go away upstream, and [GtkBuilder](https://wiki.ubuntu.com/GtkBuilder) is now available in GTK, so we should get ubuntustudio-controls moved to [GtkBuilder](https://wiki.ubuntu.com/GtkBuilder) ASAP.
 
-[Promotion of Jack into main](https://wiki.ubuntu.com/Ubuntustudio/TaskJackIntoMain)
+[Promotion of Jack into main](TaskJackIntoMain)
 
 This requires a [Main inclusion report](https://wiki.ubuntu.com/MainInclusionProcess) to be written for [libffado](https://launchpad.net/ubuntu/+source/libffado). [LukeYelavich](https://wiki.ubuntu.com/LukeYelavich) is happy to provide assistance for anyone who wishes to do this.
 
 [ScottLavender](https://wiki.ubuntu.com/ScottLavender) , [Eric Hedekar (stochastic)](https://wiki.ubuntu.com/stochastic)
 
-[New Art Look for Lucid](https://wiki.ubuntu.com/UbuntuStudio/LucidArtwork)
+[New Art Look for Lucid](LucidArtwork)
 
 A revamped design style for the GTK, Bootsplash, Website, Desktop, and other artwork-centered portions of Ubuntu Studio
 
 [CKontros](https://wiki.ubuntu.com/CKontros)
 
-[Package LV2 libraries, synths, and plugins](https://wiki.ubuntu.com/UbuntuStudio/TaskLV2Inclusion)
+[Package LV2 libraries, synths, and plugins](TaskLV2Inclusion)
 
 The LV2 standard has been around for a long time now and is a long-overdue addition to Ubuntu Studio.
 
 [ScottLavender](https://wiki.ubuntu.com/ScottLavender) , [Eric Hedekar](https://wiki.ubuntu.com/stochastic)
 
-[Rejuvenate and Revamp the website](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp)
+[Rejuvenate and Revamp the website](TaskWebRevamp)
 
 The current ubuntustudio.org is a basic information website and needs more content/life as well as a facelift to match current artwork.
 

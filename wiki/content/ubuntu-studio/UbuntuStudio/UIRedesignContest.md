@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/UIRedesignContest
 
-## [UIRedesignContest](https://wiki.ubuntu.com/UbuntuStudio/UIRedesignContest)
+## [UIRedesignContest](UIRedesignContest)
 
 # Ubuntu Studio Controls UI Redesign Contest
 

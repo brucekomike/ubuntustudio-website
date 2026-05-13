@@ -2,63 +2,63 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment
 
-## [SetupDeveloperEnvironment](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment)
+## [SetupDeveloperEnvironment](SetupDeveloperEnvironment)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
 | --- |
 
-**-- [Developer](https://wiki.ubuntu.com/UbuntuStudio/Development) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/DevSideBar?action=edit&editor=text))** **Team Pages** - [Bugs Team](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeamPage) - [Contributor Team](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeamPage) - [Core Team](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage) - [Dev Team](https://wiki.ubuntu.com/UbuntuStudio/DevTeamPage) - [Kernel Team](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamPage) - [Release Team](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeamPage) - [Testing Team](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage) **[Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy)** - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) **[UbuntuStudio/Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging)** [Needs Packaging](https://wiki.ubuntu.com/UbuntuStudio/NeedsPackaging) **[Developer Documentation](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)** - [Setup Dev Environment](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment) - [Bzr Cheat Sheet](https://wiki.ubuntu.com/UbuntuStudio/Bzr) - [Bug Management](https://wiki.ubuntu.com/UbuntuStudio/BugManagement) - [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging) -- [Ubuntu Studio Package Maintenance](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackageMaintenance) -- [Uploading Packages (to the archive)](https://wiki.ubuntu.com/UbuntuStudio/Packaging/UploadingPackages) - [Backports](https://wiki.ubuntu.com/UbuntuStudio/Backports) - [Stable Release Updates (SRU)](https://wiki.ubuntu.com/UbuntuStudio/StableReleaseUpdates) - [Seed Management](https://wiki.ubuntu.com/UbuntuStudio/Seeds) - [Uploading to PPA](https://wiki.ubuntu.com/UbuntuStudio/UploadingToPPA) - [Applying Patches](https://wiki.ubuntu.com/UbuntuStudio/PatchingSourcePackages) - [Deb Diff](https://wiki.ubuntu.com/UbuntuStudio/DebDiff) - [Setup Local ISO Build Server](https://wiki.ubuntu.com/UbuntuStudio/SetupLocalIsoBuildServer) - [All About ISOs](https://wiki.ubuntu.com/UbuntuStudio/AllAboutISOs) - [Kernel Maintenance](https://wiki.ubuntu.com/UbuntuStudio/KernelMaintenance) - [Ubiquity - the live installer](https://wiki.ubuntu.com/UbuntuStudio/Ubiquity) **[Developer Tutorials](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample) **[Workflows](https://wiki.ubuntu.com/UbuntuStudio/Workflows)** - [Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio) - [Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video) - [Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics) - [Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography) - [Publishing](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Publishing) **[Workflow Categories](https://wiki.ubuntu.com/UbuntuStudio/WorkflowCategories)** **[Freedesktop Categories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories)** **[Deb Tags](https://wiki.ubuntu.com/UbuntuStudio/Debtags)** **[Ubuntu Studio Packages](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](https://wiki.ubuntu.com/UbuntuStudio/LaunchpadProjects)** **Reference** - [Terminology](https://wiki.ubuntu.com/UbuntuStudio/Terminology)
+**-- [Developer](Development) Side Bar -- ([Edit](Navigation/DevSideBar))** **Team Pages** - [Bugs Team](UbuntuStudioBugsTeamPage) - [Contributor Team](ContributorTeamPage) - [Core Team](CoreTeamPage) - [Dev Team](DevTeamPage) - [Kernel Team](KernelTeamPage) - [Release Team](ReleaseTeamPage) - [Testing Team](TestingTeamPage) **[Ubuntu Studio Policy](Policy)** - [Project Lead Vote](ProjectLeadVote) **[UbuntuStudio/Packaging](Packaging)** [Needs Packaging](NeedsPackaging) **[Developer Documentation](DeveloperDocumentation)** - [Setup Dev Environment](SetupDeveloperEnvironment) - [Bzr Cheat Sheet](Bzr) - [Bug Management](BugManagement) - [Packaging](Packaging) -- [Ubuntu Studio Package Maintenance](Packaging/UploadingPackages) -- [Uploading Packages (to the archive)](Packaging/UploadingPackages) - [Backports](Backports) - [Stable Release Updates (SRU)](StableReleaseUpdates) - [Seed Management](PackageSelectionDevelopment) - [Uploading to PPA](Packaging/UploadingPackages) - [Applying Patches](PatchingSourcePackages) - [Deb Diff](DebDiff) - [Setup Local ISO Build Server](SetupLocalIsoBuildServer) - [All About ISOs](AllAboutISOs) - [Kernel Maintenance](KernelMaintenance) - [Ubiquity - the live installer](Ubiquity) **[Developer Tutorials](DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](DeveloperTutorials/SimpleBugFixExample) **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Video](Workflows/Video) - [Graphics](Workflows/Graphics) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) **[Workflow Categories](WorkflowCategories)** **[Freedesktop Categories](FreedesktopCategories)** **[Deb Tags](Debtags)** **[Ubuntu Studio Packages](UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](LaunchpadProjects)** **Reference** - [Terminology](Terminology)
 
 Contents
 
-1. [Set Up A Basic Developer Environment](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Set_Up_A_Basic_Developer_Environment) [Before you begin](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Before_you_begin) [Setup Launchpad Account](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Setup_Launchpad_Account) [Create a GPG Key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Create_a_GPG_Key) [Creating the GPG key in a terminal](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Creating_the_GPG_key_in_a_terminal) [Create a SSH Key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Create_a_SSH_Key) [Creating the SSH Key in a Terminal](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Creating_the_SSH_Key_in_a_Terminal) [Finish Setting Up Launchpad](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Finish_Setting_Up_Launchpad) [Add the GPG key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Add_the_GPG_key) [Add the ssh key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Add_the_ssh_key) [Sign Code of Conduct](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Sign_Code_of_Conduct) [Set up Debian variables](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Set_up_Debian_variables) [Set up bazaar](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Set_up_bazaar) [Set up git](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Set_up_git) [Install some build tools](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Install_some_build_tools)
+1. [Set Up A Basic Developer Environment](SetupDeveloperEnvironment#Set_Up_A_Basic_Developer_Environment) [Before you begin](SetupDeveloperEnvironment#Before_you_begin) [Setup Launchpad Account](SetupDeveloperEnvironment#Setup_Launchpad_Account) [Create a GPG Key](SetupDeveloperEnvironment#Create_a_GPG_Key) [Creating the GPG key in a terminal](SetupDeveloperEnvironment#Creating_the_GPG_key_in_a_terminal) [Create a SSH Key](SetupDeveloperEnvironment#Create_a_SSH_Key) [Creating the SSH Key in a Terminal](SetupDeveloperEnvironment#Creating_the_SSH_Key_in_a_Terminal) [Finish Setting Up Launchpad](SetupDeveloperEnvironment#Finish_Setting_Up_Launchpad) [Add the GPG key](SetupDeveloperEnvironment#Add_the_GPG_key) [Add the ssh key](SetupDeveloperEnvironment#Add_the_ssh_key) [Sign Code of Conduct](SetupDeveloperEnvironment#Sign_Code_of_Conduct) [Set up Debian variables](SetupDeveloperEnvironment#Set_up_Debian_variables) [Set up bazaar](SetupDeveloperEnvironment#Set_up_bazaar) [Set up git](SetupDeveloperEnvironment#Set_up_git) [Install some build tools](SetupDeveloperEnvironment#Install_some_build_tools)
 
-1. [Before you begin](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Before_you_begin)
-2. [Setup Launchpad Account](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Setup_Launchpad_Account)
-3. [Create a GPG Key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Create_a_GPG_Key) [Creating the GPG key in a terminal](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Creating_the_GPG_key_in_a_terminal)
-4. [Create a SSH Key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Create_a_SSH_Key) [Creating the SSH Key in a Terminal](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Creating_the_SSH_Key_in_a_Terminal)
-5. [Finish Setting Up Launchpad](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Finish_Setting_Up_Launchpad) [Add the GPG key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Add_the_GPG_key) [Add the ssh key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Add_the_ssh_key) [Sign Code of Conduct](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Sign_Code_of_Conduct)
-6. [Set up Debian variables](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Set_up_Debian_variables)
-7. [Set up bazaar](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Set_up_bazaar)
-8. [Set up git](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Set_up_git)
-9. [Install some build tools](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Install_some_build_tools)
+1. [Before you begin](SetupDeveloperEnvironment#Before_you_begin)
+2. [Setup Launchpad Account](SetupDeveloperEnvironment#Setup_Launchpad_Account)
+3. [Create a GPG Key](SetupDeveloperEnvironment#Create_a_GPG_Key) [Creating the GPG key in a terminal](SetupDeveloperEnvironment#Creating_the_GPG_key_in_a_terminal)
+4. [Create a SSH Key](SetupDeveloperEnvironment#Create_a_SSH_Key) [Creating the SSH Key in a Terminal](SetupDeveloperEnvironment#Creating_the_SSH_Key_in_a_Terminal)
+5. [Finish Setting Up Launchpad](SetupDeveloperEnvironment#Finish_Setting_Up_Launchpad) [Add the GPG key](SetupDeveloperEnvironment#Add_the_GPG_key) [Add the ssh key](SetupDeveloperEnvironment#Add_the_ssh_key) [Sign Code of Conduct](SetupDeveloperEnvironment#Sign_Code_of_Conduct)
+6. [Set up Debian variables](SetupDeveloperEnvironment#Set_up_Debian_variables)
+7. [Set up bazaar](SetupDeveloperEnvironment#Set_up_bazaar)
+8. [Set up git](SetupDeveloperEnvironment#Set_up_git)
+9. [Install some build tools](SetupDeveloperEnvironment#Install_some_build_tools)
 
-1. [Creating the GPG key in a terminal](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Creating_the_GPG_key_in_a_terminal)
+1. [Creating the GPG key in a terminal](SetupDeveloperEnvironment#Creating_the_GPG_key_in_a_terminal)
 
-1. [Creating the SSH Key in a Terminal](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Creating_the_SSH_Key_in_a_Terminal)
+1. [Creating the SSH Key in a Terminal](SetupDeveloperEnvironment#Creating_the_SSH_Key_in_a_Terminal)
 
-1. [Add the GPG key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Add_the_GPG_key)
-2. [Add the ssh key](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Add_the_ssh_key)
-3. [Sign Code of Conduct](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Sign_Code_of_Conduct)
+1. [Add the GPG key](SetupDeveloperEnvironment#Add_the_GPG_key)
+2. [Add the ssh key](SetupDeveloperEnvironment#Add_the_ssh_key)
+3. [Sign Code of Conduct](SetupDeveloperEnvironment#Sign_Code_of_Conduct)
 
 # Set Up A Basic Developer Environment
 
 ## Before you begin
 
-Before doing this, you might want to install the [Development Release](https://wiki.ubuntu.com/UbuntuStudio/InstallDevelopmentRelease) first.
+Before doing this, you might want to install the [Development Release](InstallDevelopmentRelease) first.
 
 ## Setup Launchpad Account
 

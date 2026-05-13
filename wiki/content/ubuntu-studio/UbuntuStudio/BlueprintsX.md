@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/BlueprintsX
 
-## [BlueprintsX](https://wiki.ubuntu.com/UbuntuStudio/BlueprintsX)
+## [BlueprintsX](BlueprintsX)
 
 **Blueprints for Ubuntu Studio 16.04 "X"**
 

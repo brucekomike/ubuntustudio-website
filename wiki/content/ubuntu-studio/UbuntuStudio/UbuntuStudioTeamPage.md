@@ -2,30 +2,30 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeamPage
 
-## [UbuntuStudioTeamPage](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeamPage)
+## [UbuntuStudioTeamPage](UbuntuStudioTeamPage)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 # Ubuntu Studio User Team Page
 
@@ -46,7 +46,7 @@ Open team for ubuntu Studio users. Members of the launchpad team are allowed to 
 
 **Team Wiki**
 
-[Ubuntu Studio Team Page](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeamPage)
+[Ubuntu Studio Team Page](UbuntuStudioTeamPage)
 
 **Mail Lists**
 
@@ -62,12 +62,12 @@ Becoming a member of Ubuntu Studio is the first step towards contributing to the
 
 - Join the [~ubuntustudio](https://launchpad.net/~ubuntustudio) launchpad team which allows you to comment on posts at [http://ubuntustudio.org](http://ubuntustudio.org).
 - Subscribe to the [Ubuntu-Studio-users](https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users) mail list to keep up with announcements and community discussions regarding Linux Audio.
-- Check in and say hi on **#ubuntustudio** at **irc.freenode.net** - [Learn more about IRC](https://help.ubuntu.com/community/UbuntuStudio/IRC).
+- Check in and say hi on **#ubuntustudio** at **irc.freenode.net** - [Learn more about IRC](../../../../help/content/community/UbuntuStudio--IRC).
 
 Join the [~ubuntustudio](https://launchpad.net/~ubuntustudio) launchpad team which allows you to comment on posts at [http://ubuntustudio.org](http://ubuntustudio.org).
 
 Subscribe to the [Ubuntu-Studio-users](https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users) mail list to keep up with announcements and community discussions regarding Linux Audio.
 
-Check in and say hi on **#ubuntustudio** at **irc.freenode.net** - [Learn more about IRC](https://help.ubuntu.com/community/UbuntuStudio/IRC).
+Check in and say hi on **#ubuntustudio** at **irc.freenode.net** - [Learn more about IRC](../../../../help/content/community/UbuntuStudio--IRC).
 
 UbuntuStudio/UbuntuStudioTeamPage (last edited 2013-03-31 22:28:35 by h-4-180)

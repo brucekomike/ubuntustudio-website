@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Sandbox/Sidebar
 
-## [Sidebar](https://wiki.ubuntu.com/UbuntuStudio/Sandbox/Sidebar)
+## [Sidebar](Sidebar)
 
 ## Miscellaneous Panel
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/DevTeam
 
-## [DevTeam](https://wiki.ubuntu.com/UbuntuStudio/DevTeam)
+## [DevTeam](DevTeam)
 
 | Task Description | Packaging and bug fixing. Maintenance of Ubuntu Studio sources. Application development and maintenance. |
 | --- | --- |
@@ -24,15 +24,15 @@ Packaging and bug fixing. Maintenance of Ubuntu Studio sources. Application deve
 
 **Team Landing Page**
 
-[Development Team Page](https://wiki.ubuntu.com/UbuntuStudio/DevTeamPage)
+[Development Team Page](DevTeamPage)
 
 **Team Documentation**
 
-[Developer Documentation](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)
+[Developer Documentation](DeveloperDocumentation)
 
 **Blueprint**
 
-See the [Blueprint Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlueprintOverview)
+See the [Blueprint Overview](Blueprints)
 
 **Mail Lists**
 
@@ -44,7 +44,7 @@ See the [Blueprint Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBluep
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

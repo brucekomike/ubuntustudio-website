@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/BlueprintsY
 
-## [BlueprintsY](https://wiki.ubuntu.com/UbuntuStudio/BlueprintsY)
+## [BlueprintsY](BlueprintsY)
 
 **Blueprints for Ubuntu Studio 16.10 "Y"**
 

@@ -2,62 +2,62 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy
 
-## [PackageListSaucy](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy)
+## [PackageListSaucy](PackageListSaucy)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Workflow Side Bar -- ( edit ) Workflows - Audio - Graphics - Video - Photography - Publishing Package List Saucy (with categorization) Workflow Categories Freedesktop Categories |
 | --- |
 
-**-- Workflow Side Bar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/WorkflowSideBar?action=edit))** **[Workflows](https://wiki.ubuntu.com/UbuntuStudio/Workflows)** - [Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio) - [Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics) - [Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video) - [Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography) - [Publishing](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Publishing) [Package List Saucy](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy) (with categorization) [Workflow Categories](https://wiki.ubuntu.com/UbuntuStudio/WorkflowCategories) [Freedesktop Categories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories)
+**-- Workflow Side Bar -- ([edit](Navigation/WorkflowSideBar))** **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Graphics](Workflows/Graphics) - [Video](Workflows/Video) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) [Package List Saucy](PackageListSaucy) (with categorization) [Workflow Categories](WorkflowCategories) [Freedesktop Categories](FreedesktopCategories)
 
 **THIS PAGE IS UNDER CONSTRUCTION**
 
-[UbuntuStudio/WorkflowCategories](https://wiki.ubuntu.com/UbuntuStudio/WorkflowCategories) - A place to list all of the Ubuntu Studio workflow subcategories
+[UbuntuStudio/WorkflowCategories](WorkflowCategories) - A place to list all of the Ubuntu Studio workflow subcategories
 
 Contents
 
-1. [How to create these tables](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#How_to_create_these_tables)
-2. [Audio](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#Audio) [A](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#A) [B](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#B) [C](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#C) [D](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#D) [E](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#E) [F](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#F) [G](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#G) [H, I, J](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#H.2C_I.2C_J) [K, L](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#K.2C_L) [M](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#M) [N, O, P](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#N.2C_O.2C_P) [Q](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#Q) [R](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#R) [S](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#S) [T](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#T) [U, V, W](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#U.2C_V.2C_W) [X, Y, Z](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#X.2C_Y.2C_Z)
+1. [How to create these tables](PackageListSaucy#How_to_create_these_tables)
+2. [Audio](PackageListSaucy#Audio) [A](PackageListSaucy#A) [B](PackageListSaucy#B) [C](PackageListSaucy#C) [D](PackageListSaucy#D) [E](PackageListSaucy#E) [F](PackageListSaucy#F) [G](PackageListSaucy#G) [H, I, J](PackageListSaucy#H.2C_I.2C_J) [K, L](PackageListSaucy#K.2C_L) [M](PackageListSaucy#M) [N, O, P](PackageListSaucy#N.2C_O.2C_P) [Q](PackageListSaucy#Q) [R](PackageListSaucy#R) [S](PackageListSaucy#S) [T](PackageListSaucy#T) [U, V, W](PackageListSaucy#U.2C_V.2C_W) [X, Y, Z](PackageListSaucy#X.2C_Y.2C_Z)
 
-1. [A](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#A)
-2. [B](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#B)
-3. [C](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#C)
-4. [D](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#D)
-5. [E](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#E)
-6. [F](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#F)
-7. [G](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#G)
-8. [H, I, J](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#H.2C_I.2C_J)
-9. [K, L](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#K.2C_L)
-10. [M](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#M)
-11. [N, O, P](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#N.2C_O.2C_P)
-12. [Q](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#Q)
-13. [R](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#R)
-14. [S](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#S)
-15. [T](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#T)
-16. [U, V, W](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#U.2C_V.2C_W)
-17. [X, Y, Z](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy#X.2C_Y.2C_Z)
+1. [A](PackageListSaucy#A)
+2. [B](PackageListSaucy#B)
+3. [C](PackageListSaucy#C)
+4. [D](PackageListSaucy#D)
+5. [E](PackageListSaucy#E)
+6. [F](PackageListSaucy#F)
+7. [G](PackageListSaucy#G)
+8. [H, I, J](PackageListSaucy#H.2C_I.2C_J)
+9. [K, L](PackageListSaucy#K.2C_L)
+10. [M](PackageListSaucy#M)
+11. [N, O, P](PackageListSaucy#N.2C_O.2C_P)
+12. [Q](PackageListSaucy#Q)
+13. [R](PackageListSaucy#R)
+14. [S](PackageListSaucy#S)
+15. [T](PackageListSaucy#T)
+16. [U, V, W](PackageListSaucy#U.2C_V.2C_W)
+17. [X, Y, Z](PackageListSaucy#X.2C_Y.2C_Z)
 
 # How to create these tables
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meeting240507
 
-## [Meeting240507](https://wiki.ubuntu.com/UbuntuStudio/Meeting240507)
+## [Meeting240507](Meeting240507)
 
 # Ubuntu Studio Team Meeting 24th June 2007
 

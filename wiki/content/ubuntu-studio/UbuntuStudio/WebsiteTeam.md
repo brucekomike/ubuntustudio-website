@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeam
 
-## [WebsiteTeam](https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeam)
+## [WebsiteTeam](WebsiteTeam)
 
 | Task Description | Design and administration of the Ubuntu Studio web site. |
 | --- | --- |
@@ -23,7 +23,7 @@ Design and administration of the Ubuntu Studio web site.
 
 **Team Wiki**
 
-[Website Team Page](https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeamPage)
+[Website Team Page](WebsiteTeamPage)
 
 **Blueprint**
 
@@ -39,7 +39,7 @@ Design and administration of the Ubuntu Studio web site.
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

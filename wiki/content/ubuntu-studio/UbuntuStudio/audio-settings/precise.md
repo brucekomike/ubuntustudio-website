@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/audio-settings/precise
 
-## [precise](https://wiki.ubuntu.com/UbuntuStudio/audio-settings/precise)
+## [precise](precise)
 
-[../UbuntuStudio/audio-settings](https://wiki.ubuntu.com/UbuntuStudio/audio-settings)
+[../UbuntuStudio/audio-settings](audio-settings)
 
 Documenting audio specific system configurations for Ubuntu Studio 12.04 here. Listed by package name.
 

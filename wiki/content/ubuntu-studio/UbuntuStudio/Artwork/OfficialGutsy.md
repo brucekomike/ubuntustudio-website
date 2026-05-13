@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialGutsy
 
-## [OfficialGutsy](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialGutsy)
+## [OfficialGutsy](OfficialGutsy)
 
-This page reflects the current official Ubuntu Studio 7.10 artwork. If your a user who would like to post your art please do so in our [User Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserContributed) section.
+This page reflects the current official Ubuntu Studio 7.10 artwork. If your a user who would like to post your art please do so in our [User Art](UserContributed) section.
 
 ## Logo
 

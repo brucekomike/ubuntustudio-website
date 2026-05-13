@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Theme
 
-## [Theme](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Theme)
+## [Theme](Theme)
 
 This will stay close in color to the current but throw out the design ideas. New engine. Whatever just as long as the Blue/Darker Gray/Black is in there.
 
@@ -16,11 +16,11 @@ The thinking behind this is professional multimedia editing apps. ![avid_xpress_
 
 ![usgutsyfjs.jpg](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/DIYConcept/Theme/usgutsyfjs.jpg)
 
-- I used the Crux and Clearlooks engines for this, thinking Crux looked sorta like what you'd find in those media applications. Window border is temporary. -Viper550 Along with keeping in mind what "those media applications" look like one must keep in mind if it follows [THIS](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialHardyIncoming). I'm unsure if it does. -CKontros
+- I used the Crux and Clearlooks engines for this, thinking Crux looked sorta like what you'd find in those media applications. Window border is temporary. -Viper550 Along with keeping in mind what "those media applications" look like one must keep in mind if it follows [THIS](Artwork/OfficialHardy). I'm unsure if it does. -CKontros
 
-- Along with keeping in mind what "those media applications" look like one must keep in mind if it follows [THIS](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialHardyIncoming). I'm unsure if it does. -CKontros
+- Along with keeping in mind what "those media applications" look like one must keep in mind if it follows [THIS](Artwork/OfficialHardy). I'm unsure if it does. -CKontros
 
-Along with keeping in mind what "those media applications" look like one must keep in mind if it follows [THIS](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialHardyIncoming). I'm unsure if it does. -CKontros
+Along with keeping in mind what "those media applications" look like one must keep in mind if it follows [THIS](Artwork/OfficialHardy). I'm unsure if it does. -CKontros
 
 ### GTK/DIY Theme idea
 

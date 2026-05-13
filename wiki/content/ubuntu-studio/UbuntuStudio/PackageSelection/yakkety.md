@@ -2,50 +2,50 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety
 
-## [yakkety](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety)
+## [yakkety](yakkety)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
 | --- |
 
-**-- [Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/OrganizationSideBar?action=edit))** **Organization** - [Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy) - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) -- [Project Lead Vote 2016](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016) - [Team Structure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) - [Release Procedure](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule) - [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) - [Feature Definitions](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions) - [Package Selection](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection) - [Dates (not used)](https://wiki.ubuntu.com/UbuntuStudio/Dates) - [Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings) **Planning Documentation** - [Managing Blueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints) - [Development Cycle](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle) .. [Feature Definition Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition) .. [Development Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development) .. [Testing Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing) .. [Releasing](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Release)
+**-- [Organization](../Organization) Side Bar -- ([Edit](../Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](../Policy) - [Project Lead Vote](../ProjectLeadVote) -- [Project Lead Vote 2016](../ProjectLeadVote2016) - [Team Structure](../TeamStructure) - [Release Procedure](../ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](../DevelopmentReleaseSchedule) - [Blueprints](../Blueprints) - [Feature Definitions](../FeatureDefinitions) - [Package Selection](index) - [Dates (not used)](../Dates) - [Meetings](../Meetings) **Planning Documentation** - [Managing Blueprints](../ManagingBlueprints) - [Development Cycle](../DevelopmentCycle) .. [Feature Definition Period](../DevEvents/FeatureDefinition) .. [Development Period](../DevEvents/Development) .. [Testing Period](../DevEvents/Testing) .. [Releasing](../DevEvents/Release)
 
 Contents
 
-1. [Proposals for packages to change for yakkety](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Proposals_for_packages_to_change_for_yakkety) [How to edit this page](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#How_to_edit_this_page) [Audio](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Audio) [Audio Core](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Audio_Core) [Audio Plugins](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Audio_Plugins) [Graphics](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Graphics) [Publishing](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Publishing) [Photography](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Photography) [Video](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Video)
+1. [Proposals for packages to change for yakkety](yakkety#Proposals_for_packages_to_change_for_yakkety) [How to edit this page](yakkety#How_to_edit_this_page) [Audio](yakkety#Audio) [Audio Core](yakkety#Audio_Core) [Audio Plugins](yakkety#Audio_Plugins) [Graphics](yakkety#Graphics) [Publishing](yakkety#Publishing) [Photography](yakkety#Photography) [Video](yakkety#Video)
 
-1. [How to edit this page](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#How_to_edit_this_page)
-2. [Audio](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Audio) [Audio Core](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Audio_Core) [Audio Plugins](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Audio_Plugins)
-3. [Graphics](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Graphics) [Publishing](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Publishing) [Photography](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Photography)
-4. [Video](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Video)
+1. [How to edit this page](yakkety#How_to_edit_this_page)
+2. [Audio](yakkety#Audio) [Audio Core](yakkety#Audio_Core) [Audio Plugins](yakkety#Audio_Plugins)
+3. [Graphics](yakkety#Graphics) [Publishing](yakkety#Publishing) [Photography](yakkety#Photography)
+4. [Video](yakkety#Video)
 
-1. [Audio Core](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Audio_Core)
-2. [Audio Plugins](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Audio_Plugins)
+1. [Audio Core](yakkety#Audio_Core)
+2. [Audio Plugins](yakkety#Audio_Plugins)
 
-1. [Publishing](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Publishing)
-2. [Photography](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety#Photography)
+1. [Publishing](yakkety#Publishing)
+2. [Photography](yakkety#Photography)
 
 # Proposals for packages to change for yakkety
 

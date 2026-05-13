@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Oneiric/Timeline
 
-## [Timeline](https://wiki.ubuntu.com/UbuntuStudio/Oneiric/Timeline)
+## [Timeline](Timeline)
 
 |  | Ubuntu Studio |  |  |
 | --- | --- | --- | --- |
@@ -12,11 +12,11 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Oneiric/Timeline
 
 **Ubuntu Studio**
 
-[Wiki Home](https://wiki.ubuntu.com/UbuntuStudio)
+[Wiki Home](..)
 
-[Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings)
+[Meetings](../Meetings)
 
-[Release Planning](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning)
+[Release Planning](../ReleasePlanning)
 
 [Current Release Schedule](https://wiki.ubuntu.com/OneiricReleaseSchedule)
 

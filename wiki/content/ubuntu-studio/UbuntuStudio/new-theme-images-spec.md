@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/new-theme-images-spec
 
-## [new-theme-images-spec](https://wiki.ubuntu.com/UbuntuStudio/new-theme-images-spec)
+## [new-theme-images-spec](new-theme-images-spec)
 
 - **Launchpad Entry**: [spec:new-images-plymouth-lightdm-wallpaper](https://blueprints.launchpad.net/ubuntustudio/+spec/new-images-plymouth-lightdm-wallpaper)
 - **Created**: [ScottLavender](https://wiki.ubuntu.com/ScottLavender)
@@ -131,7 +131,7 @@ If the other concepts or images were simplistic, then this on is shockingly spar
 
 If possible: simple but elegant, sparse but functional. (the spec writer realizes this is ambiguous and vague mumbo-jumbo).
 
-Gray is suggested. Use something that will not distract or obscure icons on the desktop. The first image on [this wiki page](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialOneiric) is similar to what is desired but bordering on being too "noisy". A more homogeneous look would be preferred.
+Gray is suggested. Use something that will not distract or obscure icons on the desktop. The first image on [this wiki page](Artwork/OfficialOneiric) is similar to what is desired but bordering on being too "noisy". A more homogeneous look would be preferred.
 
 Background images are actively discouraged for this wallpaper.
 

@@ -2,42 +2,42 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Documentation
 
-## [Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)
+## [Documentation](Documentation)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Documentation Sidebar -- ( edit ) Team Pages - Documentation Team Page Documentation - Video Format - For Video-tutorials - Youtube Specifics - Archive.org Specifics |
 | --- |
 
-** -- [Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/DocSideBar?action=edit))** **Team Pages** - [Documentation Team Page](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage) **[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)** - [Video Format](https://wiki.ubuntu.com/UbuntuStudio/VideoFormat) - For Video-tutorials - [Youtube Specifics](https://wiki.ubuntu.com/UbuntuStudio/YoutubeVideoFormat) - [Archive.org Specifics](https://wiki.ubuntu.com/UbuntuStudio/ArchiveVideoFormat)
+** -- [Documentation](Documentation) Sidebar -- ([edit](Navigation/DocSideBar))** **Team Pages** - [Documentation Team Page](DocumentationTeamPage) **[Documentation](Documentation)** - [Video Format](VideoFormat) - For Video-tutorials - [Youtube Specifics](YoutubeVideoFormat) - [Archive.org Specifics](ArchiveVideoFormat)
 
 # Ubuntu Studio Documentation
 
 | This page has documentation about how to do Ubuntu Studio documentation. If you instead want to read user documentation , please visit help.ubuntu.com/community/UbuntuStudio . Developer documentation (of which this page is a part of), is found at wiki.ubuntu.com/UbuntuStudio |
 | --- |
 
-**This page has documentation about how to do Ubuntu Studio documentation.** If you instead want to read **user documentation**, please visit [help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio). **Developer documentation** (of which this page is a part of), is found at [wiki.ubuntu.com/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+**This page has documentation about how to do Ubuntu Studio documentation.** If you instead want to read **user documentation**, please visit [help.ubuntu.com/community/UbuntuStudio](../../../../help). **Developer documentation** (of which this page is a part of), is found at [wiki.ubuntu.com/UbuntuStudio](index)
 
 # Documentation Checklist
 
@@ -105,21 +105,21 @@ This page needs to be updated each time products at the web shop change
 
 ## Wiki
 
-- [http://wiki.ubuntu.com/UbuntuStudio](http://wiki.ubuntu.com/UbuntuStudio) - this wiki
+- [UbuntuStudio](index) - this wiki
 
-[http://wiki.ubuntu.com/UbuntuStudio](http://wiki.ubuntu.com/UbuntuStudio) - this wiki
+[UbuntuStudio](index) - this wiki
 
 ## Help Wiki
 
-- [http://help.ubuntu.com/community/UbuntuStudio](http://help.ubuntu.com/community/UbuntuStudio) - user documentation wiki (reachable from this wiki)
+- [UbuntuStudio](../../../../help) - user documentation wiki (reachable from this wiki)
 
-[http://help.ubuntu.com/community/UbuntuStudio](http://help.ubuntu.com/community/UbuntuStudio) - user documentation wiki (reachable from this wiki)
+[UbuntuStudio](../../../../help) - user documentation wiki (reachable from this wiki)
 
 ## Video
 
-- [Video Format](https://wiki.ubuntu.com/UbuntuStudio/VideoFormat) - How to make Ubuntu Studio video-tutorials
+- [Video Format](VideoFormat) - How to make Ubuntu Studio video-tutorials
 
-[Video Format](https://wiki.ubuntu.com/UbuntuStudio/VideoFormat) - How to make Ubuntu Studio video-tutorials
+[Video Format](VideoFormat) - How to make Ubuntu Studio video-tutorials
 
 ### Channels
 

@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/audio-settings/kernel
 
-## [kernel](https://wiki.ubuntu.com/UbuntuStudio/audio-settings/kernel)
+## [kernel](kernel)
 
-[../UbuntuStudio/audio-settings](https://wiki.ubuntu.com/UbuntuStudio/audio-settings)
+[../UbuntuStudio/audio-settings](audio-settings)
 
 Discussion about kernels and kernel configurations here..
 

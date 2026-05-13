@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/AudioCheck
 
-## [AudioCheck](https://wiki.ubuntu.com/UbuntuStudio/AudioCheck)
+## [AudioCheck](AudioCheck)
 
 Add an audio file here
 

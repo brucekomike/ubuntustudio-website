@@ -2,49 +2,49 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender
 
-## [EditingVideoInBlender](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender)
+## [EditingVideoInBlender](EditingVideoInBlender)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | Contents Editing Video In Blender Get familiar with blender VSE Preparing the interface Interface basics Preparing for your project Understanding Frame rates Preparing video-files with ffmpeg Render your project Dimensions Video Formats |
 | --- |
 
 Contents
 
-1. [Editing Video In Blender](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Editing_Video_In_Blender) [Get familiar with blender VSE](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Get_familiar_with_blender_VSE) [Preparing the interface](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Preparing_the_interface) [Interface basics](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Interface_basics)
-2. [Preparing for your project](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Preparing_for_your_project) [Understanding Frame rates](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Understanding_Frame_rates) [Preparing video-files with ffmpeg](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Preparing_video-files_with_ffmpeg)
-3. [Render your project](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Render_your_project) [Dimensions](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Dimensions) [Video Formats](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Video_Formats)
+1. [Editing Video In Blender](EditingVideoInBlender#Editing_Video_In_Blender) [Get familiar with blender VSE](EditingVideoInBlender#Get_familiar_with_blender_VSE) [Preparing the interface](EditingVideoInBlender#Preparing_the_interface) [Interface basics](EditingVideoInBlender#Interface_basics)
+2. [Preparing for your project](EditingVideoInBlender#Preparing_for_your_project) [Understanding Frame rates](EditingVideoInBlender#Understanding_Frame_rates) [Preparing video-files with ffmpeg](EditingVideoInBlender#Preparing_video-files_with_ffmpeg)
+3. [Render your project](EditingVideoInBlender#Render_your_project) [Dimensions](EditingVideoInBlender#Dimensions) [Video Formats](EditingVideoInBlender#Video_Formats)
 
-1. [Get familiar with blender VSE](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Get_familiar_with_blender_VSE)
-2. [Preparing the interface](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Preparing_the_interface)
-3. [Interface basics](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Interface_basics)
+1. [Get familiar with blender VSE](EditingVideoInBlender#Get_familiar_with_blender_VSE)
+2. [Preparing the interface](EditingVideoInBlender#Preparing_the_interface)
+3. [Interface basics](EditingVideoInBlender#Interface_basics)
 
-1. [Understanding Frame rates](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Understanding_Frame_rates)
-2. [Preparing video-files with ffmpeg](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Preparing_video-files_with_ffmpeg)
+1. [Understanding Frame rates](EditingVideoInBlender#Understanding_Frame_rates)
+2. [Preparing video-files with ffmpeg](EditingVideoInBlender#Preparing_video-files_with_ffmpeg)
 
-1. [Dimensions](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Dimensions)
-2. [Video Formats](https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender#Video_Formats)
+1. [Dimensions](EditingVideoInBlender#Dimensions)
+2. [Video Formats](EditingVideoInBlender#Video_Formats)
 
 # Editing Video In Blender
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/BlueprintsZ
 
-## [BlueprintsZ](https://wiki.ubuntu.com/UbuntuStudio/BlueprintsZ)
+## [BlueprintsZ](BlueprintsZ)
 
 **Blueprints for Ubuntu Studio 17.04 "Z"**
 

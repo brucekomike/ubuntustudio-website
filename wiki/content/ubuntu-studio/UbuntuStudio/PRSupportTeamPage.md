@@ -2,35 +2,35 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage
 
-## [PRSupportTeamPage](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage)
+## [PRSupportTeamPage](PRSupportTeamPage)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- PR & Support Sidebar -- ( edit ) Team Pages - Public Relations Team Page - IRC Ubuntu Studio OPS Page Public Relations Documentation |
 | --- |
 
-** -- [PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/PRSideBar?action=edit))** **Team Pages** - [Public Relations Team Page](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage) **[Public Relations Documentation](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation)**
+** -- [PR & Support](PublicRelationsDocumentation) Sidebar -- ([edit](Navigation/PRSideBar))** **Team Pages** - [Public Relations Team Page](PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](IRCUbuntuStudioOpsPage) **[Public Relations Documentation](PublicRelationsDocumentation)**
 
 ---
 
@@ -57,7 +57,7 @@ Makes announcements on social channels and mail lists. Also handles support and 
 
 **Team Wiki**
 
-[PR/Support team Page](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage)
+[PR/Support team Page](PRSupportTeamPage)
 
 **Blueprint**
 
@@ -73,7 +73,7 @@ Makes announcements on social channels and mail lists. Also handles support and 
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

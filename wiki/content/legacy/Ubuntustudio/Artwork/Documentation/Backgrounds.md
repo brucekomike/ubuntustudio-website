@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds
 
-## [Backgrounds](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds)
+## [Backgrounds](Backgrounds)
 
 |  | Home |  |  | Projects |  |  | Documentation |  |  | Accolades |  |  | Local Contacts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,19 +32,19 @@ Source: https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds
 
 Contents
 
-1. [Goal(s)](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Goal.28s.29)
-2. [Assumptions](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Assumptions)
-3. [Subject Matter](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Subject_Matter)
-4. [Composition](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Composition)
-5. [Constraints](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Constraints)
-6. [Screen Resolution and Aspect Ratio](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Screen_Resolution_and_Aspect_Ratio)
-7. [Desktops](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Desktops)
-8. [Laptops](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Laptops)
-9. [Tablets](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Tablets)
-10. [Background Guidelines](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Background_Guidelines)
-11. [File Formats](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#File_Formats)
-12. [Templates](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Templates)
-13. [Comments / Suggestions for this Document](https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds#Comments_.2F_Suggestions_for_this_Document)
+1. [Goal(s)](Backgrounds#Goal.28s.29)
+2. [Assumptions](Backgrounds#Assumptions)
+3. [Subject Matter](Backgrounds#Subject_Matter)
+4. [Composition](Backgrounds#Composition)
+5. [Constraints](Backgrounds#Constraints)
+6. [Screen Resolution and Aspect Ratio](Backgrounds#Screen_Resolution_and_Aspect_Ratio)
+7. [Desktops](Backgrounds#Desktops)
+8. [Laptops](Backgrounds#Laptops)
+9. [Tablets](Backgrounds#Tablets)
+10. [Background Guidelines](Backgrounds#Background_Guidelines)
+11. [File Formats](Backgrounds#File_Formats)
+12. [Templates](Backgrounds#Templates)
+13. [Comments / Suggestions for this Document](Backgrounds#Comments_.2F_Suggestions_for_this_Document)
 
 The Ubuntu community desires to create a high quality Linux Distribution which appeals to a wide variety of user lifestyles and personal preferences.
 

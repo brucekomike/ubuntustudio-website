@@ -2,38 +2,38 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Graphics
 
-## [Graphics](https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Graphics)
+## [Graphics](Graphics)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](../..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](../..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../../Organization)**
 
 Contents
 
-1. [Main](https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Graphics#Main)
-2. [Universe](https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Graphics#Universe)
-3. [Multiverse](https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Graphics#Multiverse)
+1. [Main](Graphics#Main)
+2. [Universe](Graphics#Universe)
+3. [Multiverse](Graphics#Multiverse)
 
-When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories).
+When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](../../FreedesktopCategories).
 
 # Main
 

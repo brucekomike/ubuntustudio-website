@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/TrustyTahr/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/TrustyTahr/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # Support lifespan
 

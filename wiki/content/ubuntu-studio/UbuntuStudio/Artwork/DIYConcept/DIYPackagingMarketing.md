@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/DIYPackagingMarketing
 
-## [DIYPackagingMarketing](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/DIYPackagingMarketing)
+## [DIYPackagingMarketing](DIYPackagingMarketing)
 
 Open to any suggestion. Ideas for disk packaging, flyers, stickers, posters and so on.
 

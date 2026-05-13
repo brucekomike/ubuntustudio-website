@@ -4,30 +4,30 @@ Source: https://wiki.ubuntu.com/UbuntuStudio
 
 > Historical import note: this page is a migrated snapshot from wiki.ubuntu.com and may contain outdated release/channel details. For current information, use [ubuntustudio.org](https://ubuntustudio.org/), [Ubuntu Studio on Discourse](https://discourse.ubuntu.com/c/flavors/ubuntustudio/188), and [Ubuntu Studio support](https://ubuntustudio.org/support/).
 
-## [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+## [UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | Want to Contribute to the most widely used Linux Multimedia distro? |
 | --- |
@@ -39,7 +39,7 @@ Source: https://wiki.ubuntu.com/UbuntuStudio
 
 **Want to Contribute to the most widely used Linux Multimedia distro?**
 
-- Go ahead! [Join the team!](https://wiki.ubuntu.com/UbuntuStudio/JoinTheTeam)
+- Go ahead! [Join the team!](JoinTheTeam)
 
 **Ubuntu Studio Releases:**
 
@@ -47,7 +47,7 @@ Latest LTS Release: [24.04.3 LTS Noble Numbat](https://cdimage.ubuntu.com/ubuntu
 
 **Search the Ubuntu Studio Wiki:**
 
-[Ubuntu Studio Subpages](https://wiki.ubuntu.com/UbuntuStudio/SubPages) **By Category:** [CategoryUbuntuStudio](https://wiki.ubuntu.com/CategoryUbuntuStudio) **Team Categories:** [CategoryUbuntuStudioTesting](https://wiki.ubuntu.com/CategoryUbuntuStudioTesting) [CategoryUbuntuStudioArtwork](https://wiki.ubuntu.com/CategoryUbuntuStudioArtwork) [CategoryUbuntuStudioPlanning](https://wiki.ubuntu.com/CategoryUbuntuStudioPlanning) [CategoryUbuntuStudioPublicRelations](https://wiki.ubuntu.com/CategoryUbuntuStudioPublicRelations) [CategoryUbuntuStudioDev](https://wiki.ubuntu.com/CategoryUbuntuStudioDev) [CategoryUbuntuStudioKernel](https://wiki.ubuntu.com/CategoryUbuntuStudioKernel)
+[Ubuntu Studio Subpages](SubPages) **By Category:** [CategoryUbuntuStudio](https://wiki.ubuntu.com/CategoryUbuntuStudio) **Team Categories:** [CategoryUbuntuStudioTesting](https://wiki.ubuntu.com/CategoryUbuntuStudioTesting) [CategoryUbuntuStudioArtwork](https://wiki.ubuntu.com/CategoryUbuntuStudioArtwork) [CategoryUbuntuStudioPlanning](https://wiki.ubuntu.com/CategoryUbuntuStudioPlanning) [CategoryUbuntuStudioPublicRelations](https://wiki.ubuntu.com/CategoryUbuntuStudioPublicRelations) [CategoryUbuntuStudioDev](https://wiki.ubuntu.com/CategoryUbuntuStudioDev) [CategoryUbuntuStudioKernel](https://wiki.ubuntu.com/CategoryUbuntuStudioKernel)
 
 # Welcome to the Ubuntu Studio developer wiki!
 
@@ -73,15 +73,15 @@ We aim at being the gateway for new users coming into the Linux world, wanting t
 
 **Interested in contributing?**
 
-- Go ahead, and [join the Ubuntu Studio team](https://wiki.ubuntu.com/UbuntuStudio/JoinTheTeam)! We are always looking for new contributors of any skill level. We are all volunteers.
+- Go ahead, and [join the Ubuntu Studio team](JoinTheTeam)! We are always looking for new contributors of any skill level. We are all volunteers.
 
 **You may find us at:**
 
-[IRC](http://help.ubuntu.com/community/UbuntuStudio/IRC) - Chat with us online
+[IRC](../../../../help/content/community/UbuntuStudio--IRC) - Chat with us online
 
-[Mail Lists](http://help.ubuntu.com/community/UbuntuStudio/MailLists) - These are our mailing lists
+[Mail Lists](MailLists) - These are our mailing lists
 
-[Social Channels](http://help.ubuntu.com/community/UbuntuStudio/SocialChannels) - Interact with us on different social sites
+[Social Channels](SocialChannels) - Interact with us on different social sites
 
 ---
 

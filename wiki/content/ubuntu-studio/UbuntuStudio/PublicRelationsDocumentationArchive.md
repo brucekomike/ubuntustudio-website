@@ -2,35 +2,35 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive
 
-## [PublicRelationsDocumentationArchive](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive)
+## [PublicRelationsDocumentationArchive](PublicRelationsDocumentationArchive)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- PR & Support Sidebar -- ( edit ) Team Pages - Public Relations Team Page - IRC Ubuntu Studio OPS Page Public Relations Documentation |
 | --- |
 
-** -- [PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/PRSideBar?action=edit))** **Team Pages** - [Public Relations Team Page](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage) **[Public Relations Documentation](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation)**
+** -- [PR & Support](PublicRelationsDocumentation) Sidebar -- ([edit](Navigation/PRSideBar))** **Team Pages** - [Public Relations Team Page](PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](IRCUbuntuStudioOpsPage) **[Public Relations Documentation](PublicRelationsDocumentation)**
 
 ***
 
@@ -38,25 +38,25 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive
 
 Contents
 
-1. [PR Strategy](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#PR_Strategy)
-2. [Public Relations Team](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Public_Relations_Team)
-3. [Writing Posts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Writing_Posts) [How to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#How_to_Post) [What to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#What_to_Post)
-4. [Making Videos and Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Making_Videos_and_Podcasts)
-5. [List of Communication Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#List_of_Communication_Channels) [Ubuntu Studio Web Site](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Ubuntu_Studio_Web_Site) [Mail Lists](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Mail_Lists) [Forums](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Forums) [Social Channels (linked to from the website)](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Other_Social_Channels) [Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Podcasts)
+1. [PR Strategy](PublicRelationsDocumentationArchive#PR_Strategy)
+2. [Public Relations Team](PublicRelationsDocumentationArchive#Public_Relations_Team)
+3. [Writing Posts](PublicRelationsDocumentationArchive#Writing_Posts) [How to Post](PublicRelationsDocumentationArchive#How_to_Post) [What to Post](PublicRelationsDocumentationArchive#What_to_Post)
+4. [Making Videos and Podcasts](PublicRelationsDocumentationArchive#Making_Videos_and_Podcasts)
+5. [List of Communication Channels](PublicRelationsDocumentationArchive#List_of_Communication_Channels) [Ubuntu Studio Web Site](PublicRelationsDocumentationArchive#Ubuntu_Studio_Web_Site) [Mail Lists](PublicRelationsDocumentationArchive#Mail_Lists) [Forums](PublicRelationsDocumentationArchive#Forums) [Social Channels (linked to from the website)](PublicRelationsDocumentationArchive#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](PublicRelationsDocumentationArchive#Other_Social_Channels) [Podcasts](PublicRelationsDocumentationArchive#Podcasts)
 
-1. [How to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#How_to_Post)
-2. [What to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#What_to_Post)
+1. [How to Post](PublicRelationsDocumentationArchive#How_to_Post)
+2. [What to Post](PublicRelationsDocumentationArchive#What_to_Post)
 
-1. [Ubuntu Studio Web Site](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Ubuntu_Studio_Web_Site) [Mail Lists](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Mail_Lists) [Forums](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Forums) [Social Channels (linked to from the website)](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Other_Social_Channels) [Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Podcasts)
+1. [Ubuntu Studio Web Site](PublicRelationsDocumentationArchive#Ubuntu_Studio_Web_Site) [Mail Lists](PublicRelationsDocumentationArchive#Mail_Lists) [Forums](PublicRelationsDocumentationArchive#Forums) [Social Channels (linked to from the website)](PublicRelationsDocumentationArchive#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](PublicRelationsDocumentationArchive#Other_Social_Channels) [Podcasts](PublicRelationsDocumentationArchive#Podcasts)
 
-1. [Ubuntu Studio Web Site](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Ubuntu_Studio_Web_Site)
-2. [Mail Lists](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Mail_Lists)
-3. [Forums](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Forums)
-4. [Social Channels (linked to from the website)](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Social_Channels_.28linked_to_from_the_website.29)
-5. [Other Social Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Other_Social_Channels)
-6. [Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive#Podcasts)
+1. [Ubuntu Studio Web Site](PublicRelationsDocumentationArchive#Ubuntu_Studio_Web_Site)
+2. [Mail Lists](PublicRelationsDocumentationArchive#Mail_Lists)
+3. [Forums](PublicRelationsDocumentationArchive#Forums)
+4. [Social Channels (linked to from the website)](PublicRelationsDocumentationArchive#Social_Channels_.28linked_to_from_the_website.29)
+5. [Other Social Channels](PublicRelationsDocumentationArchive#Other_Social_Channels)
+6. [Podcasts](PublicRelationsDocumentationArchive#Podcasts)
 
-The purpose of this wiki page is to define the public relations strategy for the Ubuntu Studio Public Relations team. This will include defining the team, the [communications channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations#Definitions) used, list of events to publicize, etc.
+The purpose of this wiki page is to define the public relations strategy for the Ubuntu Studio Public Relations team. This will include defining the team, the [communications channels](PublicRelationsDocumentation#Definitions) used, list of events to publicize, etc.
 
 ## PR Strategy
 

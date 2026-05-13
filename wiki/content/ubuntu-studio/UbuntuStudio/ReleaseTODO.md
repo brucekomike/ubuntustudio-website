@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ReleaseTODO
 
-## [ReleaseTODO](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTODO)
+## [ReleaseTODO](ReleaseTODO)
 
 A scratch page for outstanding issues during the current dev cycle.
 

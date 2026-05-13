@@ -2,30 +2,30 @@
 
 Source: https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 | Contents New Features in Ubuntu Studio 13.10 Ubuntu Studio Applications Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 13.04 Upgrading from Other Releases Infrastructure Linux kernel Known Problems Support |
 | --- |
 
 Contents
 
-1. [New Features in Ubuntu Studio 13.10](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#New_Features_in_Ubuntu_Studio_13.10) [Ubuntu Studio Applications](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_Applications)
-2. [Installation](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Installation) [Overview](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Overview) [Download](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Download) [System Requirements](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#System_Requirements)
-3. [Upgrading](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 13.04](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_13.04) [Upgrading from Other Releases](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Upgrading_from_Other_Releases) [Infrastructure](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Infrastructure) [Linux kernel](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Linux_kernel)
-4. [Known Problems](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Known_Problems)
-5. [Support](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Support)
+1. [New Features in Ubuntu Studio 13.10](UbuntuStudio#New_Features_in_Ubuntu_Studio_13.10) [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications)
+2. [Installation](UbuntuStudio#Installation) [Overview](UbuntuStudio#Overview) [Download](UbuntuStudio#Download) [System Requirements](UbuntuStudio#System_Requirements)
+3. [Upgrading](UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 13.04](UbuntuStudio#Upgrading_from_Ubuntu_Studio_13.04) [Upgrading from Other Releases](UbuntuStudio#Upgrading_from_Other_Releases) [Infrastructure](UbuntuStudio#Infrastructure) [Linux kernel](UbuntuStudio#Linux_kernel)
+4. [Known Problems](UbuntuStudio#Known_Problems)
+5. [Support](UbuntuStudio#Support)
 
-1. [Ubuntu Studio Applications](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Ubuntu_Studio_Applications)
+1. [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications)
 
-1. [Overview](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Overview)
-2. [Download](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Download)
-3. [System Requirements](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#System_Requirements)
+1. [Overview](UbuntuStudio#Overview)
+2. [Download](UbuntuStudio#Download)
+3. [System Requirements](UbuntuStudio#System_Requirements)
 
-1. [Upgrading from Ubuntu Studio 13.04](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Upgrading_from_Ubuntu_Studio_13.04)
-2. [Upgrading from Other Releases](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Upgrading_from_Other_Releases)
-3. [Infrastructure](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Infrastructure) [Linux kernel](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Linux_kernel)
+1. [Upgrading from Ubuntu Studio 13.04](UbuntuStudio#Upgrading_from_Ubuntu_Studio_13.04)
+2. [Upgrading from Other Releases](UbuntuStudio#Upgrading_from_Other_Releases)
+3. [Infrastructure](UbuntuStudio#Infrastructure) [Linux kernel](UbuntuStudio#Linux_kernel)
 
-1. [Linux kernel](https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/UbuntuStudio#Linux_kernel)
+1. [Linux kernel](UbuntuStudio#Linux_kernel)
 
 # New Features in Ubuntu Studio 13.10
 
@@ -65,9 +65,9 @@ You can now reinstall or upgrade an existing copy of Ubuntu Studio with the Ubun
 
 Ubuntu Studio 13.10 images can be downloaded from:
 
-- [http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/release](http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/release) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+- [http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/release](http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/release) ([UbuntuStudio](../../../ubuntu-studio/UbuntuStudio))
 
-[http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/release](http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/release) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+[http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/release](http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/release) ([UbuntuStudio](../../../ubuntu-studio/UbuntuStudio))
 
 ## System Requirements
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/InstallSplash
 
-## [InstallSplash](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/InstallSplash)
+## [InstallSplash](InstallSplash)
 
 Almost done. (will need some minor tweaks once logo is final.) ![install_v3.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/DIYConcept/InstallSplash/install_v3.png)
 

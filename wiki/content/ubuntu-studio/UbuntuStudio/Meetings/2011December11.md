@@ -2,14 +2,14 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11
 
-## [2011December11](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11)
+## [2011December11](2011December11)
 
 | Ubuntu Studio Meetings Schedule | Old Meeting Logs |
 | --- | --- |
 
-[Ubuntu Studio Meetings Schedule](https://wiki.ubuntu.com/UbuntuStudio/Meetings)
+[Ubuntu Studio Meetings Schedule](index)
 
-[Old Meeting Logs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/Minutes)
+[Old Meeting Logs](Minutes)
 
 **What:** Ubuntu Studio Contributors Meeting
 
@@ -22,29 +22,29 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11
 
 Contents
 
-1. [Agenda for Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Agenda_for_Meeting) [Call Meeting to Order](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Call_Meeting_to_Order) [Old Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_Business) [previous action items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#previous_action_items) [Blueprints situation](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Blueprints_situation) [Bugs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Bugs) [Old bugs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_bugs) [Old releases](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_releases) [Precise](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Precise) [New bugs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#New_bugs) [Old releases](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_releases-1) [Precise](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Precise-1) [Any Other Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Any_Other_Business) [Next Meeting Time/Location](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Next_Meeting_Time.2FLocation) [Next Meeting Chair](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Next_Meeting_Chair)
-2. [Action Items and Logs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Action_Items_and_Logs) [Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Action_Items) [Log and minutes](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Log_and_minutes)
+1. [Agenda for Meeting](2011December11#Agenda_for_Meeting) [Call Meeting to Order](2011December11#Call_Meeting_to_Order) [Old Business](2011December11#Old_Business) [previous action items](2011December11#previous_action_items) [Blueprints situation](2011December11#Blueprints_situation) [Bugs](2011December11#Bugs) [Old bugs](2011December11#Old_bugs) [Old releases](2011December11#Old_releases) [Precise](2011December11#Precise) [New bugs](2011December11#New_bugs) [Old releases](2011December11#Old_releases-1) [Precise](2011December11#Precise-1) [Any Other Business](2011December11#Any_Other_Business) [Next Meeting Time/Location](2011December11#Next_Meeting_Time.2FLocation) [Next Meeting Chair](2011December11#Next_Meeting_Chair)
+2. [Action Items and Logs](2011December11#Action_Items_and_Logs) [Action Items](2011December11#Action_Items) [Log and minutes](2011December11#Log_and_minutes)
 
-1. [Call Meeting to Order](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Call_Meeting_to_Order)
-2. [Old Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_Business)
-3. [previous action items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#previous_action_items)
-4. [Blueprints situation](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Blueprints_situation)
-5. [Bugs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Bugs) [Old bugs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_bugs) [Old releases](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_releases) [Precise](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Precise) [New bugs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#New_bugs) [Old releases](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_releases-1) [Precise](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Precise-1)
-6. [Any Other Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Any_Other_Business)
-7. [Next Meeting Time/Location](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Next_Meeting_Time.2FLocation)
-8. [Next Meeting Chair](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Next_Meeting_Chair)
+1. [Call Meeting to Order](2011December11#Call_Meeting_to_Order)
+2. [Old Business](2011December11#Old_Business)
+3. [previous action items](2011December11#previous_action_items)
+4. [Blueprints situation](2011December11#Blueprints_situation)
+5. [Bugs](2011December11#Bugs) [Old bugs](2011December11#Old_bugs) [Old releases](2011December11#Old_releases) [Precise](2011December11#Precise) [New bugs](2011December11#New_bugs) [Old releases](2011December11#Old_releases-1) [Precise](2011December11#Precise-1)
+6. [Any Other Business](2011December11#Any_Other_Business)
+7. [Next Meeting Time/Location](2011December11#Next_Meeting_Time.2FLocation)
+8. [Next Meeting Chair](2011December11#Next_Meeting_Chair)
 
-1. [Old bugs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_bugs) [Old releases](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_releases) [Precise](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Precise)
-2. [New bugs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#New_bugs) [Old releases](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_releases-1) [Precise](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Precise-1)
+1. [Old bugs](2011December11#Old_bugs) [Old releases](2011December11#Old_releases) [Precise](2011December11#Precise)
+2. [New bugs](2011December11#New_bugs) [Old releases](2011December11#Old_releases-1) [Precise](2011December11#Precise-1)
 
-1. [Old releases](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_releases)
-2. [Precise](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Precise)
+1. [Old releases](2011December11#Old_releases)
+2. [Precise](2011December11#Precise)
 
-1. [Old releases](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Old_releases-1)
-2. [Precise](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Precise-1)
+1. [Old releases](2011December11#Old_releases-1)
+2. [Precise](2011December11#Precise-1)
 
-1. [Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Action_Items)
-2. [Log and minutes](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11#Log_and_minutes)
+1. [Action Items](2011December11#Action_Items)
+2. [Log and minutes](2011December11#Log_and_minutes)
 
 # Agenda for Meeting
 

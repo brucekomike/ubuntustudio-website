@@ -2,22 +2,22 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages
 
-## [TestingQA-ISOImages](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages)
+## [TestingQA-ISOImages](index)
 
 | Contents Abstract Definition Purpose Image Availability Process Testing with VM Testing on Spare Computer Get Involved |
 | --- |
 
 Contents
 
-1. [Abstract](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Abstract)
-2. [Definition](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Definition)
-3. [Purpose](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Purpose)
-4. [Image Availability](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Image_Availability)
-5. [Process](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Process) [Testing with VM](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Testing_with_VM) [Testing on Spare Computer](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Testing_on_Spare_Computer)
-6. [Get Involved](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Get_Involved)
+1. [Abstract](index#Abstract)
+2. [Definition](index#Definition)
+3. [Purpose](index#Purpose)
+4. [Image Availability](index#Image_Availability)
+5. [Process](index#Process) [Testing with VM](index#Testing_with_VM) [Testing on Spare Computer](index#Testing_on_Spare_Computer)
+6. [Get Involved](index#Get_Involved)
 
-1. [Testing with VM](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Testing_with_VM)
-2. [Testing on Spare Computer](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages#Testing_on_Spare_Computer)
+1. [Testing with VM](index#Testing_with_VM)
+2. [Testing on Spare Computer](index#Testing_on_Spare_Computer)
 
 # Abstract
 

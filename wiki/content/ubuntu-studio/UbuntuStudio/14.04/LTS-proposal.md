@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/14.04/LTS-proposal
 
-## [LTS-proposal](https://wiki.ubuntu.com/UbuntuStudio/14.04/LTS-proposal)
+## [LTS-proposal](LTS-proposal)
 
 Ubuntu Studio hereby proposes a 3 year period for the LTS release of Ubuntu Studio 14.04 Trusty Tahr.
 

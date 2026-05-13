@@ -2,41 +2,41 @@
 
 Source: https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3
 
-## [UbuntuStudio-12.04.3](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3)
+## [UbuntuStudio-12.04.3](UbuntuStudio-12.04.3)
 
 | Contents Ubuntu Studio 12.04.3 LTS Ubuntu Studio Applications Common Infrastructure Ubuntu Kernel 3.2.0-52.54 Upstart 1.5 GNU Toolchain Python Toolchain Java Toolchain Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 11.10 Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS Upgrading from Other Releases Known Issues Graphics and Display Applications Boot, Installation and Post-Installation Upgrades Kernel Support |
 | --- |
 
 Contents
 
-1. [Ubuntu Studio 12.04.3 LTS](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Ubuntu_Studio_12.04.3_LTS) [Ubuntu Studio Applications](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Ubuntu_Studio_Applications) [Common Infrastructure](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Common_Infrastructure) [Ubuntu Kernel 3.2.0-52.54](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Ubuntu_Kernel_3.2.0-52.54) [Upstart 1.5](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upstart_1.5) [GNU Toolchain](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#GNU_Toolchain) [Python Toolchain](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Python_Toolchain) [Java Toolchain](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Java_Toolchain)
-2. [Installation](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Installation) [Overview](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Overview) [Download](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Download) [System Requirements](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#System_Requirements)
-3. [Upgrading](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upgrading) [Upgrading from Ubuntu Studio 11.10](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upgrading_from_Ubuntu_Studio_11.10) [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS) [Upgrading from Other Releases](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upgrading_from_Other_Releases)
-4. [Known Issues](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Known_Issues) [Graphics and Display](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Graphics_and_Display) [Applications](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Applications) [Boot, Installation and Post-Installation](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Boot.2C_Installation_and_Post-Installation) [Upgrades](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Upgrades) [Kernel](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Kernel)
-5. [Support](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Support)
+1. [Ubuntu Studio 12.04.3 LTS](UbuntuStudio-12.04.3#Ubuntu_Studio_12.04.3_LTS) [Ubuntu Studio Applications](UbuntuStudio-12.04.3#Ubuntu_Studio_Applications) [Common Infrastructure](UbuntuStudio-12.04.3#Common_Infrastructure) [Ubuntu Kernel 3.2.0-52.54](UbuntuStudio-12.04.3#Ubuntu_Kernel_3.2.0-52.54) [Upstart 1.5](UbuntuStudio-12.04.3#Upstart_1.5) [GNU Toolchain](UbuntuStudio-12.04.3#GNU_Toolchain) [Python Toolchain](UbuntuStudio-12.04.3#Python_Toolchain) [Java Toolchain](UbuntuStudio-12.04.3#Java_Toolchain)
+2. [Installation](UbuntuStudio-12.04.3#Installation) [Overview](UbuntuStudio-12.04.3#Overview) [Download](UbuntuStudio-12.04.3#Download) [System Requirements](UbuntuStudio-12.04.3#System_Requirements)
+3. [Upgrading](UbuntuStudio-12.04.3#Upgrading) [Upgrading from Ubuntu Studio 11.10](UbuntuStudio-12.04.3#Upgrading_from_Ubuntu_Studio_11.10) [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](UbuntuStudio-12.04.3#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS) [Upgrading from Other Releases](UbuntuStudio-12.04.3#Upgrading_from_Other_Releases)
+4. [Known Issues](UbuntuStudio-12.04.3#Known_Issues) [Graphics and Display](UbuntuStudio-12.04.3#Graphics_and_Display) [Applications](UbuntuStudio-12.04.3#Applications) [Boot, Installation and Post-Installation](UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Boot.2C_Installation_and_Post-Installation) [Upgrades](UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Upgrades) [Kernel](UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Kernel)
+5. [Support](UbuntuStudio-12.04.3#Support)
 
-1. [Ubuntu Studio Applications](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Ubuntu_Studio_Applications)
-2. [Common Infrastructure](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Common_Infrastructure) [Ubuntu Kernel 3.2.0-52.54](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Ubuntu_Kernel_3.2.0-52.54) [Upstart 1.5](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upstart_1.5) [GNU Toolchain](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#GNU_Toolchain) [Python Toolchain](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Python_Toolchain) [Java Toolchain](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Java_Toolchain)
+1. [Ubuntu Studio Applications](UbuntuStudio-12.04.3#Ubuntu_Studio_Applications)
+2. [Common Infrastructure](UbuntuStudio-12.04.3#Common_Infrastructure) [Ubuntu Kernel 3.2.0-52.54](UbuntuStudio-12.04.3#Ubuntu_Kernel_3.2.0-52.54) [Upstart 1.5](UbuntuStudio-12.04.3#Upstart_1.5) [GNU Toolchain](UbuntuStudio-12.04.3#GNU_Toolchain) [Python Toolchain](UbuntuStudio-12.04.3#Python_Toolchain) [Java Toolchain](UbuntuStudio-12.04.3#Java_Toolchain)
 
-1. [Ubuntu Kernel 3.2.0-52.54](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Ubuntu_Kernel_3.2.0-52.54)
-2. [Upstart 1.5](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upstart_1.5)
-3. [GNU Toolchain](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#GNU_Toolchain)
-4. [Python Toolchain](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Python_Toolchain)
-5. [Java Toolchain](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Java_Toolchain)
+1. [Ubuntu Kernel 3.2.0-52.54](UbuntuStudio-12.04.3#Ubuntu_Kernel_3.2.0-52.54)
+2. [Upstart 1.5](UbuntuStudio-12.04.3#Upstart_1.5)
+3. [GNU Toolchain](UbuntuStudio-12.04.3#GNU_Toolchain)
+4. [Python Toolchain](UbuntuStudio-12.04.3#Python_Toolchain)
+5. [Java Toolchain](UbuntuStudio-12.04.3#Java_Toolchain)
 
-1. [Overview](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Overview)
-2. [Download](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Download)
-3. [System Requirements](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#System_Requirements)
+1. [Overview](UbuntuStudio-12.04.3#Overview)
+2. [Download](UbuntuStudio-12.04.3#Download)
+3. [System Requirements](UbuntuStudio-12.04.3#System_Requirements)
 
-1. [Upgrading from Ubuntu Studio 11.10](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upgrading_from_Ubuntu_Studio_11.10)
-2. [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS)
-3. [Upgrading from Other Releases](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Upgrading_from_Other_Releases)
+1. [Upgrading from Ubuntu Studio 11.10](UbuntuStudio-12.04.3#Upgrading_from_Ubuntu_Studio_11.10)
+2. [Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS](UbuntuStudio-12.04.3#Upgrading_from_Ubuntu_Studio_10.04_LTS_to_Ubuntu_Studio_12.04_LTS)
+3. [Upgrading from Other Releases](UbuntuStudio-12.04.3#Upgrading_from_Other_Releases)
 
-1. [Graphics and Display](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Graphics_and_Display)
-2. [Applications](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#Applications)
-3. [Boot, Installation and Post-Installation](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Boot.2C_Installation_and_Post-Installation)
-4. [Upgrades](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Upgrades)
-5. [Kernel](https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Kernel)
+1. [Graphics and Display](UbuntuStudio-12.04.3#Graphics_and_Display)
+2. [Applications](UbuntuStudio-12.04.3#Applications)
+3. [Boot, Installation and Post-Installation](UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Boot.2C_Installation_and_Post-Installation)
+4. [Upgrades](UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Upgrades)
+5. [Kernel](UbuntuStudio-12.04.3#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.3.Kernel)
 
 # Ubuntu Studio 12.04.3 LTS
 
@@ -68,7 +68,7 @@ Pulse Audio <-> JACK bridging enabled by default
 
 ## Ubuntu Studio Applications
 
-This cycle we focused on developing [work flows](https://wiki.ubuntu.com/UbuntuStudio/Workflows) based on user tasks. This should give a more complete, functional, and robust application tool chain for users to create content. *Please note that not all work flows listed in the wiki are directly supported in a default installation.*
+This cycle we focused on developing [work flows](../../../ubuntu-studio/UbuntuStudio/Workflows) based on user tasks. This should give a more complete, functional, and robust application tool chain for users to create content. *Please note that not all work flows listed in the wiki are directly supported in a default installation.*
 
 Notable applications for audio/video/graphic/photography work flows include:
 

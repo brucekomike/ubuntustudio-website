@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/graphic-settings/resources
 
-## [resources](https://wiki.ubuntu.com/UbuntuStudio/graphic-settings/resources)
+## [resources](resources)
 
-[../UbuntuStudio/graphic-settings](https://wiki.ubuntu.com/UbuntuStudio/graphic-settings)
+[../UbuntuStudio/graphic-settings](index)
 
 ## Links of Interest
 

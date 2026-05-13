@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-plugins
 
-## [ubuntustudio-plugins](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-plugins)
+## [ubuntustudio-plugins](ubuntustudio-plugins)
 
 ```
 ===Package : blop===

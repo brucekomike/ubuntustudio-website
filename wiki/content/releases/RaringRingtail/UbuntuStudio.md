@@ -2,32 +2,32 @@
 
 Source: https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 | Contents New Features in Ubuntu Studio 13.04 Ubuntu Studio Applications Fixed bugs Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 12.10 Upgrading from Other Releases Infrastructure Linux kernel 3.8 GNU Toolchain Java Toolchain Support |
 | --- |
 
 Contents
 
-1. [New Features in Ubuntu Studio 13.04](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#New_Features_in_Ubuntu_Studio_13.04) [Ubuntu Studio Applications](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Ubuntu_Studio_Applications) [Fixed bugs](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Fixed_bugs)
-2. [Installation](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Installation) [Overview](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Overview) [Download](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Download) [System Requirements](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#System_Requirements)
-3. [Upgrading](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 12.10](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.10) [Upgrading from Other Releases](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Upgrading_from_Other_Releases) [Infrastructure](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Infrastructure) [Linux kernel 3.8](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Linux_kernel_3.8) [GNU Toolchain](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#GNU_Toolchain) [Java Toolchain](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Java_Toolchain)
-4. [Support](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Support)
+1. [New Features in Ubuntu Studio 13.04](UbuntuStudio#New_Features_in_Ubuntu_Studio_13.04) [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications) [Fixed bugs](UbuntuStudio#Fixed_bugs)
+2. [Installation](UbuntuStudio#Installation) [Overview](UbuntuStudio#Overview) [Download](UbuntuStudio#Download) [System Requirements](UbuntuStudio#System_Requirements)
+3. [Upgrading](UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 12.10](UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.10) [Upgrading from Other Releases](UbuntuStudio#Upgrading_from_Other_Releases) [Infrastructure](UbuntuStudio#Infrastructure) [Linux kernel 3.8](UbuntuStudio#Linux_kernel_3.8) [GNU Toolchain](UbuntuStudio#GNU_Toolchain) [Java Toolchain](UbuntuStudio#Java_Toolchain)
+4. [Support](UbuntuStudio#Support)
 
-1. [Ubuntu Studio Applications](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Ubuntu_Studio_Applications)
-2. [Fixed bugs](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Fixed_bugs)
+1. [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications)
+2. [Fixed bugs](UbuntuStudio#Fixed_bugs)
 
-1. [Overview](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Overview)
-2. [Download](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Download)
-3. [System Requirements](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#System_Requirements)
+1. [Overview](UbuntuStudio#Overview)
+2. [Download](UbuntuStudio#Download)
+3. [System Requirements](UbuntuStudio#System_Requirements)
 
-1. [Upgrading from Ubuntu Studio 12.10](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.10)
-2. [Upgrading from Other Releases](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Upgrading_from_Other_Releases)
-3. [Infrastructure](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Infrastructure) [Linux kernel 3.8](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Linux_kernel_3.8) [GNU Toolchain](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#GNU_Toolchain) [Java Toolchain](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Java_Toolchain)
+1. [Upgrading from Ubuntu Studio 12.10](UbuntuStudio#Upgrading_from_Ubuntu_Studio_12.10)
+2. [Upgrading from Other Releases](UbuntuStudio#Upgrading_from_Other_Releases)
+3. [Infrastructure](UbuntuStudio#Infrastructure) [Linux kernel 3.8](UbuntuStudio#Linux_kernel_3.8) [GNU Toolchain](UbuntuStudio#GNU_Toolchain) [Java Toolchain](UbuntuStudio#Java_Toolchain)
 
-1. [Linux kernel 3.8](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Linux_kernel_3.8)
-2. [GNU Toolchain](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#GNU_Toolchain)
-3. [Java Toolchain](https://wiki.ubuntu.com/RaringRingtail/UbuntuStudio#Java_Toolchain)
+1. [Linux kernel 3.8](UbuntuStudio#Linux_kernel_3.8)
+2. [GNU Toolchain](UbuntuStudio#GNU_Toolchain)
+3. [Java Toolchain](UbuntuStudio#Java_Toolchain)
 
 # New Features in Ubuntu Studio 13.04
 
@@ -70,9 +70,9 @@ You can now reinstall or upgrade an existing copy of Ubuntu Studio with the Ubun
 
 Ubuntu Studio 13.04 images can be downloaded from:
 
-- [http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/release](http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/release) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+- [http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/release](http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/release) ([UbuntuStudio](../../ubuntu-studio/UbuntuStudio))
 
-[http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/release](http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/release) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+[http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/release](http://cdimage.ubuntu.com/ubuntustudio/releases/13.04/release) ([UbuntuStudio](../../ubuntu-studio/UbuntuStudio))
 
 ## System Requirements
 
@@ -111,10 +111,10 @@ Further information can be found upstream ([GCC-4.7](http://gcc.gnu.org/gcc-4.7/
 - Ubuntu Studio 13.04 is supported for 9 months.
 - Security and bugfix updates for Ubuntu Studio are provided by the Ubuntu Studio Team and Community
 - Support via email can be found at the [Ubuntu Studio Users Mailing List](https://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-users).
-- Support via IRC is provided through the #ubuntustudio channel on the freenode network - read more about [IRC](http://help.ubuntu.com/community/UbuntuStudio/IRC).
+- Support via IRC is provided through the #ubuntustudio channel on the freenode network - read more about [IRC](../../../../help/content/community/UbuntuStudio--IRC).
 
 Support via email can be found at the [Ubuntu Studio Users Mailing List](https://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-users).
 
-Support via IRC is provided through the #ubuntustudio channel on the freenode network - read more about [IRC](http://help.ubuntu.com/community/UbuntuStudio/IRC).
+Support via IRC is provided through the #ubuntustudio channel on the freenode network - read more about [IRC](../../../../help/content/community/UbuntuStudio--IRC).
 
 RaringRingtail/UbuntuStudio (last edited 2013-04-23 11:16:48 by h-4-180)

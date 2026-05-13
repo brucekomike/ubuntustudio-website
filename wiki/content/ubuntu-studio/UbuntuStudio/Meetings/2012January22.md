@@ -2,14 +2,14 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22
 
-## [2012January22](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22)
+## [2012January22](2012January22)
 
 | Ubuntu Studio Meetings Schedule | Old Meeting Logs |
 | --- | --- |
 
-[Ubuntu Studio Meetings Schedule](https://wiki.ubuntu.com/UbuntuStudio/Meetings)
+[Ubuntu Studio Meetings Schedule](index)
 
-[Old Meeting Logs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/Minutes)
+[Old Meeting Logs](Minutes)
 
 **What:** Ubuntu Studio Contributors Meeting
 
@@ -22,22 +22,22 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22
 
 Contents
 
-1. [Agenda for Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Agenda_for_Meeting) [Call Meeting to Order](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Call_Meeting_to_Order) [Old Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Old_Business) [Previous Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Previous_Action_Items) [LTS proposal](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#LTS_proposal) [Blueprints statuses](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Blueprints_statuses) [mudita24 version debate](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#mudita24_version_debate) [Any Other Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Any_Other_Business) [Next Meeting Time/Location](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Next_Meeting_Time.2FLocation) [Next Meeting Chair](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Next_Meeting_Chair)
-2. [Action Items and Logs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Action_Items_and_Logs) [Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Action_Items) [Log and minutes](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Log_and_minutes)
+1. [Agenda for Meeting](2012January22#Agenda_for_Meeting) [Call Meeting to Order](2012January22#Call_Meeting_to_Order) [Old Business](2012January22#Old_Business) [Previous Action Items](2012January22#Previous_Action_Items) [LTS proposal](2012January22#LTS_proposal) [Blueprints statuses](2012January22#Blueprints_statuses) [mudita24 version debate](2012January22#mudita24_version_debate) [Any Other Business](2012January22#Any_Other_Business) [Next Meeting Time/Location](2012January22#Next_Meeting_Time.2FLocation) [Next Meeting Chair](2012January22#Next_Meeting_Chair)
+2. [Action Items and Logs](2012January22#Action_Items_and_Logs) [Action Items](2012January22#Action_Items) [Log and minutes](2012January22#Log_and_minutes)
 
-1. [Call Meeting to Order](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Call_Meeting_to_Order)
-2. [Old Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Old_Business) [Previous Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Previous_Action_Items)
-3. [LTS proposal](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#LTS_proposal)
-4. [Blueprints statuses](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Blueprints_statuses)
-5. [mudita24 version debate](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#mudita24_version_debate)
-6. [Any Other Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Any_Other_Business)
-7. [Next Meeting Time/Location](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Next_Meeting_Time.2FLocation)
-8. [Next Meeting Chair](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Next_Meeting_Chair)
+1. [Call Meeting to Order](2012January22#Call_Meeting_to_Order)
+2. [Old Business](2012January22#Old_Business) [Previous Action Items](2012January22#Previous_Action_Items)
+3. [LTS proposal](2012January22#LTS_proposal)
+4. [Blueprints statuses](2012January22#Blueprints_statuses)
+5. [mudita24 version debate](2012January22#mudita24_version_debate)
+6. [Any Other Business](2012January22#Any_Other_Business)
+7. [Next Meeting Time/Location](2012January22#Next_Meeting_Time.2FLocation)
+8. [Next Meeting Chair](2012January22#Next_Meeting_Chair)
 
-1. [Previous Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Previous_Action_Items)
+1. [Previous Action Items](2012January22#Previous_Action_Items)
 
-1. [Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Action_Items)
-2. [Log and minutes](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22#Log_and_minutes)
+1. [Action Items](2012January22#Action_Items)
+2. [Log and minutes](2012January22#Log_and_minutes)
 
 # Agenda for Meeting
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/XenialXerus/ReleaseNotes/Beta2/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/XenialXerus/ReleaseNotes/Beta2/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # Release Notes for Ubuntu Studio 16.04 Xenial Xerus Beta 2
 
@@ -60,7 +60,7 @@ As usual, lot's of applications have been updated. Special notice for **ardour**
 
 - recordmydesktop output is corrupt - video glitching out ([1531852](https://bugs.launchpad.net/bugs/1531852))
 - Blueman-applet crashing on login ([1533206](https://bugs.launchpad.net/bugs/1533206))
-- First entry of the boot-menu "Try [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
+- First entry of the boot-menu "Try [UbuntuStudio](../../../../ubuntu-studio/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
 - parole crashing with SIGSEGV in cogl_matrix_entry_ref() ([1550198](https://bugs.launchpad.net/bugs/1550198))
 - [ImageMagick](https://wiki.ubuntu.com/ImageMagick) Entries not working in whiskers menu ([1550210](https://bugs.launchpad.net/bugs/1550210))
 - Scribus defaults to 10.15 Saturday Night BRK Regular font ([1550216](https://bugs.launchpad.net/bugs/1550216))
@@ -70,7 +70,7 @@ recordmydesktop output is corrupt - video glitching out ([1531852](https://bugs.
 
 Blueman-applet crashing on login ([1533206](https://bugs.launchpad.net/bugs/1533206))
 
-First entry of the boot-menu "Try [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
+First entry of the boot-menu "Try [UbuntuStudio](../../../../ubuntu-studio/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
 
 parole crashing with SIGSEGV in cogl_matrix_entry_ref() ([1550198](https://bugs.launchpad.net/bugs/1550198))
 
@@ -88,10 +88,10 @@ I can be faster to update your previously downloaded image to the latest build u
 
 ## Testing Ubuntu Studio
 
-[More Information about Testing Ubuntu Studio is here](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)
+[More Information about Testing Ubuntu Studio is here](../../../../ubuntu-studio/UbuntuStudio/TestingDocumentation)
 
 ## Contact Us
 
-[Ways to contact the Ubuntu Studio Team are here](https://wiki.ubuntu.com/UbuntuStudio)
+[Ways to contact the Ubuntu Studio Team are here](../../../../ubuntu-studio/UbuntuStudio)
 
 XenialXerus/ReleaseNotes/Beta2/UbuntuStudio (last edited 2016-03-24 18:32:02 by [rosco2](https://launchpad.net/~rosco2))

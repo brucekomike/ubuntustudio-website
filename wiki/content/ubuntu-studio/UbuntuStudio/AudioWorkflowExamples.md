@@ -2,35 +2,35 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/AudioWorkflowExamples
 
-## [AudioWorkflowExamples](https://wiki.ubuntu.com/UbuntuStudio/AudioWorkflowExamples)
+## [AudioWorkflowExamples](AudioWorkflowExamples)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Workflow Side Bar -- ( edit ) Workflows - Audio - Graphics - Video - Photography - Publishing Package List Saucy (with categorization) Workflow Categories Freedesktop Categories |
 | --- |
 
-**-- Workflow Side Bar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/WorkflowSideBar?action=edit))** **[Workflows](https://wiki.ubuntu.com/UbuntuStudio/Workflows)** - [Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio) - [Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics) - [Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video) - [Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography) - [Publishing](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Publishing) [Package List Saucy](https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy) (with categorization) [Workflow Categories](https://wiki.ubuntu.com/UbuntuStudio/WorkflowCategories) [Freedesktop Categories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories)
+**-- Workflow Side Bar -- ([edit](Navigation/WorkflowSideBar))** **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Graphics](Workflows/Graphics) - [Video](Workflows/Video) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) [Package List Saucy](PackageListSaucy) (with categorization) [Workflow Categories](WorkflowCategories) [Freedesktop Categories](FreedesktopCategories)
 
 # Audio Tasks
 

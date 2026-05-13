@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/OneiricConcepts
 
-## [OneiricConcepts](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OneiricConcepts)
+## [OneiricConcepts](OneiricConcepts)
 
 This page reflects the current developmental concepts for Ubuntu Studio's 11.10 artwork.
 

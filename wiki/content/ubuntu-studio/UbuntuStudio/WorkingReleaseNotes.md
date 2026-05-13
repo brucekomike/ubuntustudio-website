@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/WorkingReleaseNotes
 
-## [WorkingReleaseNotes](https://wiki.ubuntu.com/UbuntuStudio/WorkingReleaseNotes)
+## [WorkingReleaseNotes](WorkingReleaseNotes)
 
 This page is for the development of release notes. They will always be for the development version and will be published as final on release day.
 
@@ -404,7 +404,7 @@ We have worked with Medibuntu ([http://www.medibuntu.org](http://www.medibuntu.o
 
 See the Ubuntu release notes for other non Ubuntu Studio specific changes.
 
-As our wiki page at [https://wiki.ubuntu.com/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) states, "our aim is to make it more accessible for new users to get into the tools that GNU/Linux has to offer for multimedia creation and production. We also want to spotlight what's out there, and show users tools they might not know to exist." We feel this is our best release to date and have come even closer to providing the best system for multimedia creation.
+As our wiki page at [UbuntuStudio](index) states, "our aim is to make it more accessible for new users to get into the tools that GNU/Linux has to offer for multimedia creation and production. We also want to spotlight what's out there, and show users tools they might not know to exist." We feel this is our best release to date and have come even closer to providing the best system for multimedia creation.
 
 Thanks to all who helped in Ubuntu Studio 8.04's creation!
 

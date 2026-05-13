@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/CreateGPGKey
 
-## [CreateGPGKey](https://wiki.ubuntu.com/UbuntuStudio/CreateGPGKey)
+## [CreateGPGKey](CreateGPGKey)
 
 GPG Stands for [Gnu Privacy Guard](http://gnupg.org/).
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/UpdateDebianSource
 
-## [UpdateDebianSource](https://wiki.ubuntu.com/UbuntuStudio/UpdateDebianSource)
+## [UpdateDebianSource](UpdateDebianSource)
 
 | Under Development |
 | --- |

@@ -2,15 +2,15 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/GDM
 
-## [GDM](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/GDM)
+## [GDM](GDM)
 
 Keep in mind:
 
 - Thumbnails should be no greater in height than 300px. Link to larger images.
-- All submissions must fit the design direction as laid out [HERE](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/GDM/UbuntuStudio/Artwork/DIYConcept).
+- All submissions must fit the design direction as laid out [HERE](Artwork/DIYConcept/GDM).
 - GDM with new features looks like it will be used for Ubuntu and thus Ubuntu Studio 8.04 so one will need to be up on what it can do.
 
-All submissions must fit the design direction as laid out [HERE](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/GDM/UbuntuStudio/Artwork/DIYConcept).
+All submissions must fit the design direction as laid out [HERE](Artwork/DIYConcept/GDM).
 
 ## GDM by Troy Watson
 

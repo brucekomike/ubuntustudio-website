@@ -2,44 +2,44 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304
 
-## [PreliminaryBlueprintsDraft1304](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304)
+## [PreliminaryBlueprintsDraft1304](PreliminaryBlueprintsDraft1304)
 
 | Contents Resources Blueprints Draft for 13.04 R-Documentation User documentation Developer Documentation (full manual on all things related to Ubuntu Studio development) testing documentation Public Relations R-Workflows and Metas Audio Video R-PerformanceTesting (used to be "performance") R-ISO R-Artwork R-SoftwareDevelopment StartupSystemCheckScript UbuntuStudioControls WorkflowApplication R-Misc |
 | --- |
 
 Contents
 
-1. [Resources](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Resources)
-2. [Blueprints Draft for 13.04](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Blueprints_Draft_for_13.04) [R-Documentation](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-Documentation) [User documentation](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#User_documentation) [Developer Documentation (full manual on all things related to Ubuntu Studio development)](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Developer_Documentation_.28full_manual_on_all_things_related_to_Ubuntu_Studio_development.29) [testing documentation](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#testing_documentation) [Public Relations](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Public_Relations) [R-Workflows and Metas](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-Workflows_and_Metas) [Audio](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Audio) [Video](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Video) [R-PerformanceTesting (used to be "performance")](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-PerformanceTesting_.28used_to_be_.22performance.22.29) [R-ISO](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-ISO) [R-Artwork](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-Artwork) [R-SoftwareDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-SoftwareDevelopment) [StartupSystemCheckScript](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#StartupSystemCheckScript) [UbuntuStudioControls](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#UbuntuStudioControls) [WorkflowApplication](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#WorkflowApplication) [R-Misc](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-Misc)
+1. [Resources](PreliminaryBlueprintsDraft1304#Resources)
+2. [Blueprints Draft for 13.04](PreliminaryBlueprintsDraft1304#Blueprints_Draft_for_13.04) [R-Documentation](PreliminaryBlueprintsDraft1304#R-Documentation) [User documentation](PreliminaryBlueprintsDraft1304#User_documentation) [Developer Documentation (full manual on all things related to Ubuntu Studio development)](PreliminaryBlueprintsDraft1304#Developer_Documentation_.28full_manual_on_all_things_related_to_Ubuntu_Studio_development.29) [testing documentation](PreliminaryBlueprintsDraft1304#testing_documentation) [Public Relations](PreliminaryBlueprintsDraft1304#Public_Relations) [R-Workflows and Metas](PreliminaryBlueprintsDraft1304#R-Workflows_and_Metas) [Audio](PreliminaryBlueprintsDraft1304#Audio) [Video](PreliminaryBlueprintsDraft1304#Video) [R-PerformanceTesting (used to be "performance")](PreliminaryBlueprintsDraft1304#R-PerformanceTesting_.28used_to_be_.22performance.22.29) [R-ISO](PreliminaryBlueprintsDraft1304#R-ISO) [R-Artwork](PreliminaryBlueprintsDraft1304#R-Artwork) [R-SoftwareDevelopment](PreliminaryBlueprintsDraft1304#R-SoftwareDevelopment) [StartupSystemCheckScript](PreliminaryBlueprintsDraft1304#StartupSystemCheckScript) [UbuntuStudioControls](PreliminaryBlueprintsDraft1304#UbuntuStudioControls) [WorkflowApplication](PreliminaryBlueprintsDraft1304#WorkflowApplication) [R-Misc](PreliminaryBlueprintsDraft1304#R-Misc)
 
-1. [Resources](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Resources)
+1. [Resources](PreliminaryBlueprintsDraft1304#Resources)
 
-1. [Resources](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Resources)
+1. [Resources](PreliminaryBlueprintsDraft1304#Resources)
 
-1. [R-Documentation](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-Documentation) [User documentation](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#User_documentation) [Developer Documentation (full manual on all things related to Ubuntu Studio development)](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Developer_Documentation_.28full_manual_on_all_things_related_to_Ubuntu_Studio_development.29) [testing documentation](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#testing_documentation)
-2. [Public Relations](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Public_Relations)
-3. [R-Workflows and Metas](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-Workflows_and_Metas) [Audio](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Audio) [Video](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Video)
-4. [R-PerformanceTesting (used to be "performance")](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-PerformanceTesting_.28used_to_be_.22performance.22.29)
-5. [R-ISO](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-ISO)
-6. [R-Artwork](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-Artwork)
-7. [R-SoftwareDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-SoftwareDevelopment) [StartupSystemCheckScript](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#StartupSystemCheckScript) [UbuntuStudioControls](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#UbuntuStudioControls) [WorkflowApplication](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#WorkflowApplication)
-8. [R-Misc](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#R-Misc)
+1. [R-Documentation](PreliminaryBlueprintsDraft1304#R-Documentation) [User documentation](PreliminaryBlueprintsDraft1304#User_documentation) [Developer Documentation (full manual on all things related to Ubuntu Studio development)](PreliminaryBlueprintsDraft1304#Developer_Documentation_.28full_manual_on_all_things_related_to_Ubuntu_Studio_development.29) [testing documentation](PreliminaryBlueprintsDraft1304#testing_documentation)
+2. [Public Relations](PreliminaryBlueprintsDraft1304#Public_Relations)
+3. [R-Workflows and Metas](PreliminaryBlueprintsDraft1304#R-Workflows_and_Metas) [Audio](PreliminaryBlueprintsDraft1304#Audio) [Video](PreliminaryBlueprintsDraft1304#Video)
+4. [R-PerformanceTesting (used to be "performance")](PreliminaryBlueprintsDraft1304#R-PerformanceTesting_.28used_to_be_.22performance.22.29)
+5. [R-ISO](PreliminaryBlueprintsDraft1304#R-ISO)
+6. [R-Artwork](PreliminaryBlueprintsDraft1304#R-Artwork)
+7. [R-SoftwareDevelopment](PreliminaryBlueprintsDraft1304#R-SoftwareDevelopment) [StartupSystemCheckScript](PreliminaryBlueprintsDraft1304#StartupSystemCheckScript) [UbuntuStudioControls](PreliminaryBlueprintsDraft1304#UbuntuStudioControls) [WorkflowApplication](PreliminaryBlueprintsDraft1304#WorkflowApplication)
+8. [R-Misc](PreliminaryBlueprintsDraft1304#R-Misc)
 
-1. [User documentation](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#User_documentation)
-2. [Developer Documentation (full manual on all things related to Ubuntu Studio development)](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Developer_Documentation_.28full_manual_on_all_things_related_to_Ubuntu_Studio_development.29)
-3. [testing documentation](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#testing_documentation)
+1. [User documentation](PreliminaryBlueprintsDraft1304#User_documentation)
+2. [Developer Documentation (full manual on all things related to Ubuntu Studio development)](PreliminaryBlueprintsDraft1304#Developer_Documentation_.28full_manual_on_all_things_related_to_Ubuntu_Studio_development.29)
+3. [testing documentation](PreliminaryBlueprintsDraft1304#testing_documentation)
 
-1. [Audio](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Audio)
-2. [Video](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#Video)
+1. [Audio](PreliminaryBlueprintsDraft1304#Audio)
+2. [Video](PreliminaryBlueprintsDraft1304#Video)
 
-1. [StartupSystemCheckScript](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#StartupSystemCheckScript)
-2. [UbuntuStudioControls](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#UbuntuStudioControls)
-3. [WorkflowApplication](https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304#WorkflowApplication)
+1. [StartupSystemCheckScript](PreliminaryBlueprintsDraft1304#StartupSystemCheckScript)
+2. [UbuntuStudioControls](PreliminaryBlueprintsDraft1304#UbuntuStudioControls)
+3. [WorkflowApplication](PreliminaryBlueprintsDraft1304#WorkflowApplication)
 
-| DO NOT EDIT - Go here to see the blueprints: https://wiki.ubuntu.com/UbuntuStudio/RaringBlueprintsCategories |
+| DO NOT EDIT - Go here to see the blueprints: UbuntuStudio/RaringBlueprintsCategories |
 | --- |
 
-DO NOT EDIT - Go here to see the blueprints: [https://wiki.ubuntu.com/UbuntuStudio/RaringBlueprintsCategories](https://wiki.ubuntu.com/UbuntuStudio/RaringBlueprintsCategories)
+DO NOT EDIT - Go here to see the blueprints: [UbuntuStudio/RaringBlueprintsCategories](RaringBlueprintsCategories)
 
 Assembling blueprints here for the 13.04 cycle.
 
@@ -105,7 +105,7 @@ user docs - in the wiki or the website, we should pick one and do it (currently 
 - Create reference for all development tasks ADDED
 - Create database of all Ubuntu Studio related sources ADDED
 - dev docs - reconcile "contribute to development" and kaj's pages (When developer documentation is mature enough, integrate it with the support section on the website) ADDED
-- mission statement - create one that define and documents target audience, use cases, hardware supported (something like this? [https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation#The_purpose_of_Ubuntu_Studio](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation#The_purpose_of_Ubuntu_Studio)) ADDED
+- mission statement - create one that define and documents target audience, use cases, hardware supported (something like this? [UbuntuStudio/DeveloperDocumentation#The_purpose_of_Ubuntu_Studio](DeveloperDocumentation#The_purpose_of_Ubuntu_Studio)) ADDED
 
 Document all steps of Ubuntu Studio development ADDED
 
@@ -115,7 +115,7 @@ Create database of all Ubuntu Studio related sources ADDED
 
 dev docs - reconcile "contribute to development" and kaj's pages (When developer documentation is mature enough, integrate it with the support section on the website) ADDED
 
-mission statement - create one that define and documents target audience, use cases, hardware supported (something like this? [https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation#The_purpose_of_Ubuntu_Studio](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation#The_purpose_of_Ubuntu_Studio)) ADDED
+mission statement - create one that define and documents target audience, use cases, hardware supported (something like this? [UbuntuStudio/DeveloperDocumentation#The_purpose_of_Ubuntu_Studio](DeveloperDocumentation#The_purpose_of_Ubuntu_Studio)) ADDED
 
 ### testing documentation
 

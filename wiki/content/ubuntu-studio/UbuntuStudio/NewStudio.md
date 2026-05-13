@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/NewStudio
 
-## [NewStudio](https://wiki.ubuntu.com/UbuntuStudio/NewStudio)
+## [NewStudio](NewStudio)
 
 This page is for the outlining of Ubuntu Studio's new direction.
 

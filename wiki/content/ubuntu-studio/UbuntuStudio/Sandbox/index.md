@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Sandbox
 
-## [Sandbox](https://wiki.ubuntu.com/UbuntuStudio/Sandbox)
+## [Sandbox](index)
 
 | Ubuntu Studio Users Documentation |
 | --- |
@@ -133,11 +133,11 @@ See our [TroubleShooting](https://wiki.ubuntu.com/TroubleShooting) page to figur
 
 **Ubuntu Studio Header**
 
-[Wiki Home](https://wiki.ubuntu.com/UbuntuStudio)
+[Wiki Home](..)
 
-[Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings)
+[Meetings](../Meetings)
 
-[Release Planning](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning)
+[Release Planning](../ReleasePlanning)
 
 [Current Release Schedule](https://wiki.ubuntu.com/MaverickReleaseSchedule)
 
@@ -165,69 +165,69 @@ allows us to control what is *not* installed - good example is the use of gnome-
 
 Contents
 
-1. [Ubuntu Studio Users Documentation](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FTitle.Ubuntu_Studio_Users_Documentation) [Miscellaneous Panel](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.Miscellaneous_Panel) [FAQ](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.FAQ) [Non-A/V/G](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.Non-A.2FV.2FG) [Help with Development](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.Help_with_Development)
-2. [Headers Testing](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Headers_Testing)
-3. [ISO vs PPA](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#ISO_vs_PPA)
-4. [Notes from IRC Logs](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes_from_IRC_Logs) [Core Issues](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Core_Issues) [Website](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Website)
-5. [New Website Vision](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#New_Website_Vision) [Introduction](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Introduction) [Requirements](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Requirements) [detrate offers](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#detrate_offers)
-6. [Ubuntu Studio - Core Issues](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Ubuntu_Studio_-_Core_Issues) [Project Goals](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Project_Goals) [Audience](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Audience) [Why this Audience?](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Why_this_Audience.3F) [Audience Requirements](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Audience_Requirements) [Mission Statement](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Mission_Statement)
-7. [Video Editing Reviews](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Video_Editing_Reviews)
-8. [Kino](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Kino) [Benefits](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Benefits) [Limitations](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Limitations) [Conclusion](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Conclusion)
-9. [Seeds Update](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Seeds_Update) [Preparation](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Preparation) [Modifying Seeds](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Modifying_Seeds) [Get Code](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Get_Code) [Change Seeds](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Change_Seeds) [Update Bzr](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_Bzr) [Update ubuntustudio-meta](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_ubuntustudio-meta) [Get Source](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Get_Source) [Update /debian/control](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_.2Fdebian.2Fcontrol) [Modify update.cfg](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Modify_update.cfg) [./update](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#A..2Fupdate) [Limit List](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Limit_List) [Update ubuntustudio-menu](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_ubuntustudio-menu)
-10. [package size testing](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#package_size_testing) [file manager](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#file_manager) [nautilus](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#nautilus) [disc burner](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#disc_burner) [brasero](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#brasero) [k3b](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#k3b) [video editor](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#video_editor) [kdenlive](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#kdenlive) [openshot](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#openshot) [blender](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#blender) [summary](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#summary)
+1. [Ubuntu Studio Users Documentation](index#UbuntuStudio.2FSandbox.2FTitle.Ubuntu_Studio_Users_Documentation) [Miscellaneous Panel](index#UbuntuStudio.2FSandbox.2FSidebar.Miscellaneous_Panel) [FAQ](index#UbuntuStudio.2FSandbox.2FSidebar.FAQ) [Non-A/V/G](index#UbuntuStudio.2FSandbox.2FSidebar.Non-A.2FV.2FG) [Help with Development](index#UbuntuStudio.2FSandbox.2FSidebar.Help_with_Development)
+2. [Headers Testing](index#Headers_Testing)
+3. [ISO vs PPA](index#ISO_vs_PPA)
+4. [Notes from IRC Logs](index#Notes_from_IRC_Logs) [Core Issues](index#Core_Issues) [Website](index#Website)
+5. [New Website Vision](index#New_Website_Vision) [Introduction](index#Introduction) [Requirements](index#Requirements) [detrate offers](index#detrate_offers)
+6. [Ubuntu Studio - Core Issues](index#Ubuntu_Studio_-_Core_Issues) [Project Goals](index#Project_Goals) [Audience](index#Audience) [Why this Audience?](index#Why_this_Audience.3F) [Audience Requirements](index#Audience_Requirements) [Mission Statement](index#Mission_Statement)
+7. [Video Editing Reviews](index#Video_Editing_Reviews)
+8. [Kino](index#Kino) [Benefits](index#Benefits) [Limitations](index#Limitations) [Conclusion](index#Conclusion)
+9. [Seeds Update](index#Seeds_Update) [Preparation](index#Preparation) [Modifying Seeds](index#Modifying_Seeds) [Get Code](index#Get_Code) [Change Seeds](index#Change_Seeds) [Update Bzr](index#Update_Bzr) [Update ubuntustudio-meta](index#Update_ubuntustudio-meta) [Get Source](index#Get_Source) [Update /debian/control](index#Update_.2Fdebian.2Fcontrol) [Modify update.cfg](index#Modify_update.cfg) [./update](index#A..2Fupdate) [Limit List](index#Limit_List) [Update ubuntustudio-menu](index#Update_ubuntustudio-menu)
+10. [package size testing](index#package_size_testing) [file manager](index#file_manager) [nautilus](index#nautilus) [disc burner](index#disc_burner) [brasero](index#brasero) [k3b](index#k3b) [video editor](index#video_editor) [kdenlive](index#kdenlive) [openshot](index#openshot) [blender](index#blender) [summary](index#summary)
 
-1. [Miscellaneous Panel](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.Miscellaneous_Panel) [FAQ](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.FAQ) [Non-A/V/G](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.Non-A.2FV.2FG) [Help with Development](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.Help_with_Development)
+1. [Miscellaneous Panel](index#UbuntuStudio.2FSandbox.2FSidebar.Miscellaneous_Panel) [FAQ](index#UbuntuStudio.2FSandbox.2FSidebar.FAQ) [Non-A/V/G](index#UbuntuStudio.2FSandbox.2FSidebar.Non-A.2FV.2FG) [Help with Development](index#UbuntuStudio.2FSandbox.2FSidebar.Help_with_Development)
 
-1. [FAQ](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.FAQ)
-2. [Non-A/V/G](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.Non-A.2FV.2FG)
-3. [Help with Development](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#UbuntuStudio.2FSandbox.2FSidebar.Help_with_Development)
+1. [FAQ](index#UbuntuStudio.2FSandbox.2FSidebar.FAQ)
+2. [Non-A/V/G](index#UbuntuStudio.2FSandbox.2FSidebar.Non-A.2FV.2FG)
+3. [Help with Development](index#UbuntuStudio.2FSandbox.2FSidebar.Help_with_Development)
 
-1. [Core Issues](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Core_Issues)
-2. [Website](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Website)
+1. [Core Issues](index#Core_Issues)
+2. [Website](index#Website)
 
-1. [Introduction](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Introduction)
-2. [Requirements](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Requirements)
-3. [detrate offers](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#detrate_offers)
+1. [Introduction](index#Introduction)
+2. [Requirements](index#Requirements)
+3. [detrate offers](index#detrate_offers)
 
-1. [Project Goals](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Project_Goals)
-2. [Audience](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Audience) [Why this Audience?](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Why_this_Audience.3F) [Audience Requirements](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Audience_Requirements)
-3. [Mission Statement](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Mission_Statement)
+1. [Project Goals](index#Project_Goals)
+2. [Audience](index#Audience) [Why this Audience?](index#Why_this_Audience.3F) [Audience Requirements](index#Audience_Requirements)
+3. [Mission Statement](index#Mission_Statement)
 
-1. [Why this Audience?](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Why_this_Audience.3F)
-2. [Audience Requirements](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Audience_Requirements)
+1. [Why this Audience?](index#Why_this_Audience.3F)
+2. [Audience Requirements](index#Audience_Requirements)
 
-1. [Benefits](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Benefits)
-2. [Limitations](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Limitations)
-3. [Conclusion](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Conclusion)
+1. [Benefits](index#Benefits)
+2. [Limitations](index#Limitations)
+3. [Conclusion](index#Conclusion)
 
-1. [Preparation](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Preparation)
-2. [Modifying Seeds](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Modifying_Seeds) [Get Code](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Get_Code) [Change Seeds](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Change_Seeds) [Update Bzr](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_Bzr)
-3. [Update ubuntustudio-meta](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_ubuntustudio-meta) [Get Source](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Get_Source) [Update /debian/control](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_.2Fdebian.2Fcontrol) [Modify update.cfg](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Modify_update.cfg) [./update](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#A..2Fupdate)
-4. [Limit List](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Limit_List)
-5. [Update ubuntustudio-menu](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_ubuntustudio-menu)
+1. [Preparation](index#Preparation)
+2. [Modifying Seeds](index#Modifying_Seeds) [Get Code](index#Get_Code) [Change Seeds](index#Change_Seeds) [Update Bzr](index#Update_Bzr)
+3. [Update ubuntustudio-meta](index#Update_ubuntustudio-meta) [Get Source](index#Get_Source) [Update /debian/control](index#Update_.2Fdebian.2Fcontrol) [Modify update.cfg](index#Modify_update.cfg) [./update](index#A..2Fupdate)
+4. [Limit List](index#Limit_List)
+5. [Update ubuntustudio-menu](index#Update_ubuntustudio-menu)
 
-1. [Get Code](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Get_Code)
-2. [Change Seeds](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Change_Seeds)
-3. [Update Bzr](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_Bzr)
+1. [Get Code](index#Get_Code)
+2. [Change Seeds](index#Change_Seeds)
+3. [Update Bzr](index#Update_Bzr)
 
-1. [Get Source](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Get_Source)
-2. [Update /debian/control](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Update_.2Fdebian.2Fcontrol)
-3. [Modify update.cfg](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Modify_update.cfg)
-4. [./update](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#A..2Fupdate)
+1. [Get Source](index#Get_Source)
+2. [Update /debian/control](index#Update_.2Fdebian.2Fcontrol)
+3. [Modify update.cfg](index#Modify_update.cfg)
+4. [./update](index#A..2Fupdate)
 
-1. [file manager](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#file_manager) [nautilus](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#nautilus)
-2. [disc burner](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#disc_burner) [brasero](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#brasero) [k3b](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#k3b)
-3. [video editor](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#video_editor) [kdenlive](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#kdenlive) [openshot](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#openshot) [blender](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#blender)
-4. [summary](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#summary)
+1. [file manager](index#file_manager) [nautilus](index#nautilus)
+2. [disc burner](index#disc_burner) [brasero](index#brasero) [k3b](index#k3b)
+3. [video editor](index#video_editor) [kdenlive](index#kdenlive) [openshot](index#openshot) [blender](index#blender)
+4. [summary](index#summary)
 
-1. [nautilus](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#nautilus)
+1. [nautilus](index#nautilus)
 
-1. [brasero](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#brasero)
-2. [k3b](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#k3b)
+1. [brasero](index#brasero)
+2. [k3b](index#k3b)
 
-1. [kdenlive](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#kdenlive)
-2. [openshot](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#openshot)
-3. [blender](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#blender)
+1. [kdenlive](index#kdenlive)
+2. [openshot](index#openshot)
+3. [blender](index#blender)
 
 # Notes from IRC Logs
 
@@ -401,7 +401,7 @@ mkdir nattyseeds && cd nattyseeds
 ### Change Seeds
 
 - create new seeds including task headers audio-common recording generation
-- modify existing seeds audio-plugins - Task-Description: LADSPA, LV2, and DSSI audio plugins (added LV2) graphics - update per [https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment) video - update per [https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment)
+- modify existing seeds audio-plugins - Task-Description: LADSPA, LV2, and DSSI audio plugins (added LV2) graphics - update per [UbuntuStudio/PackageSelectionDevelopment](../PackageSelectionDevelopment) video - update per [UbuntuStudio/PackageSelectionDevelopment](../PackageSelectionDevelopment)
 - update STRUCTURE file add audio-common: desktop generation: audio-common recording: audio-common remove audio: desktop
 
 - audio-common
@@ -409,12 +409,12 @@ mkdir nattyseeds && cd nattyseeds
 - generation
 
 - audio-plugins - Task-Description: LADSPA, LV2, and DSSI audio plugins (added LV2)
-- graphics - update per [https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment)
-- video - update per [https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment)
+- graphics - update per [UbuntuStudio/PackageSelectionDevelopment](../PackageSelectionDevelopment)
+- video - update per [UbuntuStudio/PackageSelectionDevelopment](../PackageSelectionDevelopment)
 
-graphics - update per [https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment)
+graphics - update per [UbuntuStudio/PackageSelectionDevelopment](../PackageSelectionDevelopment)
 
-video - update per [https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment)
+video - update per [UbuntuStudio/PackageSelectionDevelopment](../PackageSelectionDevelopment)
 
 - add audio-common: desktop generation: audio-common recording: audio-common
 - remove audio: desktop

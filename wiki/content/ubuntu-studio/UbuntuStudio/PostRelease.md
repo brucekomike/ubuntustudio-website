@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PostRelease
 
-## [PostRelease](https://wiki.ubuntu.com/UbuntuStudio/PostRelease)
+## [PostRelease](PostRelease)
 
 What to do after a release of Ubuntu Studio:
 

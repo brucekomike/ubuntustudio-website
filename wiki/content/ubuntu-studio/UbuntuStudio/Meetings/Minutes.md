@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/Minutes
 
-## [Minutes](https://wiki.ubuntu.com/UbuntuStudio/Meetings/Minutes)
+## [Minutes](Minutes)
 
-This page lists minutes of [UbuntuStudio/Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings).
+This page lists minutes of [UbuntuStudio/Meetings](index).
 
 You can also find meeting IRC logs at [http://irclogs.ubuntu.com/](http://irclogs.ubuntu.com/)
 
@@ -15,11 +15,11 @@ You can also find meeting IRC logs at [http://irclogs.ubuntu.com/](http://irclog
 - [Log for Ubuntu Studio contributors meeting on November 6th, 2011](http://ubottu.com/meetingology/logs/ubuntu-meeting/2011/ubuntu-meeting.2011-11-06-17.00.moin.txt)
 - [Log for Ubuntu Studio contributors meeting on August 7th, 2011](http://irclogs.ubuntu.com/2011/08/07/%23ubuntu-meeting.html)
 - [Log for meeting on 2011-08-07](http://irclogs.ubuntu.com/2011/08/07/%23ubuntu-meeting.html)
-- [Postponed Due to U.S. July 4th holiday](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011July3)
-- [Logs for 2011 June5 Ubuntu Studio Contributors Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011June5)
-- [UbuntuStudio/Meetings/2007-07-09](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2007-07-09) - Ubuntu Studio Meeting
-- [Logs for 2009-10-12 Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2009-10-12)
-- [Logs for 2009-11-09 Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2009-11-09)
+- [Postponed Due to U.S. July 4th holiday](2011July3)
+- [Logs for 2011 June5 Ubuntu Studio Contributors Meeting](2011June5)
+- [UbuntuStudio/Meetings/2007-07-09](Meetings/2007-07-09) - Ubuntu Studio Meeting
+- [Logs for 2009-10-12 Meeting](2009-10-12)
+- [Logs for 2009-11-09 Meeting](2009-11-09)
 
 [Log for Ubuntu Studio contributors meeting on January 22nd, 2011](http://ubottu.com/meetingology/logs/ubuntu-meeting/2012/ubuntu-meeting.2012-01-22-17.04.moin.txt)
 
@@ -31,14 +31,14 @@ You can also find meeting IRC logs at [http://irclogs.ubuntu.com/](http://irclog
 
 [Log for meeting on 2011-08-07](http://irclogs.ubuntu.com/2011/08/07/%23ubuntu-meeting.html)
 
-[Postponed Due to U.S. July 4th holiday](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011July3)
+[Postponed Due to U.S. July 4th holiday](2011July3)
 
-[Logs for 2011 June5 Ubuntu Studio Contributors Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011June5)
+[Logs for 2011 June5 Ubuntu Studio Contributors Meeting](2011June5)
 
-[UbuntuStudio/Meetings/2007-07-09](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2007-07-09) - Ubuntu Studio Meeting
+[UbuntuStudio/Meetings/2007-07-09](Meetings/2007-07-09) - Ubuntu Studio Meeting
 
-[Logs for 2009-10-12 Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2009-10-12)
+[Logs for 2009-10-12 Meeting](2009-10-12)
 
-[Logs for 2009-11-09 Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2009-11-09)
+[Logs for 2009-11-09 Meeting](2009-11-09)
 
 UbuntuStudio/Meetings/Minutes (last edited 2012-01-22 17:56:56 by 75-131-175-239)

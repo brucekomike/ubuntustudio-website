@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOps
 
-## [IRCUbuntuStudioOps](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOps)
+## [IRCUbuntuStudioOps](IRCUbuntuStudioOps)
 
 | Task Description | Operators for the Ubuntu Studio IRC channels. |
 | --- | --- |
@@ -21,7 +21,7 @@ Operators for the Ubuntu Studio IRC channels.
 
 **Team Wiki**
 
-[IRC Ubuntu Studio Ops Page](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage)
+[IRC Ubuntu Studio Ops Page](IRCUbuntuStudioOpsPage)
 
 **Mail Lists**
 

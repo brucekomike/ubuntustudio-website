@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ProjectGoals
 
-## [ProjectGoals](https://wiki.ubuntu.com/UbuntuStudio/ProjectGoals)
+## [ProjectGoals](ProjectGoals)
 
 Please keep these things in mind when choosing a task:
 

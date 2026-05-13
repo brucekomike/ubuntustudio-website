@@ -2,19 +2,19 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps
 
-## [MainDeps](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps)
+## [MainDeps](index)
 
 Here is a list of unmet main deps, and their frequencies, and sub pages to show which packages in which meta package require which dependencies ![Wink ;)](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_wink.png/icon_wink.png)
 
-[ubuntustudio-desktop](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-desktop)
+[ubuntustudio-desktop](ubuntustudio-desktop)
 
-[ubuntustudio-audio](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-audio)
+[ubuntustudio-audio](ubuntustudio-audio)
 
-[ubuntustudio-graphics](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-graphics)
+[ubuntustudio-graphics](ubuntustudio-graphics)
 
-[ubuntustudio-plugins](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-plugins)
+[ubuntustudio-plugins](ubuntustudio-plugins)
 
-[ubuntustudio-video](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-video)
+[ubuntustudio-video](ubuntustudio-video)
 
 ```
 Total number of unmet deps: 161

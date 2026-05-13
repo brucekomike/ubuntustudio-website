@@ -2,65 +2,65 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos
 
-## [IntroTutVideos](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos)
+## [IntroTutVideos](IntroTutVideos)
 
 | Contents Overview Objective Target Audience Goals Introduction to Ubuntu Studio What is Ubuntu Studio? Why use Ubuntu Studio? FOSS Applications Store Modest Hardware Requirements Multimedia Applications Differences between Windows and Ubuntu FOSS Open Formats vs. mp3 More Options Non-monolithic Applications Multi-users Hardware Requirements computer video card audio interface pci usb firewire Installing Ubuntu Studio Full Install from DVD Other Installation Options Upgrading from Vanilla Ubuntu Dual Booting Audio Tasks Understanding JACK Ardour - Record Audio Video Tasks Blender - Edit Video Graphical Tasks Inkscape - Create Graphics Appendix A: Troublshooting Objectives: specific videos over here Who |
 | --- |
 
 Contents
 
-1. [Overview](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Overview) [Objective](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Objective) [Target Audience](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Target_Audience) [Goals](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Goals)
-2. [Introduction to Ubuntu Studio](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Introduction_to_Ubuntu_Studio) [What is Ubuntu Studio?](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#What_is_Ubuntu_Studio.3F) [Why use Ubuntu Studio?](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Why_use_Ubuntu_Studio.3F) [FOSS](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#FOSS) [Applications Store](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Applications_Store) [Modest Hardware Requirements](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Modest_Hardware_Requirements) [Multimedia Applications](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Multimedia_Applications) [Differences between Windows and Ubuntu](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Differences_between_Windows_and_Ubuntu) [FOSS](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#FOSS-1) [Open Formats vs. mp3](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Open_Formats_vs._mp3) [More Options](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#More_Options) [Non-monolithic Applications](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Non-monolithic_Applications) [Multi-users](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Multi-users) [Hardware Requirements](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Hardware_Requirements) [computer](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#computer) [video card](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#video_card) [audio interface](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#audio_interface) [pci](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#pci) [usb](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#usb) [firewire](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#firewire)
-3. [Installing Ubuntu Studio](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Installing_Ubuntu_Studio) [Full Install from DVD](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Full_Install_from_DVD) [Other Installation Options](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Other_Installation_Options) [Upgrading from Vanilla Ubuntu](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Upgrading_from_Vanilla_Ubuntu) [Dual Booting](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Dual_Booting)
-4. [Audio Tasks](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Audio_Tasks) [Understanding JACK](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Understanding_JACK) [Ardour - Record Audio](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Ardour_-_Record_Audio)
-5. [Video Tasks](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Video_Tasks) [Blender - Edit Video](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Blender_-_Edit_Video)
-6. [Graphical Tasks](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Graphical_Tasks) [Inkscape - Create Graphics](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Inkscape_-_Create_Graphics)
-7. [Appendix A: Troublshooting](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Appendix_A:_Troublshooting)
-8. [Objectives:](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Objectives:)
-9. [specific videos over here](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#specific_videos_over_here) [Who](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Who)
+1. [Overview](IntroTutVideos#Overview) [Objective](IntroTutVideos#Objective) [Target Audience](IntroTutVideos#Target_Audience) [Goals](IntroTutVideos#Goals)
+2. [Introduction to Ubuntu Studio](IntroTutVideos#Introduction_to_Ubuntu_Studio) [What is Ubuntu Studio?](IntroTutVideos#What_is_Ubuntu_Studio.3F) [Why use Ubuntu Studio?](IntroTutVideos#Why_use_Ubuntu_Studio.3F) [FOSS](IntroTutVideos#FOSS) [Applications Store](IntroTutVideos#Applications_Store) [Modest Hardware Requirements](IntroTutVideos#Modest_Hardware_Requirements) [Multimedia Applications](IntroTutVideos#Multimedia_Applications) [Differences between Windows and Ubuntu](IntroTutVideos#Differences_between_Windows_and_Ubuntu) [FOSS](IntroTutVideos#FOSS-1) [Open Formats vs. mp3](IntroTutVideos#Open_Formats_vs._mp3) [More Options](IntroTutVideos#More_Options) [Non-monolithic Applications](IntroTutVideos#Non-monolithic_Applications) [Multi-users](IntroTutVideos#Multi-users) [Hardware Requirements](IntroTutVideos#Hardware_Requirements) [computer](IntroTutVideos#computer) [video card](IntroTutVideos#video_card) [audio interface](IntroTutVideos#audio_interface) [pci](IntroTutVideos#pci) [usb](IntroTutVideos#usb) [firewire](IntroTutVideos#firewire)
+3. [Installing Ubuntu Studio](IntroTutVideos#Installing_Ubuntu_Studio) [Full Install from DVD](IntroTutVideos#Full_Install_from_DVD) [Other Installation Options](IntroTutVideos#Other_Installation_Options) [Upgrading from Vanilla Ubuntu](IntroTutVideos#Upgrading_from_Vanilla_Ubuntu) [Dual Booting](IntroTutVideos#Dual_Booting)
+4. [Audio Tasks](IntroTutVideos#Audio_Tasks) [Understanding JACK](IntroTutVideos#Understanding_JACK) [Ardour - Record Audio](IntroTutVideos#Ardour_-_Record_Audio)
+5. [Video Tasks](IntroTutVideos#Video_Tasks) [Blender - Edit Video](IntroTutVideos#Blender_-_Edit_Video)
+6. [Graphical Tasks](IntroTutVideos#Graphical_Tasks) [Inkscape - Create Graphics](IntroTutVideos#Inkscape_-_Create_Graphics)
+7. [Appendix A: Troublshooting](IntroTutVideos#Appendix_A:_Troublshooting)
+8. [Objectives:](IntroTutVideos#Objectives:)
+9. [specific videos over here](IntroTutVideos#specific_videos_over_here) [Who](IntroTutVideos#Who)
 
-1. [Objective](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Objective)
-2. [Target Audience](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Target_Audience)
-3. [Goals](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Goals)
+1. [Objective](IntroTutVideos#Objective)
+2. [Target Audience](IntroTutVideos#Target_Audience)
+3. [Goals](IntroTutVideos#Goals)
 
-1. [What is Ubuntu Studio?](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#What_is_Ubuntu_Studio.3F)
-2. [Why use Ubuntu Studio?](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Why_use_Ubuntu_Studio.3F) [FOSS](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#FOSS) [Applications Store](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Applications_Store) [Modest Hardware Requirements](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Modest_Hardware_Requirements) [Multimedia Applications](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Multimedia_Applications)
-3. [Differences between Windows and Ubuntu](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Differences_between_Windows_and_Ubuntu) [FOSS](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#FOSS-1) [Open Formats vs. mp3](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Open_Formats_vs._mp3) [More Options](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#More_Options) [Non-monolithic Applications](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Non-monolithic_Applications) [Multi-users](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Multi-users)
-4. [Hardware Requirements](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Hardware_Requirements) [computer](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#computer) [video card](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#video_card) [audio interface](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#audio_interface) [pci](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#pci) [usb](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#usb) [firewire](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#firewire)
+1. [What is Ubuntu Studio?](IntroTutVideos#What_is_Ubuntu_Studio.3F)
+2. [Why use Ubuntu Studio?](IntroTutVideos#Why_use_Ubuntu_Studio.3F) [FOSS](IntroTutVideos#FOSS) [Applications Store](IntroTutVideos#Applications_Store) [Modest Hardware Requirements](IntroTutVideos#Modest_Hardware_Requirements) [Multimedia Applications](IntroTutVideos#Multimedia_Applications)
+3. [Differences between Windows and Ubuntu](IntroTutVideos#Differences_between_Windows_and_Ubuntu) [FOSS](IntroTutVideos#FOSS-1) [Open Formats vs. mp3](IntroTutVideos#Open_Formats_vs._mp3) [More Options](IntroTutVideos#More_Options) [Non-monolithic Applications](IntroTutVideos#Non-monolithic_Applications) [Multi-users](IntroTutVideos#Multi-users)
+4. [Hardware Requirements](IntroTutVideos#Hardware_Requirements) [computer](IntroTutVideos#computer) [video card](IntroTutVideos#video_card) [audio interface](IntroTutVideos#audio_interface) [pci](IntroTutVideos#pci) [usb](IntroTutVideos#usb) [firewire](IntroTutVideos#firewire)
 
-1. [FOSS](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#FOSS)
-2. [Applications Store](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Applications_Store)
-3. [Modest Hardware Requirements](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Modest_Hardware_Requirements)
-4. [Multimedia Applications](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Multimedia_Applications)
+1. [FOSS](IntroTutVideos#FOSS)
+2. [Applications Store](IntroTutVideos#Applications_Store)
+3. [Modest Hardware Requirements](IntroTutVideos#Modest_Hardware_Requirements)
+4. [Multimedia Applications](IntroTutVideos#Multimedia_Applications)
 
-1. [FOSS](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#FOSS-1)
-2. [Open Formats vs. mp3](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Open_Formats_vs._mp3)
-3. [More Options](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#More_Options)
-4. [Non-monolithic Applications](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Non-monolithic_Applications)
-5. [Multi-users](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Multi-users)
+1. [FOSS](IntroTutVideos#FOSS-1)
+2. [Open Formats vs. mp3](IntroTutVideos#Open_Formats_vs._mp3)
+3. [More Options](IntroTutVideos#More_Options)
+4. [Non-monolithic Applications](IntroTutVideos#Non-monolithic_Applications)
+5. [Multi-users](IntroTutVideos#Multi-users)
 
-1. [computer](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#computer)
-2. [video card](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#video_card)
-3. [audio interface](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#audio_interface) [pci](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#pci) [usb](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#usb) [firewire](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#firewire)
+1. [computer](IntroTutVideos#computer)
+2. [video card](IntroTutVideos#video_card)
+3. [audio interface](IntroTutVideos#audio_interface) [pci](IntroTutVideos#pci) [usb](IntroTutVideos#usb) [firewire](IntroTutVideos#firewire)
 
-1. [pci](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#pci)
-2. [usb](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#usb)
-3. [firewire](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#firewire)
+1. [pci](IntroTutVideos#pci)
+2. [usb](IntroTutVideos#usb)
+3. [firewire](IntroTutVideos#firewire)
 
-1. [Full Install from DVD](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Full_Install_from_DVD)
-2. [Other Installation Options](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Other_Installation_Options) [Upgrading from Vanilla Ubuntu](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Upgrading_from_Vanilla_Ubuntu) [Dual Booting](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Dual_Booting)
+1. [Full Install from DVD](IntroTutVideos#Full_Install_from_DVD)
+2. [Other Installation Options](IntroTutVideos#Other_Installation_Options) [Upgrading from Vanilla Ubuntu](IntroTutVideos#Upgrading_from_Vanilla_Ubuntu) [Dual Booting](IntroTutVideos#Dual_Booting)
 
-1. [Upgrading from Vanilla Ubuntu](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Upgrading_from_Vanilla_Ubuntu)
-2. [Dual Booting](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Dual_Booting)
+1. [Upgrading from Vanilla Ubuntu](IntroTutVideos#Upgrading_from_Vanilla_Ubuntu)
+2. [Dual Booting](IntroTutVideos#Dual_Booting)
 
-1. [Understanding JACK](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Understanding_JACK)
-2. [Ardour - Record Audio](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Ardour_-_Record_Audio)
+1. [Understanding JACK](IntroTutVideos#Understanding_JACK)
+2. [Ardour - Record Audio](IntroTutVideos#Ardour_-_Record_Audio)
 
-1. [Blender - Edit Video](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Blender_-_Edit_Video)
+1. [Blender - Edit Video](IntroTutVideos#Blender_-_Edit_Video)
 
-1. [Inkscape - Create Graphics](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Inkscape_-_Create_Graphics)
+1. [Inkscape - Create Graphics](IntroTutVideos#Inkscape_-_Create_Graphics)
 
-1. [Who](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos#Who)
+1. [Who](IntroTutVideos#Who)
 
 **The Ubuntu Studio Intro and Tutorial Videos**
 
@@ -169,9 +169,9 @@ mention
 
 - Linux derives from a multi-user environment
 - users will need to login
-- and each user will get their own dedicated area of hard drive known as /home directory where their files will be stored (analogous to [/MyDocuments](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos/MyDocuments) from Windows)
+- and each user will get their own dedicated area of hard drive known as /home directory where their files will be stored (analogous to [/MyDocuments](IntroTutVideos/MyDocuments) from Windows)
 
-and each user will get their own dedicated area of hard drive known as /home directory where their files will be stored (analogous to [/MyDocuments](https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos/MyDocuments) from Windows)
+and each user will get their own dedicated area of hard drive known as /home directory where their files will be stored (analogous to [/MyDocuments](IntroTutVideos/MyDocuments) from Windows)
 
 ## Hardware Requirements
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/UtopicUnicorn/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # Ubuntu Studio 14.10 Utopic Unnicorn Release Notes
 

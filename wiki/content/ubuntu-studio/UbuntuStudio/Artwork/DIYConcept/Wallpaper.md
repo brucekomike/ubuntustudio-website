@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Wallpaper
 
-## [Wallpaper](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Wallpaper)
+## [Wallpaper](Wallpaper)
 
 Open to any suggestion.
 

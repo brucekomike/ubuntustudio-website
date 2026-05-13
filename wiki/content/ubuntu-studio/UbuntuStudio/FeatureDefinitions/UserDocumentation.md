@@ -2,59 +2,59 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation
 
-## [UserDocumentation](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation)
+## [UserDocumentation](UserDocumentation)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
 | --- |
 
-**-- [Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/OrganizationSideBar?action=edit))** **Organization** - [Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy) - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) -- [Project Lead Vote 2016](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016) - [Team Structure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) - [Release Procedure](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule) - [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) - [Feature Definitions](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions) - [Package Selection](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection) - [Dates (not used)](https://wiki.ubuntu.com/UbuntuStudio/Dates) - [Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings) **Planning Documentation** - [Managing Blueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints) - [Development Cycle](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle) .. [Feature Definition Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition) .. [Development Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development) .. [Testing Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing) .. [Releasing](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Release)
+**-- [Organization](../Organization) Side Bar -- ([Edit](../Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](../Policy) - [Project Lead Vote](../ProjectLeadVote) -- [Project Lead Vote 2016](../ProjectLeadVote2016) - [Team Structure](../TeamStructure) - [Release Procedure](../ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](../DevelopmentReleaseSchedule) - [Blueprints](../Blueprints) - [Feature Definitions](index) - [Package Selection](../PackageSelection) - [Dates (not used)](../Dates) - [Meetings](../Meetings) **Planning Documentation** - [Managing Blueprints](../ManagingBlueprints) - [Development Cycle](../DevelopmentCycle) .. [Feature Definition Period](../DevEvents/FeatureDefinition) .. [Development Period](../DevEvents/Development) .. [Testing Period](../DevEvents/Testing) .. [Releasing](../DevEvents/Release)
 
 # Feature Definition for Ubuntu Studio User Documentation
 
 Contents
 
-1. [Feature Definition for Ubuntu Studio User Documentation](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Feature_Definition_for_Ubuntu_Studio_User_Documentation)
-2. [Introduction](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Introduction)
-3. [About the Content](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#About_the_Content) [Organization](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Organization) [DE environment](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#DE_environment) [Categories/Workflows](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Categories.2FWorkflows) [Including generic documentation for the purpose of education](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Including_generic_documentation_for_the_purpose_of_education) [Basic OS specific documentation (Desktop agnostic)](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Basic_OS_specific_documentation_.28Desktop_agnostic.29) [List of external docs that we can use or be inspired by](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#List_of_external_docs_that_we_can_use_or_be_inspired_by)
-4. [Categories and subcategories for documentation](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Categories_and_subcategories_for_documentation) [UBUNTU STUDIO GENERAL](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#UBUNTU_STUDIO_GENERAL) [AUDIO](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#AUDIO) [GRAPHICS](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#GRAPHICS) [VIDEO](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#VIDEO) [PHOTOGRAPHY](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#PHOTOGRAPHY) [PUBLISHING](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#PUBLISHING) [WRITING](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#WRITING)
+1. [Feature Definition for Ubuntu Studio User Documentation](UserDocumentation#Feature_Definition_for_Ubuntu_Studio_User_Documentation)
+2. [Introduction](UserDocumentation#Introduction)
+3. [About the Content](UserDocumentation#About_the_Content) [Organization](UserDocumentation#Organization) [DE environment](UserDocumentation#DE_environment) [Categories/Workflows](UserDocumentation#Categories.2FWorkflows) [Including generic documentation for the purpose of education](UserDocumentation#Including_generic_documentation_for_the_purpose_of_education) [Basic OS specific documentation (Desktop agnostic)](UserDocumentation#Basic_OS_specific_documentation_.28Desktop_agnostic.29) [List of external docs that we can use or be inspired by](UserDocumentation#List_of_external_docs_that_we_can_use_or_be_inspired_by)
+4. [Categories and subcategories for documentation](UserDocumentation#Categories_and_subcategories_for_documentation) [UBUNTU STUDIO GENERAL](UserDocumentation#UBUNTU_STUDIO_GENERAL) [AUDIO](UserDocumentation#AUDIO) [GRAPHICS](UserDocumentation#GRAPHICS) [VIDEO](UserDocumentation#VIDEO) [PHOTOGRAPHY](UserDocumentation#PHOTOGRAPHY) [PUBLISHING](UserDocumentation#PUBLISHING) [WRITING](UserDocumentation#WRITING)
 
-1. [Organization](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Organization)
-2. [DE environment](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#DE_environment)
-3. [Categories/Workflows](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Categories.2FWorkflows)
-4. [Including generic documentation for the purpose of education](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Including_generic_documentation_for_the_purpose_of_education)
-5. [Basic OS specific documentation (Desktop agnostic)](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#Basic_OS_specific_documentation_.28Desktop_agnostic.29)
-6. [List of external docs that we can use or be inspired by](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#List_of_external_docs_that_we_can_use_or_be_inspired_by)
+1. [Organization](UserDocumentation#Organization)
+2. [DE environment](UserDocumentation#DE_environment)
+3. [Categories/Workflows](UserDocumentation#Categories.2FWorkflows)
+4. [Including generic documentation for the purpose of education](UserDocumentation#Including_generic_documentation_for_the_purpose_of_education)
+5. [Basic OS specific documentation (Desktop agnostic)](UserDocumentation#Basic_OS_specific_documentation_.28Desktop_agnostic.29)
+6. [List of external docs that we can use or be inspired by](UserDocumentation#List_of_external_docs_that_we_can_use_or_be_inspired_by)
 
-1. [UBUNTU STUDIO GENERAL](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#UBUNTU_STUDIO_GENERAL)
-2. [AUDIO](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#AUDIO)
-3. [GRAPHICS](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#GRAPHICS)
-4. [VIDEO](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#VIDEO)
-5. [PHOTOGRAPHY](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#PHOTOGRAPHY)
-6. [PUBLISHING](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#PUBLISHING)
-7. [WRITING](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation#WRITING)
+1. [UBUNTU STUDIO GENERAL](UserDocumentation#UBUNTU_STUDIO_GENERAL)
+2. [AUDIO](UserDocumentation#AUDIO)
+3. [GRAPHICS](UserDocumentation#GRAPHICS)
+4. [VIDEO](UserDocumentation#VIDEO)
+5. [PHOTOGRAPHY](UserDocumentation#PHOTOGRAPHY)
+6. [PUBLISHING](UserDocumentation#PUBLISHING)
+7. [WRITING](UserDocumentation#WRITING)
 
 # Introduction
 
@@ -170,9 +170,9 @@ Using [MuseScore](https://wiki.ubuntu.com/MuseScore)
 
 ## VIDEO
 
-- [Video Format](https://wiki.ubuntu.com/UbuntuStudio/VideoFormat) - How to make Ubuntu Studio video-tutorials
+- [Video Format](../VideoFormat) - How to make Ubuntu Studio video-tutorials
 
-[Video Format](https://wiki.ubuntu.com/UbuntuStudio/VideoFormat) - How to make Ubuntu Studio video-tutorials
+[Video Format](../VideoFormat) - How to make Ubuntu Studio video-tutorials
 
 ## PHOTOGRAPHY
 

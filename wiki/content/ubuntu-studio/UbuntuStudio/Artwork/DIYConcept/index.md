@@ -2,32 +2,32 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept
 
-## [DIYConcept](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept)
+## [DIYConcept](index)
 
-This page reflects the current work in progress Ubuntu Studio 8.04 artwork. If you're a user who would like to post your art please do so in our [User Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserContributed) section. This page is for official 8.04 proposals. Please don't edit until I remove this message.
+This page reflects the current work in progress Ubuntu Studio 8.04 artwork. If you're a user who would like to post your art please do so in our [User Art](../UserContributed) section. This page is for official 8.04 proposals. Please don't edit until I remove this message.
 
 | Contents Concept Examples General Rules/Guidelines Look N' Feel Logo Color Palette Theme Elements MISC Getting Involved & Contacts Contacts |
 | --- |
 
 Contents
 
-1. [Concept](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Concept) [Examples](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Examples)
-2. [General Rules/Guidelines](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#General_Rules.2FGuidelines)
-3. [Look N' Feel](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Look_N.27_Feel) [Logo](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Logo) [Color Palette](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Color_Palette) [Theme Elements](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Theme_Elements) [MISC](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#MISC)
-4. [Getting Involved & Contacts](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Getting_Involved_.26_Contacts) [Contacts](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Contacts)
+1. [Concept](index#Concept) [Examples](index#Examples)
+2. [General Rules/Guidelines](index#General_Rules.2FGuidelines)
+3. [Look N' Feel](index#Look_N.27_Feel) [Logo](index#Logo) [Color Palette](index#Color_Palette) [Theme Elements](index#Theme_Elements) [MISC](index#MISC)
+4. [Getting Involved & Contacts](index#Getting_Involved_.26_Contacts) [Contacts](index#Contacts)
 
-1. [Examples](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Examples)
+1. [Examples](index#Examples)
 
-1. [Logo](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Logo) [Color Palette](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Color_Palette)
-2. [Theme Elements](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Theme_Elements)
-3. [MISC](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#MISC)
+1. [Logo](index#Logo) [Color Palette](index#Color_Palette)
+2. [Theme Elements](index#Theme_Elements)
+3. [MISC](index#MISC)
 
-1. [Logo](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Logo)
-2. [Color Palette](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Color_Palette)
+1. [Logo](index#Logo)
+2. [Color Palette](index#Color_Palette)
 
-1. [Contacts](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Contacts)
+1. [Contacts](index#Contacts)
 
-1. [Contacts](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept#Contacts)
+1. [Contacts](index#Contacts)
 
 With the Hardy version of Ubuntu Studio we're hoping to really do something different. This is a idea we couldn't quite do justice with for Gutsy so we decided to wait and open it up to everyone for Hardy. ![Smile :)](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_smile.png/icon_smile.png)
 
@@ -104,39 +104,39 @@ I'm looking to add 2 or 3 colors to use along with the blue. Here is a "paired d
 
 ## Theme Elements
 
-- [Install Splash](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/InstallSplash)
-- [Usplash](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Usplash)
-- [GDM](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/GDM)
-- [Wallpaper](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Wallpaper)
-- [Theme](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Theme)
-- [Icons](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Icons)
-- [UI Ideas](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/UI)
+- [Install Splash](InstallSplash)
+- [Usplash](Usplash)
+- [GDM](GDM)
+- [Wallpaper](Wallpaper)
+- [Theme](Theme)
+- [Icons](Icons)
+- [UI Ideas](UI)
 - Cursor - This will be set to "[DMZ-Black](http://jimmac.musichall.cz/themes.php?skin=7)" using the dmx-cursor-theme package.
 
-[Install Splash](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/InstallSplash)
+[Install Splash](InstallSplash)
 
-[Usplash](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Usplash)
+[Usplash](Usplash)
 
-[GDM](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/GDM)
+[GDM](GDM)
 
-[Wallpaper](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Wallpaper)
+[Wallpaper](Wallpaper)
 
-[Theme](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Theme)
+[Theme](Theme)
 
-[Icons](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Icons)
+[Icons](Icons)
 
-[UI Ideas](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/UI)
+[UI Ideas](UI)
 
 Cursor - This will be set to "[DMZ-Black](http://jimmac.musichall.cz/themes.php?skin=7)" using the dmx-cursor-theme package.
 
 ## MISC
 
-- [DIY Packaging/Marketing](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/DIYPackagingMarketing)
-- [Website](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Website)(updated)
+- [DIY Packaging/Marketing](DIYPackagingMarketing)
+- [Website](Website)(updated)
 
-[DIY Packaging/Marketing](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/DIYPackagingMarketing)
+[DIY Packaging/Marketing](DIYPackagingMarketing)
 
-[Website](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Website)(updated)
+[Website](Website)(updated)
 
 # Getting Involved & Contacts
 

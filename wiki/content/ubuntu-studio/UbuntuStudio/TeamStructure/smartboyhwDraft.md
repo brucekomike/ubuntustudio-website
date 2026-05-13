@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TeamStructure/smartboyhwDraft
 
-## [smartboyhwDraft](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure/smartboyhwDraft)
+## [smartboyhwDraft](smartboyhwDraft)
 
 This page is the official structure for the Ubuntu Studio team. It will reflect the current state of the team and clearly define the roles of each member. It is to be used as a reference for current and new members.
 

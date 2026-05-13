@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/resources
 
-## [resources](https://wiki.ubuntu.com/UbuntuStudio/resources)
+## [resources](resources)
 
-[../UbuntuStudio/video-settings](https://wiki.ubuntu.com/UbuntuStudio/video-settings)
+[../UbuntuStudio/video-settings](video-settings)
 
 ## Random Links
 

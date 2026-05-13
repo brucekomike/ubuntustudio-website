@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/VividVervet/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/VividVervet/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # Changes for 15.04
 

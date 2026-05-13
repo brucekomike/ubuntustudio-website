@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/TrustyTahr/ReleaseNotes/Ja/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/TrustyTahr/ReleaseNotes/Ja/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # サポート期間
 

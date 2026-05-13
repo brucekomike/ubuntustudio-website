@@ -2,30 +2,30 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing
 
-## [Testing](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing)
+## [Testing](Testing)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 During the testing period we try to find any bugs so we have time to fix them before release.
 
@@ -39,11 +39,11 @@ During the testing period we try to find any bugs so we have time to fix them be
 
 week 17-20
 
-[Application Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ApplicationTesting): We do all of our [test cases](https://wiki.ubuntu.com/UbuntuStudio/Testing/Testcases) here, well before Final Beta Freeze, so that we have time to fix any bugs we find.
+[Application Testing](../Testing/ApplicationTesting): We do all of our [test cases](../Testing/Testcases) here, well before Final Beta Freeze, so that we have time to fix any bugs we find.
 
 week 21-25
 
-[Application Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ApplicationTesting): Follow up testing of updated packages
+[Application Testing](../Testing/ApplicationTesting): Follow up testing of updated packages
 
 ### ISO Testing
 
@@ -54,15 +54,15 @@ week 21-25
 
 week 18
 
-[ISO Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting): Beta 1
+[ISO Testing](../Testing/ISOTesting): Beta 1
 
 week 22
 
-[ISO Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting): Final Beta
+[ISO Testing](../Testing/ISOTesting): Final Beta
 
 week 25
 
-[ISO Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting): Release Canidate
+[ISO Testing](../Testing/ISOTesting): Release Canidate
 
 ### Kernel Testing
 
@@ -72,10 +72,10 @@ week 25
 
 week 11-23
 
-[Kernel Version Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/KernelTesting): Test each new kernel version
+[Kernel Version Testing](../Testing/KernelTesting): Test each new kernel version
 
 week 24
 
-[Kernel Final testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/KernelTesting): after [KernelFreeze](https://wiki.ubuntu.com/KernelFreeze)
+[Kernel Final testing](../Testing/KernelTesting): after [KernelFreeze](https://wiki.ubuntu.com/KernelFreeze)
 
 UbuntuStudio/DevEvents/Testing (last edited 2015-04-26 15:05:16 by h-141-65)

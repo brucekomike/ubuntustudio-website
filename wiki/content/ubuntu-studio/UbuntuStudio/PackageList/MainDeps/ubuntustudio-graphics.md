@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-graphics
 
-## [ubuntustudio-graphics](https://wiki.ubuntu.com/UbuntuStudio/PackageList/MainDeps/ubuntustudio-graphics)
+## [ubuntustudio-graphics](ubuntustudio-graphics)
 
 ```
 ===Package : blender===

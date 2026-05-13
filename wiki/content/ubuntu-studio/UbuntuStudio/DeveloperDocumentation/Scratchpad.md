@@ -2,35 +2,35 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad
 
-## [Scratchpad](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad)
+## [Scratchpad](Scratchpad)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
 | --- |
 
-**-- [Developer](https://wiki.ubuntu.com/UbuntuStudio/Development) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/DevSideBar?action=edit&editor=text))** **Team Pages** - [Bugs Team](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeamPage) - [Contributor Team](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeamPage) - [Core Team](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage) - [Dev Team](https://wiki.ubuntu.com/UbuntuStudio/DevTeamPage) - [Kernel Team](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamPage) - [Release Team](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeamPage) - [Testing Team](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage) **[Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy)** - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) **[UbuntuStudio/Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging)** [Needs Packaging](https://wiki.ubuntu.com/UbuntuStudio/NeedsPackaging) **[Developer Documentation](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)** - [Setup Dev Environment](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment) - [Bzr Cheat Sheet](https://wiki.ubuntu.com/UbuntuStudio/Bzr) - [Bug Management](https://wiki.ubuntu.com/UbuntuStudio/BugManagement) - [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging) -- [Ubuntu Studio Package Maintenance](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackageMaintenance) -- [Uploading Packages (to the archive)](https://wiki.ubuntu.com/UbuntuStudio/Packaging/UploadingPackages) - [Backports](https://wiki.ubuntu.com/UbuntuStudio/Backports) - [Stable Release Updates (SRU)](https://wiki.ubuntu.com/UbuntuStudio/StableReleaseUpdates) - [Seed Management](https://wiki.ubuntu.com/UbuntuStudio/Seeds) - [Uploading to PPA](https://wiki.ubuntu.com/UbuntuStudio/UploadingToPPA) - [Applying Patches](https://wiki.ubuntu.com/UbuntuStudio/PatchingSourcePackages) - [Deb Diff](https://wiki.ubuntu.com/UbuntuStudio/DebDiff) - [Setup Local ISO Build Server](https://wiki.ubuntu.com/UbuntuStudio/SetupLocalIsoBuildServer) - [All About ISOs](https://wiki.ubuntu.com/UbuntuStudio/AllAboutISOs) - [Kernel Maintenance](https://wiki.ubuntu.com/UbuntuStudio/KernelMaintenance) - [Ubiquity - the live installer](https://wiki.ubuntu.com/UbuntuStudio/Ubiquity) **[Developer Tutorials](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample) **[Workflows](https://wiki.ubuntu.com/UbuntuStudio/Workflows)** - [Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio) - [Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video) - [Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics) - [Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography) - [Publishing](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Publishing) **[Workflow Categories](https://wiki.ubuntu.com/UbuntuStudio/WorkflowCategories)** **[Freedesktop Categories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories)** **[Deb Tags](https://wiki.ubuntu.com/UbuntuStudio/Debtags)** **[Ubuntu Studio Packages](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](https://wiki.ubuntu.com/UbuntuStudio/LaunchpadProjects)** **Reference** - [Terminology](https://wiki.ubuntu.com/UbuntuStudio/Terminology)
+**-- [Developer](../Development) Side Bar -- ([Edit](../Navigation/DevSideBar))** **Team Pages** - [Bugs Team](../UbuntuStudioBugsTeamPage) - [Contributor Team](../ContributorTeamPage) - [Core Team](../CoreTeamPage) - [Dev Team](../DevTeamPage) - [Kernel Team](../KernelTeamPage) - [Release Team](../ReleaseTeamPage) - [Testing Team](../TestingTeamPage) **[Ubuntu Studio Policy](../Policy)** - [Project Lead Vote](../ProjectLeadVote) **[UbuntuStudio/Packaging](../Packaging)** [Needs Packaging](../NeedsPackaging) **[Developer Documentation](index)** - [Setup Dev Environment](../SetupDeveloperEnvironment) - [Bzr Cheat Sheet](../Bzr) - [Bug Management](../BugManagement) - [Packaging](../Packaging) -- [Ubuntu Studio Package Maintenance](../Packaging/UploadingPackages) -- [Uploading Packages (to the archive)](../Packaging/UploadingPackages) - [Backports](../Backports) - [Stable Release Updates (SRU)](../StableReleaseUpdates) - [Seed Management](../PackageSelectionDevelopment) - [Uploading to PPA](../Packaging/UploadingPackages) - [Applying Patches](../PatchingSourcePackages) - [Deb Diff](../DebDiff) - [Setup Local ISO Build Server](../SetupLocalIsoBuildServer) - [All About ISOs](../AllAboutISOs) - [Kernel Maintenance](../KernelMaintenance) - [Ubiquity - the live installer](../Ubiquity) **[Developer Tutorials](../DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](../DeveloperTutorials/SimpleBugFixExample) **[Workflows](../Workflows)** - [Audio](../Workflows/Audio) - [Video](../Workflows/Video) - [Graphics](../Workflows/Graphics) - [Photography](../Workflows/Photography) - [Publishing](../Workflows/Publishing) **[Workflow Categories](../WorkflowCategories)** **[Freedesktop Categories](../FreedesktopCategories)** **[Deb Tags](../Debtags)** **[Ubuntu Studio Packages](../UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](../LaunchpadProjects)** **Reference** - [Terminology](../Terminology)
 
 # All About Ubuntu Flavor Development
 
@@ -44,43 +44,43 @@ Not all of this might be interesting to you, depending on what you intend to do,
 
 Contents
 
-1. [All About Ubuntu Flavor Development](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#All_About_Ubuntu_Flavor_Development)
-2. [What Makes Up a Ubuntu Flavor Distribution/Operative System?](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#What_Makes_Up_a_Ubuntu_Flavor_Distribution.2FOperative_System.3F) [Package Repositories](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Package_Repositories) [Seeds](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Seeds) [Task Installs (correct term?)](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Task_Installs_.28correct_term.3F.29) [The Meta Package Source](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#The_Meta_Package_Source) [Default Settings and Other Custom Packages](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Default_Settings_and_Other_Custom_Packages) [The ISO Installer](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#The_ISO_Installer)
-3. [Where to begin?](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Where_to_begin.3F) [Install The Development Release](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Install_The_Development_Release) [Set up a Launchpad Account](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Set_up_a_Launchpad_Account) [Set up basic dev tools](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Set_up_basic_dev_tools)
-4. [Planning - Blueprints](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Planning_-_Blueprints)
-5. [Testing/QA - Quality Assurance](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Testing.2FQA_-_Quality_Assurance) [Testing ISOs](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Testing_ISOs) [Other Forms of Testing](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Other_Forms_of_Testing) [Newly Uploaded Packages - Set Up Notification](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Newly_Uploaded_Packages_-_Set_Up_Notification) [Autopilot Testing](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Autopilot_Testing) [UTAH Testing](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#UTAH_Testing)
-6. [Updates](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Updates) [Backports](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Backports) [Stable Release Updates](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Stable_Release_Updates)
-7. [Bug Management](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Bug_Management) [Setting up bug notification](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Setting_up_bug_notification) [Fixing bugs upstream](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Fixing_bugs_upstream)
-8. [Packaging](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Packaging)
-9. [Feature Development Strategy](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Feature_Development_Strategy)
-10. [Artwork](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Artwork)
-11. [Support, PR and User Interaction](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Support.2C_PR_and_User_Interaction)
-12. [Information on various Development Tools](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Information_on_various_Development_Tools)
+1. [All About Ubuntu Flavor Development](Scratchpad#All_About_Ubuntu_Flavor_Development)
+2. [What Makes Up a Ubuntu Flavor Distribution/Operative System?](Scratchpad#What_Makes_Up_a_Ubuntu_Flavor_Distribution.2FOperative_System.3F) [Package Repositories](Scratchpad#Package_Repositories) [Seeds](Scratchpad#Seeds) [Task Installs (correct term?)](Scratchpad#Task_Installs_.28correct_term.3F.29) [The Meta Package Source](Scratchpad#The_Meta_Package_Source) [Default Settings and Other Custom Packages](Scratchpad#Default_Settings_and_Other_Custom_Packages) [The ISO Installer](Scratchpad#The_ISO_Installer)
+3. [Where to begin?](Scratchpad#Where_to_begin.3F) [Install The Development Release](Scratchpad#Install_The_Development_Release) [Set up a Launchpad Account](Scratchpad#Set_up_a_Launchpad_Account) [Set up basic dev tools](Scratchpad#Set_up_basic_dev_tools)
+4. [Planning - Blueprints](Scratchpad#Planning_-_Blueprints)
+5. [Testing/QA - Quality Assurance](Scratchpad#Testing.2FQA_-_Quality_Assurance) [Testing ISOs](Scratchpad#Testing_ISOs) [Other Forms of Testing](Scratchpad#Other_Forms_of_Testing) [Newly Uploaded Packages - Set Up Notification](Scratchpad#Newly_Uploaded_Packages_-_Set_Up_Notification) [Autopilot Testing](Scratchpad#Autopilot_Testing) [UTAH Testing](Scratchpad#UTAH_Testing)
+6. [Updates](Scratchpad#Updates) [Backports](Scratchpad#Backports) [Stable Release Updates](Scratchpad#Stable_Release_Updates)
+7. [Bug Management](Scratchpad#Bug_Management) [Setting up bug notification](Scratchpad#Setting_up_bug_notification) [Fixing bugs upstream](Scratchpad#Fixing_bugs_upstream)
+8. [Packaging](Scratchpad#Packaging)
+9. [Feature Development Strategy](Scratchpad#Feature_Development_Strategy)
+10. [Artwork](Scratchpad#Artwork)
+11. [Support, PR and User Interaction](Scratchpad#Support.2C_PR_and_User_Interaction)
+12. [Information on various Development Tools](Scratchpad#Information_on_various_Development_Tools)
 
-1. [Package Repositories](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Package_Repositories)
-2. [Seeds](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Seeds) [Task Installs (correct term?)](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Task_Installs_.28correct_term.3F.29)
-3. [The Meta Package Source](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#The_Meta_Package_Source)
-4. [Default Settings and Other Custom Packages](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Default_Settings_and_Other_Custom_Packages)
-5. [The ISO Installer](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#The_ISO_Installer)
+1. [Package Repositories](Scratchpad#Package_Repositories)
+2. [Seeds](Scratchpad#Seeds) [Task Installs (correct term?)](Scratchpad#Task_Installs_.28correct_term.3F.29)
+3. [The Meta Package Source](Scratchpad#The_Meta_Package_Source)
+4. [Default Settings and Other Custom Packages](Scratchpad#Default_Settings_and_Other_Custom_Packages)
+5. [The ISO Installer](Scratchpad#The_ISO_Installer)
 
-1. [Task Installs (correct term?)](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Task_Installs_.28correct_term.3F.29)
+1. [Task Installs (correct term?)](Scratchpad#Task_Installs_.28correct_term.3F.29)
 
-1. [Install The Development Release](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Install_The_Development_Release)
-2. [Set up a Launchpad Account](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Set_up_a_Launchpad_Account)
-3. [Set up basic dev tools](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Set_up_basic_dev_tools)
+1. [Install The Development Release](Scratchpad#Install_The_Development_Release)
+2. [Set up a Launchpad Account](Scratchpad#Set_up_a_Launchpad_Account)
+3. [Set up basic dev tools](Scratchpad#Set_up_basic_dev_tools)
 
-1. [Testing ISOs](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Testing_ISOs)
-2. [Other Forms of Testing](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Other_Forms_of_Testing) [Newly Uploaded Packages - Set Up Notification](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Newly_Uploaded_Packages_-_Set_Up_Notification) [Autopilot Testing](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Autopilot_Testing) [UTAH Testing](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#UTAH_Testing)
+1. [Testing ISOs](Scratchpad#Testing_ISOs)
+2. [Other Forms of Testing](Scratchpad#Other_Forms_of_Testing) [Newly Uploaded Packages - Set Up Notification](Scratchpad#Newly_Uploaded_Packages_-_Set_Up_Notification) [Autopilot Testing](Scratchpad#Autopilot_Testing) [UTAH Testing](Scratchpad#UTAH_Testing)
 
-1. [Newly Uploaded Packages - Set Up Notification](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Newly_Uploaded_Packages_-_Set_Up_Notification)
-2. [Autopilot Testing](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Autopilot_Testing)
-3. [UTAH Testing](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#UTAH_Testing)
+1. [Newly Uploaded Packages - Set Up Notification](Scratchpad#Newly_Uploaded_Packages_-_Set_Up_Notification)
+2. [Autopilot Testing](Scratchpad#Autopilot_Testing)
+3. [UTAH Testing](Scratchpad#UTAH_Testing)
 
-1. [Backports](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Backports)
-2. [Stable Release Updates](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Stable_Release_Updates)
+1. [Backports](Scratchpad#Backports)
+2. [Stable Release Updates](Scratchpad#Stable_Release_Updates)
 
-1. [Setting up bug notification](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Setting_up_bug_notification)
-2. [Fixing bugs upstream](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation/Scratchpad#Fixing_bugs_upstream)
+1. [Setting up bug notification](Scratchpad#Setting_up_bug_notification)
+2. [Fixing bugs upstream](Scratchpad#Fixing_bugs_upstream)
 
 # What Makes Up a Ubuntu Flavor Distribution/Operative System?
 

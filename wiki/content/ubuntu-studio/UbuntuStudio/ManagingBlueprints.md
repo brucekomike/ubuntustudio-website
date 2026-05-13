@@ -2,56 +2,56 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints
 
-## [ManagingBlueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints)
+## [ManagingBlueprints](ManagingBlueprints)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 Contents
 
-1. [Registering a blueprint for a Ubuntu Studio project](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints#Registering_a_blueprint_for_a_Ubuntu_Studio_project)
-2. [Workitems](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints#Workitems)
-3. [Managing a blueprint from beginning to end (~ubuntustudio-core)](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints#Managing_a_blueprint_from_beginning_to_end_.28.2BAH4-ubuntustudio-core.29)
-4. [Dependency structure for the Ubuntu Studio topic blueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints#Dependency_structure_for_the_Ubuntu_Studio_topic_blueprints)
+1. [Registering a blueprint for a Ubuntu Studio project](ManagingBlueprints#Registering_a_blueprint_for_a_Ubuntu_Studio_project)
+2. [Workitems](ManagingBlueprints#Workitems)
+3. [Managing a blueprint from beginning to end (~ubuntustudio-core)](ManagingBlueprints#Managing_a_blueprint_from_beginning_to_end_.28.2BAH4-ubuntustudio-core.29)
+4. [Dependency structure for the Ubuntu Studio topic blueprints](ManagingBlueprints#Dependency_structure_for_the_Ubuntu_Studio_topic_blueprints)
 
 # Registering a blueprint for a Ubuntu Studio project
 
 - Register the blueprint within the project it is for. For example, blueprints for [linux-lowlatency](https://launchpad.net/linux-lowlatency) go [here](https://blueprints.launchpad.net/linux-lowlatency)
 - Use a name that makes sense. If the blueprint is targeted towards a specific release of Ubuntu Studio, one can simply name it something like "linux-lowlatency-t" to show that the blueprint is targeted towards the codename "T" release of Ubuntu Studio, but any name will do.
-- Write shortly about your plans on the *Whiteboard*, and add your workitems for the blueprint (see the [Workitems section](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints#Workitems) about how to create and manage workitems
+- Write shortly about your plans on the *Whiteboard*, and add your workitems for the blueprint (see the [Workitems section](ManagingBlueprints#Workitems) about how to create and manage workitems
 - Set **Approver** to [~ubuntustudio-core](https://launchpad.net/~ubuntustudio-core).
 - **Assignee** and **Drafter** should be the LP team that drives the correspondig LP project. For example: ~ubuntustudio-kernel should be assignee and drafter for linux-lowlatency.
-- Is the blueprint going to be targeted for a specific release of [Ubuntu Studio](https://launchpad.net/ubuntustudio)? If yes, then add it as a dependency to the correct "topic" blueprint in the [ubuntustudio launchpad project blueprints page](https://blueprints.launchpad.net/ubuntustudio). See the [this section](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints#Dependency_structure_for_the_Ubuntu_Studio_topic_blueprints) about the dependency structure for Ubuntu Studio topics.
+- Is the blueprint going to be targeted for a specific release of [Ubuntu Studio](https://launchpad.net/ubuntustudio)? If yes, then add it as a dependency to the correct "topic" blueprint in the [ubuntustudio launchpad project blueprints page](https://blueprints.launchpad.net/ubuntustudio). See the [this section](ManagingBlueprints#Dependency_structure_for_the_Ubuntu_Studio_topic_blueprints) about the dependency structure for Ubuntu Studio topics.
 
 Register the blueprint within the project it is for. For example, blueprints for [linux-lowlatency](https://launchpad.net/linux-lowlatency) go [here](https://blueprints.launchpad.net/linux-lowlatency)
 
-Write shortly about your plans on the *Whiteboard*, and add your workitems for the blueprint (see the [Workitems section](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints#Workitems) about how to create and manage workitems
+Write shortly about your plans on the *Whiteboard*, and add your workitems for the blueprint (see the [Workitems section](ManagingBlueprints#Workitems) about how to create and manage workitems
 
 Set **Approver** to [~ubuntustudio-core](https://launchpad.net/~ubuntustudio-core).
 
 **Assignee** and **Drafter** should be the LP team that drives the correspondig LP project. For example: ~ubuntustudio-kernel should be assignee and drafter for linux-lowlatency.
 
-Is the blueprint going to be targeted for a specific release of [Ubuntu Studio](https://launchpad.net/ubuntustudio)? If yes, then add it as a dependency to the correct "topic" blueprint in the [ubuntustudio launchpad project blueprints page](https://blueprints.launchpad.net/ubuntustudio). See the [this section](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints#Dependency_structure_for_the_Ubuntu_Studio_topic_blueprints) about the dependency structure for Ubuntu Studio topics.
+Is the blueprint going to be targeted for a specific release of [Ubuntu Studio](https://launchpad.net/ubuntustudio)? If yes, then add it as a dependency to the correct "topic" blueprint in the [ubuntustudio launchpad project blueprints page](https://blueprints.launchpad.net/ubuntustudio). See the [this section](ManagingBlueprints#Dependency_structure_for_the_Ubuntu_Studio_topic_blueprints) about the dependency structure for Ubuntu Studio topics.
 
 # Workitems
 

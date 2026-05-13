@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/MissionStatement
 
-## [MissionStatement](https://wiki.ubuntu.com/UbuntuStudio/MissionStatement)
+## [MissionStatement](MissionStatement)
 
 # Mission Statement - Draft 1
 

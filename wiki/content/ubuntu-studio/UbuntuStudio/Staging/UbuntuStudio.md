@@ -2,39 +2,39 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Staging/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio/Staging/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 |  | User Help Wiki |  | Developer Wiki |  | Community Links |
 | --- | --- | --- | --- | --- | --- |
 
 ![WikiEmblem.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Staging/Navigation/Header/WikiEmblem.png)
 
-**[User Help Wiki](https://help.ubuntu.com/community/UbuntuStudio)**
+**[User Help Wiki](../../../../../help)**
 
 ![WikiEmblem.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Staging/Navigation/Header/WikiEmblem.png)
 
-**[Developer Wiki](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Developer Wiki](..)**
 
 ![WikiEmblem.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Staging/Navigation/Header/WikiEmblem.png)
 
-**[Community Links](https://help.ubuntu.com/community/UbuntuStudio/communitylinks)**
+**[Community Links](communitylinks)**
 
 | Home | Testing | Documentation | PR & Support | Artwork | Developer/Contributor | Planning |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)**
+**[Testing](../TestingDocumentation)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Developer/Contributor](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)**
+**[Developer/Contributor](../DeveloperDocumentation)**
 
-**[Planning](https://wiki.ubuntu.com/UbuntuStudio/Planning)**
+**[Planning](../ReleasePlanning)**
 
 ---
 

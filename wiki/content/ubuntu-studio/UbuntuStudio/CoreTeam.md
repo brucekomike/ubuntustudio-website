@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/CoreTeam
 
-## [CoreTeam](https://wiki.ubuntu.com/UbuntuStudio/CoreTeam)
+## [CoreTeam](CoreTeam)
 
 | Task Description | Quality Assurance Leadership and overall last say |
 | --- | --- |
@@ -24,15 +24,15 @@ Quality Assurance Leadership and overall last say
 
 **Team Wiki**
 
-[Core Team Page](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage)
+[Core Team Page](CoreTeamPage)
 
 **Team Documentation**
 
-[Core Team Documentation](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamDocumentation)
+[Core Team Documentation](CoreTeamDocumentation)
 
 **Blueprint**
 
-See [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints)
+See [Blueprints](Blueprints)
 
 **Mail Lists**
 
@@ -44,7 +44,7 @@ See [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints)
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

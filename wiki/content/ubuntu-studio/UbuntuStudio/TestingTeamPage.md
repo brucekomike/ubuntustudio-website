@@ -2,35 +2,35 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage
 
-## [TestingTeamPage](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage)
+## [TestingTeamPage](TestingTeamPage)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Testing Sidebar -- ( edit ) Team Pages - Testing Team Page Testing Documentation - Application Testing .. Test Cases - ISO Testing - Performance Testing - Kernel Testing Desktop Environment Testing |
 | --- |
 
-** -- [Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/TestingSideBar?action=edit))** **Team Pages** - **[Testing Team Page](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage)** **[Testing Documentation](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)** - [Application Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ApplicationTesting) ..[Test Cases](https://wiki.ubuntu.com/UbuntuStudio/Testing/Testcases) - [ISO Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting) - [Performance Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/PerformanceTesting) - [Kernel Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing/KernelTesting) **[Desktop Environment Testing](https://wiki.ubuntu.com/UbuntuStudio/DesktopEnvironmentTesting)**
+** -- [Testing](Testing) Sidebar -- ([edit](Navigation/TestingSideBar))** **Team Pages** - **[Testing Team Page](TestingTeamPage)** **[Testing Documentation](TestingDocumentation)** - [Application Testing](Testing/ApplicationTesting) ..[Test Cases](Testing/Testcases) - [ISO Testing](Testing/ISOTesting) - [Performance Testing](Testing/PerformanceTesting) - [Kernel Testing](Testing/KernelTesting) **[Desktop Environment Testing](DesktopEnvironmentTesting)**
 
 # Ubuntu Studio Testing Team Landing Page
 
@@ -54,11 +54,11 @@ Primarily testing and QA insurance. May involve test development and writing doc
 
 **Team Landing Page**
 
-[Testing Team Page](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage)
+[Testing Team Page](TestingTeamPage)
 
 **Team Documentation**
 
-[Testing Team Documentation](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)
+[Testing Team Documentation](TestingDocumentation)
 
 **Blueprint**
 
@@ -74,7 +74,7 @@ Primarily testing and QA insurance. May involve test development and writing doc
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -110,12 +110,12 @@ The testing team is open, which means anyone is welcome to join.
 
 - Join the [~ubuntustudio-testing](https://launchpad.net/~ubuntustudio-testing) team to become automatically subscribed to the [Testing Blueprint](https://blueprints.launchpad.net/ubuntustudio/+spec/ubuntustudio-testing).
 - Subscribe to the two mail lists [ubuntu-studio-devel](https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-devel) and [ubuntustudio-testing](https://lists.ubuntu.com/mailman/listinfo/ubuntustudio-testing) to be up to date with discussion regarding testing and other things. It's also recommended to subscribe to the [ubuntu-studio-users](https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users) mail list.
-- Developers hang out on **#ubuntustudio-devel** at **irc.freenode.net**. Check in and say hi! (If you're new to IRC, check out this [Page](https://help.ubuntu.com/community/UbuntuStudio/IRC)).
+- Developers hang out on **#ubuntustudio-devel** at **irc.freenode.net**. Check in and say hi! (If you're new to IRC, check out this [Page](../../../../help/content/community/UbuntuStudio--IRC)).
 
 Join the [~ubuntustudio-testing](https://launchpad.net/~ubuntustudio-testing) team to become automatically subscribed to the [Testing Blueprint](https://blueprints.launchpad.net/ubuntustudio/+spec/ubuntustudio-testing).
 
 Subscribe to the two mail lists [ubuntu-studio-devel](https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-devel) and [ubuntustudio-testing](https://lists.ubuntu.com/mailman/listinfo/ubuntustudio-testing) to be up to date with discussion regarding testing and other things. It's also recommended to subscribe to the [ubuntu-studio-users](https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-users) mail list.
 
-Developers hang out on **#ubuntustudio-devel** at **irc.freenode.net**. Check in and say hi! (If you're new to IRC, check out this [Page](https://help.ubuntu.com/community/UbuntuStudio/IRC)).
+Developers hang out on **#ubuntustudio-devel** at **irc.freenode.net**. Check in and say hi! (If you're new to IRC, check out this [Page](../../../../help/content/community/UbuntuStudio--IRC)).
 
 UbuntuStudio/TestingTeamPage (last edited 2013-06-11 07:33:36 by 212)

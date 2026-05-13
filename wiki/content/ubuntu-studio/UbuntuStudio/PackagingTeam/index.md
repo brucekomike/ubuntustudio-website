@@ -2,11 +2,11 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackagingTeam
 
-## [PackagingTeam](https://wiki.ubuntu.com/UbuntuStudio/PackagingTeam)
+## [PackagingTeam](index)
 
 ## Ubuntu Studio Maintained Packages List
 
-[UbuntuStudio/MaintainedPackages](https://wiki.ubuntu.com/UbuntuStudio/MaintainedPackages) - A page with the packages the Ubuntu Studio packaging team maintains.
+[UbuntuStudio/MaintainedPackages](MaintainedPackages) - A page with the packages the Ubuntu Studio packaging team maintains.
 
 ## Ubuntu Studio "To Package" List
 

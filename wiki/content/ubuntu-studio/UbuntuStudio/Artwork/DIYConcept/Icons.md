@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Icons
 
-## [Icons](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Icons)
+## [Icons](Icons)
 
 ## Ubuntu Studio-Flat
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TestingTeam
 
-## [TestingTeam](https://wiki.ubuntu.com/UbuntuStudio/TestingTeam)
+## [TestingTeam](TestingTeam)
 
 | Task Description | Primarily testing and QA insurance. May involve test development and writing documentation. |
 | --- | --- |
@@ -24,11 +24,11 @@ Primarily testing and QA insurance. May involve test development and writing doc
 
 **Team Landing Page**
 
-[Testing Team Page](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage)
+[Testing Team Page](TestingTeamPage)
 
 **Team Documentation**
 
-[Testing Team Documentation](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)
+[Testing Team Documentation](TestingDocumentation)
 
 **Blueprint**
 
@@ -44,7 +44,7 @@ Primarily testing and QA insurance. May involve test development and writing doc
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/IntegrateWithReleaseTeam
 
-## [IntegrateWithReleaseTeam](https://wiki.ubuntu.com/UbuntuStudio/IntegrateWithReleaseTeam)
+## [IntegrateWithReleaseTeam](IntegrateWithReleaseTeam)
 
 # abstract
 
@@ -46,7 +46,7 @@ An example of a properly formatted whiteboard for work items see the [karmic des
 
 # integration
 
-the ubuntu studio team has a web page for preliminary release planning: [https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning)
+the ubuntu studio team has a web page for preliminary release planning: [UbuntuStudio/ReleasePlanning](ReleasePlanning)
 
 after the team has reviewed the scope of the preliminary release plan the group should form a consensus if the plan addresses required issues without being too large in scope to complete in a given cycle.
 

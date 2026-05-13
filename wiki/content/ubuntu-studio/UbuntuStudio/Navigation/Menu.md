@@ -2,26 +2,26 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Navigation/Menu
 
-## [Menu](https://wiki.ubuntu.com/UbuntuStudio/Navigation/Menu)
+## [Menu](Menu)
 
 ***
 
 | Home | Testing | Documentation | PR & Support | Artwork | Developer/Contributor | Planning |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)**
+**[Testing](../TestingDocumentation)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Developer/Contributor](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)**
+**[Developer/Contributor](../DeveloperDocumentation)**
 
-**[Planning](https://wiki.ubuntu.com/UbuntuStudio/Planning)**
+**[Planning](../ReleasePlanning)**
 
 ***
 

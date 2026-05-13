@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/BlueprintsA
 
-## [BlueprintsA](https://wiki.ubuntu.com/UbuntuStudio/BlueprintsA)
+## [BlueprintsA](BlueprintsA)
 
 **Blueprints for Ubuntu Studio 17.10 "A"**
 

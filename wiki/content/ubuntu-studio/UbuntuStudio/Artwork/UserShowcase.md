@@ -2,55 +2,55 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase
 
-## [UserShowcase](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase)
+## [UserShowcase](UserShowcase)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](index)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Artwork -- ( edit ) Team Pages - Art Team Page - Website Team Page Ubuntu Studio Artwork - User Show Case - Official 13.10 S Art -- S blueprint - Official 14.04 T Art -- T blueprint - Official 16.04 T Art |
 | --- |
 
-**-- [Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork) -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/ArtSideBar?action=edit))** **Team Pages** - [Art Team Page](https://wiki.ubuntu.com/UbuntuStudio/ArtTeamPage) - [Website Team Page](https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeamPage) **[Ubuntu Studio Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)** - [User Show Case](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase) - [Official 13.10 S Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1310) -- [S blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-s-artwork) - [Official 14.04 T Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1404) -- [T blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-t-artwork) - [Official 16.04 T Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialXenial)
+**-- [Artwork](index) -- ([edit](../Navigation/ArtSideBar))** **Team Pages** - [Art Team Page](../ArtTeamPage) - [Website Team Page](../WebsiteTeamPage) **[Ubuntu Studio Artwork](index)** - [User Show Case](UserShowcase) - [Official 13.10 S Art](Official1310) -- [S blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-s-artwork) - [Official 14.04 T Art](Official1404) -- [T blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-t-artwork) - [Official 16.04 T Art](OfficialXenial)
 
 Contents
 
-1. [WELCOME](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#WELCOME)
-2. [Ubuntu Studio 20.04 LTS Wallpaper Contest](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Ubuntu_Studio_20.04_LTS_Wallpaper_Contest) [Contest Schedule](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Contest_Schedule) [Entry Submission](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Entry_Submission)
-3. [Design Guidelines & Resources](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Design_Guidelines_.26_Resources) [File Formats](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#File_Formats) [Templates](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Templates) [Ubuntu Studio Color Samples](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Ubuntu_Studio_Color_Samples) [Ubuntu Studio Official Logo](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Ubuntu_Studio_Official_Logo) [Ubuntu Studio Wordmarks](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Ubuntu_Studio_Wordmarks) [Ubuntu Studio Circles](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Ubuntu_Studio_Circles) [Content Rules](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Content_Rules) [Composition](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Composition) [Constraints](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Constraints) [Screen Resolution and Aspect Ratio](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Screen_Resolution_and_Aspect_Ratio)
+1. [WELCOME](UserShowcase#WELCOME)
+2. [Ubuntu Studio 20.04 LTS Wallpaper Contest](UserShowcase#Ubuntu_Studio_20.04_LTS_Wallpaper_Contest) [Contest Schedule](UserShowcase#Contest_Schedule) [Entry Submission](UserShowcase#Entry_Submission)
+3. [Design Guidelines & Resources](UserShowcase#Design_Guidelines_.26_Resources) [File Formats](UserShowcase#File_Formats) [Templates](UserShowcase#Templates) [Ubuntu Studio Color Samples](UserShowcase#Ubuntu_Studio_Color_Samples) [Ubuntu Studio Official Logo](UserShowcase#Ubuntu_Studio_Official_Logo) [Ubuntu Studio Wordmarks](UserShowcase#Ubuntu_Studio_Wordmarks) [Ubuntu Studio Circles](UserShowcase#Ubuntu_Studio_Circles) [Content Rules](UserShowcase#Content_Rules) [Composition](UserShowcase#Composition) [Constraints](UserShowcase#Constraints) [Screen Resolution and Aspect Ratio](UserShowcase#Screen_Resolution_and_Aspect_Ratio)
 
-1. [Contest Schedule](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Contest_Schedule)
-2. [Entry Submission](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Entry_Submission)
+1. [Contest Schedule](UserShowcase#Contest_Schedule)
+2. [Entry Submission](UserShowcase#Entry_Submission)
 
-1. [File Formats](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#File_Formats)
-2. [Templates](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Templates)
-3. [Ubuntu Studio Color Samples](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Ubuntu_Studio_Color_Samples)
-4. [Ubuntu Studio Official Logo](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Ubuntu_Studio_Official_Logo)
-5. [Ubuntu Studio Wordmarks](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Ubuntu_Studio_Wordmarks)
-6. [Ubuntu Studio Circles](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Ubuntu_Studio_Circles)
-7. [Content Rules](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Content_Rules)
-8. [Composition](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Composition)
-9. [Constraints](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Constraints)
-10. [Screen Resolution and Aspect Ratio](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase#Screen_Resolution_and_Aspect_Ratio)
+1. [File Formats](UserShowcase#File_Formats)
+2. [Templates](UserShowcase#Templates)
+3. [Ubuntu Studio Color Samples](UserShowcase#Ubuntu_Studio_Color_Samples)
+4. [Ubuntu Studio Official Logo](UserShowcase#Ubuntu_Studio_Official_Logo)
+5. [Ubuntu Studio Wordmarks](UserShowcase#Ubuntu_Studio_Wordmarks)
+6. [Ubuntu Studio Circles](UserShowcase#Ubuntu_Studio_Circles)
+7. [Content Rules](UserShowcase#Content_Rules)
+8. [Composition](UserShowcase#Composition)
+9. [Constraints](UserShowcase#Constraints)
+10. [Screen Resolution and Aspect Ratio](UserShowcase#Screen_Resolution_and_Aspect_Ratio)
 
 # WELCOME
 
@@ -66,7 +66,7 @@ Ubuntu Studio 20.04 LTS will be officially released on April 23, 2020. The Ubunt
 
 If you are enjoying Ubuntu, Ubuntu Budgie, Ubuntu Kylin, Ubuntu MATE, Kubuntu, Lubuntu, Xubuntu or Ubuntu Server we welcome your contributions as well!
 
-If you are interested, take a look at the [[https://wiki.ubuntu.com/UbuntuStudio/Artwork/CosmicWallpaperWinners|Wallpaper](https://wiki.ubuntu.com/UbuntuStudio/Artwork/CosmicWallpaperWinners|Wallpaper) Contest Winners]] from the 18.10 wallpaper contest.
+If you are interested, take a look at the [[UbuntuStudio/Artwork/CosmicWallpaperWinners|Wallpaper](Artwork/CosmicWallpaperWinners) Contest Winners]] from the 18.10 wallpaper contest.
 
 Now, GET BUSY! Adapt! Build! Compose! Conceptualize! Design! Draft! Draw! Edit! Post-Process! Redesign! Render! Re-purpose! Shoot! **CREATE!** Show us what you can do with Ubuntu Studio's graphic design, video and photography tools!
 

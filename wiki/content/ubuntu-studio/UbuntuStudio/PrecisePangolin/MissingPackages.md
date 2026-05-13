@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PrecisePangolin/MissingPackages
 
-## [MissingPackages](https://wiki.ubuntu.com/UbuntuStudio/PrecisePangolin/MissingPackages)
+## [MissingPackages](MissingPackages)
 
 ** The Ubuntu Studio Precise Pangolin dev cycle analysis pages**
 

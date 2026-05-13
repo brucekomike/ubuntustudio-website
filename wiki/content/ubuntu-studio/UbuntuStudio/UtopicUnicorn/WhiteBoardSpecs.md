@@ -2,63 +2,63 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs
 
-## [WhiteBoardSpecs](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs)
+## [WhiteBoardSpecs](WhiteBoardSpecs)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 Contents
 
-1. [Core Topic](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Core_Topic) [rtprio, memlock and ffado privileges](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#rtprio.2C_memlock_and_ffado_privileges) [The Ubuntu Studio Desktop (ubuntustudio-desktop, and possible additions)](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#The_Ubuntu_Studio_Desktop_.28ubuntustudio-desktop.2C_and_possible_additions.29) [Package selection for ubuntustudio-{audio|video|graphics|photography|publishing}](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Package_selection_for_ubuntustudio-.7Baudio.7Cvideo.7Cgraphics.7Cphotography.7Cpublishing.7D) [Workflow Categorization for ubuntustudio-{audio|graphics|video|publishing|photography}](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Workflow_Categorization_for_ubuntustudio-.7Baudio.7Cgraphics.7Cvideo.7Cpublishing.7Cphotography.7D) [freedesktoop categories explained](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#freedesktoop_categories_explained) [debtags explained](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#debtags_explained) [ubuntustudio-audio-minimal](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntustudio-audio-minimal) [Linux RT](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Linux_RT) [ubuntu-live (ubiquity plugins)](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntu-live_.28ubiquity_plugins.29) [desktop-selection plugin](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#desktop-selection_plugin) [package-selection plugin](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#package-selection_plugin)
-2. [Documentation Topic](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Documentation_Topic) [User Documentation](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#User_Documentation) [Developer Documentation](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Developer_Documentation)
-3. [Art Topic](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Art_Topic) [Wallpaper contribution](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Wallpaper_contribution) [Thematic changes for 16.04](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Thematic_changes_for_16.04)
-4. [Testing Topic](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Testing_Topic)
-5. [Application Topic](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Application_Topic) [ubuntustudio-controls](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntustudio-controls) [ubuntustudio-installer](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntustudio-installer) [ubuntustudio-menu](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntustudio-menu)
-6. [Public Relations and Support Topic](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Public_Relations_and_Support_Topic)
+1. [Core Topic](WhiteBoardSpecs#Core_Topic) [rtprio, memlock and ffado privileges](WhiteBoardSpecs#rtprio.2C_memlock_and_ffado_privileges) [The Ubuntu Studio Desktop (ubuntustudio-desktop, and possible additions)](WhiteBoardSpecs#The_Ubuntu_Studio_Desktop_.28ubuntustudio-desktop.2C_and_possible_additions.29) [Package selection for ubuntustudio-{audio|video|graphics|photography|publishing}](WhiteBoardSpecs#Package_selection_for_ubuntustudio-.7Baudio.7Cvideo.7Cgraphics.7Cphotography.7Cpublishing.7D) [Workflow Categorization for ubuntustudio-{audio|graphics|video|publishing|photography}](WhiteBoardSpecs#Workflow_Categorization_for_ubuntustudio-.7Baudio.7Cgraphics.7Cvideo.7Cpublishing.7Cphotography.7D) [freedesktoop categories explained](WhiteBoardSpecs#freedesktoop_categories_explained) [debtags explained](WhiteBoardSpecs#debtags_explained) [ubuntustudio-audio-minimal](WhiteBoardSpecs#ubuntustudio-audio-minimal) [Linux RT](WhiteBoardSpecs#Linux_RT) [ubuntu-live (ubiquity plugins)](WhiteBoardSpecs#ubuntu-live_.28ubiquity_plugins.29) [desktop-selection plugin](WhiteBoardSpecs#desktop-selection_plugin) [package-selection plugin](WhiteBoardSpecs#package-selection_plugin)
+2. [Documentation Topic](WhiteBoardSpecs#Documentation_Topic) [User Documentation](WhiteBoardSpecs#User_Documentation) [Developer Documentation](WhiteBoardSpecs#Developer_Documentation)
+3. [Art Topic](WhiteBoardSpecs#Art_Topic) [Wallpaper contribution](WhiteBoardSpecs#Wallpaper_contribution) [Thematic changes for 16.04](WhiteBoardSpecs#Thematic_changes_for_16.04)
+4. [Testing Topic](WhiteBoardSpecs#Testing_Topic)
+5. [Application Topic](WhiteBoardSpecs#Application_Topic) [ubuntustudio-controls](WhiteBoardSpecs#ubuntustudio-controls) [ubuntustudio-installer](WhiteBoardSpecs#ubuntustudio-installer) [ubuntustudio-menu](WhiteBoardSpecs#ubuntustudio-menu)
+6. [Public Relations and Support Topic](WhiteBoardSpecs#Public_Relations_and_Support_Topic)
 
-1. [rtprio, memlock and ffado privileges](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#rtprio.2C_memlock_and_ffado_privileges)
-2. [The Ubuntu Studio Desktop (ubuntustudio-desktop, and possible additions)](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#The_Ubuntu_Studio_Desktop_.28ubuntustudio-desktop.2C_and_possible_additions.29)
-3. [Package selection for ubuntustudio-{audio|video|graphics|photography|publishing}](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Package_selection_for_ubuntustudio-.7Baudio.7Cvideo.7Cgraphics.7Cphotography.7Cpublishing.7D)
-4. [Workflow Categorization for ubuntustudio-{audio|graphics|video|publishing|photography}](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Workflow_Categorization_for_ubuntustudio-.7Baudio.7Cgraphics.7Cvideo.7Cpublishing.7Cphotography.7D) [freedesktoop categories explained](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#freedesktoop_categories_explained) [debtags explained](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#debtags_explained)
-5. [ubuntustudio-audio-minimal](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntustudio-audio-minimal)
-6. [Linux RT](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Linux_RT)
-7. [ubuntu-live (ubiquity plugins)](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntu-live_.28ubiquity_plugins.29) [desktop-selection plugin](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#desktop-selection_plugin) [package-selection plugin](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#package-selection_plugin)
+1. [rtprio, memlock and ffado privileges](WhiteBoardSpecs#rtprio.2C_memlock_and_ffado_privileges)
+2. [The Ubuntu Studio Desktop (ubuntustudio-desktop, and possible additions)](WhiteBoardSpecs#The_Ubuntu_Studio_Desktop_.28ubuntustudio-desktop.2C_and_possible_additions.29)
+3. [Package selection for ubuntustudio-{audio|video|graphics|photography|publishing}](WhiteBoardSpecs#Package_selection_for_ubuntustudio-.7Baudio.7Cvideo.7Cgraphics.7Cphotography.7Cpublishing.7D)
+4. [Workflow Categorization for ubuntustudio-{audio|graphics|video|publishing|photography}](WhiteBoardSpecs#Workflow_Categorization_for_ubuntustudio-.7Baudio.7Cgraphics.7Cvideo.7Cpublishing.7Cphotography.7D) [freedesktoop categories explained](WhiteBoardSpecs#freedesktoop_categories_explained) [debtags explained](WhiteBoardSpecs#debtags_explained)
+5. [ubuntustudio-audio-minimal](WhiteBoardSpecs#ubuntustudio-audio-minimal)
+6. [Linux RT](WhiteBoardSpecs#Linux_RT)
+7. [ubuntu-live (ubiquity plugins)](WhiteBoardSpecs#ubuntu-live_.28ubiquity_plugins.29) [desktop-selection plugin](WhiteBoardSpecs#desktop-selection_plugin) [package-selection plugin](WhiteBoardSpecs#package-selection_plugin)
 
-1. [freedesktoop categories explained](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#freedesktoop_categories_explained)
-2. [debtags explained](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#debtags_explained)
+1. [freedesktoop categories explained](WhiteBoardSpecs#freedesktoop_categories_explained)
+2. [debtags explained](WhiteBoardSpecs#debtags_explained)
 
-1. [desktop-selection plugin](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#desktop-selection_plugin)
-2. [package-selection plugin](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#package-selection_plugin)
+1. [desktop-selection plugin](WhiteBoardSpecs#desktop-selection_plugin)
+2. [package-selection plugin](WhiteBoardSpecs#package-selection_plugin)
 
-1. [User Documentation](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#User_Documentation)
-2. [Developer Documentation](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Developer_Documentation)
+1. [User Documentation](WhiteBoardSpecs#User_Documentation)
+2. [Developer Documentation](WhiteBoardSpecs#Developer_Documentation)
 
-1. [Wallpaper contribution](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Wallpaper_contribution)
-2. [Thematic changes for 16.04](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#Thematic_changes_for_16.04)
+1. [Wallpaper contribution](WhiteBoardSpecs#Wallpaper_contribution)
+2. [Thematic changes for 16.04](WhiteBoardSpecs#Thematic_changes_for_16.04)
 
-1. [ubuntustudio-controls](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntustudio-controls)
-2. [ubuntustudio-installer](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntustudio-installer)
-3. [ubuntustudio-menu](https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn/WhiteBoardSpecs#ubuntustudio-menu)
+1. [ubuntustudio-controls](WhiteBoardSpecs#ubuntustudio-controls)
+2. [ubuntustudio-installer](WhiteBoardSpecs#ubuntustudio-installer)
+3. [ubuntustudio-menu](WhiteBoardSpecs#ubuntustudio-menu)
 
 Feature Specification Planning for Ubuntu Studio 14.10
 
@@ -199,11 +199,11 @@ One possibility is simplify the plugin to only show selections for a few choices
 
 Things that we should do:
 
-- Written user documentation at [http://help.ubuntu.com/community/UbuntuStudio](http://help.ubuntu.com/community/UbuntuStudio)
+- Written user documentation at [UbuntuStudio](../../../../../help)
 - Tutorial videos at [https://www.youtube.com/channel/UC_mFIyCen9AF7a36WX5QD6g](https://www.youtube.com/channel/UC_mFIyCen9AF7a36WX5QD6g)
 - Links to the above, and a simple, friendly user guide with pictures at [http://ubuntustudio.org](http://ubuntustudio.org)
 
-Written user documentation at [http://help.ubuntu.com/community/UbuntuStudio](http://help.ubuntu.com/community/UbuntuStudio)
+Written user documentation at [UbuntuStudio](../../../../../help)
 
 Tutorial videos at [https://www.youtube.com/channel/UC_mFIyCen9AF7a36WX5QD6g](https://www.youtube.com/channel/UC_mFIyCen9AF7a36WX5QD6g)
 
@@ -213,7 +213,7 @@ So, if anyone is up to it, please join us in this effort.
 
 ## Developer Documentation
 
-I've been slowly working at creating some for of Ubuntu Studio developer documentation at [http://wiki.ubuntu.com/UbuntuStudio](http://wiki.ubuntu.com/UbuntuStudio). If anyone wants to assist in this, you are welcome.
+I've been slowly working at creating some for of Ubuntu Studio developer documentation at [UbuntuStudio](..). If anyone wants to assist in this, you are welcome.
 
 # Art Topic
 

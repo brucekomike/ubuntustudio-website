@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 | Home | Roadmap | News | Getting Involved | Derivatives | Knowledge Base | FAQ | Contacts | NEXT MEETING : soon 18.00 UTC ( details ) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -30,12 +30,12 @@ Source: https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio
 
 Contents
 
-1. [Introduction](https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio#Introduction)
-2. [Contact Information](https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio#Contact_Information)
-3. [Audience](https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio#Audience)
-4. [Mission](https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio#Mission)
-5. [Goals](https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio#Goals)
-6. [Collaboration Focuses](https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio#Collaboration_Focuses)
+1. [Introduction](UbuntuStudio#Introduction)
+2. [Contact Information](UbuntuStudio#Contact_Information)
+3. [Audience](UbuntuStudio#Audience)
+4. [Mission](UbuntuStudio#Mission)
+5. [Goals](UbuntuStudio#Goals)
+6. [Collaboration Focuses](UbuntuStudio#Collaboration_Focuses)
 
 # Introduction
 

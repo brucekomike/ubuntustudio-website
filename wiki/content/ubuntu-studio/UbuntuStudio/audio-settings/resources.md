@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/audio-settings/resources
 
-## [resources](https://wiki.ubuntu.com/UbuntuStudio/audio-settings/resources)
+## [resources](resources)
 
-[../UbuntuStudio/audio-settings](https://wiki.ubuntu.com/UbuntuStudio/audio-settings)
+[../UbuntuStudio/audio-settings](audio-settings)
 
 ## Links to pages of interests:
 

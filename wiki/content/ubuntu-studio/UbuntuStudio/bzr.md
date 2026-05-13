@@ -2,11 +2,11 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/bzr
 
-## [bzr](https://wiki.ubuntu.com/UbuntuStudio/bzr)
+## [bzr](bzr)
 
 # Six steps to using bzr
 
-To collaborate more effectively on [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) packages, it would be wise to push your packages to the bzr repository. Now, as long as in your package you specify a link to the .orig tarball, then all you need to push is your debian/ sub-directory, containing the package source. I will outline how to do this. You must have your SSH key published in Launchpad, but that is beyond the scope of this document.
+To collaborate more effectively on [UbuntuStudio](index) packages, it would be wise to push your packages to the bzr repository. Now, as long as in your package you specify a link to the .orig tarball, then all you need to push is your debian/ sub-directory, containing the package source. I will outline how to do this. You must have your SSH key published in Launchpad, but that is beyond the scope of this document.
 
 1. cd to your package source directory
 

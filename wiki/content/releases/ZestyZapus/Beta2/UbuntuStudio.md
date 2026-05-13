@@ -2,54 +2,54 @@
 
 Source: https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[Ubuntu Studio Help](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](../../../ubuntu-studio/UbuntuStudio)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[Ubuntu Studio Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](../../../ubuntu-studio/UbuntuStudio)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../../../ubuntu-studio/UbuntuStudio/Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../../../ubuntu-studio/UbuntuStudio/PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../../../ubuntu-studio/UbuntuStudio/Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../../../ubuntu-studio/UbuntuStudio/Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../../../ubuntu-studio/UbuntuStudio/Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../../../ubuntu-studio/UbuntuStudio/Organization)**
 
 | Contents Release Notes for Ubuntu Studio 17.04 Zesty Zapus Beta 2 Getting Ubuntu Studio Zesty Zapus (17.04) Beta 2 Download a Disk Image Check MD5SUM for the downloaded ISO Known Problems Additions and Changes General Audio Graphics Publishing Video Current Version Of Main Multimedia Packages Feedback Testing Ubuntu Studio Contact Us |
 | --- |
 
 Contents
 
-1. [Release Notes for Ubuntu Studio 17.04 Zesty Zapus Beta 2](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Release_Notes_for_Ubuntu_Studio_17.04_Zesty_Zapus_Beta_2)
-2. [Getting Ubuntu Studio Zesty Zapus (17.04) Beta 2](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Getting_Ubuntu_Studio_Zesty_Zapus_.2817.04.29_Beta_2) [Download a Disk Image](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Download_a_Disk_Image) [Check MD5SUM for the downloaded ISO](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Check_MD5SUM_for_the_downloaded_ISO)
-3. [Known Problems](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Known_Problems)
-4. [Additions and Changes](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Additions_and_Changes) [General](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#General) [Audio](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Audio) [Graphics](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Graphics) [Publishing](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Publishing) [Video](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Video)
-5. [Current Version Of Main Multimedia Packages](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Current_Version_Of_Main_Multimedia_Packages)
-6. [Feedback](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Feedback) [Testing Ubuntu Studio](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Testing_Ubuntu_Studio) [Contact Us](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Contact_Us)
+1. [Release Notes for Ubuntu Studio 17.04 Zesty Zapus Beta 2](UbuntuStudio#Release_Notes_for_Ubuntu_Studio_17.04_Zesty_Zapus_Beta_2)
+2. [Getting Ubuntu Studio Zesty Zapus (17.04) Beta 2](UbuntuStudio#Getting_Ubuntu_Studio_Zesty_Zapus_.2817.04.29_Beta_2) [Download a Disk Image](UbuntuStudio#Download_a_Disk_Image) [Check MD5SUM for the downloaded ISO](UbuntuStudio#Check_MD5SUM_for_the_downloaded_ISO)
+3. [Known Problems](UbuntuStudio#Known_Problems)
+4. [Additions and Changes](UbuntuStudio#Additions_and_Changes) [General](UbuntuStudio#General) [Audio](UbuntuStudio#Audio) [Graphics](UbuntuStudio#Graphics) [Publishing](UbuntuStudio#Publishing) [Video](UbuntuStudio#Video)
+5. [Current Version Of Main Multimedia Packages](UbuntuStudio#Current_Version_Of_Main_Multimedia_Packages)
+6. [Feedback](UbuntuStudio#Feedback) [Testing Ubuntu Studio](UbuntuStudio#Testing_Ubuntu_Studio) [Contact Us](UbuntuStudio#Contact_Us)
 
-1. [Download a Disk Image](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Download_a_Disk_Image)
-2. [Check MD5SUM for the downloaded ISO](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Check_MD5SUM_for_the_downloaded_ISO)
+1. [Download a Disk Image](UbuntuStudio#Download_a_Disk_Image)
+2. [Check MD5SUM for the downloaded ISO](UbuntuStudio#Check_MD5SUM_for_the_downloaded_ISO)
 
-1. [General](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#General)
-2. [Audio](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Audio)
-3. [Graphics](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Graphics)
-4. [Publishing](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Publishing)
-5. [Video](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Video)
+1. [General](UbuntuStudio#General)
+2. [Audio](UbuntuStudio#Audio)
+3. [Graphics](UbuntuStudio#Graphics)
+4. [Publishing](UbuntuStudio#Publishing)
+5. [Video](UbuntuStudio#Video)
 
-1. [Testing Ubuntu Studio](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Testing_Ubuntu_Studio)
-2. [Contact Us](https://wiki.ubuntu.com/ZestyZapus/Beta2/UbuntuStudio#Contact_Us)
+1. [Testing Ubuntu Studio](UbuntuStudio#Testing_Ubuntu_Studio)
+2. [Contact Us](UbuntuStudio#Contact_Us)
 
 # Release Notes for Ubuntu Studio 17.04 Zesty Zapus Beta 2
 
@@ -87,10 +87,10 @@ It is recommended to [check your image file](https://wiki.ubuntu.com/HowToMD5SUM
 
 # Known Problems
 
-- First entry of the boot-menu "Try [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
+- First entry of the boot-menu "Try [UbuntuStudio](../../../ubuntu-studio/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
 - Check Disc for Defects does not work in EFI mode ([752994](https://bugs.launchpad.net/bugs/752994))
 
-First entry of the boot-menu "Try [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
+First entry of the boot-menu "Try [UbuntuStudio](../../../ubuntu-studio/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
 
 Check Disc for Defects does not work in EFI mode ([752994](https://bugs.launchpad.net/bugs/752994))
 
@@ -137,10 +137,10 @@ I can be faster to update your previously downloaded image to the latest build u
 
 ## Testing Ubuntu Studio
 
-[More Information about Testing Ubuntu Studio is here](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)
+[More Information about Testing Ubuntu Studio is here](../../../ubuntu-studio/UbuntuStudio/TestingDocumentation)
 
 ## Contact Us
 
-[Ways to contact the Ubuntu Studio Team are here](https://wiki.ubuntu.com/UbuntuStudio)
+[Ways to contact the Ubuntu Studio Team are here](../../../ubuntu-studio/UbuntuStudio)
 
 ZestyZapus/Beta2/UbuntuStudio (last edited 2017-03-23 20:26:49 by [rosco2](https://launchpad.net/~rosco2))

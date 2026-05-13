@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning
 
-## [ReleasePlanning](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning)
+## [ReleasePlanning](ReleasePlanning)
 
 **Brainstorming page for upcoming Ubuntu Studio releases**
 
@@ -13,68 +13,68 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning
 
 Contents
 
-1. [Upcoming Releases](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Upcoming_Releases) [PRECISE (12.04)](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#PRECISE_.2812.04.29) [integrate with release team](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#integrate_with_release_team) [lowlatency kernel](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#lowlatency_kernel) [update theme/UI](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#update_theme.2FUI) [update website](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#update_website) [live dvd](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#live_dvd) [misc](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#misc) [documentation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#documentation) [continuing projects](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#continuing_projects) [-audio transition package](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-audio_transition_package) [PRECISE+1 (12.10)](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#PRECISE.2B-1_.2812.10.29) [live dvd](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#live_dvd-1) [misc](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#misc-1) [documentation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#documentation-1) [dock](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#dock) [community](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#community) [new user support](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#new_user_support) [Proposed Improvements](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Proposed_Improvements) [Ubuntu Studio Controls](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu_Studio_Controls) [User Help](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#User_Help) [Release Notes](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Release_Notes) [ubuntustudio-menu](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ubuntustudio-menu) [GTK Theme](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#GTK_Theme) [music me menu](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#music_me_menu) [Backports](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Backports) [Documentation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Documentation) [Testing Procedures](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Testing_Procedures)
-2. [Completed Releases](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Completed_Releases) [Oneiric Ocelot (11.10)](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Oneiric_Ocelot_.2811.10.29) [Desktop](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Desktop) [Desktop Environment](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Desktop_Environment) [Updated UI](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Updated_UI) [Dock](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Dock) [kernel](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#kernel) [-lowlatency kernel in repos](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-lowlatency_kernel_in_repos) [-irq threading](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-irq_threading) [Website Update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Website_Update) [Documentation Update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Documentation_Update) [Revised Package Selection](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Revised_Package_Selection) [ubuntustudio-controls update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ubuntustudio-controls_update) [update seeds](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#update_seeds) [audio plugins](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#audio_plugins) [ladish](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ladish) ["unknown ship package"](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A.22unknown_ship_package.22) [revised menu structure](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#revised_menu_structure) [Ubuntu Studio 11.04 Natty Narwhal](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu_Studio_11.04_Natty_Narwhal) [Revised Package Selection](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Revised_Package_Selection-1) [Revised Package Installation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Revised_Package_Installation) [Art](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Art) [Website Update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Website_Update-1) [Ubuntu Studio 10.04 Lucid Lynx](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu_Studio_10.04_Lucid_Lynx)
+1. [Upcoming Releases](ReleasePlanning#Upcoming_Releases) [PRECISE (12.04)](ReleasePlanning#PRECISE_.2812.04.29) [integrate with release team](ReleasePlanning#integrate_with_release_team) [lowlatency kernel](ReleasePlanning#lowlatency_kernel) [update theme/UI](ReleasePlanning#update_theme.2FUI) [update website](ReleasePlanning#update_website) [live dvd](ReleasePlanning#live_dvd) [misc](ReleasePlanning#misc) [documentation](ReleasePlanning#documentation) [continuing projects](ReleasePlanning#continuing_projects) [-audio transition package](ReleasePlanning#A-audio_transition_package) [PRECISE+1 (12.10)](ReleasePlanning#PRECISE.2B-1_.2812.10.29) [live dvd](ReleasePlanning#live_dvd-1) [misc](ReleasePlanning#misc-1) [documentation](ReleasePlanning#documentation-1) [dock](ReleasePlanning#dock) [community](ReleasePlanning#community) [new user support](ReleasePlanning#new_user_support) [Proposed Improvements](ReleasePlanning#Proposed_Improvements) [Ubuntu Studio Controls](ReleasePlanning#Ubuntu_Studio_Controls) [User Help](ReleasePlanning#User_Help) [Release Notes](ReleasePlanning#Release_Notes) [ubuntustudio-menu](ReleasePlanning#ubuntustudio-menu) [GTK Theme](ReleasePlanning#GTK_Theme) [music me menu](ReleasePlanning#music_me_menu) [Backports](ReleasePlanning#Backports) [Documentation](ReleasePlanning#Documentation) [Testing Procedures](ReleasePlanning#Testing_Procedures)
+2. [Completed Releases](ReleasePlanning#Completed_Releases) [Oneiric Ocelot (11.10)](ReleasePlanning#Oneiric_Ocelot_.2811.10.29) [Desktop](ReleasePlanning#Desktop) [Desktop Environment](ReleasePlanning#Desktop_Environment) [Updated UI](ReleasePlanning#Updated_UI) [Dock](ReleasePlanning#Dock) [kernel](ReleasePlanning#kernel) [-lowlatency kernel in repos](ReleasePlanning#A-lowlatency_kernel_in_repos) [-irq threading](ReleasePlanning#A-irq_threading) [Website Update](ReleasePlanning#Website_Update) [Documentation Update](ReleasePlanning#Documentation_Update) [Revised Package Selection](ReleasePlanning#Revised_Package_Selection) [ubuntustudio-controls update](ReleasePlanning#ubuntustudio-controls_update) [update seeds](ReleasePlanning#update_seeds) [audio plugins](ReleasePlanning#audio_plugins) [ladish](ReleasePlanning#ladish) ["unknown ship package"](ReleasePlanning#A.22unknown_ship_package.22) [revised menu structure](ReleasePlanning#revised_menu_structure) [Ubuntu Studio 11.04 Natty Narwhal](ReleasePlanning#Ubuntu_Studio_11.04_Natty_Narwhal) [Revised Package Selection](ReleasePlanning#Revised_Package_Selection-1) [Revised Package Installation](ReleasePlanning#Revised_Package_Installation) [Art](ReleasePlanning#Art) [Website Update](ReleasePlanning#Website_Update-1) [Ubuntu Studio 10.04 Lucid Lynx](ReleasePlanning#Ubuntu_Studio_10.04_Lucid_Lynx)
 
-1. [PRECISE (12.04)](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#PRECISE_.2812.04.29) [integrate with release team](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#integrate_with_release_team) [lowlatency kernel](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#lowlatency_kernel) [update theme/UI](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#update_theme.2FUI) [update website](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#update_website) [live dvd](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#live_dvd) [misc](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#misc) [documentation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#documentation) [continuing projects](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#continuing_projects) [-audio transition package](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-audio_transition_package)
-2. [PRECISE+1 (12.10)](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#PRECISE.2B-1_.2812.10.29) [live dvd](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#live_dvd-1) [misc](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#misc-1) [documentation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#documentation-1) [dock](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#dock) [community](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#community) [new user support](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#new_user_support)
-3. [Proposed Improvements](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Proposed_Improvements) [Ubuntu Studio Controls](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu_Studio_Controls) [User Help](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#User_Help) [Release Notes](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Release_Notes) [ubuntustudio-menu](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ubuntustudio-menu) [GTK Theme](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#GTK_Theme) [music me menu](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#music_me_menu) [Backports](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Backports) [Documentation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Documentation) [Testing Procedures](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Testing_Procedures)
+1. [PRECISE (12.04)](ReleasePlanning#PRECISE_.2812.04.29) [integrate with release team](ReleasePlanning#integrate_with_release_team) [lowlatency kernel](ReleasePlanning#lowlatency_kernel) [update theme/UI](ReleasePlanning#update_theme.2FUI) [update website](ReleasePlanning#update_website) [live dvd](ReleasePlanning#live_dvd) [misc](ReleasePlanning#misc) [documentation](ReleasePlanning#documentation) [continuing projects](ReleasePlanning#continuing_projects) [-audio transition package](ReleasePlanning#A-audio_transition_package)
+2. [PRECISE+1 (12.10)](ReleasePlanning#PRECISE.2B-1_.2812.10.29) [live dvd](ReleasePlanning#live_dvd-1) [misc](ReleasePlanning#misc-1) [documentation](ReleasePlanning#documentation-1) [dock](ReleasePlanning#dock) [community](ReleasePlanning#community) [new user support](ReleasePlanning#new_user_support)
+3. [Proposed Improvements](ReleasePlanning#Proposed_Improvements) [Ubuntu Studio Controls](ReleasePlanning#Ubuntu_Studio_Controls) [User Help](ReleasePlanning#User_Help) [Release Notes](ReleasePlanning#Release_Notes) [ubuntustudio-menu](ReleasePlanning#ubuntustudio-menu) [GTK Theme](ReleasePlanning#GTK_Theme) [music me menu](ReleasePlanning#music_me_menu) [Backports](ReleasePlanning#Backports) [Documentation](ReleasePlanning#Documentation) [Testing Procedures](ReleasePlanning#Testing_Procedures)
 
-1. [integrate with release team](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#integrate_with_release_team)
-2. [lowlatency kernel](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#lowlatency_kernel)
-3. [update theme/UI](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#update_theme.2FUI)
-4. [update website](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#update_website)
-5. [live dvd](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#live_dvd)
-6. [misc](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#misc)
-7. [documentation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#documentation)
-8. [continuing projects](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#continuing_projects)
-9. [-audio transition package](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-audio_transition_package)
+1. [integrate with release team](ReleasePlanning#integrate_with_release_team)
+2. [lowlatency kernel](ReleasePlanning#lowlatency_kernel)
+3. [update theme/UI](ReleasePlanning#update_theme.2FUI)
+4. [update website](ReleasePlanning#update_website)
+5. [live dvd](ReleasePlanning#live_dvd)
+6. [misc](ReleasePlanning#misc)
+7. [documentation](ReleasePlanning#documentation)
+8. [continuing projects](ReleasePlanning#continuing_projects)
+9. [-audio transition package](ReleasePlanning#A-audio_transition_package)
 
-1. [live dvd](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#live_dvd-1)
-2. [misc](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#misc-1)
-3. [documentation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#documentation-1)
-4. [dock](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#dock)
-5. [community](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#community)
-6. [new user support](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#new_user_support)
+1. [live dvd](ReleasePlanning#live_dvd-1)
+2. [misc](ReleasePlanning#misc-1)
+3. [documentation](ReleasePlanning#documentation-1)
+4. [dock](ReleasePlanning#dock)
+5. [community](ReleasePlanning#community)
+6. [new user support](ReleasePlanning#new_user_support)
 
-1. [Ubuntu Studio Controls](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu_Studio_Controls)
-2. [User Help](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#User_Help)
-3. [Release Notes](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Release_Notes)
-4. [ubuntustudio-menu](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ubuntustudio-menu)
-5. [GTK Theme](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#GTK_Theme)
-6. [music me menu](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#music_me_menu)
-7. [Backports](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Backports)
-8. [Documentation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Documentation)
-9. [Testing Procedures](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Testing_Procedures)
+1. [Ubuntu Studio Controls](ReleasePlanning#Ubuntu_Studio_Controls)
+2. [User Help](ReleasePlanning#User_Help)
+3. [Release Notes](ReleasePlanning#Release_Notes)
+4. [ubuntustudio-menu](ReleasePlanning#ubuntustudio-menu)
+5. [GTK Theme](ReleasePlanning#GTK_Theme)
+6. [music me menu](ReleasePlanning#music_me_menu)
+7. [Backports](ReleasePlanning#Backports)
+8. [Documentation](ReleasePlanning#Documentation)
+9. [Testing Procedures](ReleasePlanning#Testing_Procedures)
 
-1. [Oneiric Ocelot (11.10)](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Oneiric_Ocelot_.2811.10.29) [Desktop](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Desktop) [Desktop Environment](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Desktop_Environment) [Updated UI](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Updated_UI) [Dock](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Dock) [kernel](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#kernel) [-lowlatency kernel in repos](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-lowlatency_kernel_in_repos) [-irq threading](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-irq_threading) [Website Update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Website_Update) [Documentation Update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Documentation_Update) [Revised Package Selection](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Revised_Package_Selection) [ubuntustudio-controls update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ubuntustudio-controls_update) [update seeds](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#update_seeds) [audio plugins](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#audio_plugins) [ladish](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ladish) ["unknown ship package"](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A.22unknown_ship_package.22) [revised menu structure](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#revised_menu_structure)
-2. [Ubuntu Studio 11.04 Natty Narwhal](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu_Studio_11.04_Natty_Narwhal) [Revised Package Selection](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Revised_Package_Selection-1) [Revised Package Installation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Revised_Package_Installation) [Art](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Art) [Website Update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Website_Update-1)
-3. [Ubuntu Studio 10.04 Lucid Lynx](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu_Studio_10.04_Lucid_Lynx)
+1. [Oneiric Ocelot (11.10)](ReleasePlanning#Oneiric_Ocelot_.2811.10.29) [Desktop](ReleasePlanning#Desktop) [Desktop Environment](ReleasePlanning#Desktop_Environment) [Updated UI](ReleasePlanning#Updated_UI) [Dock](ReleasePlanning#Dock) [kernel](ReleasePlanning#kernel) [-lowlatency kernel in repos](ReleasePlanning#A-lowlatency_kernel_in_repos) [-irq threading](ReleasePlanning#A-irq_threading) [Website Update](ReleasePlanning#Website_Update) [Documentation Update](ReleasePlanning#Documentation_Update) [Revised Package Selection](ReleasePlanning#Revised_Package_Selection) [ubuntustudio-controls update](ReleasePlanning#ubuntustudio-controls_update) [update seeds](ReleasePlanning#update_seeds) [audio plugins](ReleasePlanning#audio_plugins) [ladish](ReleasePlanning#ladish) ["unknown ship package"](ReleasePlanning#A.22unknown_ship_package.22) [revised menu structure](ReleasePlanning#revised_menu_structure)
+2. [Ubuntu Studio 11.04 Natty Narwhal](ReleasePlanning#Ubuntu_Studio_11.04_Natty_Narwhal) [Revised Package Selection](ReleasePlanning#Revised_Package_Selection-1) [Revised Package Installation](ReleasePlanning#Revised_Package_Installation) [Art](ReleasePlanning#Art) [Website Update](ReleasePlanning#Website_Update-1)
+3. [Ubuntu Studio 10.04 Lucid Lynx](ReleasePlanning#Ubuntu_Studio_10.04_Lucid_Lynx)
 
-1. [Desktop](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Desktop) [Desktop Environment](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Desktop_Environment) [Updated UI](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Updated_UI) [Dock](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Dock)
-2. [kernel](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#kernel) [-lowlatency kernel in repos](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-lowlatency_kernel_in_repos) [-irq threading](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-irq_threading)
-3. [Website Update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Website_Update)
-4. [Documentation Update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Documentation_Update)
-5. [Revised Package Selection](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Revised_Package_Selection)
-6. [ubuntustudio-controls update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ubuntustudio-controls_update)
-7. [update seeds](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#update_seeds) [audio plugins](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#audio_plugins) [ladish](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ladish) ["unknown ship package"](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A.22unknown_ship_package.22)
-8. [revised menu structure](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#revised_menu_structure)
+1. [Desktop](ReleasePlanning#Desktop) [Desktop Environment](ReleasePlanning#Desktop_Environment) [Updated UI](ReleasePlanning#Updated_UI) [Dock](ReleasePlanning#Dock)
+2. [kernel](ReleasePlanning#kernel) [-lowlatency kernel in repos](ReleasePlanning#A-lowlatency_kernel_in_repos) [-irq threading](ReleasePlanning#A-irq_threading)
+3. [Website Update](ReleasePlanning#Website_Update)
+4. [Documentation Update](ReleasePlanning#Documentation_Update)
+5. [Revised Package Selection](ReleasePlanning#Revised_Package_Selection)
+6. [ubuntustudio-controls update](ReleasePlanning#ubuntustudio-controls_update)
+7. [update seeds](ReleasePlanning#update_seeds) [audio plugins](ReleasePlanning#audio_plugins) [ladish](ReleasePlanning#ladish) ["unknown ship package"](ReleasePlanning#A.22unknown_ship_package.22)
+8. [revised menu structure](ReleasePlanning#revised_menu_structure)
 
-1. [Desktop Environment](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Desktop_Environment)
-2. [Updated UI](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Updated_UI)
-3. [Dock](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Dock)
+1. [Desktop Environment](ReleasePlanning#Desktop_Environment)
+2. [Updated UI](ReleasePlanning#Updated_UI)
+3. [Dock](ReleasePlanning#Dock)
 
-1. [-lowlatency kernel in repos](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-lowlatency_kernel_in_repos)
-2. [-irq threading](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A-irq_threading)
+1. [-lowlatency kernel in repos](ReleasePlanning#A-lowlatency_kernel_in_repos)
+2. [-irq threading](ReleasePlanning#A-irq_threading)
 
-1. [audio plugins](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#audio_plugins)
-2. [ladish](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#ladish)
-3. ["unknown ship package"](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#A.22unknown_ship_package.22)
+1. [audio plugins](ReleasePlanning#audio_plugins)
+2. [ladish](ReleasePlanning#ladish)
+3. ["unknown ship package"](ReleasePlanning#A.22unknown_ship_package.22)
 
-1. [Revised Package Selection](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Revised_Package_Selection-1)
-2. [Revised Package Installation](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Revised_Package_Installation)
-3. [Art](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Art)
-4. [Website Update](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Website_Update-1)
+1. [Revised Package Selection](ReleasePlanning#Revised_Package_Selection-1)
+2. [Revised Package Installation](ReleasePlanning#Revised_Package_Installation)
+3. [Art](ReleasePlanning#Art)
+4. [Website Update](ReleasePlanning#Website_Update-1)
 
 ## PRECISE (12.04)
 
@@ -84,7 +84,7 @@ Let's make this one to be proud of!
 
 The release team has tools that can track progress of a team throughout the cycle. We should better integrate with the release team's processes.
 
-[https://wiki.ubuntu.com/UbuntuStudio/IntegrateWithReleaseTeam](https://wiki.ubuntu.com/UbuntuStudio/IntegrateWithReleaseTeam)
+[UbuntuStudio/IntegrateWithReleaseTeam](IntegrateWithReleaseTeam)
 
 ### lowlatency kernel
 
@@ -181,10 +181,10 @@ consider making a livedvd, if it didn't happen for 12.04 we should probably be a
 ### dock
 
 - some dock looking thing on bottom of screen
-- example - [https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialOneiric](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialOneiric)
+- example - [UbuntuStudio/Artwork/OfficialOneiric](Artwork/OfficialOneiric)
 - talk with dock dev about supporting work flows
 
-example - [https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialOneiric](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialOneiric)
+example - [UbuntuStudio/Artwork/OfficialOneiric](Artwork/OfficialOneiric)
 
 ### community
 
@@ -538,7 +538,7 @@ Additionally, some packages will be replaced by others. Reasons may include addi
 
 Additional benefits: the workflows also generate a framework for develop documentation and a path for testing.
 
-See [https://wiki.ubuntu.com/UbuntuStudio/Workflows](https://wiki.ubuntu.com/UbuntuStudio/Workflows) and [https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment](https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment) for more information.
+See [UbuntuStudio/Workflows](Workflows) and [UbuntuStudio/PackageSelectionDevelopment](PackageSelectionDevelopment) for more information.
 
 ### Revised Package Installation
 
@@ -556,30 +556,30 @@ second benefit includes a smaller audio menu
 
 ### Website Update
 
-Website update is still in process. For details see: [https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp)
+Website update is still in process. For details see: [UbuntuStudio/TaskWebRevamp](TaskWebRevamp)
 
 == Ubuntu Studio 10.10 Maverick Meerkat ==
 
-- LV2 Packaging: continue LV2 packaging plan - [https://wiki.ubuntu.com/UbuntuStudio/TaskLV2Inclusion](https://wiki.ubuntu.com/UbuntuStudio/TaskLV2Inclusion) might focus on getting these into Debian first via Debian Multimedia Team quadrispro has already commented he wanted to do the vocoder, perhaps he can help with others astraljava might also be able to help
+- LV2 Packaging: continue LV2 packaging plan - [UbuntuStudio/TaskLV2Inclusion](TaskLV2Inclusion) might focus on getting these into Debian first via Debian Multimedia Team quadrispro has already commented he wanted to do the vocoder, perhaps he can help with others astraljava might also be able to help
 - JACK2 / Pulse Audio Integration: this is looking good already because JACK2 is in Debian already (per [TheMuso](https://wiki.ubuntu.com/TheMuso) on IRC) [TheMuso](https://wiki.ubuntu.com/TheMuso) is apparently spearheading this crimsun, [TheMuso](https://wiki.ubuntu.com/TheMuso), and persia have talked on IRC about how to proceed and might discuss this at UDS with Free
 - Fill Team Positions the team has been eviscerated and therefore nothing is getting done need to redefine the core group at least begin filling team positions
-- Update Website good summary of previous discussion at [https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs) a good direction appears to be using Word Press detrate is really engaged with this task, we should focus on supporting him you can find the available information at [UbuntuStudio/TaskWebRevamp](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp) developing the website appears to be an iterative process, i.e. something is suggested, detrate does something/responds, something else is suggested, etc
+- Update Website good summary of previous discussion at [UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](Sandbox#Notes%20from%20IRC%20Logs) a good direction appears to be using Word Press detrate is really engaged with this task, we should focus on supporting him you can find the available information at [UbuntuStudio/TaskWebRevamp](TaskWebRevamp) developing the website appears to be an iterative process, i.e. something is suggested, detrate does something/responds, something else is suggested, etc
 - Reduce Delta Between Ubuntu Studio and Debian information about this can be found at: [http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html](http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html) push patches back to Debian Multimedia where applicable for the local changes this would reduce work for Ubuntu Studio team because hopefully the package will autosync in future releases see: [http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html#sameversionbutlocalinB](http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html#sameversionbutlocalinB) see: [http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html#outdatedandlocalinB](http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html#outdatedandlocalinB) this will also increase and hopefully improve our relationship with the Debian Multimedia Team (note: quadrispro is a member)
-- Ubuntu Studio's Audience and Scope Ubuntu Studio's audience is not clearly defined and therefore neither is our scope as such, we have taken a shotgun approach which really isn't effecient or effective defining our audience, their needs, and how we will fulfill them allows us to measure our effectiveness or success this also provides a baseline if we wish to possibly engage new audiences also provides a more clearly defined mission statement and goals for Ubuntu Studio good summary of previous discussion at [https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs) Defining Current Audience a user's survey could be useful to identify our current audience this will help determine user's hardware, work flows, applications used, architecure, etc questions and their purposes has been started here [UbuntuStudio/UserSurvey](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey) general concensus was to not target "Pro" audience Ubuntu Studio Scope understanding our audience's needs may prompt reductions to default installation we probably shouldn't include something just because we can if it isn't fulfilling an audience's needs we shouldn't include it this will allow us to focus on other tasks and minimize our responsibilities/work load due to bugs understanding our audience's may prompt additions to default installation
-- Ubuntu Studio Controls Update and Redesign update ubuntustudio-controls for rtpri and memlock settings JACK now handles rtpri and memlock in /etc/security/limits.d/audio.conf see [http://linuxaudio.org/mailarchive/lau/2010/3/5/166428](http://linuxaudio.org/mailarchive/lau/2010/3/5/166428) for background Ricardo (rlameiro) is considering a redesign of ubuntustudio-controls see [https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign) rtirq script for avoid irq conflicts (especially for firewire) enable Ubuntu Studio PPA for -rt kernels and "backported" applications (see below) install -rt kernel from PPA install ubuntu-restricted-extras user in audio group (perhaps check box to add and remove) remove nice setting? see: [http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html](http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html)
+- Ubuntu Studio's Audience and Scope Ubuntu Studio's audience is not clearly defined and therefore neither is our scope as such, we have taken a shotgun approach which really isn't effecient or effective defining our audience, their needs, and how we will fulfill them allows us to measure our effectiveness or success this also provides a baseline if we wish to possibly engage new audiences also provides a more clearly defined mission statement and goals for Ubuntu Studio good summary of previous discussion at [UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](Sandbox#Notes%20from%20IRC%20Logs) Defining Current Audience a user's survey could be useful to identify our current audience this will help determine user's hardware, work flows, applications used, architecure, etc questions and their purposes has been started here [UbuntuStudio/UserSurvey](UserSurvey) general concensus was to not target "Pro" audience Ubuntu Studio Scope understanding our audience's needs may prompt reductions to default installation we probably shouldn't include something just because we can if it isn't fulfilling an audience's needs we shouldn't include it this will allow us to focus on other tasks and minimize our responsibilities/work load due to bugs understanding our audience's may prompt additions to default installation
+- Ubuntu Studio Controls Update and Redesign update ubuntustudio-controls for rtpri and memlock settings JACK now handles rtpri and memlock in /etc/security/limits.d/audio.conf see [http://linuxaudio.org/mailarchive/lau/2010/3/5/166428](http://linuxaudio.org/mailarchive/lau/2010/3/5/166428) for background Ricardo (rlameiro) is considering a redesign of ubuntustudio-controls see [UbuntuStudio/ControlsRedesign](ControlsRedesign) rtirq script for avoid irq conflicts (especially for firewire) enable Ubuntu Studio PPA for -rt kernels and "backported" applications (see below) install -rt kernel from PPA install ubuntu-restricted-extras user in audio group (perhaps check box to add and remove) remove nice setting? see: [http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html](http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html)
 - Ubuntu Studio Applications Backporting discussion between John Dong and myself after Jussi poked me: [https://lists.ubuntu.com/archives/ubuntu-studio-devel/2010-May/002364.html](https://lists.ubuntu.com/archives/ubuntu-studio-devel/2010-May/002364.html) John suggested using "official" Ubuntu Studio backporting PPA because: it's like kubuntu it allows us to maintain control it doesn't overload the already overworked backports team provides proving grounds that backported apps have quality then can be included in official Ubuntu backports repository if we don't want to use Ubuntu Studio backports PPA then we need small group to test and provide vocal feedback in backport bugs
 - Addressing User's Most Common Complaints JACK/Pulse Audio integration - already being addressed by Luke, et al for JACK2 network manager turns out it was a bug in gnome-network-admin that left options not shown or changeable Ricardo (rlameiro) reported it: [https://bugs.launchpad.net/ubuntu/+source/gnome-system-tools/+bug/570828](https://bugs.launchpad.net/ubuntu/+source/gnome-system-tools/+bug/570828) Ubuntu Studio still might consider testing [NetworkManager](https://wiki.ubuntu.com/NetworkManager) again Document network manager decision
-- New (Additional) Audiences not to replace our current audience why consider new audiences could provide more users (we want more users, right?) could provide more potential testers could provide more potential bug reporters could provide more potential users transitioning into -dev group see [UbuntuStudio/NewAudiences](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences) for a possible list plus descriptions and pros/cons might only decide which new audiences to consider and begin research during Maverick
+- New (Additional) Audiences not to replace our current audience why consider new audiences could provide more users (we want more users, right?) could provide more potential testers could provide more potential bug reporters could provide more potential users transitioning into -dev group see [UbuntuStudio/NewAudiences](NewAudiences) for a possible list plus descriptions and pros/cons might only decide which new audiences to consider and begin research during Maverick
 - Ubuntu Studio Documentation establish uses for help.ubuntu.com vs. wiki.ubuntu.com suggested direction: help.ubuntu.com is community facing documentation wiki.ubuntu.com is for developers and contributors to organize for release document this decision and email users
 - Ubuntu Studio Decision Documentation this is not documentation for users, rather it documents rationalizations for decisions that have been made examples: network manager (low overhead, doesn't disrupt recording audio) audacious as media player (can open single file)
 - Testing Procedures in order to help (and encourage) our users to test we should develop testing procedures since stochastic is lead of [ubuntustudio-testers group](https://launchpad.net/~ubuntustudio-testers) can he help develop procedures ScottL offers to assist develop the procedures and document it on help.ubuntu.com
 
-- continue LV2 packaging plan - [https://wiki.ubuntu.com/UbuntuStudio/TaskLV2Inclusion](https://wiki.ubuntu.com/UbuntuStudio/TaskLV2Inclusion)
+- continue LV2 packaging plan - [UbuntuStudio/TaskLV2Inclusion](TaskLV2Inclusion)
 - might focus on getting these into Debian first via Debian Multimedia Team
 - quadrispro has already commented he wanted to do the vocoder, perhaps he can help with others
 - astraljava might also be able to help
 
-continue LV2 packaging plan - [https://wiki.ubuntu.com/UbuntuStudio/TaskLV2Inclusion](https://wiki.ubuntu.com/UbuntuStudio/TaskLV2Inclusion)
+continue LV2 packaging plan - [UbuntuStudio/TaskLV2Inclusion](TaskLV2Inclusion)
 
 - this is looking good already because JACK2 is in Debian already (per [TheMuso](https://wiki.ubuntu.com/TheMuso) on IRC)
 - [TheMuso](https://wiki.ubuntu.com/TheMuso) is apparently spearheading this
@@ -595,15 +595,15 @@ crimsun, [TheMuso](https://wiki.ubuntu.com/TheMuso), and persia have talked on I
 - need to redefine the core group at least
 - begin filling team positions
 
-- good summary of previous discussion at [https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs)
+- good summary of previous discussion at [UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](Sandbox#Notes%20from%20IRC%20Logs)
 - a good direction appears to be using Word Press
 - detrate is really engaged with this task, we should focus on supporting him
-- you can find the available information at [UbuntuStudio/TaskWebRevamp](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp)
+- you can find the available information at [UbuntuStudio/TaskWebRevamp](TaskWebRevamp)
 - developing the website appears to be an iterative process, i.e. something is suggested, detrate does something/responds, something else is suggested, etc
 
-good summary of previous discussion at [https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs)
+good summary of previous discussion at [UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](Sandbox#Notes%20from%20IRC%20Logs)
 
-you can find the available information at [UbuntuStudio/TaskWebRevamp](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp)
+you can find the available information at [UbuntuStudio/TaskWebRevamp](TaskWebRevamp)
 
 - information about this can be found at: [http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html](http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html)
 - push patches back to Debian Multimedia where applicable for the local changes this would reduce work for Ubuntu Studio team because hopefully the package will autosync in future releases see: [http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html#sameversionbutlocalinB](http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html#sameversionbutlocalinB) see: [http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html#outdatedandlocalinB](http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html#outdatedandlocalinB)
@@ -624,19 +624,19 @@ see: [http://qa.ubuntuwire.com/multidistrotools/ubuntustudio.html#outdatedandloc
 - defining our audience, their needs, and how we will fulfill them allows us to measure our effectiveness or success
 - this also provides a baseline if we wish to possibly engage new audiences
 - also provides a more clearly defined mission statement and goals for Ubuntu Studio
-- good summary of previous discussion at [https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs)
-- Defining Current Audience a user's survey could be useful to identify our current audience this will help determine user's hardware, work flows, applications used, architecure, etc questions and their purposes has been started here [UbuntuStudio/UserSurvey](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey) general concensus was to not target "Pro" audience
+- good summary of previous discussion at [UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](Sandbox#Notes%20from%20IRC%20Logs)
+- Defining Current Audience a user's survey could be useful to identify our current audience this will help determine user's hardware, work flows, applications used, architecure, etc questions and their purposes has been started here [UbuntuStudio/UserSurvey](UserSurvey) general concensus was to not target "Pro" audience
 - Ubuntu Studio Scope understanding our audience's needs may prompt reductions to default installation we probably shouldn't include something just because we can if it isn't fulfilling an audience's needs we shouldn't include it this will allow us to focus on other tasks and minimize our responsibilities/work load due to bugs understanding our audience's may prompt additions to default installation
 
-good summary of previous discussion at [https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](https://wiki.ubuntu.com/UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs)
+good summary of previous discussion at [UbuntuStudio/Sandbox#Notes%20from%20IRC%20Logs](Sandbox#Notes%20from%20IRC%20Logs)
 
-- a user's survey could be useful to identify our current audience this will help determine user's hardware, work flows, applications used, architecure, etc questions and their purposes has been started here [UbuntuStudio/UserSurvey](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey)
+- a user's survey could be useful to identify our current audience this will help determine user's hardware, work flows, applications used, architecure, etc questions and their purposes has been started here [UbuntuStudio/UserSurvey](UserSurvey)
 - general concensus was to not target "Pro" audience
 
 - this will help determine user's hardware, work flows, applications used, architecure, etc
-- questions and their purposes has been started here [UbuntuStudio/UserSurvey](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey)
+- questions and their purposes has been started here [UbuntuStudio/UserSurvey](UserSurvey)
 
-questions and their purposes has been started here [UbuntuStudio/UserSurvey](https://wiki.ubuntu.com/UbuntuStudio/UserSurvey)
+questions and their purposes has been started here [UbuntuStudio/UserSurvey](UserSurvey)
 
 - understanding our audience's needs may prompt reductions to default installation we probably shouldn't include something just because we can if it isn't fulfilling an audience's needs we shouldn't include it this will allow us to focus on other tasks and minimize our responsibilities/work load due to bugs
 - understanding our audience's may prompt additions to default installation
@@ -646,14 +646,14 @@ questions and their purposes has been started here [UbuntuStudio/UserSurvey](htt
 - this will allow us to focus on other tasks and minimize our responsibilities/work load due to bugs
 
 - update ubuntustudio-controls for rtpri and memlock settings JACK now handles rtpri and memlock in /etc/security/limits.d/audio.conf see [http://linuxaudio.org/mailarchive/lau/2010/3/5/166428](http://linuxaudio.org/mailarchive/lau/2010/3/5/166428) for background
-- Ricardo (rlameiro) is considering a redesign of ubuntustudio-controls see [https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign) rtirq script for avoid irq conflicts (especially for firewire) enable Ubuntu Studio PPA for -rt kernels and "backported" applications (see below) install -rt kernel from PPA install ubuntu-restricted-extras user in audio group (perhaps check box to add and remove) remove nice setting? see: [http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html](http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html)
+- Ricardo (rlameiro) is considering a redesign of ubuntustudio-controls see [UbuntuStudio/ControlsRedesign](ControlsRedesign) rtirq script for avoid irq conflicts (especially for firewire) enable Ubuntu Studio PPA for -rt kernels and "backported" applications (see below) install -rt kernel from PPA install ubuntu-restricted-extras user in audio group (perhaps check box to add and remove) remove nice setting? see: [http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html](http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html)
 
 - JACK now handles rtpri and memlock in /etc/security/limits.d/audio.conf
 - see [http://linuxaudio.org/mailarchive/lau/2010/3/5/166428](http://linuxaudio.org/mailarchive/lau/2010/3/5/166428) for background
 
 see [http://linuxaudio.org/mailarchive/lau/2010/3/5/166428](http://linuxaudio.org/mailarchive/lau/2010/3/5/166428) for background
 
-- see [https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign)
+- see [UbuntuStudio/ControlsRedesign](ControlsRedesign)
 - rtirq script for avoid irq conflicts (especially for firewire)
 - enable Ubuntu Studio PPA for -rt kernels and "backported" applications (see below)
 - install -rt kernel from PPA
@@ -661,7 +661,7 @@ see [http://linuxaudio.org/mailarchive/lau/2010/3/5/166428](http://linuxaudio.or
 - user in audio group (perhaps check box to add and remove)
 - remove nice setting? see: [http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html](http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html)
 
-see [https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign](https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign)
+see [UbuntuStudio/ControlsRedesign](ControlsRedesign)
 
 remove nice setting? see: [http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html](http://www.pubbs.net/201003/linuxaudio/10007-re-lau-changing-for-editing-etcsecuritylimitsconf-in-debiantesting-ubuntu-lucid.html)
 
@@ -691,7 +691,7 @@ Ubuntu Studio still might consider testing [NetworkManager](https://wiki.ubuntu.
 
 - not to replace our current audience
 - why consider new audiences could provide more users (we want more users, right?) could provide more potential testers could provide more potential bug reporters could provide more potential users transitioning into -dev group
-- see [UbuntuStudio/NewAudiences](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences) for a possible list plus descriptions and pros/cons
+- see [UbuntuStudio/NewAudiences](NewAudiences) for a possible list plus descriptions and pros/cons
 - might only decide which new audiences to consider and begin research during Maverick
 
 - could provide more users (we want more users, right?)
@@ -699,7 +699,7 @@ Ubuntu Studio still might consider testing [NetworkManager](https://wiki.ubuntu.
 - could provide more potential bug reporters
 - could provide more potential users transitioning into -dev group
 
-see [UbuntuStudio/NewAudiences](https://wiki.ubuntu.com/UbuntuStudio/NewAudiences) for a possible list plus descriptions and pros/cons
+see [UbuntuStudio/NewAudiences](NewAudiences) for a possible list plus descriptions and pros/cons
 
 - establish uses for help.ubuntu.com vs. wiki.ubuntu.com
 - suggested direction: help.ubuntu.com is community facing documentation wiki.ubuntu.com is for developers and contributors to organize for release

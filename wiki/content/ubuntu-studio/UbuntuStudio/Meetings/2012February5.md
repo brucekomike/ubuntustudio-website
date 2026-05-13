@@ -2,14 +2,14 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5
 
-## [2012February5](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5)
+## [2012February5](2012February5)
 
 | Ubuntu Studio Meetings Schedule | Old Meeting Logs |
 | --- | --- |
 
-[Ubuntu Studio Meetings Schedule](https://wiki.ubuntu.com/UbuntuStudio/Meetings)
+[Ubuntu Studio Meetings Schedule](index)
 
-[Old Meeting Logs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/Minutes)
+[Old Meeting Logs](Minutes)
 
 **What:** Ubuntu Studio Contributors Meeting
 
@@ -22,23 +22,23 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5
 
 Contents
 
-1. [Agenda for Meeting](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Agenda_for_Meeting) [Call Meeting to Order](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Call_Meeting_to_Order) [Old Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Old_Business) [Previous Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Previous_Action_Items) [LTS proposal](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#LTS_proposal) [Blueprints statuses](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Blueprints_statuses) [Alpha-2 feedback](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Alpha-2_feedback) [Seeds analysis](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Seeds_analysis) [Any Other Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Any_Other_Business) [Next Meeting Time/Location](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Next_Meeting_Time.2FLocation) [Next Meeting Chair](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Next_Meeting_Chair)
-2. [Action Items and Logs](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Action_Items_and_Logs) [Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Action_Items) [Log and minutes](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Log_and_minutes)
+1. [Agenda for Meeting](2012February5#Agenda_for_Meeting) [Call Meeting to Order](2012February5#Call_Meeting_to_Order) [Old Business](2012February5#Old_Business) [Previous Action Items](2012February5#Previous_Action_Items) [LTS proposal](2012February5#LTS_proposal) [Blueprints statuses](2012February5#Blueprints_statuses) [Alpha-2 feedback](2012February5#Alpha-2_feedback) [Seeds analysis](2012February5#Seeds_analysis) [Any Other Business](2012February5#Any_Other_Business) [Next Meeting Time/Location](2012February5#Next_Meeting_Time.2FLocation) [Next Meeting Chair](2012February5#Next_Meeting_Chair)
+2. [Action Items and Logs](2012February5#Action_Items_and_Logs) [Action Items](2012February5#Action_Items) [Log and minutes](2012February5#Log_and_minutes)
 
-1. [Call Meeting to Order](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Call_Meeting_to_Order)
-2. [Old Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Old_Business) [Previous Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Previous_Action_Items)
-3. [LTS proposal](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#LTS_proposal)
-4. [Blueprints statuses](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Blueprints_statuses)
-5. [Alpha-2 feedback](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Alpha-2_feedback)
-6. [Seeds analysis](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Seeds_analysis)
-7. [Any Other Business](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Any_Other_Business)
-8. [Next Meeting Time/Location](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Next_Meeting_Time.2FLocation)
-9. [Next Meeting Chair](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Next_Meeting_Chair)
+1. [Call Meeting to Order](2012February5#Call_Meeting_to_Order)
+2. [Old Business](2012February5#Old_Business) [Previous Action Items](2012February5#Previous_Action_Items)
+3. [LTS proposal](2012February5#LTS_proposal)
+4. [Blueprints statuses](2012February5#Blueprints_statuses)
+5. [Alpha-2 feedback](2012February5#Alpha-2_feedback)
+6. [Seeds analysis](2012February5#Seeds_analysis)
+7. [Any Other Business](2012February5#Any_Other_Business)
+8. [Next Meeting Time/Location](2012February5#Next_Meeting_Time.2FLocation)
+9. [Next Meeting Chair](2012February5#Next_Meeting_Chair)
 
-1. [Previous Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Previous_Action_Items)
+1. [Previous Action Items](2012February5#Previous_Action_Items)
 
-1. [Action Items](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Action_Items)
-2. [Log and minutes](https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February5#Log_and_minutes)
+1. [Action Items](2012February5#Action_Items)
+2. [Log and minutes](2012February5#Log_and_minutes)
 
 # Agenda for Meeting
 
@@ -76,10 +76,10 @@ Example proposal: [Xubuntu LTS proposal](https://lists.ubuntu.com/archives/techn
 
 ## Seeds analysis
 
-- Currently some very basic tools seem to be missing, please [list them here](https://wiki.ubuntu.com/UbuntuStudio/PrecisePangolin/MissingPackages)
+- Currently some very basic tools seem to be missing, please [list them here](../PrecisePangolin/MissingPackages)
 - Thoughts on how to gather up the essentials?
 
-Currently some very basic tools seem to be missing, please [list them here](https://wiki.ubuntu.com/UbuntuStudio/PrecisePangolin/MissingPackages)
+Currently some very basic tools seem to be missing, please [list them here](../PrecisePangolin/MissingPackages)
 
 ## Any Other Business
 

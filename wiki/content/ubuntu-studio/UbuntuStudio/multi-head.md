@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/multi-head
 
-## [multi-head](https://wiki.ubuntu.com/UbuntuStudio/multi-head)
+## [multi-head](multi-head)
 
 ## Abstract
 

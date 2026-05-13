@@ -2,13 +2,13 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/BackportsList
 
-## [BackportsList](https://wiki.ubuntu.com/UbuntuStudio/BackportsList)
+## [BackportsList](BackportsList)
 
 This page will be used to develop a comprehensive backporting plan using a Ubuntu Studio PPA (maybe ubuntustudio-backports-testing).
 
 At this time we will only be focusing on backporting to Ubuntu Studio 16.04 (LTS) Xenial Xerus, from there to 14.04 (LTS) Trusty, and only a few selected priority packages.
 
-[https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp](https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp)
+[UbuntuStudio/BackportsHowToHelp](BackportsHowToHelp)
 
 Status Use the following indicators for the status column: **not started** - indicates that the backport process has not started **started** - indicated that someone has started backporting, helps prevent duplication of effort **ready to test** - indicates it has been built for Trusty/Xenial, moved to the PPA, and is ready for testing **tested#1** - indicates that one person has tested the package **tested#2** - indicates that two persons have tested the package **ready** - indicates that a bug has been filed and is awaiting backporting
 

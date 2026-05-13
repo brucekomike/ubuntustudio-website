@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/CyclicTest
 
-## [CyclicTest](https://wiki.ubuntu.com/UbuntuStudio/CyclicTest)
+## [CyclicTest](CyclicTest)
 
 ### Setting up Cyclic Test
 

@@ -2,29 +2,29 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ReportingPage
 
-## [ReportingPage](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage)
+## [ReportingPage](ReportingPage)
 
 | Contents Hardy Development Cycle November '07 December '07 January '08 February '08 March '08 April '08 Intrepid Development Cycle May '08 June '08 July '08 August '08 September '08 October '08 |
 | --- |
 
 Contents
 
-1. [Hardy Development Cycle](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#Hardy_Development_Cycle) [November '07](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#November_.2707) [December '07](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#December_.2707) [January '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#January_.2708) [February '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#February_.2708) [March '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#March_.2708) [April '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#April_.2708)
-2. [Intrepid Development Cycle](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#Intrepid_Development_Cycle) [May '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#May_.2708) [June '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#June_.2708) [July '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#July_.2708) [August '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#August_.2708) [September '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#September_.2708) [October '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#October_.2708)
+1. [Hardy Development Cycle](ReportingPage#Hardy_Development_Cycle) [November '07](ReportingPage#November_.2707) [December '07](ReportingPage#December_.2707) [January '08](ReportingPage#January_.2708) [February '08](ReportingPage#February_.2708) [March '08](ReportingPage#March_.2708) [April '08](ReportingPage#April_.2708)
+2. [Intrepid Development Cycle](ReportingPage#Intrepid_Development_Cycle) [May '08](ReportingPage#May_.2708) [June '08](ReportingPage#June_.2708) [July '08](ReportingPage#July_.2708) [August '08](ReportingPage#August_.2708) [September '08](ReportingPage#September_.2708) [October '08](ReportingPage#October_.2708)
 
-1. [November '07](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#November_.2707)
-2. [December '07](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#December_.2707)
-3. [January '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#January_.2708)
-4. [February '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#February_.2708)
-5. [March '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#March_.2708)
-6. [April '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#April_.2708)
+1. [November '07](ReportingPage#November_.2707)
+2. [December '07](ReportingPage#December_.2707)
+3. [January '08](ReportingPage#January_.2708)
+4. [February '08](ReportingPage#February_.2708)
+5. [March '08](ReportingPage#March_.2708)
+6. [April '08](ReportingPage#April_.2708)
 
-1. [May '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#May_.2708)
-2. [June '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#June_.2708)
-3. [July '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#July_.2708)
-4. [August '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#August_.2708)
-5. [September '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#September_.2708)
-6. [October '08](https://wiki.ubuntu.com/UbuntuStudio/ReportingPage#October_.2708)
+1. [May '08](ReportingPage#May_.2708)
+2. [June '08](ReportingPage#June_.2708)
+3. [July '08](ReportingPage#July_.2708)
+4. [August '08](ReportingPage#August_.2708)
+5. [September '08](ReportingPage#September_.2708)
+6. [October '08](ReportingPage#October_.2708)
 
 Welcome to the Ubuntu Studio reporting page. Every month this page will be filled with bullet points indicating the summary of some of the things we have been working on.
 

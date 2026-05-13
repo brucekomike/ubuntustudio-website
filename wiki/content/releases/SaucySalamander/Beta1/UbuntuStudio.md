@@ -2,35 +2,35 @@
 
 Source: https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 | Contents New Features in Ubuntu Studio 13.10 Beta 1 Ubuntu Studio Applications Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 13.04 Upgrading from Other Releases Infrastructure Linux kernel Known Problems Ubuntu Studio Desktop Installation and Updates Kernel Networking Support |
 | --- |
 
 Contents
 
-1. [New Features in Ubuntu Studio 13.10 Beta 1](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#New_Features_in_Ubuntu_Studio_13.10_Beta_1) [Ubuntu Studio Applications](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Ubuntu_Studio_Applications)
-2. [Installation](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Installation) [Overview](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Overview) [Download](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Download) [System Requirements](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#System_Requirements)
-3. [Upgrading](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 13.04](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Upgrading_from_Ubuntu_Studio_13.04) [Upgrading from Other Releases](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Upgrading_from_Other_Releases) [Infrastructure](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Infrastructure) [Linux kernel](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Linux_kernel)
-4. [Known Problems](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Known_Problems) [Ubuntu Studio Desktop](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Ubuntu_Studio_Desktop) [Installation and Updates](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Installation_and_Updates) [Kernel](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Kernel) [Networking](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Networking)
-5. [Support](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Support)
+1. [New Features in Ubuntu Studio 13.10 Beta 1](UbuntuStudio#New_Features_in_Ubuntu_Studio_13.10_Beta_1) [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications)
+2. [Installation](UbuntuStudio#Installation) [Overview](UbuntuStudio#Overview) [Download](UbuntuStudio#Download) [System Requirements](UbuntuStudio#System_Requirements)
+3. [Upgrading](UbuntuStudio#Upgrading) [Upgrading from Ubuntu Studio 13.04](UbuntuStudio#Upgrading_from_Ubuntu_Studio_13.04) [Upgrading from Other Releases](UbuntuStudio#Upgrading_from_Other_Releases) [Infrastructure](UbuntuStudio#Infrastructure) [Linux kernel](UbuntuStudio#Linux_kernel)
+4. [Known Problems](UbuntuStudio#Known_Problems) [Ubuntu Studio Desktop](UbuntuStudio#Ubuntu_Studio_Desktop) [Installation and Updates](UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Installation_and_Updates) [Kernel](UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Kernel) [Networking](UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Networking)
+5. [Support](UbuntuStudio#Support)
 
-1. [Ubuntu Studio Applications](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Ubuntu_Studio_Applications)
+1. [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications)
 
-1. [Overview](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Overview)
-2. [Download](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Download)
-3. [System Requirements](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#System_Requirements)
+1. [Overview](UbuntuStudio#Overview)
+2. [Download](UbuntuStudio#Download)
+3. [System Requirements](UbuntuStudio#System_Requirements)
 
-1. [Upgrading from Ubuntu Studio 13.04](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Upgrading_from_Ubuntu_Studio_13.04)
-2. [Upgrading from Other Releases](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Upgrading_from_Other_Releases)
-3. [Infrastructure](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Infrastructure) [Linux kernel](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Linux_kernel)
+1. [Upgrading from Ubuntu Studio 13.04](UbuntuStudio#Upgrading_from_Ubuntu_Studio_13.04)
+2. [Upgrading from Other Releases](UbuntuStudio#Upgrading_from_Other_Releases)
+3. [Infrastructure](UbuntuStudio#Infrastructure) [Linux kernel](UbuntuStudio#Linux_kernel)
 
-1. [Linux kernel](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Linux_kernel)
+1. [Linux kernel](UbuntuStudio#Linux_kernel)
 
-1. [Ubuntu Studio Desktop](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#Ubuntu_Studio_Desktop)
-2. [Installation and Updates](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Installation_and_Updates)
-3. [Kernel](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Kernel)
-4. [Networking](https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Networking)
+1. [Ubuntu Studio Desktop](UbuntuStudio#Ubuntu_Studio_Desktop)
+2. [Installation and Updates](UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Installation_and_Updates)
+3. [Kernel](UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Kernel)
+4. [Networking](UbuntuStudio#SaucySalamander.2FBeta1.2FCommonInfrastructure.Networking)
 
 **NOTE:** This is a Beta pre-release. Ubuntu Studio Pre-releases are NOT recommended for:
 
@@ -85,9 +85,9 @@ You can now reinstall or upgrade an existing copy of Ubuntu Studio with the Ubun
 
 Ubuntu Studio 13.10 Beta 1 images can be downloaded from:
 
-- [http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/beta-1](http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/beta-1) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+- [http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/beta-1](http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/beta-1) ([UbuntuStudio](../../../ubuntu-studio/UbuntuStudio))
 
-[http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/beta-1](http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/beta-1) ([UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio))
+[http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/beta-1](http://cdimage.ubuntu.com/ubuntustudio/releases/13.10/beta-1) ([UbuntuStudio](../../../ubuntu-studio/UbuntuStudio))
 
 ## System Requirements
 

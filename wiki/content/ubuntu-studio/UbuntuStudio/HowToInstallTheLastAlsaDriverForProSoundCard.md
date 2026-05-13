@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/HowToInstallTheLastAlsaDriverForProSoundCard
 
-## [HowToInstallTheLastAlsaDriverForProSoundCard](https://wiki.ubuntu.com/UbuntuStudio/HowToInstallTheLastAlsaDriverForProSoundCard)
+## [HowToInstallTheLastAlsaDriverForProSoundCard](HowToInstallTheLastAlsaDriverForProSoundCard)
 
 # Purpose of this Guide
 

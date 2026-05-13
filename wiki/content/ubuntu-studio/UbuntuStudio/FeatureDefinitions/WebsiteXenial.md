@@ -2,55 +2,55 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial
 
-## [WebsiteXenial](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial)
+## [WebsiteXenial](WebsiteXenial)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
 | --- |
 
-**-- [Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/OrganizationSideBar?action=edit))** **Organization** - [Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy) - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) -- [Project Lead Vote 2016](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016) - [Team Structure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) - [Release Procedure](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule) - [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) - [Feature Definitions](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions) - [Package Selection](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection) - [Dates (not used)](https://wiki.ubuntu.com/UbuntuStudio/Dates) - [Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings) **Planning Documentation** - [Managing Blueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints) - [Development Cycle](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle) .. [Feature Definition Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition) .. [Development Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development) .. [Testing Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing) .. [Releasing](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Release)
+**-- [Organization](../Organization) Side Bar -- ([Edit](../Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](../Policy) - [Project Lead Vote](../ProjectLeadVote) -- [Project Lead Vote 2016](../ProjectLeadVote2016) - [Team Structure](../TeamStructure) - [Release Procedure](../ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](../DevelopmentReleaseSchedule) - [Blueprints](../Blueprints) - [Feature Definitions](index) - [Package Selection](../PackageSelection) - [Dates (not used)](../Dates) - [Meetings](../Meetings) **Planning Documentation** - [Managing Blueprints](../ManagingBlueprints) - [Development Cycle](../DevelopmentCycle) .. [Feature Definition Period](../DevEvents/FeatureDefinition) .. [Development Period](../DevEvents/Development) .. [Testing Period](../DevEvents/Testing) .. [Releasing](../DevEvents/Release)
 
 Contents
 
-1. [Theming](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Theming) [Colors](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Colors)
-2. [Content Review](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Content_Review) [Personas](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Personas) [user A](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#user_A) [user B](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#user_B)
-3. [Pages](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Pages) [Site map and Content Draft](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Site_map_and_Content_Draft) [Social Media and external platforms](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Social_Media_and_external_platforms) [Regular Content](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Regular_Content) [Custom Pages](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Custom_Pages) [Things we want to be able to do in our custom pages:](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Things_we_want_to_be_able_to_do_in_our_custom_pages:)
+1. [Theming](WebsiteXenial#Theming) [Colors](WebsiteXenial#Colors)
+2. [Content Review](WebsiteXenial#Content_Review) [Personas](WebsiteXenial#Personas) [user A](WebsiteXenial#user_A) [user B](WebsiteXenial#user_B)
+3. [Pages](WebsiteXenial#Pages) [Site map and Content Draft](WebsiteXenial#Site_map_and_Content_Draft) [Social Media and external platforms](WebsiteXenial#Social_Media_and_external_platforms) [Regular Content](WebsiteXenial#Regular_Content) [Custom Pages](WebsiteXenial#Custom_Pages) [Things we want to be able to do in our custom pages:](WebsiteXenial#Things_we_want_to_be_able_to_do_in_our_custom_pages:)
 
-1. [Colors](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Colors)
+1. [Colors](WebsiteXenial#Colors)
 
-1. [Personas](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Personas) [user A](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#user_A) [user B](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#user_B)
+1. [Personas](WebsiteXenial#Personas) [user A](WebsiteXenial#user_A) [user B](WebsiteXenial#user_B)
 
-1. [user A](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#user_A)
-2. [user B](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#user_B)
+1. [user A](WebsiteXenial#user_A)
+2. [user B](WebsiteXenial#user_B)
 
-1. [Site map and Content Draft](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Site_map_and_Content_Draft)
-2. [Social Media and external platforms](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Social_Media_and_external_platforms)
-3. [Regular Content](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Regular_Content)
-4. [Custom Pages](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Custom_Pages) [Things we want to be able to do in our custom pages:](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Things_we_want_to_be_able_to_do_in_our_custom_pages:)
+1. [Site map and Content Draft](WebsiteXenial#Site_map_and_Content_Draft)
+2. [Social Media and external platforms](WebsiteXenial#Social_Media_and_external_platforms)
+3. [Regular Content](WebsiteXenial#Regular_Content)
+4. [Custom Pages](WebsiteXenial#Custom_Pages) [Things we want to be able to do in our custom pages:](WebsiteXenial#Things_we_want_to_be_able_to_do_in_our_custom_pages:)
 
-1. [Things we want to be able to do in our custom pages:](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial#Things_we_want_to_be_able_to_do_in_our_custom_pages:)
+1. [Things we want to be able to do in our custom pages:](WebsiteXenial#Things_we_want_to_be_able_to_do_in_our_custom_pages:)
 
 We are planning to update the website look and content for the release of 16.04.
 
@@ -322,7 +322,7 @@ These are just ideas to pursue once the new site is up.
 == Review Process (proposal) ==
 
 - Every release: update download link review feature tour
-- Once a year (by June): support information contribution information review of needed updates to structure (content, software, layout) review critical pages in [https://wiki.ubuntu.com/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) which is linked from "contribute" a lot of the pages looks to be outdated, and they need to be organized main page and some other pages have different sidebars [https://wiki.ubuntu.com/UbuntuStudio/Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy) [https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule) [https://wiki.ubuntu.com/UbuntuStudio/TeamStructure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) (request everybody to update on mailing list)
+- Once a year (by June): support information contribution information review of needed updates to structure (content, software, layout) review critical pages in [UbuntuStudio](..) which is linked from "contribute" a lot of the pages looks to be outdated, and they need to be organized main page and some other pages have different sidebars [UbuntuStudio/Policy](../Policy) [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule) [UbuntuStudio/TeamStructure](../TeamStructure) (request everybody to update on mailing list)
 - regular updates (ideally monthly at least) blog, news, social media etc
 
 - update download link
@@ -331,21 +331,21 @@ These are just ideas to pursue once the new site is up.
 - support information
 - contribution information
 - review of needed updates to structure (content, software, layout)
-- review critical pages in [https://wiki.ubuntu.com/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) which is linked from "contribute" a lot of the pages looks to be outdated, and they need to be organized main page and some other pages have different sidebars [https://wiki.ubuntu.com/UbuntuStudio/Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy) [https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule) [https://wiki.ubuntu.com/UbuntuStudio/TeamStructure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) (request everybody to update on mailing list)
+- review critical pages in [UbuntuStudio](..) which is linked from "contribute" a lot of the pages looks to be outdated, and they need to be organized main page and some other pages have different sidebars [UbuntuStudio/Policy](../Policy) [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule) [UbuntuStudio/TeamStructure](../TeamStructure) (request everybody to update on mailing list)
 
-review critical pages in [https://wiki.ubuntu.com/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) which is linked from "contribute"
+review critical pages in [UbuntuStudio](..) which is linked from "contribute"
 
 - a lot of the pages looks to be outdated, and they need to be organized
 - main page and some other pages have different sidebars
-- [https://wiki.ubuntu.com/UbuntuStudio/Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy)
-- [https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
-- [https://wiki.ubuntu.com/UbuntuStudio/TeamStructure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) (request everybody to update on mailing list)
+- [UbuntuStudio/Policy](../Policy)
+- [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+- [UbuntuStudio/TeamStructure](../TeamStructure) (request everybody to update on mailing list)
 
-[https://wiki.ubuntu.com/UbuntuStudio/Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy)
+[UbuntuStudio/Policy](../Policy)
 
-[https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
-[https://wiki.ubuntu.com/UbuntuStudio/TeamStructure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) (request everybody to update on mailing list)
+[UbuntuStudio/TeamStructure](../TeamStructure) (request everybody to update on mailing list)
 
 - blog, news, social media etc
 

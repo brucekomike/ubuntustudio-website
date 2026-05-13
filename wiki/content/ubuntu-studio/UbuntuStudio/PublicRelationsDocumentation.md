@@ -2,35 +2,35 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation
 
-## [PublicRelationsDocumentation](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation)
+## [PublicRelationsDocumentation](PublicRelationsDocumentation)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- PR & Support Sidebar -- ( edit ) Team Pages - Public Relations Team Page - IRC Ubuntu Studio OPS Page Public Relations Documentation |
 | --- |
 
-** -- [PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/PRSideBar?action=edit))** **Team Pages** - [Public Relations Team Page](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage) **[Public Relations Documentation](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation)**
+** -- [PR & Support](PublicRelationsDocumentation) Sidebar -- ([edit](Navigation/PRSideBar))** **Team Pages** - [Public Relations Team Page](PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](IRCUbuntuStudioOpsPage) **[Public Relations Documentation](PublicRelationsDocumentation)**
 
 ***
 
@@ -38,38 +38,38 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation
 
 Contents
 
-1. [PR Strategy](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#PR_Strategy) [Public Relations Team](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Public_Relations_Team) [Writing Posts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Writing_Posts) [How to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#How_to_Post) [What to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#What_to_Post) [Making Videos and Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Making_Videos_and_Podcasts) [List of Communication Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#List_of_Communication_Channels) [Ubuntu Studio Web Site](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Ubuntu_Studio_Web_Site) [Mail Lists](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Mail_Lists) [Forums](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Forums) [Social Channels (linked to from the website)](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Other_Social_Channels) [Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Podcasts) [News Sites](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#News_Sites)
-2. [Sharing Passwords Between Team Members](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Sharing_Passwords_Between_Team_Members) [Make sure the recipient has a published gpg key at launchpad](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Make_sure_the_recipient_has_a_published_gpg_key_at_launchpad) [Import the published gpg key](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Import_the_published_gpg_key) [Encrypt the File](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Encrypt_the_File) [Decrypting the file](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Decrypting_the_file) [Old PR page archived](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Old_PR_page_archived)
+1. [PR Strategy](PublicRelationsDocumentation#PR_Strategy) [Public Relations Team](PublicRelationsDocumentation#Public_Relations_Team) [Writing Posts](PublicRelationsDocumentation#Writing_Posts) [How to Post](PublicRelationsDocumentation#How_to_Post) [What to Post](PublicRelationsDocumentation#What_to_Post) [Making Videos and Podcasts](PublicRelationsDocumentation#Making_Videos_and_Podcasts) [List of Communication Channels](PublicRelationsDocumentation#List_of_Communication_Channels) [Ubuntu Studio Web Site](PublicRelationsDocumentation#Ubuntu_Studio_Web_Site) [Mail Lists](PublicRelationsDocumentation#Mail_Lists) [Forums](PublicRelationsDocumentation#Forums) [Social Channels (linked to from the website)](PublicRelationsDocumentation#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](PublicRelationsDocumentation#Other_Social_Channels) [Podcasts](PublicRelationsDocumentation#Podcasts) [News Sites](PublicRelationsDocumentation#News_Sites)
+2. [Sharing Passwords Between Team Members](PublicRelationsDocumentation#Sharing_Passwords_Between_Team_Members) [Make sure the recipient has a published gpg key at launchpad](PublicRelationsDocumentation#Make_sure_the_recipient_has_a_published_gpg_key_at_launchpad) [Import the published gpg key](PublicRelationsDocumentation#Import_the_published_gpg_key) [Encrypt the File](PublicRelationsDocumentation#Encrypt_the_File) [Decrypting the file](PublicRelationsDocumentation#Decrypting_the_file) [Old PR page archived](PublicRelationsDocumentation#Old_PR_page_archived)
 
-1. [PR Strategy](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#PR_Strategy)
-2. [Public Relations Team](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Public_Relations_Team)
-3. [Writing Posts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Writing_Posts) [How to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#How_to_Post) [What to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#What_to_Post)
-4. [Making Videos and Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Making_Videos_and_Podcasts)
-5. [List of Communication Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#List_of_Communication_Channels) [Ubuntu Studio Web Site](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Ubuntu_Studio_Web_Site) [Mail Lists](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Mail_Lists) [Forums](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Forums) [Social Channels (linked to from the website)](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Other_Social_Channels) [Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Podcasts) [News Sites](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#News_Sites)
+1. [PR Strategy](PublicRelationsDocumentation#PR_Strategy)
+2. [Public Relations Team](PublicRelationsDocumentation#Public_Relations_Team)
+3. [Writing Posts](PublicRelationsDocumentation#Writing_Posts) [How to Post](PublicRelationsDocumentation#How_to_Post) [What to Post](PublicRelationsDocumentation#What_to_Post)
+4. [Making Videos and Podcasts](PublicRelationsDocumentation#Making_Videos_and_Podcasts)
+5. [List of Communication Channels](PublicRelationsDocumentation#List_of_Communication_Channels) [Ubuntu Studio Web Site](PublicRelationsDocumentation#Ubuntu_Studio_Web_Site) [Mail Lists](PublicRelationsDocumentation#Mail_Lists) [Forums](PublicRelationsDocumentation#Forums) [Social Channels (linked to from the website)](PublicRelationsDocumentation#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](PublicRelationsDocumentation#Other_Social_Channels) [Podcasts](PublicRelationsDocumentation#Podcasts) [News Sites](PublicRelationsDocumentation#News_Sites)
 
-1. [How to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#How_to_Post)
-2. [What to Post](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#What_to_Post)
+1. [How to Post](PublicRelationsDocumentation#How_to_Post)
+2. [What to Post](PublicRelationsDocumentation#What_to_Post)
 
-1. [Ubuntu Studio Web Site](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Ubuntu_Studio_Web_Site) [Mail Lists](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Mail_Lists) [Forums](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Forums) [Social Channels (linked to from the website)](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Other_Social_Channels) [Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Podcasts) [News Sites](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#News_Sites)
+1. [Ubuntu Studio Web Site](PublicRelationsDocumentation#Ubuntu_Studio_Web_Site) [Mail Lists](PublicRelationsDocumentation#Mail_Lists) [Forums](PublicRelationsDocumentation#Forums) [Social Channels (linked to from the website)](PublicRelationsDocumentation#Social_Channels_.28linked_to_from_the_website.29) [Other Social Channels](PublicRelationsDocumentation#Other_Social_Channels) [Podcasts](PublicRelationsDocumentation#Podcasts) [News Sites](PublicRelationsDocumentation#News_Sites)
 
-1. [Ubuntu Studio Web Site](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Ubuntu_Studio_Web_Site)
-2. [Mail Lists](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Mail_Lists)
-3. [Forums](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Forums)
-4. [Social Channels (linked to from the website)](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Social_Channels_.28linked_to_from_the_website.29)
-5. [Other Social Channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Other_Social_Channels)
-6. [Podcasts](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Podcasts)
-7. [News Sites](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#News_Sites)
+1. [Ubuntu Studio Web Site](PublicRelationsDocumentation#Ubuntu_Studio_Web_Site)
+2. [Mail Lists](PublicRelationsDocumentation#Mail_Lists)
+3. [Forums](PublicRelationsDocumentation#Forums)
+4. [Social Channels (linked to from the website)](PublicRelationsDocumentation#Social_Channels_.28linked_to_from_the_website.29)
+5. [Other Social Channels](PublicRelationsDocumentation#Other_Social_Channels)
+6. [Podcasts](PublicRelationsDocumentation#Podcasts)
+7. [News Sites](PublicRelationsDocumentation#News_Sites)
 
-1. [Make sure the recipient has a published gpg key at launchpad](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Make_sure_the_recipient_has_a_published_gpg_key_at_launchpad)
-2. [Import the published gpg key](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Import_the_published_gpg_key)
-3. [Encrypt the File](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Encrypt_the_File)
-4. [Decrypting the file](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Decrypting_the_file) [Old PR page archived](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Old_PR_page_archived)
+1. [Make sure the recipient has a published gpg key at launchpad](PublicRelationsDocumentation#Make_sure_the_recipient_has_a_published_gpg_key_at_launchpad)
+2. [Import the published gpg key](PublicRelationsDocumentation#Import_the_published_gpg_key)
+3. [Encrypt the File](PublicRelationsDocumentation#Encrypt_the_File)
+4. [Decrypting the file](PublicRelationsDocumentation#Decrypting_the_file) [Old PR page archived](PublicRelationsDocumentation#Old_PR_page_archived)
 
-1. [Old PR page archived](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Old_PR_page_archived)
+1. [Old PR page archived](PublicRelationsDocumentation#Old_PR_page_archived)
 
-1. [Old PR page archived](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#Old_PR_page_archived)
+1. [Old PR page archived](PublicRelationsDocumentation#Old_PR_page_archived)
 
-The purpose of this wiki page is to define the public relations strategy for the Ubuntu Studio Public Relations team. This will include defining the team, the [communications channels](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation#List_of_Communication_Channels) used, list of events to publicize, etc.
+The purpose of this wiki page is to define the public relations strategy for the Ubuntu Studio Public Relations team. This will include defining the team, the [communications channels](PublicRelationsDocumentation#List_of_Communication_Channels) used, list of events to publicize, etc.
 
 ## PR Strategy
 
@@ -299,7 +299,7 @@ Here is described how to encrypt a file using gpg so that only the recipient may
 
 ## Make sure the recipient has a published gpg key at launchpad
 
-The file needs to be encrypted so only the recipient can decrypt it. This means the recipient needs to have a published gpg key. So, the recipient needs to go through [this part](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment#Create_a_GPG_Key), which describes how to create a gpg key and publish it.
+The file needs to be encrypted so only the recipient can decrypt it. This means the recipient needs to have a published gpg key. So, the recipient needs to go through [this part](SetupDeveloperEnvironment#Create_a_GPG_Key), which describes how to create a gpg key and publish it.
 
 ## Import the published gpg key
 
@@ -375,7 +375,7 @@ gpg --decrypt <filename.gpg>
 
 #### Old PR page archived
 
-[UbuntuStudio/PublicRelationsDocumentationArchive](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive)
+[UbuntuStudio/PublicRelationsDocumentationArchive](PublicRelationsDocumentationArchive)
 
 ***
 

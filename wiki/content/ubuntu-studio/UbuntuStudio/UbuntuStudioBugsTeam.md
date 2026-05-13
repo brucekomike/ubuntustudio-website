@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeam
 
-## [UbuntuStudioBugsTeam](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeam)
+## [UbuntuStudioBugsTeam](UbuntuStudioBugsTeam)
 
 | Task Description | Join this team to be subscribed to all Ubuntu Studio related bugs |
 | --- | --- |
@@ -19,7 +19,7 @@ Join this team to be subscribed to all Ubuntu Studio related bugs
 
 **Team Landing Page**
 
-[Ubuntu Studio Bugs Team Page](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeamPage)
+[Ubuntu Studio Bugs Team Page](UbuntuStudioBugsTeamPage)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

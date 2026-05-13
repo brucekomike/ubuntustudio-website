@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/audio-settings/modules
 
-## [modules](https://wiki.ubuntu.com/UbuntuStudio/audio-settings/modules)
+## [modules](modules)
 
 # Kernel Modules
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/XenialXerus/ReleaseNotes/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/XenialXerus/ReleaseNotes/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 # Release Notes for Ubuntu Studio 16.04 Xenial Xerus
 
@@ -79,7 +79,7 @@ Single **pd** packages have been replaced by **multimedia-puredata** which depen
 # Known Problems
 
 - **recordmydesktop** output is corrupt - video glitching out ([1531852](https://bugs.launchpad.net/bugs/1531852))
-- First entry of the boot-menu "Try [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
+- First entry of the boot-menu "Try [UbuntuStudio](../../../ubuntu-studio/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
 - **parole** crashing with SIGSEGV in cogl_matrix_entry_ref() ([1550198](https://bugs.launchpad.net/bugs/1550198))
 - **[ImageMagick](https://wiki.ubuntu.com/ImageMagick)** Entries not working in whiskers menu ([1550210](https://bugs.launchpad.net/bugs/1550210))
 - **Scribus** defaults to 10.15 Saturday Night BRK Regular font ([1550216](https://bugs.launchpad.net/bugs/1550216))
@@ -87,7 +87,7 @@ Single **pd** packages have been replaced by **multimedia-puredata** which depen
 
 **recordmydesktop** output is corrupt - video glitching out ([1531852](https://bugs.launchpad.net/bugs/1531852))
 
-First entry of the boot-menu "Try [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
+First entry of the boot-menu "Try [UbuntuStudio](../../../ubuntu-studio/UbuntuStudio) without installing" does not get translated into the chosen language ([1550186](https://bugs.launchpad.net/bugs/1550186))
 
 **parole** crashing with SIGSEGV in cogl_matrix_entry_ref() ([1550198](https://bugs.launchpad.net/bugs/1550198))
 
@@ -103,6 +103,6 @@ Ubuntu Studio Xenial Xerus (16.04) is a Long Term Support (LTS) release and will
 
 # Contact Us
 
-Ways to contact the Ubuntu Studio Team are listed [here](https://wiki.ubuntu.com/UbuntuStudio)
+Ways to contact the Ubuntu Studio Team are listed [here](../../../ubuntu-studio/UbuntuStudio)
 
 XenialXerus/ReleaseNotes/UbuntuStudio (last edited 2017-08-03 19:42:48 by [rosco2](https://launchpad.net/~rosco2))

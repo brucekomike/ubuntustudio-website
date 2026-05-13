@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/audio-settings/swap
 
-## [swap](https://wiki.ubuntu.com/UbuntuStudio/audio-settings/swap)
+## [swap](swap)
 
 # Memory Swap Issues
 
@@ -10,7 +10,7 @@ Swap space on a hard drive has been with Linux from almost the beginning. Ram wa
 
 What can be done?
 
-- **Memory Locking**: [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) already gives audio applications the right to use "memory locking". That is, they can tell the OS their data in RAM must not be swapped out. Good first step. However, I have found that one audio app that has no memlock will freeze Jackd while it cycles it's ram back in. Jackd is trying to output a bit of ram that is on disk just now... and all sound stops.
+- **Memory Locking**: [UbuntuStudio](..) already gives audio applications the right to use "memory locking". That is, they can tell the OS their data in RAM must not be swapped out. Good first step. However, I have found that one audio app that has no memlock will freeze Jackd while it cycles it's ram back in. Jackd is trying to output a bit of ram that is on disk just now... and all sound stops.
 - **Swappiness**: This is a variable the kernel uses to decide how full the memory has to be before it starts swapping out bits of memory that are not being used right now. It is based on what is left. The standard Ubuntu setting (an most others) is 60. That is when there is 60% ram left, the kernel starts swapping things out. This is a great setting for a server (the mysql people seem to disagree) but not for a desktop and really bad for audio work. The Linuxmusicians page recommends a setting of 10 and some people recommend a setting of 1 just for normal desktop work. This does seem to help.
 - **zram**: This is a utility that takes some of the ram space and makes a compressed swap space in ram. It can take a 2Gig ram and make it look like 3Gig or more. This compressed swap space is *much* faster than disk swap and makes the desktop more responsive even if an app has been moved to this ram swap. However, for audio even this much faster swap is too slow and there can be a discernible audio drop out if one of the audio samples happens to be swapped out. This could be a partial answer for things like qjackctl that can be swapped out but need to respond to user input quite quickly for things like making connection changes.
 - **swapoff**: How about just turning swap off? There are two reasons not to turn off swap. If Linux goes into hybernation it uses disk swap to hold it's state while the power is off, so no swap means no hybernation. Also, when ram is full, the kernel starts Killing apps or won't let you start them. My answer? Lets say I have 1Gig of Ram and 1Gig of swap (actually that is what I have). That is 2Gig, after that the kernel will shut things off anyway... but I will probably kill stuff before then because of swapping death. I could just go out and buy another Gig of Ram and have a responsive system till I run out at 2Gig. My thought is that it is better for the kernel not to let me start working than for swap to spoil the "perfect take".
@@ -18,7 +18,7 @@ What can be done?
 - **More Ram**: With Ram prices today, this should be a no brainer. Get more Ram! This should probably be the first tweak in the list.
 - **memlock wrapper**: A memlock wrapper to use on audio apps without their own memlock... Does such a thing exist?
 
-**Memory Locking**: [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) already gives audio applications the right to use "memory locking". That is, they can tell the OS their data in RAM must not be swapped out. Good first step. However, I have found that one audio app that has no memlock will freeze Jackd while it cycles it's ram back in. Jackd is trying to output a bit of ram that is on disk just now... and all sound stops.
+**Memory Locking**: [UbuntuStudio](..) already gives audio applications the right to use "memory locking". That is, they can tell the OS their data in RAM must not be swapped out. Good first step. However, I have found that one audio app that has no memlock will freeze Jackd while it cycles it's ram back in. Jackd is trying to output a bit of ram that is on disk just now... and all sound stops.
 
 **Swappiness**: This is a variable the kernel uses to decide how full the memory has to be before it starts swapping out bits of memory that are not being used right now. It is based on what is left. The standard Ubuntu setting (an most others) is 60. That is when there is 60% ram left, the kernel starts swapping things out. This is a great setting for a server (the mysql people seem to disagree) but not for a desktop and really bad for audio work. The Linuxmusicians page recommends a setting of 10 and some people recommend a setting of 1 just for normal desktop work. This does seem to help.
 

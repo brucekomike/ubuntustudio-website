@@ -2,30 +2,30 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/SiteMap
 
-## [SiteMap](https://wiki.ubuntu.com/UbuntuStudio/SiteMap)
+## [SiteMap](SiteMap)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 # Search By Category
 
@@ -40,57 +40,57 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/SiteMap
 7. [CategoryUbuntuStudio PublicRelations](https://wiki.ubuntu.com/CategoryUbuntuStudioPublicRelations?highlight=%28CategoryUbuntuStudio%29)
 8. [CategoryUbuntuStudio Teams](https://wiki.ubuntu.com/CategoryUbuntuStudioTeams?highlight=%28CategoryUbuntuStudio%29)
 9. [CategoryUbuntuStudio Testing](https://wiki.ubuntu.com/CategoryUbuntuStudioTesting?highlight=%28CategoryUbuntuStudio%29)
-10. [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio?highlight=%28CategoryUbuntuStudio%29)
-11. [UbuntuStudio/AllAboutISOs](https://wiki.ubuntu.com/UbuntuStudio/AllAboutISOs?highlight=%28CategoryUbuntuStudio%29)
-12. [UbuntuStudio/ArtTeam](https://wiki.ubuntu.com/UbuntuStudio/ArtTeam?highlight=%28CategoryUbuntuStudio%29)
-13. [UbuntuStudio/Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork?highlight=%28CategoryUbuntuStudio%29)
-14. [UbuntuStudio/Artwork/CarbonTheme](https://wiki.ubuntu.com/UbuntuStudio/Artwork/CarbonTheme?highlight=%28CategoryUbuntuStudio%29)
-15. [UbuntuStudio/Artwork/NewBrand](https://wiki.ubuntu.com/UbuntuStudio/Artwork/NewBrand?highlight=%28CategoryUbuntuStudio%29)
-16. [UbuntuStudio/Artwork/UserContributed](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserContributed?highlight=%28CategoryUbuntuStudio%29)
-17. [UbuntuStudio/Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints?highlight=%28CategoryUbuntuStudio%29)
-18. [UbuntuStudio/ContributorTeam](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeam?highlight=%28CategoryUbuntuStudio%29)
-19. [UbuntuStudio/ContributorTeamPage](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeamPage?highlight=%28CategoryUbuntuStudio%29)
-20. [UbuntuStudio/CoreTeam](https://wiki.ubuntu.com/UbuntuStudio/CoreTeam?highlight=%28CategoryUbuntuStudio%29)
-21. [UbuntuStudio/CoreTeamPage](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage?highlight=%28CategoryUbuntuStudio%29)
-22. [UbuntuStudio/DebDiff](https://wiki.ubuntu.com/UbuntuStudio/DebDiff?highlight=%28CategoryUbuntuStudio%29)
-23. [UbuntuStudio/DevTeam](https://wiki.ubuntu.com/UbuntuStudio/DevTeam?highlight=%28CategoryUbuntuStudio%29)
-24. [UbuntuStudio/DeveloperDocumentation](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation?highlight=%28CategoryUbuntuStudio%29)
-25. [UbuntuStudio/Development](https://wiki.ubuntu.com/UbuntuStudio/Development?highlight=%28CategoryUbuntuStudio%29)
-26. [UbuntuStudio/DevelopmentCycle](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle?highlight=%28CategoryUbuntuStudio%29)
-27. [UbuntuStudio/Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation?highlight=%28CategoryUbuntuStudio%29)
-28. [UbuntuStudio/DocumentationTeam](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeam?highlight=%28CategoryUbuntuStudio%29)
-29. [UbuntuStudio/FeatureDefinitions/InformUsersAboutBackports](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/InformUsersAboutBackports?highlight=%28CategoryUbuntuStudio%29)
-30. [UbuntuStudio/FeatureDefinitions/UserDocumentation](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UserDocumentation?highlight=%28CategoryUbuntuStudio%29)
-31. [UbuntuStudio/FeatureDefinitions/WacomScripts](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WacomScripts?highlight=%28CategoryUbuntuStudio%29)
-32. [UbuntuStudio/FeatureDefinitions/WebsiteXenial](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WebsiteXenial?highlight=%28CategoryUbuntuStudio%29)
-33. [UbuntuStudio/IRCUbuntuStudioOps](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOps?highlight=%28CategoryUbuntuStudio%29)
-34. [UbuntuStudio/KernelTeam](https://wiki.ubuntu.com/UbuntuStudio/KernelTeam?highlight=%28CategoryUbuntuStudio%29)
-35. [UbuntuStudio/LandingPageStaging](https://wiki.ubuntu.com/UbuntuStudio/LandingPageStaging?highlight=%28CategoryUbuntuStudio%29)
-36. [UbuntuStudio/ManagingBlueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints?highlight=%28CategoryUbuntuStudio%29)
-37. [UbuntuStudio/NeedsPackaging](https://wiki.ubuntu.com/UbuntuStudio/NeedsPackaging?highlight=%28CategoryUbuntuStudio%29)
-38. [UbuntuStudio/Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization?highlight=%28CategoryUbuntuStudio%29)
-39. [UbuntuStudio/PRSupportTeam](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeam?highlight=%28CategoryUbuntuStudio%29)
-40. [UbuntuStudio/PackageSelection/yakkety](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection/yakkety?highlight=%28CategoryUbuntuStudio%29)
-41. [UbuntuStudio/ProjectLeadVote2016](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016?highlight=%28CategoryUbuntuStudio%29)
-42. [UbuntuStudio/ProjectLeadVote2016/Sakrecoer](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016/Sakrecoer?highlight=%28CategoryUbuntuStudio%29)
-43. [UbuntuStudio/PublicRelationsDocumentation](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation?highlight=%28CategoryUbuntuStudio%29)
-44. [UbuntuStudio/PublicRelationsDocumentationArchive](https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentationArchive?highlight=%28CategoryUbuntuStudio%29)
-45. [UbuntuStudio/RaringBlueprintsCategories](https://wiki.ubuntu.com/UbuntuStudio/RaringBlueprintsCategories?highlight=%28CategoryUbuntuStudio%29)
-46. [UbuntuStudio/RaringReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/RaringReleaseSchedule?highlight=%28CategoryUbuntuStudio%29)
-47. [UbuntuStudio/ReleaseTeam](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeam?highlight=%28CategoryUbuntuStudio%29)
-48. [UbuntuStudio/SaucyBlueprintsCategories](https://wiki.ubuntu.com/UbuntuStudio/SaucyBlueprintsCategories?highlight=%28CategoryUbuntuStudio%29)
-49. [UbuntuStudio/SaucyReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/SaucyReleaseSchedule?highlight=%28CategoryUbuntuStudio%29)
-50. [UbuntuStudio/SetupDeveloperEnvironment](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment?highlight=%28CategoryUbuntuStudio%29)
-51. [UbuntuStudio/SetupLocalIsoBuildServer](https://wiki.ubuntu.com/UbuntuStudio/SetupLocalIsoBuildServer?highlight=%28CategoryUbuntuStudio%29)
-52. [UbuntuStudio/SiteMap](https://wiki.ubuntu.com/UbuntuStudio/SiteMap?highlight=%28CategoryUbuntuStudio%29)
-53. [UbuntuStudio/TeamStructure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure?highlight=%28CategoryUbuntuStudio%29)
-54. [UbuntuStudio/TestingDocumentation](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation?highlight=%28CategoryUbuntuStudio%29)
-55. [UbuntuStudio/TestingTeam](https://wiki.ubuntu.com/UbuntuStudio/TestingTeam?highlight=%28CategoryUbuntuStudio%29)
-56. [UbuntuStudio/UbuntuStudioBugsTeam](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeam?highlight=%28CategoryUbuntuStudio%29)
-57. [UbuntuStudio/UbuntuStudioDevTemplate](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioDevTemplate?highlight=%28CategoryUbuntuStudio%29)
-58. [UbuntuStudio/UbuntuStudioTeam](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeam?highlight=%28CategoryUbuntuStudio%29)
-59. [UbuntuStudio/WebsiteTeam](https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeam?highlight=%28CategoryUbuntuStudio%29)
-60. [UbuntuStudio/Workflows/Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video?highlight=%28CategoryUbuntuStudio%29)
+10. [UbuntuStudio](index)
+11. [UbuntuStudio/AllAboutISOs](AllAboutISOs)
+12. [UbuntuStudio/ArtTeam](ArtTeam)
+13. [UbuntuStudio/Artwork](Artwork)
+14. [UbuntuStudio/Artwork/CarbonTheme](Artwork/CarbonTheme)
+15. [UbuntuStudio/Artwork/NewBrand](Artwork/NewBrand)
+16. [UbuntuStudio/Artwork/UserContributed](Artwork/UserContributed)
+17. [UbuntuStudio/Blueprints](Blueprints)
+18. [UbuntuStudio/ContributorTeam](ContributorTeam)
+19. [UbuntuStudio/ContributorTeamPage](ContributorTeamPage)
+20. [UbuntuStudio/CoreTeam](CoreTeam)
+21. [UbuntuStudio/CoreTeamPage](CoreTeamPage)
+22. [UbuntuStudio/DebDiff](DebDiff)
+23. [UbuntuStudio/DevTeam](DevTeam)
+24. [UbuntuStudio/DeveloperDocumentation](DeveloperDocumentation)
+25. [UbuntuStudio/Development](Development)
+26. [UbuntuStudio/DevelopmentCycle](DevelopmentCycle)
+27. [UbuntuStudio/Documentation](Documentation)
+28. [UbuntuStudio/DocumentationTeam](DocumentationTeam)
+29. [UbuntuStudio/FeatureDefinitions/InformUsersAboutBackports](FeatureDefinitions/InformUsersAboutBackports)
+30. [UbuntuStudio/FeatureDefinitions/UserDocumentation](FeatureDefinitions/UserDocumentation)
+31. [UbuntuStudio/FeatureDefinitions/WacomScripts](FeatureDefinitions/WacomScripts)
+32. [UbuntuStudio/FeatureDefinitions/WebsiteXenial](FeatureDefinitions/WebsiteXenial)
+33. [UbuntuStudio/IRCUbuntuStudioOps](IRCUbuntuStudioOps)
+34. [UbuntuStudio/KernelTeam](KernelTeam)
+35. [UbuntuStudio/LandingPageStaging](LandingPageStaging)
+36. [UbuntuStudio/ManagingBlueprints](ManagingBlueprints)
+37. [UbuntuStudio/NeedsPackaging](NeedsPackaging)
+38. [UbuntuStudio/Organization](Organization)
+39. [UbuntuStudio/PRSupportTeam](PRSupportTeam)
+40. [UbuntuStudio/PackageSelection/yakkety](PackageSelection/yakkety)
+41. [UbuntuStudio/ProjectLeadVote2016](ProjectLeadVote2016)
+42. [UbuntuStudio/ProjectLeadVote2016/Sakrecoer](ProjectLeadVote2016/Sakrecoer)
+43. [UbuntuStudio/PublicRelationsDocumentation](PublicRelationsDocumentation)
+44. [UbuntuStudio/PublicRelationsDocumentationArchive](PublicRelationsDocumentationArchive)
+45. [UbuntuStudio/RaringBlueprintsCategories](RaringBlueprintsCategories)
+46. [UbuntuStudio/RaringReleaseSchedule](RaringReleaseSchedule)
+47. [UbuntuStudio/ReleaseTeam](ReleaseTeam)
+48. [UbuntuStudio/SaucyBlueprintsCategories](SaucyBlueprintsCategories)
+49. [UbuntuStudio/SaucyReleaseSchedule](SaucyReleaseSchedule)
+50. [UbuntuStudio/SetupDeveloperEnvironment](SetupDeveloperEnvironment)
+51. [UbuntuStudio/SetupLocalIsoBuildServer](SetupLocalIsoBuildServer)
+52. [UbuntuStudio/SiteMap](SiteMap)
+53. [UbuntuStudio/TeamStructure](TeamStructure)
+54. [UbuntuStudio/TestingDocumentation](TestingDocumentation)
+55. [UbuntuStudio/TestingTeam](TestingTeam)
+56. [UbuntuStudio/UbuntuStudioBugsTeam](UbuntuStudioBugsTeam)
+57. [UbuntuStudio/UbuntuStudioDevTemplate](UbuntuStudioDevTemplate)
+58. [UbuntuStudio/UbuntuStudioTeam](UbuntuStudioTeam)
+59. [UbuntuStudio/WebsiteTeam](WebsiteTeam)
+60. [UbuntuStudio/Workflows/Video](Workflows/Video)
 
 # All Ubuntu Studio supbpages for wiki.ubuntu.com/UbuntuStudio
 

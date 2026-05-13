@@ -2,42 +2,42 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old
 
-## [old](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old)
+## [old](old)
 
 | Contents Audience James : Independent Musician Why he's the (main) target audience Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him. Offer encouraging and easy to get support Possible Website Themes Shiny Punk DIY Stylized Comic Book Website Mock-ups Audio Horizons v2 Impact Rough Site Map Original vs Planned Site: Original Documentation Central Ideas/Concepts Technicals/Implementation Other Points Miscellaneous |
 | --- |
 
 Contents
 
-1. [Audience](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Audience) [James : Independent Musician](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#James_:_Independent_Musician) [Why he's the (main) target audience](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Why_he.27s_the_.28main.29_target_audience) [Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him.](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Tell_him_what_he_can_do_with_Ubuntu_Studio.2C_in_language_that_is_relevant_and_meaningful_to_him.) [Offer encouraging and easy to get support](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Offer_encouraging_and_easy_to_get_support)
-2. [Possible Website Themes](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Possible_Website_Themes) [Shiny](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Shiny) [Punk DIY](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Punk_DIY) [Stylized Comic Book](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Stylized_Comic_Book)
-3. [Website Mock-ups](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Website_Mock-ups) [Audio Horizons v2](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Audio_Horizons_v2) [Impact](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Impact)
-4. [Rough Site Map](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Rough_Site_Map)
-5. [Original vs Planned Site:](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Original_vs_Planned_Site:)
-6. [Original Documentation](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Original_Documentation) [Central Ideas/Concepts](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Central_Ideas.2FConcepts) [Technicals/Implementation](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Technicals.2FImplementation) [Other Points](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Other_Points) [Miscellaneous](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Miscellaneous)
+1. [Audience](old#Audience) [James : Independent Musician](old#James_:_Independent_Musician) [Why he's the (main) target audience](old#Why_he.27s_the_.28main.29_target_audience) [Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him.](old#Tell_him_what_he_can_do_with_Ubuntu_Studio.2C_in_language_that_is_relevant_and_meaningful_to_him.) [Offer encouraging and easy to get support](old#Offer_encouraging_and_easy_to_get_support)
+2. [Possible Website Themes](old#Possible_Website_Themes) [Shiny](old#Shiny) [Punk DIY](old#Punk_DIY) [Stylized Comic Book](old#Stylized_Comic_Book)
+3. [Website Mock-ups](old#Website_Mock-ups) [Audio Horizons v2](old#Audio_Horizons_v2) [Impact](old#Impact)
+4. [Rough Site Map](old#Rough_Site_Map)
+5. [Original vs Planned Site:](old#Original_vs_Planned_Site:)
+6. [Original Documentation](old#Original_Documentation) [Central Ideas/Concepts](old#Central_Ideas.2FConcepts) [Technicals/Implementation](old#Technicals.2FImplementation) [Other Points](old#Other_Points) [Miscellaneous](old#Miscellaneous)
 
-1. [James : Independent Musician](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#James_:_Independent_Musician) [Why he's the (main) target audience](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Why_he.27s_the_.28main.29_target_audience) [Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him.](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Tell_him_what_he_can_do_with_Ubuntu_Studio.2C_in_language_that_is_relevant_and_meaningful_to_him.) [Offer encouraging and easy to get support](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Offer_encouraging_and_easy_to_get_support)
+1. [James : Independent Musician](old#James_:_Independent_Musician) [Why he's the (main) target audience](old#Why_he.27s_the_.28main.29_target_audience) [Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him.](old#Tell_him_what_he_can_do_with_Ubuntu_Studio.2C_in_language_that_is_relevant_and_meaningful_to_him.) [Offer encouraging and easy to get support](old#Offer_encouraging_and_easy_to_get_support)
 
-1. [Why he's the (main) target audience](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Why_he.27s_the_.28main.29_target_audience)
-2. [Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him.](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Tell_him_what_he_can_do_with_Ubuntu_Studio.2C_in_language_that_is_relevant_and_meaningful_to_him.)
-3. [Offer encouraging and easy to get support](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Offer_encouraging_and_easy_to_get_support)
+1. [Why he's the (main) target audience](old#Why_he.27s_the_.28main.29_target_audience)
+2. [Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him.](old#Tell_him_what_he_can_do_with_Ubuntu_Studio.2C_in_language_that_is_relevant_and_meaningful_to_him.)
+3. [Offer encouraging and easy to get support](old#Offer_encouraging_and_easy_to_get_support)
 
-1. [Shiny](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Shiny)
-2. [Punk DIY](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Punk_DIY)
-3. [Stylized Comic Book](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Stylized_Comic_Book)
+1. [Shiny](old#Shiny)
+2. [Punk DIY](old#Punk_DIY)
+3. [Stylized Comic Book](old#Stylized_Comic_Book)
 
-1. [Audio Horizons v2](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Audio_Horizons_v2)
-2. [Impact](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Impact)
+1. [Audio Horizons v2](old#Audio_Horizons_v2)
+2. [Impact](old#Impact)
 
-1. [Central Ideas/Concepts](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Central_Ideas.2FConcepts)
-2. [Technicals/Implementation](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Technicals.2FImplementation)
-3. [Other Points](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Other_Points)
-4. [Miscellaneous](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old#Miscellaneous)
+1. [Central Ideas/Concepts](old#Central_Ideas.2FConcepts)
+2. [Technicals/Implementation](old#Technicals.2FImplementation)
+3. [Other Points](old#Other_Points)
+4. [Miscellaneous](old#Miscellaneous)
 
 | Back to Natty Narwhal Release Planning |
 | --- |
 
-[Back to Natty Narwhal Release Planning](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning)
+[Back to Natty Narwhal Release Planning](../ReleasePlanning)
 
 This is a scratch page for ideas and organization surrounding the revamp of www.ubuntustudio.org
 
@@ -91,7 +91,7 @@ Cory created a wiki page devoted to exemplifying the punk-DIY.
 
 Example: [/UbuntuStudio/TaskWebRevamp/old?action=AttachFile&do=upload_form&ticket=0069ffc170.6db1ba6d1c11a97b4eef7437cf47590e926a2176&target=DIY-example.jpg](../../../_assets/wiki_ubuntu_com/UbuntuStudio/TaskWebRevamp/old/DIY-example.jpg)
 
-For more examples, see Cory's wiki page: [https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept)
+For more examples, see Cory's wiki page: [UbuntuStudio/Artwork/DIYConcept](../Artwork/DIYConcept)
 
 #### Stylized Comic Book
 

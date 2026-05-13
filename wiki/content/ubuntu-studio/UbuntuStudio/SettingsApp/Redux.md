@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/SettingsApp/Redux
 
-## [Redux](https://wiki.ubuntu.com/UbuntuStudio/SettingsApp/Redux)
+## [Redux](Redux)
 
 ## New Hitlist
 

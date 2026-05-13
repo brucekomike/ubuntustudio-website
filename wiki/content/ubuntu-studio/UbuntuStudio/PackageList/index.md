@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageList
 
-## [PackageList](https://wiki.ubuntu.com/UbuntuStudio/PackageList)
+## [PackageList](index)
 
 | OUTDATED |
 | --- |
@@ -11,7 +11,7 @@ OUTDATED
 
 This page is a basic overview of what makes up Ubuntu Studio.
 
-This is just a brief catalog; [UbuntuStudio/Applications](https://help.ubuntu.com/community/UbuntuStudio/Applications) in the community documentation has some more information about many of these packages.
+This is just a brief catalog; [UbuntuStudio/Applications](Applications) in the community documentation has some more information about many of these packages.
 
 ## ubuntustudio-desktop
 
@@ -124,7 +124,7 @@ Miscellaneous / uncategorized
 
 fluid-soundfont-gm - This is a GM [SoundFont](https://wiki.ubuntu.com/SoundFont), for use with any modern MIDI synthesiser: hardware (like the emu10k1 sound card), or software (like [FluidSynth](https://wiki.ubuntu.com/FluidSynth)).
 
-The categories here were more or less copied from [JacobCreedon](https://wiki.ubuntu.com/JacobCreedon)'s division at [http://help.ubuntu.com/community/UbuntuStudio/Audio](http://help.ubuntu.com/community/UbuntuStudio/Audio)
+The categories here were more or less copied from [JacobCreedon](https://wiki.ubuntu.com/JacobCreedon)'s division at [UbuntuStudio/Audio](Audio)
 
 ## ubuntustudio-audio-plugins
 

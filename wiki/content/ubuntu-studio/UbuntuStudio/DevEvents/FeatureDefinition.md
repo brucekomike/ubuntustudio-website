@@ -2,30 +2,30 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition
 
-## [FeatureDefinition](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition)
+## [FeatureDefinition](FeatureDefinition)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 In the beginning of a development we do feature definition.
 
@@ -41,11 +41,11 @@ Discuss on mail list, irc and social channels about feature additions. Collect i
 
 week 8-9
 
-finalize [blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) at around week 8, and have them approved by ubuntustudio-core team before [FeatureDefinitionFreeze](https://wiki.ubuntu.com/FeatureDefinitionFreeze)
+finalize [blueprints](../Blueprints) at around week 8, and have them approved by ubuntustudio-core team before [FeatureDefinitionFreeze](https://wiki.ubuntu.com/FeatureDefinitionFreeze)
 
 ## Making Feature Specifications (blueprints)
 
-Planning of feature changes is done primarily by the use of [feature specifications](https://wiki.ubuntu.com/FeatureSpecifications) in the form of blueprints at [http://launchpad.net](http://launchpad.net). See our [Blueprints page](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) for an oversight of our active blueprints.
+Planning of feature changes is done primarily by the use of [feature specifications](https://wiki.ubuntu.com/FeatureSpecifications) in the form of blueprints at [http://launchpad.net](http://launchpad.net). See our [Blueprints page](../Blueprints) for an oversight of our active blueprints.
 
 ### Suggesting changes
 

@@ -2,32 +2,32 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming
 
-## [WorkflowsBrainstorming](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming)
+## [WorkflowsBrainstorming](WorkflowsBrainstorming)
 
 | Contents Abstract Approved Tasks Approved Workflows for 12.04 LTS Workflow Based Menu Possible Future Workflows Live Music/Video Live Video Live Music User workflows holstein Introducing Ubuntu Studio Software to the User Using videos Using a script Using Ladish |
 | --- |
 
 Contents
 
-1. [Abstract](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Abstract)
-2. [Approved Tasks](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Approved_Tasks) [Approved Workflows for 12.04 LTS](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Approved_Workflows_for_12.04_LTS)
-3. [Workflow Based Menu](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Workflow_Based_Menu)
-4. [Possible Future Workflows](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Possible_Future_Workflows) [Live Music/Video](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Live_Music.2FVideo) [Live Video](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Live_Video) [Live Music](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Live_Music) [User workflows](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#User_workflows) [holstein](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#holstein) [Introducing Ubuntu Studio Software to the User](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Introducing_Ubuntu_Studio_Software_to_the_User) [Using videos](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Using_videos) [Using a script](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Using_a_script) [Using Ladish](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Using_Ladish)
+1. [Abstract](WorkflowsBrainstorming#Abstract)
+2. [Approved Tasks](WorkflowsBrainstorming#Approved_Tasks) [Approved Workflows for 12.04 LTS](WorkflowsBrainstorming#Approved_Workflows_for_12.04_LTS)
+3. [Workflow Based Menu](WorkflowsBrainstorming#Workflow_Based_Menu)
+4. [Possible Future Workflows](WorkflowsBrainstorming#Possible_Future_Workflows) [Live Music/Video](WorkflowsBrainstorming#Live_Music.2FVideo) [Live Video](WorkflowsBrainstorming#Live_Video) [Live Music](WorkflowsBrainstorming#Live_Music) [User workflows](WorkflowsBrainstorming#User_workflows) [holstein](WorkflowsBrainstorming#holstein) [Introducing Ubuntu Studio Software to the User](WorkflowsBrainstorming#Introducing_Ubuntu_Studio_Software_to_the_User) [Using videos](WorkflowsBrainstorming#Using_videos) [Using a script](WorkflowsBrainstorming#Using_a_script) [Using Ladish](WorkflowsBrainstorming#Using_Ladish)
 
-1. [Approved Workflows for 12.04 LTS](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Approved_Workflows_for_12.04_LTS)
+1. [Approved Workflows for 12.04 LTS](WorkflowsBrainstorming#Approved_Workflows_for_12.04_LTS)
 
-1. [Live Music/Video](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Live_Music.2FVideo) [Live Video](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Live_Video) [Live Music](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Live_Music)
-2. [User workflows](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#User_workflows) [holstein](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#holstein)
-3. [Introducing Ubuntu Studio Software to the User](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Introducing_Ubuntu_Studio_Software_to_the_User) [Using videos](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Using_videos) [Using a script](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Using_a_script) [Using Ladish](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Using_Ladish)
+1. [Live Music/Video](WorkflowsBrainstorming#Live_Music.2FVideo) [Live Video](WorkflowsBrainstorming#Live_Video) [Live Music](WorkflowsBrainstorming#Live_Music)
+2. [User workflows](WorkflowsBrainstorming#User_workflows) [holstein](WorkflowsBrainstorming#holstein)
+3. [Introducing Ubuntu Studio Software to the User](WorkflowsBrainstorming#Introducing_Ubuntu_Studio_Software_to_the_User) [Using videos](WorkflowsBrainstorming#Using_videos) [Using a script](WorkflowsBrainstorming#Using_a_script) [Using Ladish](WorkflowsBrainstorming#Using_Ladish)
 
-1. [Live Video](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Live_Video)
-2. [Live Music](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Live_Music)
+1. [Live Video](WorkflowsBrainstorming#Live_Video)
+2. [Live Music](WorkflowsBrainstorming#Live_Music)
 
-1. [holstein](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#holstein)
+1. [holstein](WorkflowsBrainstorming#holstein)
 
-1. [Using videos](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Using_videos)
-2. [Using a script](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Using_a_script)
-3. [Using Ladish](https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming#Using_Ladish)
+1. [Using videos](WorkflowsBrainstorming#Using_videos)
+2. [Using a script](WorkflowsBrainstorming#Using_a_script)
+3. [Using Ladish](WorkflowsBrainstorming#Using_Ladish)
 
 # Abstract
 
@@ -37,7 +37,7 @@ Not only will this improve and qualify the quality of application selection set 
 
 **Please feel free to use whatever form you wish to add ideas. This page is purely for development work.**
 
-To view how the workflows effect package selection please see the [Package Selection Development page](https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment). ** Please do not edit the Package Selection page unless you are a Ubuntu Studio Developer!**
+To view how the workflows effect package selection please see the [Package Selection Development page](PackageSelectionDevelopment). ** Please do not edit the Package Selection page unless you are a Ubuntu Studio Developer!**
 
 # Approved Tasks
 
@@ -45,24 +45,24 @@ Listed below are the approved workflows for the next release. These pages are st
 
 ## Approved Workflows for 12.04 LTS
 
-1. [Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio) - Audio recording and editing, audio programming, podcasting, live music capture, etc.
-2. [Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video) - Video capture, editing, and production
-3. [Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics) - Creating images, creating marketing/promotional material
-4. [Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography) - Beginner and Professional photo manipulation
+1. [Audio](Workflows/Audio) - Audio recording and editing, audio programming, podcasting, live music capture, etc.
+2. [Video](Workflows/Video) - Video capture, editing, and production
+3. [Graphics](Workflows/Graphics) - Creating images, creating marketing/promotional material
+4. [Photography](Workflows/Photography) - Beginner and Professional photo manipulation
 
-[Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio) - Audio recording and editing, audio programming, podcasting, live music capture, etc.
+[Audio](Workflows/Audio) - Audio recording and editing, audio programming, podcasting, live music capture, etc.
 
-[Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video) - Video capture, editing, and production
+[Video](Workflows/Video) - Video capture, editing, and production
 
-[Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics) - Creating images, creating marketing/promotional material
+[Graphics](Workflows/Graphics) - Creating images, creating marketing/promotional material
 
-[Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography) - Beginner and Professional photo manipulation
+[Photography](Workflows/Photography) - Beginner and Professional photo manipulation
 
 # Workflow Based Menu
 
-- [Workflow Menu](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu) - How to best implement a workflow based format for the main menu?
+- [Workflow Menu](WorkflowMenu) - How to best implement a workflow based format for the main menu?
 
-[Workflow Menu](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu) - How to best implement a workflow based format for the main menu?
+[Workflow Menu](WorkflowMenu) - How to best implement a workflow based format for the main menu?
 
 # Possible Future Workflows
 

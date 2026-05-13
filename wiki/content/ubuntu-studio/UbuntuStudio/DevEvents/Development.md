@@ -2,30 +2,30 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development
 
-## [Development](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development)
+## [Development](Development)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 ## Tasks during development
 
@@ -42,7 +42,7 @@ Preliminary development before [FeatureDefinitionFreeze](https://wiki.ubuntu.com
 
 week 5-17
 
-Implement features as defined in [blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) until [FeatureFreeze](https://wiki.ubuntu.com/FeatureFreeze)
+Implement features as defined in [blueprints](../Blueprints) until [FeatureFreeze](https://wiki.ubuntu.com/FeatureFreeze)
 
 week 5-20
 
@@ -60,8 +60,8 @@ Bug-fixing of added features until [FinalFreeze](https://wiki.ubuntu.com/FinalFr
 
 ### week 1-4
 
-- [ubuntustudio-meta](https://wiki.ubuntu.com/UbuntuStudio/Source/ubuntustudio-meta) - change update.cfg to use latest seeds as soon as archive opens
+- [ubuntustudio-meta](../Source/ubuntustudio-meta) - change update.cfg to use latest seeds as soon as archive opens
 
-[ubuntustudio-meta](https://wiki.ubuntu.com/UbuntuStudio/Source/ubuntustudio-meta) - change update.cfg to use latest seeds as soon as archive opens
+[ubuntustudio-meta](../Source/ubuntustudio-meta) - change update.cfg to use latest seeds as soon as archive opens
 
 UbuntuStudio/DevEvents/Development (last edited 2015-04-26 14:12:04 by h-141-65)

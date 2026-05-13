@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/12.04/LTS-Proposal
 
-## [LTS-Proposal](https://wiki.ubuntu.com/UbuntuStudio/12.04/LTS-Proposal)
+## [LTS-Proposal](LTS-Proposal)
 
 ## Ubuntu Studio 12.04 LTS
 

@@ -2,29 +2,29 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu
 
-## [WorkflowMenu](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu)
+## [WorkflowMenu](WorkflowMenu)
 
 | Contents Audio /Jack (Pro Audio Control) /Midi Utilities /DAW (recording/mixing/mastering/sequencing) /Midi Sequencers/Trackers /Editing /Mastering /Mixers /Plugin Hosts /Instruments /Convert Graphics Video Photography Publishing |
 | --- |
 
 Contents
 
-1. [Audio](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#Audio) [/Jack (Pro Audio Control)](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FJack_.28Pro_Audio_Control.29) [/Midi Utilities](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FMidi_Utilities) [/DAW (recording/mixing/mastering/sequencing)](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FDAW_.28recording.2Fmixing.2Fmastering.2Fsequencing.29) [/Midi Sequencers/Trackers](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FMidi_Sequencers.2FTrackers) [/Editing](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FEditing) [/Mastering](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FMastering) [/Mixers](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FMixers) [/Plugin Hosts](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FPlugin_Hosts) [/Instruments](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FInstruments) [/Convert](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FConvert)
-2. [Graphics](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#Graphics)
-3. [Video](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#Video)
-4. [Photography](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#Photography)
-5. [Publishing](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#Publishing)
+1. [Audio](WorkflowMenu#Audio) [/Jack (Pro Audio Control)](WorkflowMenu#A.2FJack_.28Pro_Audio_Control.29) [/Midi Utilities](WorkflowMenu#A.2FMidi_Utilities) [/DAW (recording/mixing/mastering/sequencing)](WorkflowMenu#A.2FDAW_.28recording.2Fmixing.2Fmastering.2Fsequencing.29) [/Midi Sequencers/Trackers](WorkflowMenu#A.2FMidi_Sequencers.2FTrackers) [/Editing](WorkflowMenu#A.2FEditing) [/Mastering](WorkflowMenu#A.2FMastering) [/Mixers](WorkflowMenu#A.2FMixers) [/Plugin Hosts](WorkflowMenu#A.2FPlugin_Hosts) [/Instruments](WorkflowMenu#A.2FInstruments) [/Convert](WorkflowMenu#A.2FConvert)
+2. [Graphics](WorkflowMenu#Graphics)
+3. [Video](WorkflowMenu#Video)
+4. [Photography](WorkflowMenu#Photography)
+5. [Publishing](WorkflowMenu#Publishing)
 
-1. [/Jack (Pro Audio Control)](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FJack_.28Pro_Audio_Control.29)
-2. [/Midi Utilities](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FMidi_Utilities)
-3. [/DAW (recording/mixing/mastering/sequencing)](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FDAW_.28recording.2Fmixing.2Fmastering.2Fsequencing.29)
-4. [/Midi Sequencers/Trackers](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FMidi_Sequencers.2FTrackers)
-5. [/Editing](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FEditing)
-6. [/Mastering](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FMastering)
-7. [/Mixers](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FMixers)
-8. [/Plugin Hosts](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FPlugin_Hosts)
-9. [/Instruments](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FInstruments)
-10. [/Convert](https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu#A.2FConvert)
+1. [/Jack (Pro Audio Control)](WorkflowMenu#A.2FJack_.28Pro_Audio_Control.29)
+2. [/Midi Utilities](WorkflowMenu#A.2FMidi_Utilities)
+3. [/DAW (recording/mixing/mastering/sequencing)](WorkflowMenu#A.2FDAW_.28recording.2Fmixing.2Fmastering.2Fsequencing.29)
+4. [/Midi Sequencers/Trackers](WorkflowMenu#A.2FMidi_Sequencers.2FTrackers)
+5. [/Editing](WorkflowMenu#A.2FEditing)
+6. [/Mastering](WorkflowMenu#A.2FMastering)
+7. [/Mixers](WorkflowMenu#A.2FMixers)
+8. [/Plugin Hosts](WorkflowMenu#A.2FPlugin_Hosts)
+9. [/Instruments](WorkflowMenu#A.2FInstruments)
+10. [/Convert](WorkflowMenu#A.2FConvert)
 
 In a traditional menu, an application is put under a category which defines the application. i.e., Ardour is an application which can record and process audio, so it would be put under the **audio** category (if such exists).
 
@@ -32,7 +32,7 @@ In a workflow based menu, one application can be put under many categories, wher
 
 ## Audio
 
-(reference [https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio))
+(reference [UbuntuStudio/Workflows/Audio](Workflows/Audio))
 
 This is the main category for the **audio** workflow. The first application starter here should probably be a link to audio workflow documentation.
 
@@ -107,7 +107,7 @@ Good label? Own category needed? Convert between multiple formates.
 
 ## Graphics
 
-(reference [https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics))
+(reference [UbuntuStudio/Workflows/Graphics](Workflows/Graphics))
 
 This is the main category for the **Graphics** workflow. The first application starter here should probably be a link to graphics workflow documentation.
 
@@ -115,7 +115,7 @@ This is the main category for the **Graphics** workflow. The first application s
 
 ## Video
 
-(reference [https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video))
+(reference [UbuntuStudio/Workflows/Video](Workflows/Video))
 
 This is the main category for the **Video** workflow. The first application starter here should probably be a link to video workflow documentation.
 
@@ -123,7 +123,7 @@ This is the main category for the **Video** workflow. The first application star
 
 ## Photography
 
-(reference [https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography))
+(reference [UbuntuStudio/Workflows/Photography](Workflows/Photography))
 
 This is the main category for the **Photography** workflow. The first application starter here should probably be a link to photography workflow documentation.
 

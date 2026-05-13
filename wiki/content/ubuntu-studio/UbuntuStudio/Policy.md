@@ -2,61 +2,61 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Policy
 
-## [Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy)
+## [Policy](Policy)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
 | --- |
 
-**-- [Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/OrganizationSideBar?action=edit))** **Organization** - [Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy) - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) -- [Project Lead Vote 2016](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016) - [Team Structure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) - [Release Procedure](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule) - [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) - [Feature Definitions](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions) - [Package Selection](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection) - [Dates (not used)](https://wiki.ubuntu.com/UbuntuStudio/Dates) - [Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings) **Planning Documentation** - [Managing Blueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints) - [Development Cycle](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle) .. [Feature Definition Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition) .. [Development Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development) .. [Testing Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing) .. [Releasing](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Release)
+**-- [Organization](Organization) Side Bar -- ([Edit](Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](Policy) - [Project Lead Vote](ProjectLeadVote) -- [Project Lead Vote 2016](ProjectLeadVote2016) - [Team Structure](TeamStructure) - [Release Procedure](ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](DevelopmentReleaseSchedule) - [Blueprints](Blueprints) - [Feature Definitions](FeatureDefinitions) - [Package Selection](PackageSelection) - [Dates (not used)](Dates) - [Meetings](Meetings) **Planning Documentation** - [Managing Blueprints](ManagingBlueprints) - [Development Cycle](DevelopmentCycle) .. [Feature Definition Period](DevEvents/FeatureDefinition) .. [Development Period](DevEvents/Development) .. [Testing Period](DevEvents/Testing) .. [Releasing](DevEvents/Release)
 
 Contents
 
-1. [Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy#Ubuntu_Studio_Policy) [The Purpose of Ubuntu Studio](https://wiki.ubuntu.com/UbuntuStudio/Policy#The_Purpose_of_Ubuntu_Studio) [Vote for new project lead](https://wiki.ubuntu.com/UbuntuStudio/Policy#Vote_for_new_project_lead) [Selecting preinstalled packages](https://wiki.ubuntu.com/UbuntuStudio/Policy#Selecting_preinstalled_packages) [Cover all workflows](https://wiki.ubuntu.com/UbuntuStudio/Policy#Cover_all_workflows) [No duplication of tools](https://wiki.ubuntu.com/UbuntuStudio/Policy#No_duplication_of_tools) [Deciding between two of the same](https://wiki.ubuntu.com/UbuntuStudio/Policy#Deciding_between_two_of_the_same) [Pro Tool vs Beginner Tool](https://wiki.ubuntu.com/UbuntuStudio/Policy#Pro_Tool_vs_Beginner_Tool)
-2. [Inherited Policies](https://wiki.ubuntu.com/UbuntuStudio/Policy#Inherited_Policies) [Ubuntu](https://wiki.ubuntu.com/UbuntuStudio/Policy#Ubuntu) [General Terms and Policies](https://wiki.ubuntu.com/UbuntuStudio/Policy#General_Terms_and_Policies) [Contributors](https://wiki.ubuntu.com/UbuntuStudio/Policy#Contributors) [Mailing Lists](https://wiki.ubuntu.com/UbuntuStudio/Policy#Mailing_Lists) [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Policy#Packaging) [Debian](https://wiki.ubuntu.com/UbuntuStudio/Policy#Debian) [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Policy#Packaging-1)
+1. [Ubuntu Studio Policy](Policy#Ubuntu_Studio_Policy) [The Purpose of Ubuntu Studio](Policy#The_Purpose_of_Ubuntu_Studio) [Vote for new project lead](Policy#Vote_for_new_project_lead) [Selecting preinstalled packages](Policy#Selecting_preinstalled_packages) [Cover all workflows](Policy#Cover_all_workflows) [No duplication of tools](Policy#No_duplication_of_tools) [Deciding between two of the same](Policy#Deciding_between_two_of_the_same) [Pro Tool vs Beginner Tool](Policy#Pro_Tool_vs_Beginner_Tool)
+2. [Inherited Policies](Policy#Inherited_Policies) [Ubuntu](Policy#Ubuntu) [General Terms and Policies](Policy#General_Terms_and_Policies) [Contributors](Policy#Contributors) [Mailing Lists](Policy#Mailing_Lists) [Packaging](Policy#Packaging) [Debian](Policy#Debian) [Packaging](Policy#Packaging-1)
 
-1. [The Purpose of Ubuntu Studio](https://wiki.ubuntu.com/UbuntuStudio/Policy#The_Purpose_of_Ubuntu_Studio)
-2. [Vote for new project lead](https://wiki.ubuntu.com/UbuntuStudio/Policy#Vote_for_new_project_lead)
-3. [Selecting preinstalled packages](https://wiki.ubuntu.com/UbuntuStudio/Policy#Selecting_preinstalled_packages) [Cover all workflows](https://wiki.ubuntu.com/UbuntuStudio/Policy#Cover_all_workflows) [No duplication of tools](https://wiki.ubuntu.com/UbuntuStudio/Policy#No_duplication_of_tools) [Deciding between two of the same](https://wiki.ubuntu.com/UbuntuStudio/Policy#Deciding_between_two_of_the_same) [Pro Tool vs Beginner Tool](https://wiki.ubuntu.com/UbuntuStudio/Policy#Pro_Tool_vs_Beginner_Tool)
+1. [The Purpose of Ubuntu Studio](Policy#The_Purpose_of_Ubuntu_Studio)
+2. [Vote for new project lead](Policy#Vote_for_new_project_lead)
+3. [Selecting preinstalled packages](Policy#Selecting_preinstalled_packages) [Cover all workflows](Policy#Cover_all_workflows) [No duplication of tools](Policy#No_duplication_of_tools) [Deciding between two of the same](Policy#Deciding_between_two_of_the_same) [Pro Tool vs Beginner Tool](Policy#Pro_Tool_vs_Beginner_Tool)
 
-1. [Cover all workflows](https://wiki.ubuntu.com/UbuntuStudio/Policy#Cover_all_workflows) [No duplication of tools](https://wiki.ubuntu.com/UbuntuStudio/Policy#No_duplication_of_tools) [Deciding between two of the same](https://wiki.ubuntu.com/UbuntuStudio/Policy#Deciding_between_two_of_the_same) [Pro Tool vs Beginner Tool](https://wiki.ubuntu.com/UbuntuStudio/Policy#Pro_Tool_vs_Beginner_Tool)
+1. [Cover all workflows](Policy#Cover_all_workflows) [No duplication of tools](Policy#No_duplication_of_tools) [Deciding between two of the same](Policy#Deciding_between_two_of_the_same) [Pro Tool vs Beginner Tool](Policy#Pro_Tool_vs_Beginner_Tool)
 
-1. [Cover all workflows](https://wiki.ubuntu.com/UbuntuStudio/Policy#Cover_all_workflows)
-2. [No duplication of tools](https://wiki.ubuntu.com/UbuntuStudio/Policy#No_duplication_of_tools)
-3. [Deciding between two of the same](https://wiki.ubuntu.com/UbuntuStudio/Policy#Deciding_between_two_of_the_same)
-4. [Pro Tool vs Beginner Tool](https://wiki.ubuntu.com/UbuntuStudio/Policy#Pro_Tool_vs_Beginner_Tool)
+1. [Cover all workflows](Policy#Cover_all_workflows)
+2. [No duplication of tools](Policy#No_duplication_of_tools)
+3. [Deciding between two of the same](Policy#Deciding_between_two_of_the_same)
+4. [Pro Tool vs Beginner Tool](Policy#Pro_Tool_vs_Beginner_Tool)
 
-1. [Ubuntu](https://wiki.ubuntu.com/UbuntuStudio/Policy#Ubuntu) [General Terms and Policies](https://wiki.ubuntu.com/UbuntuStudio/Policy#General_Terms_and_Policies) [Contributors](https://wiki.ubuntu.com/UbuntuStudio/Policy#Contributors) [Mailing Lists](https://wiki.ubuntu.com/UbuntuStudio/Policy#Mailing_Lists) [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Policy#Packaging)
-2. [Debian](https://wiki.ubuntu.com/UbuntuStudio/Policy#Debian) [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Policy#Packaging-1)
+1. [Ubuntu](Policy#Ubuntu) [General Terms and Policies](Policy#General_Terms_and_Policies) [Contributors](Policy#Contributors) [Mailing Lists](Policy#Mailing_Lists) [Packaging](Policy#Packaging)
+2. [Debian](Policy#Debian) [Packaging](Policy#Packaging-1)
 
-1. [General Terms and Policies](https://wiki.ubuntu.com/UbuntuStudio/Policy#General_Terms_and_Policies)
-2. [Contributors](https://wiki.ubuntu.com/UbuntuStudio/Policy#Contributors)
-3. [Mailing Lists](https://wiki.ubuntu.com/UbuntuStudio/Policy#Mailing_Lists)
-4. [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Policy#Packaging)
+1. [General Terms and Policies](Policy#General_Terms_and_Policies)
+2. [Contributors](Policy#Contributors)
+3. [Mailing Lists](Policy#Mailing_Lists)
+4. [Packaging](Policy#Packaging)
 
-1. [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Policy#Packaging-1)
+1. [Packaging](Policy#Packaging-1)
 
 # Ubuntu Studio Policy
 
@@ -96,7 +96,7 @@ Contents
 
 ## Vote for new project lead
 
-See [UbuntuStudio/ProjectLeadVote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote)
+See [UbuntuStudio/ProjectLeadVote](ProjectLeadVote)
 
 ## Selecting preinstalled packages
 

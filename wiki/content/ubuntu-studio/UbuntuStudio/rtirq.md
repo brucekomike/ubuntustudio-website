@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/rtirq
 
-## [rtirq](https://wiki.ubuntu.com/UbuntuStudio/rtirq)
+## [rtirq](rtirq)
 
-[../UbuntuStudio/audio-settings](https://wiki.ubuntu.com/UbuntuStudio/audio-settings)
+[../UbuntuStudio/audio-settings](audio-settings)
 
 [What is rtirq?](http://wiki.linuxmusicians.com/doku.php?id=system_configuration#rtirq)
 

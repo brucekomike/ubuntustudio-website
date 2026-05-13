@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/Testing/Cases/UbuntuStudio
 
-## [UbuntuStudio](https://wiki.ubuntu.com/Testing/Cases/UbuntuStudio)
+## [UbuntuStudio](UbuntuStudio)
 
 | Testing Home | Test Cases | Install Methods | Reporting |
 | --- | --- | --- | --- |
@@ -20,10 +20,10 @@ Source: https://wiki.ubuntu.com/Testing/Cases/UbuntuStudio
 
 Contents
 
-1. [Summary](https://wiki.ubuntu.com/Testing/Cases/UbuntuStudio#Summary)
-2. [Procedures](https://wiki.ubuntu.com/Testing/Cases/UbuntuStudio#Procedures) [Post-install testing](https://wiki.ubuntu.com/Testing/Cases/UbuntuStudio#Post-install_testing)
+1. [Summary](UbuntuStudio#Summary)
+2. [Procedures](UbuntuStudio#Procedures) [Post-install testing](UbuntuStudio#Post-install_testing)
 
-1. [Post-install testing](https://wiki.ubuntu.com/Testing/Cases/UbuntuStudio#Post-install_testing)
+1. [Post-install testing](UbuntuStudio#Post-install_testing)
 
 # Summary
 

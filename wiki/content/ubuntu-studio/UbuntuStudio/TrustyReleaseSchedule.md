@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TrustyReleaseSchedule
 
-## [TrustyReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/TrustyReleaseSchedule)
+## [TrustyReleaseSchedule](TrustyReleaseSchedule)
 
 | Week | Date (Thursday) | 14.04 LTS Events |
 | --- | --- | --- |

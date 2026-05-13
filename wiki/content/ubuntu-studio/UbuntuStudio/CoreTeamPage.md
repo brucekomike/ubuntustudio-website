@@ -2,30 +2,30 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage
 
-## [CoreTeamPage](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage)
+## [CoreTeamPage](CoreTeamPage)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 # Ubuntu Studio Core Team Page
 
@@ -49,15 +49,15 @@ Quality Assurance Leadership and overall last say
 
 **Team Wiki**
 
-[Core Team Page](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage)
+[Core Team Page](CoreTeamPage)
 
 **Team Documentation**
 
-[Core Team Documentation](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamDocumentation)
+[Core Team Documentation](CoreTeamDocumentation)
 
 **Blueprint**
 
-See [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints)
+See [Blueprints](Blueprints)
 
 **Mail Lists**
 
@@ -69,7 +69,7 @@ See [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints)
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

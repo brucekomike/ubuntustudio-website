@@ -2,39 +2,39 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage
 
-## [DocumentationTeamPage](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage)
+## [DocumentationTeamPage](DocumentationTeamPage)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](index)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](Organization)**
 
 | -- Documentation Sidebar -- ( edit ) Team Pages - Documentation Team Page Documentation - Video Format - For Video-tutorials - Youtube Specifics - Archive.org Specifics |
 | --- |
 
-** -- [Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation) Sidebar -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/DocSideBar?action=edit))** **Team Pages** - [Documentation Team Page](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage) **[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)** - [Video Format](https://wiki.ubuntu.com/UbuntuStudio/VideoFormat) - For Video-tutorials - [Youtube Specifics](https://wiki.ubuntu.com/UbuntuStudio/YoutubeVideoFormat) - [Archive.org Specifics](https://wiki.ubuntu.com/UbuntuStudio/ArchiveVideoFormat)
+** -- [Documentation](Documentation) Sidebar -- ([edit](Navigation/DocSideBar))** **Team Pages** - [Documentation Team Page](DocumentationTeamPage) **[Documentation](Documentation)** - [Video Format](VideoFormat) - For Video-tutorials - [Youtube Specifics](YoutubeVideoFormat) - [Archive.org Specifics](ArchiveVideoFormat)
 
 # Ubuntu Studio Documentation Team Landing Page
 
-| Task Description | Write user and developer documentation for the website and wikis. Maintains http://wiki.ubuntu.com/UbuntuStudio and http://help.ubuntu.com/community/UbuntuStudio as well as ubuntustudio.org |
+| Task Description | Write user and developer documentation for the website and wikis. Maintains UbuntuStudio and UbuntuStudio as well as ubuntustudio.org |
 | --- | --- |
 | Launchpad Team | ~ubuntustudio-documentation |
 | Team Wiki | Documentation Team Page |
@@ -46,7 +46,7 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage
 
 **Task Description**
 
-Write user and developer documentation for the website and wikis. Maintains [http://wiki.ubuntu.com/UbuntuStudio](http://wiki.ubuntu.com/UbuntuStudio) and [http://help.ubuntu.com/community/UbuntuStudio](http://help.ubuntu.com/community/UbuntuStudio) as well as [ubuntustudio.org](http://ubuntustudio.org)
+Write user and developer documentation for the website and wikis. Maintains [UbuntuStudio](index) and [UbuntuStudio](../../../../help) as well as [ubuntustudio.org](http://ubuntustudio.org)
 
 **Launchpad Team**
 
@@ -54,11 +54,11 @@ Write user and developer documentation for the website and wikis. Maintains [htt
 
 **Team Wiki**
 
-[Documentation Team Page](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage)
+[Documentation Team Page](DocumentationTeamPage)
 
 **Team Documentation**
 
-[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)
+[Documentation](Documentation)
 
 **Blueprint**
 
@@ -74,7 +74,7 @@ Write user and developer documentation for the website and wikis. Maintains [htt
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/UDS-R-PadNotes
 
-## [UDS-R-PadNotes](https://wiki.ubuntu.com/UbuntuStudio/UDS-R-PadNotes)
+## [UDS-R-PadNotes](UDS-R-PadNotes)
 
 # Ubuntu Studio Raring Planning
 

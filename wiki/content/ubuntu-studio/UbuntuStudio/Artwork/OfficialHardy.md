@@ -2,9 +2,9 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialHardy
 
-## [OfficialHardy](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialHardy)
+## [OfficialHardy](OfficialHardy)
 
-This page reflects the current official Ubuntu Studio 8.04 artwork. If you are a user who would like to post your art please do so in our [User Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserContributed) section.
+This page reflects the current official Ubuntu Studio 8.04 artwork. If you are a user who would like to post your art please do so in our [User Art](UserContributed) section.
 
 ## Logo
 

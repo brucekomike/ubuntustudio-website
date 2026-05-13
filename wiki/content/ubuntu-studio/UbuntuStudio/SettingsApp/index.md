@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/SettingsApp
 
-## [SettingsApp](https://wiki.ubuntu.com/UbuntuStudio/SettingsApp)
+## [SettingsApp](index)
 
 **Please note: The code is alpha. It does not eat the data on the authors machine, but keep in mind, you use at your own risk.**
 

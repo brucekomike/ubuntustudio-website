@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/IntrepidBrainstorm
 
-## [IntrepidBrainstorm](https://wiki.ubuntu.com/UbuntuStudio/Artwork/IntrepidBrainstorm)
+## [IntrepidBrainstorm](IntrepidBrainstorm)
 
 A scratch page for Ubuntu Studio-Intrepid artwork ideas.
 
@@ -22,13 +22,13 @@ This looks good, but too much trashy, i think the idea behind the DIY Artwork is
 
 However, we have to decide now the priority for this new grungy UI : should we go ahead and provide this look'n'feel for 8.10, or should we start a team that will work on it and release it 'when it's done'?
 
-I personally can help, as this inspires me and I have already done a few submissions (bottom of these pages : [UbuntuStudio/Artwork/DIYConcept/Theme](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Theme) [UbuntuStudio/Artwork/DIYConcept/Wallpaper](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Wallpaper) -nilux
+I personally can help, as this inspires me and I have already done a few submissions (bottom of these pages : [UbuntuStudio/Artwork/DIYConcept/Theme](DIYConcept/Theme) [UbuntuStudio/Artwork/DIYConcept/Wallpaper](DIYConcept/Wallpaper) -nilux
 
 ***
 
 Personally, I think the theme you made is great, except
 
-1. The [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) color scheme!
+1. The [UbuntuStudio](..) color scheme!
 
 2. Too drastic.
 

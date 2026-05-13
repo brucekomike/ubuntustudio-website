@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Specifications
 
-## [Specifications](https://wiki.ubuntu.com/UbuntuStudio/Specifications)
+## [Specifications](Specifications)
 
 This page will be for Specs specifically relating to Ubuntu Studio.
 

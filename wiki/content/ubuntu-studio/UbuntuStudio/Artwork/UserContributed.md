@@ -2,35 +2,35 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserContributed
 
-## [UserContributed](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserContributed)
+## [UserContributed](UserContributed)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](index)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Artwork -- ( edit ) Team Pages - Art Team Page - Website Team Page Ubuntu Studio Artwork - User Show Case - Official 13.10 S Art -- S blueprint - Official 14.04 T Art -- T blueprint - Official 16.04 T Art |
 | --- |
 
-**-- [Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork) -- ([edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/ArtSideBar?action=edit))** **Team Pages** - [Art Team Page](https://wiki.ubuntu.com/UbuntuStudio/ArtTeamPage) - [Website Team Page](https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeamPage) **[Ubuntu Studio Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)** - [User Show Case](https://wiki.ubuntu.com/UbuntuStudio/Artwork/UserShowcase) - [Official 13.10 S Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1310) -- [S blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-s-artwork) - [Official 14.04 T Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/Official1404) -- [T blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-t-artwork) - [Official 16.04 T Art](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialXenial)
+**-- [Artwork](index) -- ([edit](../Navigation/ArtSideBar))** **Team Pages** - [Art Team Page](../ArtTeamPage) - [Website Team Page](../WebsiteTeamPage) **[Ubuntu Studio Artwork](index)** - [User Show Case](UserShowcase) - [Official 13.10 S Art](Official1310) -- [S blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-s-artwork) - [Official 14.04 T Art](Official1404) -- [T blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-t-artwork) - [Official 16.04 T Art](OfficialXenial)
 
 # User Contributed Art
 
@@ -51,7 +51,7 @@ A Logo in the style of the new Ubuntu logo
 
 ## Theme
 
-Emerald Theme for [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+Emerald Theme for [UbuntuStudio](..)
 
 ![http://www.gnome-look.org/CONTENT/content-pre1/59198-1.png](http://www.gnome-look.org/CONTENT/content-pre1/59198-1.png)
 
@@ -59,7 +59,7 @@ Emerald Theme for [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
 
 ***
 
-Elementary Studio for [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+Elementary Studio for [UbuntuStudio](..)
 
 Based on the popular Elementary theme by [DanRabbit](https://wiki.ubuntu.com/DanRabbit)
 
@@ -71,7 +71,7 @@ This is a "first release". There are things I need to tweak, but I figured peopl
 
 (mejogid:) There are currently a ton of icons in the official icon theme that are only in scalable sizes. Since this goes against the tango guidlines and looks blurry at lower resolutions, I plan to work on some lower resolution icons and will include them in my tango generator (see gnome-look) unless there are any objections. There are also a couple of other bugs with the current icon theme: symbolic links simply aren't used and the icons at 22x22 pixels aren't just cropped versions of the 24x24 ones. If any one else would be interested in helping, please contact me on the ubuntuforums as mejy or on gnome-look as mejogid.
 
-![http://img300.imageshack.us/img300/6282/ubuntustudiocleanedscrecf0.png](http://img300.imageshack.us/img300/6282/ubuntustudiocleanedscrecf0.png) [http://www.ubuntu-art.org/content/show.php?content=84325](http://www.ubuntu-art.org/content/show.php?content=84325) [UbuntuStudioCleaned](https://wiki.ubuntu.com/UbuntuStudioCleaned) - minimal version from Nitrofurano, based on the current [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) icon set
+![http://img300.imageshack.us/img300/6282/ubuntustudiocleanedscrecf0.png](http://img300.imageshack.us/img300/6282/ubuntustudiocleanedscrecf0.png) [http://www.ubuntu-art.org/content/show.php?content=84325](http://www.ubuntu-art.org/content/show.php?content=84325) [UbuntuStudioCleaned](../UbuntuStudioCleaned) - minimal version from Nitrofurano, based on the current [UbuntuStudio](..) icon set
 
 (Maike)I've created icons for the differents folder.
 
@@ -107,7 +107,7 @@ Ubuntustudio by Shitsukesen
 
 ===========================================================================================================
 
-Dirty [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio) by Peter
+Dirty [UbuntuStudio](..) by Peter
 
 ![Dirty_UbuntuStudio_thumb.jpg](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/UserContributed/Dirty_UbuntuStudio_thumb.jpg)
 

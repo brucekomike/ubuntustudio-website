@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TaskDVDTesting
 
-## [TaskDVDTesting](https://wiki.ubuntu.com/UbuntuStudio/TaskDVDTesting)
+## [TaskDVDTesting](TaskDVDTesting)
 
 This task can be completed by anyone, and the more it's done the healthier the images will be. Please communicate any build issues (provided you've followed correct procedures & aren't merely looking for technical assistance) to the Ubuntu Studio Developers mailing list: [https://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-devel](https://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-devel)
 

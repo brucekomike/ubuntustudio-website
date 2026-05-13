@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/BlueprintsU
 
-## [BlueprintsU](https://wiki.ubuntu.com/UbuntuStudio/BlueprintsU)
+## [BlueprintsU](BlueprintsU)
 
 **Blueprints for Ubuntu Studio 14.10**
 

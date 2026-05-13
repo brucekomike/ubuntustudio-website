@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeam
 
-## [PRSupportTeam](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeam)
+## [PRSupportTeam](PRSupportTeam)
 
 | Task Description | Makes announcements on social channels and mail lists. Also handles support and has experience in common user problems. Forwards possible bugs. |
 | --- | --- |
@@ -23,7 +23,7 @@ Makes announcements on social channels and mail lists. Also handles support and 
 
 **Team Wiki**
 
-[PR/Support team Page](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage)
+[PR/Support team Page](PRSupportTeamPage)
 
 **Blueprint**
 
@@ -39,7 +39,7 @@ Makes announcements on social channels and mail lists. Also handles support and 
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

@@ -2,56 +2,56 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample
 
-## [SimpleBugFixExample](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample)
+## [SimpleBugFixExample](SimpleBugFixExample)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
 | --- |
 
-**-- [Developer](https://wiki.ubuntu.com/UbuntuStudio/Development) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/DevSideBar?action=edit&editor=text))** **Team Pages** - [Bugs Team](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeamPage) - [Contributor Team](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeamPage) - [Core Team](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage) - [Dev Team](https://wiki.ubuntu.com/UbuntuStudio/DevTeamPage) - [Kernel Team](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamPage) - [Release Team](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeamPage) - [Testing Team](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage) **[Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy)** - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) **[UbuntuStudio/Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging)** [Needs Packaging](https://wiki.ubuntu.com/UbuntuStudio/NeedsPackaging) **[Developer Documentation](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)** - [Setup Dev Environment](https://wiki.ubuntu.com/UbuntuStudio/SetupDeveloperEnvironment) - [Bzr Cheat Sheet](https://wiki.ubuntu.com/UbuntuStudio/Bzr) - [Bug Management](https://wiki.ubuntu.com/UbuntuStudio/BugManagement) - [Packaging](https://wiki.ubuntu.com/UbuntuStudio/Packaging) -- [Ubuntu Studio Package Maintenance](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackageMaintenance) -- [Uploading Packages (to the archive)](https://wiki.ubuntu.com/UbuntuStudio/Packaging/UploadingPackages) - [Backports](https://wiki.ubuntu.com/UbuntuStudio/Backports) - [Stable Release Updates (SRU)](https://wiki.ubuntu.com/UbuntuStudio/StableReleaseUpdates) - [Seed Management](https://wiki.ubuntu.com/UbuntuStudio/Seeds) - [Uploading to PPA](https://wiki.ubuntu.com/UbuntuStudio/UploadingToPPA) - [Applying Patches](https://wiki.ubuntu.com/UbuntuStudio/PatchingSourcePackages) - [Deb Diff](https://wiki.ubuntu.com/UbuntuStudio/DebDiff) - [Setup Local ISO Build Server](https://wiki.ubuntu.com/UbuntuStudio/SetupLocalIsoBuildServer) - [All About ISOs](https://wiki.ubuntu.com/UbuntuStudio/AllAboutISOs) - [Kernel Maintenance](https://wiki.ubuntu.com/UbuntuStudio/KernelMaintenance) - [Ubiquity - the live installer](https://wiki.ubuntu.com/UbuntuStudio/Ubiquity) **[Developer Tutorials](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample) **[Workflows](https://wiki.ubuntu.com/UbuntuStudio/Workflows)** - [Audio](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Audio) - [Video](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Video) - [Graphics](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Graphics) - [Photography](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Photography) - [Publishing](https://wiki.ubuntu.com/UbuntuStudio/Workflows/Publishing) **[Workflow Categories](https://wiki.ubuntu.com/UbuntuStudio/WorkflowCategories)** **[Freedesktop Categories](https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories)** **[Deb Tags](https://wiki.ubuntu.com/UbuntuStudio/Debtags)** **[Ubuntu Studio Packages](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](https://wiki.ubuntu.com/UbuntuStudio/LaunchpadProjects)** **Reference** - [Terminology](https://wiki.ubuntu.com/UbuntuStudio/Terminology)
+**-- [Developer](../Development) Side Bar -- ([Edit](../Navigation/DevSideBar))** **Team Pages** - [Bugs Team](../UbuntuStudioBugsTeamPage) - [Contributor Team](../ContributorTeamPage) - [Core Team](../CoreTeamPage) - [Dev Team](../DevTeamPage) - [Kernel Team](../KernelTeamPage) - [Release Team](../ReleaseTeamPage) - [Testing Team](../TestingTeamPage) **[Ubuntu Studio Policy](../Policy)** - [Project Lead Vote](../ProjectLeadVote) **[UbuntuStudio/Packaging](../Packaging)** [Needs Packaging](../NeedsPackaging) **[Developer Documentation](../DeveloperDocumentation)** - [Setup Dev Environment](../SetupDeveloperEnvironment) - [Bzr Cheat Sheet](../Bzr) - [Bug Management](../BugManagement) - [Packaging](../Packaging) -- [Ubuntu Studio Package Maintenance](../Packaging/UploadingPackages) -- [Uploading Packages (to the archive)](../Packaging/UploadingPackages) - [Backports](../Backports) - [Stable Release Updates (SRU)](../StableReleaseUpdates) - [Seed Management](../PackageSelectionDevelopment) - [Uploading to PPA](../Packaging/UploadingPackages) - [Applying Patches](../PatchingSourcePackages) - [Deb Diff](../DebDiff) - [Setup Local ISO Build Server](../SetupLocalIsoBuildServer) - [All About ISOs](../AllAboutISOs) - [Kernel Maintenance](../KernelMaintenance) - [Ubiquity - the live installer](../Ubiquity) **[Developer Tutorials](index)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](SimpleBugFixExample) **[Workflows](../Workflows)** - [Audio](../Workflows/Audio) - [Video](../Workflows/Video) - [Graphics](../Workflows/Graphics) - [Photography](../Workflows/Photography) - [Publishing](../Workflows/Publishing) **[Workflow Categories](../WorkflowCategories)** **[Freedesktop Categories](../FreedesktopCategories)** **[Deb Tags](../Debtags)** **[Ubuntu Studio Packages](../UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](../LaunchpadProjects)** **Reference** - [Terminology](../Terminology)
 
 # Simple bug fix example using 'git', 'bzr' and 'edit-path'
 
 Contents
 
-1. [Simple bug fix example using 'git', 'bzr' and 'edit-path'](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Simple_bug_fix_example_using_.27git.27.2C_.27bzr.27_and_.27edit-path.27)
-2. [Some prerequisites](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Some_prerequisites)
-3. [Fixing the Bug](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Fixing_the_Bug) [About the package and the circumstances](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#About_the_package_and_the_circumstances) [Get the repositories and find the fix](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Get_the_repositories_and_find_the_fix) [Get the Debian git repo](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Get_the_Debian_git_repo) [Get the Ubuntu bzr repo](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Get_the_Ubuntu_bzr_repo) [Find the fix in the debian repo](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Find_the_fix_in_the_debian_repo) [Analyzing the commit with the fix](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Analyzing_the_commit_with_the_fix) [Create a patch for scribus](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Create_a_patch_for_scribus) [Document the patch](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Document_the_patch) [Commit the changes](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Commit_the_changes)
-4. [Doing a test build](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Doing_a_test_build)
+1. [Simple bug fix example using 'git', 'bzr' and 'edit-path'](SimpleBugFixExample#Simple_bug_fix_example_using_.27git.27.2C_.27bzr.27_and_.27edit-path.27)
+2. [Some prerequisites](SimpleBugFixExample#Some_prerequisites)
+3. [Fixing the Bug](SimpleBugFixExample#Fixing_the_Bug) [About the package and the circumstances](SimpleBugFixExample#About_the_package_and_the_circumstances) [Get the repositories and find the fix](SimpleBugFixExample#Get_the_repositories_and_find_the_fix) [Get the Debian git repo](SimpleBugFixExample#Get_the_Debian_git_repo) [Get the Ubuntu bzr repo](SimpleBugFixExample#Get_the_Ubuntu_bzr_repo) [Find the fix in the debian repo](SimpleBugFixExample#Find_the_fix_in_the_debian_repo) [Analyzing the commit with the fix](SimpleBugFixExample#Analyzing_the_commit_with_the_fix) [Create a patch for scribus](SimpleBugFixExample#Create_a_patch_for_scribus) [Document the patch](SimpleBugFixExample#Document_the_patch) [Commit the changes](SimpleBugFixExample#Commit_the_changes)
+4. [Doing a test build](SimpleBugFixExample#Doing_a_test_build)
 
-1. [About the package and the circumstances](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#About_the_package_and_the_circumstances)
-2. [Get the repositories and find the fix](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Get_the_repositories_and_find_the_fix) [Get the Debian git repo](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Get_the_Debian_git_repo) [Get the Ubuntu bzr repo](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Get_the_Ubuntu_bzr_repo) [Find the fix in the debian repo](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Find_the_fix_in_the_debian_repo) [Analyzing the commit with the fix](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Analyzing_the_commit_with_the_fix)
-3. [Create a patch for scribus](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Create_a_patch_for_scribus) [Document the patch](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Document_the_patch) [Commit the changes](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Commit_the_changes)
+1. [About the package and the circumstances](SimpleBugFixExample#About_the_package_and_the_circumstances)
+2. [Get the repositories and find the fix](SimpleBugFixExample#Get_the_repositories_and_find_the_fix) [Get the Debian git repo](SimpleBugFixExample#Get_the_Debian_git_repo) [Get the Ubuntu bzr repo](SimpleBugFixExample#Get_the_Ubuntu_bzr_repo) [Find the fix in the debian repo](SimpleBugFixExample#Find_the_fix_in_the_debian_repo) [Analyzing the commit with the fix](SimpleBugFixExample#Analyzing_the_commit_with_the_fix)
+3. [Create a patch for scribus](SimpleBugFixExample#Create_a_patch_for_scribus) [Document the patch](SimpleBugFixExample#Document_the_patch) [Commit the changes](SimpleBugFixExample#Commit_the_changes)
 
-1. [Get the Debian git repo](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Get_the_Debian_git_repo)
-2. [Get the Ubuntu bzr repo](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Get_the_Ubuntu_bzr_repo)
-3. [Find the fix in the debian repo](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Find_the_fix_in_the_debian_repo)
-4. [Analyzing the commit with the fix](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Analyzing_the_commit_with_the_fix)
+1. [Get the Debian git repo](SimpleBugFixExample#Get_the_Debian_git_repo)
+2. [Get the Ubuntu bzr repo](SimpleBugFixExample#Get_the_Ubuntu_bzr_repo)
+3. [Find the fix in the debian repo](SimpleBugFixExample#Find_the_fix_in_the_debian_repo)
+4. [Analyzing the commit with the fix](SimpleBugFixExample#Analyzing_the_commit_with_the_fix)
 
-1. [Document the patch](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Document_the_patch)
-2. [Commit the changes](https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExample#Commit_the_changes)
+1. [Document the patch](SimpleBugFixExample#Document_the_patch)
+2. [Commit the changes](SimpleBugFixExample#Commit_the_changes)
 
 # Some prerequisites
 

@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment/Title
 
-## [Title](https://wiki.ubuntu.com/UbuntuStudio/ContributeToDevelopment/Title)
+## [Title](Title)
 
 # Contribute to Ubuntu Studio Development
 

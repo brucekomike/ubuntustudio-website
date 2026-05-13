@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/IntrepidGoals
 
-## [IntrepidGoals](https://wiki.ubuntu.com/UbuntuStudio/IntrepidGoals)
+## [IntrepidGoals](IntrepidGoals)
 
 # Ubuntu Studio Intrepid Release Goals
 

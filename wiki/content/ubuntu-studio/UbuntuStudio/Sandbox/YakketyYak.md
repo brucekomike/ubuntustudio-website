@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Sandbox/YakketyYak
 
-## [YakketyYak](https://wiki.ubuntu.com/UbuntuStudio/Sandbox/YakketyYak)
+## [YakketyYak](YakketyYak)
 
 # Memory-Pad for blitz-ideas suitable for post-yakkety releases
 

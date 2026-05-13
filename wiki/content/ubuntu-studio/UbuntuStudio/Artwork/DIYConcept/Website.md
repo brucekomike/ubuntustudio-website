@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Website
 
-## [Website](https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept/Website)
+## [Website](Website)
 
 Open to any suggestion but must reflect final art and use Drupal.
 

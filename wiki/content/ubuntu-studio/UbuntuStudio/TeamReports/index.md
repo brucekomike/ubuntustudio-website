@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TeamReports
 
-## [TeamReports](https://wiki.ubuntu.com/UbuntuStudio/TeamReports)
+## [TeamReports](index)
 
 # Ubuntu Studio Reporting Page
 
@@ -21,27 +21,27 @@ Keep it simple and short - single sentences are best. ![Smile :)](https://raw.gi
 
 Contents
 
-1. [Release Development](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Release_Development)
-2. [Website Update](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Website_Update)
-3. [ubuntustudio-controls](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.ubuntustudio-controls)
-4. [Backports](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Backports)
-5. [Bug Reports](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Bug_Reports) [Opened Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Opened_Bugs) [Updated Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Updated_Bugs) [Marked as Incomplete Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Marked_as_Incomplete_Bugs) [Closed Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Closed_Bugs)
-6. [Kernel Development](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Kernel_Development)
+1. [Release Development](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Release_Development)
+2. [Website Update](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Website_Update)
+3. [ubuntustudio-controls](index#UbuntuStudio.2FTeamReports.2F11.2FJune.ubuntustudio-controls)
+4. [Backports](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Backports)
+5. [Bug Reports](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Bug_Reports) [Opened Bugs](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Opened_Bugs) [Updated Bugs](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Updated_Bugs) [Marked as Incomplete Bugs](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Marked_as_Incomplete_Bugs) [Closed Bugs](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Closed_Bugs)
+6. [Kernel Development](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Kernel_Development)
 
-1. [Opened Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Opened_Bugs)
-2. [Updated Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Updated_Bugs)
-3. [Marked as Incomplete Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Marked_as_Incomplete_Bugs)
-4. [Closed Bugs](https://wiki.ubuntu.com/UbuntuStudio/TeamReports#UbuntuStudio.2FTeamReports.2F11.2FJune.Closed_Bugs)
+1. [Opened Bugs](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Opened_Bugs)
+2. [Updated Bugs](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Updated_Bugs)
+3. [Marked as Incomplete Bugs](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Marked_as_Incomplete_Bugs)
+4. [Closed Bugs](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Closed_Bugs)
 
 # Release Development
 
-See the [Oneiric release planning wiki page](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Oneiric Ocelot (11.10)) for details.
+See the [Oneiric release planning wiki page](ReleasePlanning)) for details.
 
 - TODO
 
 # Website Update
 
-See the [Website Update wiki page](https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp) for details.
+See the [Website Update wiki page](../TaskWebRevamp) for details.
 
 - Brian David emailed the dev mailing list with the example website files for testing Testers will need a local instance of Drupal Testers will most likely also need a local instance of MySQL Testing will need to follow the included README.txt file
 - [ScottLavender](https://wiki.ubuntu.com/ScottLavender) agreed to prepare 2nd draft of site map focusing on primary features
@@ -54,7 +54,7 @@ See the [Website Update wiki page](https://wiki.ubuntu.com/UbuntuStudio/TaskWebR
 
 # ubuntustudio-controls
 
-See the [-controls development wiki page](https://wiki.ubuntu.com/UbuntuStudio/ReleasePlanning#Ubuntu%20Studio%20Controls) for details.
+See the [-controls development wiki page](../ReleasePlanning#Ubuntu%20Studio%20Controls) for details.
 
 - ailo and paultag have been hacking up code for the update
 - [ScottLavender](https://wiki.ubuntu.com/ScottLavender) is getting anxious to get it built, testing, and pushed to the repos :/
@@ -63,10 +63,10 @@ See the [-controls development wiki page](https://wiki.ubuntu.com/UbuntuStudio/R
 
 # Backports
 
-See the [Ubuntu Studio Backports wiki page](https://wiki.ubuntu.com/UbuntuStudio/Backports) for details.
+See the [Ubuntu Studio Backports wiki page](../Backports) for details.
 
 - [ScottLavender](https://wiki.ubuntu.com/ScottLavender) firmed up details with [ScottKitterman](https://wiki.ubuntu.com/ScottKitterman) about backporting for Lucid
-- [The Ubuntu Studio Backports wiki page](https://wiki.ubuntu.com/UbuntuStudio/Backports) was updated...a LOT
+- [The Ubuntu Studio Backports wiki page](../Backports) was updated...a LOT
 - [qjackctl backport bug #681873](https://bugs.launchpad.net/lucid-backports/+bug/681873) updated and [PPA package ready for testing](https://launchpad.net/~slavender/+archive/backports-testing)
 - [qsynth backport bug #729430](https://bugs.launchpad.net/lucid-backports/+bug/729430) filed and [PPA package ready for testing](https://launchpad.net/~slavender/+archive/backports-testing)
 - [yoshimi backport bug #729450](https://bugs.launchpad.net/lucid-backports/+bug/729450) filed and [PPA package ready for testing](https://launchpad.net/~slavender/+archive/backports-testing)
@@ -85,7 +85,7 @@ See the [Ubuntu Studio Backports wiki page](https://wiki.ubuntu.com/UbuntuStudio
 
 [ScottLavender](https://wiki.ubuntu.com/ScottLavender) firmed up details with [ScottKitterman](https://wiki.ubuntu.com/ScottKitterman) about backporting for Lucid
 
-[The Ubuntu Studio Backports wiki page](https://wiki.ubuntu.com/UbuntuStudio/Backports) was updated...a LOT
+[The Ubuntu Studio Backports wiki page](../Backports) was updated...a LOT
 
 [qjackctl backport bug #681873](https://bugs.launchpad.net/lucid-backports/+bug/681873) updated and [PPA package ready for testing](https://launchpad.net/~slavender/+archive/backports-testing)
 
@@ -147,19 +147,19 @@ See the [Ubuntu Studio Backports wiki page](https://wiki.ubuntu.com/UbuntuStudio
 
 ### 2011
 
-1. [UbuntuStudio/TeamReports/11 /April](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/April)
-2. [UbuntuStudio/TeamReports/11 /February](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/February)
-3. [UbuntuStudio/TeamReports/11 /January](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/January)
-4. [UbuntuStudio/TeamReports/11 /July](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/July)
-5. [UbuntuStudio/TeamReports/11 /June](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/June)
-6. [UbuntuStudio/TeamReports/11 /March](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/March)
-7. [UbuntuStudio/TeamReports/11 /May](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/May)
+1. [UbuntuStudio/TeamReports/11 /April](11/April)
+2. [UbuntuStudio/TeamReports/11 /February](11/February)
+3. [UbuntuStudio/TeamReports/11 /January](11/January)
+4. [UbuntuStudio/TeamReports/11 /July](11/July)
+5. [UbuntuStudio/TeamReports/11 /June](11/June)
+6. [UbuntuStudio/TeamReports/11 /March](11/March)
+7. [UbuntuStudio/TeamReports/11 /May](11/May)
 
 ### 2010
 
-1. [UbuntuStudio/TeamReports/10 /November](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/10/November)
-2. [UbuntuStudio/TeamReports/10 /October](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/10/October)
-3. [UbuntuStudio/TeamReports/10 /September](https://wiki.ubuntu.com/UbuntuStudio/TeamReports/10/September)
+1. [UbuntuStudio/TeamReports/10 /November](10/November)
+2. [UbuntuStudio/TeamReports/10 /October](10/October)
+3. [UbuntuStudio/TeamReports/10 /September](10/September)
 
 ---
 

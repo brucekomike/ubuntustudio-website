@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialPrecise
 
-## [OfficialPrecise](https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialPrecise)
+## [OfficialPrecise](OfficialPrecise)
 
 New page for Ubuntu Studio Precise 12.04 art work.
 

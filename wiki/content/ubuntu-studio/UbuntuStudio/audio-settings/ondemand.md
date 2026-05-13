@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/audio-settings/ondemand
 
-## [ondemand](https://wiki.ubuntu.com/UbuntuStudio/audio-settings/ondemand)
+## [ondemand](ondemand)
 
 # CPU Throttling
 

@@ -2,41 +2,41 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TeamStructure
 
-## [TeamStructure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure)
+## [TeamStructure](index)
 
-[https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)
+[UbuntuStudio](../../../../../help)
 
-[/UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
+[/UbuntuStudio](..)
 
-[https://help.ubuntu.com/community/UbuntuStudio/Community](https://help.ubuntu.com/community/UbuntuStudio/Community)
+[UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
 
 | Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
 | --- | --- | --- | --- | --- | --- | --- |
 
-**[Home](https://wiki.ubuntu.com/UbuntuStudio)**
+**[Home](..)**
 
-**[Testing](https://wiki.ubuntu.com/UbuntuStudio/Testing)**
+**[Testing](../Testing)**
 
-**[PR & Support](https://wiki.ubuntu.com/UbuntuStudio/PublicRelations)**
+**[PR & Support](../PublicRelationsDocumentation)**
 
-**[Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)**
+**[Artwork](../Artwork)**
 
-**[Packaging/Development](https://wiki.ubuntu.com/UbuntuStudio/Development)**
+**[Packaging/Development](../Development)**
 
-**[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)**
+**[Documentation](../Documentation)**
 
-**[Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization)**
+**[Organization](../Organization)**
 
 | -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
 | --- |
 
-**-- [Organization](https://wiki.ubuntu.com/UbuntuStudio/Organization) Side Bar -- ([Edit](https://wiki.ubuntu.com/UbuntuStudio/Navigation/OrganizationSideBar?action=edit))** **Organization** - [Ubuntu Studio Policy](https://wiki.ubuntu.com/UbuntuStudio/Policy) - [Project Lead Vote](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote) -- [Project Lead Vote 2016](https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016) - [Team Structure](https://wiki.ubuntu.com/UbuntuStudio/TeamStructure) - [Release Procedure](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule) - [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints) - [Feature Definitions](https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions) - [Package Selection](https://wiki.ubuntu.com/UbuntuStudio/PackageSelection) - [Dates (not used)](https://wiki.ubuntu.com/UbuntuStudio/Dates) - [Meetings](https://wiki.ubuntu.com/UbuntuStudio/Meetings) **Planning Documentation** - [Managing Blueprints](https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints) - [Development Cycle](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle) .. [Feature Definition Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition) .. [Development Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development) .. [Testing Period](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing) .. [Releasing](https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Release)
+**-- [Organization](../Organization) Side Bar -- ([Edit](../Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](../Policy) - [Project Lead Vote](../ProjectLeadVote) -- [Project Lead Vote 2016](../ProjectLeadVote2016) - [Team Structure](index) - [Release Procedure](../ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](../DevelopmentReleaseSchedule) - [Blueprints](../Blueprints) - [Feature Definitions](../FeatureDefinitions) - [Package Selection](../PackageSelection) - [Dates (not used)](../Dates) - [Meetings](../Meetings) **Planning Documentation** - [Managing Blueprints](../ManagingBlueprints) - [Development Cycle](../DevelopmentCycle) .. [Feature Definition Period](../DevEvents/FeatureDefinition) .. [Development Period](../DevEvents/Development) .. [Testing Period](../DevEvents/Testing) .. [Releasing](../DevEvents/Release)
 
 # Team Structure
 
 This page is the official structure for the Ubuntu Studio [launchpad](http://launchpad.net) teams. It will reflect the current state of the teams and clearly define the roles of each member. It is to be used as a reference for current and new members.
 
-Want to become a team member? Want to help out with development? Check out [This Page](https://wiki.ubuntu.com/UbuntuStudio/JoinTheTeam).
+Want to become a team member? Want to help out with development? Check out [This Page](../JoinTheTeam).
 
 The organization of the teams is related to the design of launchpad, which we use for keeping track of planning and development, in the form of [source](https://code.launchpad.net/ubuntustudio), and [blueprints](https://blueprints.launchpad.net/ubuntustudio). Only active members are listed here, and only for those teams where it is useful to do so (ubuntustudio-user and ubuntustudio-bugs are two open teams that do not require any participation).
 
@@ -111,7 +111,7 @@ At least until April 2016
 | --- | --- | --- |
 | Ubuntu Studio User Team | ~ubuntustudio | Open team for Ubuntu Studio users that acts as a portal for information. Members of this team are allowed to comment on posts at the website. |
 | Testing Team | ~ubuntustudio-testing | Team that does testing and QA insurance. May include test development and writing documentation. |
-| Documentation Team | ~ubuntustudio-documentation-team | Writes user and developer documentation for the website and wikis. Maintains http://wiki.ubuntu.com/UbuntuStudio and http://help.ubuntu.com/community/UbuntuStudio |
+| Documentation Team | ~ubuntustudio-documentation-team | Writes user and developer documentation for the website and wikis. Maintains UbuntuStudio and UbuntuStudio |
 | Bugs Team | ~ubuntustudio-bugs | A team which is subscribed to Ubuntu Studio related bug reports |
 | Contributor Team | ~ubuntustudio-contributors | moderated team for those wanting to become Ubuntu Studio developers |
 | Public Relations and Support team | ~ubuntustudio-public-relations | Makes announcements on social channels and mail lists. Also handles support and has experience in common user problems. Forwards possible bugs. |
@@ -129,85 +129,85 @@ At least until April 2016
 
 **Description**
 
-[Ubuntu Studio User Team](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeamPage)
+[Ubuntu Studio User Team](../UbuntuStudioTeamPage)
 
 [~ubuntustudio](https://launchpad.net/~ubuntustudio)
 
 Open team for Ubuntu Studio users that acts as a portal for information. Members of this team are allowed to comment on posts at the website.
 
-[Testing Team](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage)
+[Testing Team](../TestingTeamPage)
 
 [~ubuntustudio-testing](https://launchpad.net/~ubuntustudio-testing)
 
 Team that does testing and QA insurance. May include test development and writing documentation.
 
-[Documentation Team](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage)
+[Documentation Team](../DocumentationTeamPage)
 
 [~ubuntustudio-documentation-team](https://launchpad.net/~ubuntustudio-documentation-team)
 
-Writes user and developer documentation for the website and wikis. Maintains [http://wiki.ubuntu.com/UbuntuStudio](http://wiki.ubuntu.com/UbuntuStudio) and [http://help.ubuntu.com/community/UbuntuStudio](http://help.ubuntu.com/community/UbuntuStudio)
+Writes user and developer documentation for the website and wikis. Maintains [UbuntuStudio](..) and [UbuntuStudio](../../../../../help)
 
-[Bugs Team](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeamPage)
+[Bugs Team](../UbuntuStudioBugsTeamPage)
 
 [~ubuntustudio-bugs](https://launchpad.net/~ubuntustudio-bugs)
 
 A team which is subscribed to Ubuntu Studio related bug reports
 
-[Contributor Team](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeamPage)
+[Contributor Team](../ContributorTeamPage)
 
 [~ubuntustudio-contributors](https://launchpad.net/~ubuntustudio-contributors)
 
 moderated team for those wanting to become Ubuntu Studio developers
 
-[Public Relations and Support team](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage)
+[Public Relations and Support team](../PRSupportTeamPage)
 
 [~ubuntustudio-public-relations](https://launchpad.net/~ubuntustudio-public-relations)
 
 Makes announcements on social channels and mail lists. Also handles support and has experience in common user problems. Forwards possible bugs.
 
-[Art Team](https://wiki.ubuntu.com/UbuntuStudio/ArtTeamPage)
+[Art Team](../ArtTeamPage)
 
 [~ubuntustudio-art](https://launchpad.net/~ubuntustudio-art)
 
 Collects and creates art for Ubuntu Studio.
 
-[Release Team](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeamPage)
+[Release Team](../ReleaseTeamPage)
 
 [~ubuntustudio-release](https://launchpad.net/~ubuntustudio-release)
 
-Maintains and executes the release process in [a specific wiki page](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure).
+Maintains and executes the release process in [a specific wiki page](../ReleaseProcedure).
 
-[Development Team](https://wiki.ubuntu.com/UbuntuStudio/DevTeamPage)
+[Development Team](../DevTeamPage)
 
 [~ubuntustudio-dev](https://launchpad.net/~ubuntustudio-dev)
 
 Packaging and bug fixing. Maintenance of Ubuntu Studio sources. Application development and maintenance.
 
-[Kernel Team](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamPage)
+[Kernel Team](../KernelTeamPage)
 
 [~ubuntustudio-kernel-team](https://launchpad.net/~ubuntustudio-kernel-team)
 
 Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatency.
 
-[Website Team](https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeamPage)
+[Website Team](../WebsiteTeamPage)
 
 [~ubuntustudio-website](https://launchpad.net/~ubuntustudio-website)
 
 Design and administration of [ubuntustudio.org](http://ubuntustudio.org)
 
-[IRC Ubuntu Studio Ops](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage)
+[IRC Ubuntu Studio Ops](../IRCUbuntuStudioOpsPage)
 
 [~irc-ubuntustudio-ops](https://launchpad.net/~irc-ubuntustudio-ops)
 
 Operators for the Ubuntu Studio IRC channels.
 
-[Core Team](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage)
+[Core Team](../CoreTeamPage)
 
 [~ubuntustudio-core](https://launchpad.net/~ubuntustudio-core)
 
 Owns and administers all the official Ubuntu Studio teams
 
-## [Ubuntu Studio User Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeam)
+## [Ubuntu Studio User Team (edit)](../UbuntuStudioTeam)
 
 | Task Description | Open team for ubuntu Studio users. Members of the launchpad team are allowed to comment on posts at ubuntustudio.org . |
 | --- | --- |
@@ -226,7 +226,7 @@ Open team for ubuntu Studio users. Members of the launchpad team are allowed to 
 
 **Team Wiki**
 
-[Ubuntu Studio Team Page](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeamPage)
+[Ubuntu Studio Team Page](../UbuntuStudioTeamPage)
 
 **Mail Lists**
 
@@ -236,7 +236,7 @@ Open team for ubuntu Studio users. Members of the launchpad team are allowed to 
 
 **#ubuntustudio** at irc.freenode.net
 
-## [Testing Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/TestingTeam)
+## [Testing Team (edit)](../TestingTeam)
 
 | Task Description | Primarily testing and QA insurance. May involve test development and writing documentation. |
 | --- | --- |
@@ -258,11 +258,11 @@ Primarily testing and QA insurance. May involve test development and writing doc
 
 **Team Landing Page**
 
-[Testing Team Page](https://wiki.ubuntu.com/UbuntuStudio/TestingTeamPage)
+[Testing Team Page](../TestingTeamPage)
 
 **Team Documentation**
 
-[Testing Team Documentation](https://wiki.ubuntu.com/UbuntuStudio/TestingDocumentation)
+[Testing Team Documentation](../TestingDocumentation)
 
 **Blueprint**
 
@@ -278,7 +278,7 @@ Primarily testing and QA insurance. May involve test development and writing doc
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -302,9 +302,9 @@ Rosco2
 
 Testing Lead
 
-## [Documentation Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeam)
+## [Documentation Team (edit)](../DocumentationTeam)
 
-| Task Description | Write user and developer documentation for the website and wikis. Maintains http://wiki.ubuntu.com/UbuntuStudio and http://help.ubuntu.com/community/UbuntuStudio as well as ubuntustudio.org |
+| Task Description | Write user and developer documentation for the website and wikis. Maintains UbuntuStudio and UbuntuStudio as well as ubuntustudio.org |
 | --- | --- |
 | Launchpad Team | ~ubuntustudio-documentation |
 | Team Wiki | Documentation Team Page |
@@ -316,7 +316,7 @@ Testing Lead
 
 **Task Description**
 
-Write user and developer documentation for the website and wikis. Maintains [http://wiki.ubuntu.com/UbuntuStudio](http://wiki.ubuntu.com/UbuntuStudio) and [http://help.ubuntu.com/community/UbuntuStudio](http://help.ubuntu.com/community/UbuntuStudio) as well as [ubuntustudio.org](http://ubuntustudio.org)
+Write user and developer documentation for the website and wikis. Maintains [UbuntuStudio](..) and [UbuntuStudio](../../../../../help) as well as [ubuntustudio.org](http://ubuntustudio.org)
 
 **Launchpad Team**
 
@@ -324,11 +324,11 @@ Write user and developer documentation for the website and wikis. Maintains [htt
 
 **Team Wiki**
 
-[Documentation Team Page](https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage)
+[Documentation Team Page](../DocumentationTeamPage)
 
 **Team Documentation**
 
-[Documentation](https://wiki.ubuntu.com/UbuntuStudio/Documentation)
+[Documentation](../Documentation)
 
 **Blueprint**
 
@@ -344,7 +344,7 @@ Write user and developer documentation for the website and wikis. Maintains [htt
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -379,7 +379,7 @@ April 2018
 
 Project Lead
 
-## [Ubuntu Studio Bugs Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeam)
+## [Ubuntu Studio Bugs Team (edit)](../UbuntuStudioBugsTeam)
 
 | Task Description | Join this team to be subscribed to all Ubuntu Studio related bugs |
 | --- | --- |
@@ -396,7 +396,7 @@ Join this team to be subscribed to all Ubuntu Studio related bugs
 
 **Team Landing Page**
 
-[Ubuntu Studio Bugs Team Page](https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeamPage)
+[Ubuntu Studio Bugs Team Page](../UbuntuStudioBugsTeamPage)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -420,7 +420,7 @@ Rosco2
 
 Testing Lead
 
-## [Contributor Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeam)
+## [Contributor Team (edit)](../ContributorTeam)
 
 | Task Description | moderated team for those looking to become Ubuntu Studio developers. |
 | --- | --- |
@@ -441,11 +441,11 @@ moderated team for those looking to become Ubuntu Studio developers.
 
 **Team Wiki**
 
-[Contributor Team Page](https://wiki.ubuntu.com/UbuntuStudio/ContributorTeamPage)
+[Contributor Team Page](../ContributorTeamPage)
 
 **Blueprint**
 
-See the [Blueprints Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlueprintOverview)
+See the [Blueprints Overview](../../Blueprints)
 
 **Mail Lists**
 
@@ -457,7 +457,7 @@ See the [Blueprints Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlue
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment |  |
 | --- | --- | --- | --- | --- |
@@ -489,7 +489,7 @@ Sweden
 
 cub
 
-## [Public Relations/Support Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeam)
+## [Public Relations/Support Team (edit)](../PRSupportTeam)
 
 | Task Description | Makes announcements on social channels and mail lists. Also handles support and has experience in common user problems. Forwards possible bugs. |
 | --- | --- |
@@ -510,7 +510,7 @@ Makes announcements on social channels and mail lists. Also handles support and 
 
 **Team Wiki**
 
-[PR/Support team Page](https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage)
+[PR/Support team Page](../PRSupportTeamPage)
 
 **Blueprint**
 
@@ -526,7 +526,7 @@ Makes announcements on social channels and mail lists. Also handles support and 
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -570,7 +570,7 @@ ttoine
 
 currently unavailable
 
-## [Art Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/ArtTeam)
+## [Art Team (edit)](../ArtTeam)
 
 | Task Description | Collects and creates art for Ubuntu Studio. |
 | --- | --- |
@@ -589,11 +589,11 @@ Collects and creates art for Ubuntu Studio.
 
 **Team Wiki**
 
-[Art Team Page](https://wiki.ubuntu.com/UbuntuStudio/ArtTeamPage)
+[Art Team Page](../ArtTeamPage)
 
 **Blueprint**
 
-See the [Blueprints Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlueprintOverview)
+See the [Blueprints Overview](../../Blueprints)
 
 **Mail Lists**
 
@@ -605,7 +605,7 @@ See the [Blueprints Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlue
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -649,7 +649,7 @@ April 2018
 
 Project Lead
 
-## [Release Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeam)
+## [Release Team (edit)](../ReleaseTeam)
 
 | Task Description | Maintains and executes the release in a specific wiki page |
 | --- | --- |
@@ -662,7 +662,7 @@ Project Lead
 
 **Task Description**
 
-Maintains and executes the release in [a specific wiki page](https://wiki.ubuntu.com/UbuntuStudio/ReleaseProcedure)
+Maintains and executes the release in [a specific wiki page](../ReleaseProcedure)
 
 **Launchpad Team**
 
@@ -670,7 +670,7 @@ Maintains and executes the release in [a specific wiki page](https://wiki.ubuntu
 
 **Team Wiki**
 
-[Release Team Page](https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeamPage)
+[Release Team Page](../ReleaseTeamPage)
 
 **Blueprint**
 
@@ -686,7 +686,7 @@ N/A
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -719,7 +719,7 @@ Rosco2
 
 Testing Lead
 
-## [Development Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/DevTeam)
+## [Development Team (edit)](../DevTeam)
 
 | Task Description | Packaging and bug fixing. Maintenance of Ubuntu Studio sources. Application development and maintenance. |
 | --- | --- |
@@ -741,15 +741,15 @@ Packaging and bug fixing. Maintenance of Ubuntu Studio sources. Application deve
 
 **Team Landing Page**
 
-[Development Team Page](https://wiki.ubuntu.com/UbuntuStudio/DevTeamPage)
+[Development Team Page](../DevTeamPage)
 
 **Team Documentation**
 
-[Developer Documentation](https://wiki.ubuntu.com/UbuntuStudio/DeveloperDocumentation)
+[Developer Documentation](../DeveloperDocumentation)
 
 **Blueprint**
 
-See the [Blueprint Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBlueprintOverview)
+See the [Blueprint Overview](../../Blueprints)
 
 **Mail Lists**
 
@@ -761,7 +761,7 @@ See the [Blueprint Overview](https://wiki.ubuntu.com/UbuntuStudio/PermanentBluep
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -815,7 +815,7 @@ April 2018
 
 Project Lead
 
-## [Kernel Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/KernelTeam)
+## [Kernel Team (edit)](../KernelTeam)
 
 | Task Description | Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatency. |
 | --- | --- |
@@ -837,11 +837,11 @@ Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatenc
 
 **Team Wiki**
 
-[Kernel Team Page](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamPage)
+[Kernel Team Page](../KernelTeamPage)
 
 **Team Documentation**
 
-[Kernel Team Documentation](https://wiki.ubuntu.com/UbuntuStudio/KernelTeamDocumentation)
+[Kernel Team Documentation](../KernelTeamDocumentation)
 
 **Blueprint**
 
@@ -857,7 +857,7 @@ Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatenc
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -881,7 +881,7 @@ zequence
 
 indefinite
 
-## [Website Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeam)
+## [Website Team (edit)](../WebsiteTeam)
 
 | Task Description | Design and administration of the Ubuntu Studio web site. |
 | --- | --- |
@@ -902,7 +902,7 @@ Design and administration of the Ubuntu Studio web site.
 
 **Team Wiki**
 
-[Website Team Page](https://wiki.ubuntu.com/UbuntuStudio/WebsiteTeamPage)
+[Website Team Page](../WebsiteTeamPage)
 
 **Blueprint**
 
@@ -918,7 +918,7 @@ Design and administration of the Ubuntu Studio web site.
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |
@@ -967,7 +967,7 @@ April 2018
 
 Project Lead
 
-## [IRC Ops Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOps)
+## [IRC Ops Team (edit)](../IRCUbuntuStudioOps)
 
 | Task Description | Operators for the Ubuntu Studio IRC channels. |
 | --- | --- |
@@ -986,7 +986,7 @@ Operators for the Ubuntu Studio IRC channels.
 
 **Team Wiki**
 
-[IRC Ubuntu Studio Ops Page](https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage)
+[IRC Ubuntu Studio Ops Page](../IRCUbuntuStudioOpsPage)
 
 **Mail Lists**
 
@@ -1030,7 +1030,7 @@ Finland
 
 astraljava
 
-## [Ubuntu Studio Core Team (edit)](https://wiki.ubuntu.com/UbuntuStudio/CoreTeam)
+## [Ubuntu Studio Core Team (edit)](../CoreTeam)
 
 | Task Description | Quality Assurance Leadership and overall last say |
 | --- | --- |
@@ -1052,15 +1052,15 @@ Quality Assurance Leadership and overall last say
 
 **Team Wiki**
 
-[Core Team Page](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage)
+[Core Team Page](../CoreTeamPage)
 
 **Team Documentation**
 
-[Core Team Documentation](https://wiki.ubuntu.com/UbuntuStudio/CoreTeamDocumentation)
+[Core Team Documentation](CoreTeamDocumentation)
 
 **Blueprint**
 
-See [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints)
+See [Blueprints](../Blueprints)
 
 **Mail Lists**
 
@@ -1072,7 +1072,7 @@ See [Blueprints](https://wiki.ubuntu.com/UbuntuStudio/Blueprints)
 
 **Schedules**
 
-[UbuntuStudio/DevelopmentReleaseSchedule](https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule)
+[UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
 
 | Name | Location | IRC Nick | Time Commitment | Title |
 | --- | --- | --- | --- | --- |

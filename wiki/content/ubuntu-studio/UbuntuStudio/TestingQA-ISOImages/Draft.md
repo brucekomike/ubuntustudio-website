@@ -2,7 +2,7 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages/Draft
 
-## [Draft](https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages/Draft)
+## [Draft](Draft)
 
 = Ubuntu Studio ISO Testing =
 
