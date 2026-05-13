@@ -1,13 +1,6 @@
 # WikiGuide/PageCreation - Community Help Wiki
 
-| WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
-| --- | --- | --- | --- | --- | --- |
-
-| Create a Page | Documentation Template | Writing Guide |
-| --- | --- | --- |
-
 # Introduction
-
 
 This section deals with how to create pages on the Ubuntu wiki.
 

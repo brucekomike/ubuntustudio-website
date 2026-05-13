@@ -10,9 +10,6 @@ Source: https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio
 
 [Ubuntu Studio Community](../../../../../help/content/community/UbuntuStudio--Community)
 
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](../../../ubuntu-studio/UbuntuStudio)**
 
 **[Testing](../../../ubuntu-studio/UbuntuStudio/Testing)**
@@ -26,9 +23,6 @@ Source: https://wiki.ubuntu.com/YakketyYak/Beta1/UbuntuStudio
 **[Documentation](../../../ubuntu-studio/UbuntuStudio/Documentation)**
 
 **[Organization](../../../ubuntu-studio/UbuntuStudio/Organization)**
-
-| Contents Release Notes for Ubuntu Studio 16.10 Yakkety Yak Beta 1 Getting Ubuntu Studio Yakkety Yak (16.10) Beta 1 Download a Disk Image Check MD5SUM for the downloaded ISO Known Problems Additions and Changes Audio Graphics Publishing Video Current Version Of Main Multimedia Packages Feedback Testing Ubuntu Studio Contact Us |
-| --- |
 
 Contents
 

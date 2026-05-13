@@ -1,6 +1,5 @@
 # UbuntuStudio/AudioHandbook/UsingVSTPlugins - Community Help Wiki
 
-
 # Using VST Plugins
 
 Virtual Studio Technology (VST) is a standard for software synthesizer and effect plugins invented by Steinberg (maker of the Cubase DAW).
@@ -16,9 +15,6 @@ One of the programs that can be used to run and manage VSTs is Carla. Here's how
 Carla is available in current Ubuntu Studio releases.
 
 ## Configuring and Using Carla
-
-| Once you build up a collection of VST plugins and have a number of projects, you should take advantage of the ability to save and restore a Carla rack combination, which can load several instruments at once. Your plugin rack will be saved with a file extension of .carxp. If you have a favorite rack configuration, or used certain plugins for a project, storing a rack is a great time saver. JACK configurations can be stored, too. |
-| --- |
 
 On the far right of Carla's top menu, click "Configure Carla" to see the Settings pop-up window. Go to "Paths" and make sure "VST" is selected in the dropdown at the top center of the Settings pop-up. Add the full path to the directory you created earlier, unless it's there by default. It might look something like this: ~/.vst
 

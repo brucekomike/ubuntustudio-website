@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/SaucySalamander/ReleaseNotes/Ja/UbuntuStudio
 
 ## [UbuntuStudio](UbuntuStudio)
 
-| Contents Ubuntu Studio 13.10の新機能 Ubuntu Studioアプリケーション インストール 概要 ダウンロード システム要件 アップグレード 13.04からのアップグレード その他のリリースからのアップグレード インフラストラクチャー Linuxカーネル 既知の問題 サポート |
-| --- |
-
 Contents
 
 1. [Ubuntu Studio 13.10の新機能](UbuntuStudio#Ubuntu_Studio_13.10.2BMG5lsGpfgP0-) [Ubuntu Studioアプリケーション](UbuntuStudio#Ubuntu_Studio.2BMKIw1zDqMLEw.2FDC3MOcw8w-)

@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio
 
 ## [UbuntuStudio](index)
 
-| Contents New Features in Ubuntu Studio 12.10 Ubuntu Studio Applications Common Infrastructure Secure Boot Migration-support deprecated Linux kernel 3.5.5 Python 3.2 GNU Toolchain Java Toolchain Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 12.04 Upgrading from Other Releases Known Issues Graphics and Display Applications Installation Kernel Networking Libvirt Toolchain VMware Player Video Drivers Support |
-| --- |
-
 Contents
 
 1. [New Features in Ubuntu Studio 12.10](index#New_Features_in_Ubuntu_Studio_12.10) [Ubuntu Studio Applications](index#Ubuntu_Studio_Applications) [Common Infrastructure](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Common_Infrastructure) [Secure Boot](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Secure_Boot) [Migration-support deprecated](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Migration-support_deprecated) [Linux kernel 3.5.5](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Linux_kernel_3.5.5) [Python 3.2](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Python_3.2) [GNU Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.GNU_Toolchain) [Java Toolchain](index#QuantalQuetzal.2FReleaseNotes.2FCommonInfrastructure.Java_Toolchain)

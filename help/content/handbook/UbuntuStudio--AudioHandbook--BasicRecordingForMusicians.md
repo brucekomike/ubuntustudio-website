@@ -1,6 +1,5 @@
 # UbuntuStudio/AudioHandbook/BasicRecordingForMusicians - Community Help Wiki
 
-
 # Basic Recording For Musicians
 
 ## Audacity
@@ -42,9 +41,6 @@ To export a track, first make sure the start and end markers are where you want 
 ## Other DAWs for Linux
 
 If Audacity and Ardour are not to your liking, there are other options. **LMMS** is available in the Ubuntu Software Center and is a simple install. It is somewhere between the two recorders we just looked at, and has a colorful, quirky layout. LMMS boasts native support of VSTs, and comes with some nice pre-installed plugins. It is not as full-featured as Ardour, but a bit less complicated and free. [https://lmms.io](https://lmms.io)
-
-| Note: The following applications are not included in the Ubuntu repositories and are therefore not officially supported. |
-| --- |
 
 **Renoise** has a $75 license fee. It uses a unique vertical scrolling tracker and uses QWERTY keys as the keyboard. Check out the tutorial video at: [http://renoise.com/products/renoise](http://renoise.com/products/renoise)
 

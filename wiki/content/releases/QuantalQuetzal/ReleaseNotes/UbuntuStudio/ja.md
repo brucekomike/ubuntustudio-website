@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/QuantalQuetzal/ReleaseNotes/UbuntuStudio/ja
 
 ## [UbuntuStudio](../ja/UbuntuStudio)
 
-| Contents Ubuntu Studio 12.10の新機能 Ubuntu Studioのアプリケーション 共通インフラストラクチャ Secure Boot Migration-supportの廃止 Linux kernel 3.5.5 Python 3.2 GNUツールチェイン Javaツールチェイン インストール 概要 ダウンロード システム要件 アップグレード その他のリリースからのアップグレード 既知の問題 グラフィックスとディスプレイ アプリケーション インストール Kernel ネットワーク Libvirt ツールチェイン VMware Player ビデオドライバー サポート |
-| --- |
-
 Contents
 
 1. [Ubuntu Studio 12.10の新機能](ja#Ubuntu_Studio_12.10.2BMG5lsGpfgP0-) [Ubuntu Studioのアプリケーション](ja#Ubuntu_Studio.2BMG4wojDXMOowsTD8MLcw5zDz-) [共通インフラストラクチャ](ja#QuantalQuetzal.2FReleaseNotes.2Fja.2FCommonInfrastructure.A.2BUXGQGjCkMPMw1TDpMLkwyDDpMK8wwTDj-) [Secure Boot](ja#QuantalQuetzal.2FReleaseNotes.2Fja.2FCommonInfrastructure.Secure_Boot) [Migration-supportの廃止](ja#QuantalQuetzal.2FReleaseNotes.2Fja.2FCommonInfrastructure.Migration-support.2BMG5ew2ti-) [Linux kernel 3.5.5](ja#QuantalQuetzal.2FReleaseNotes.2Fja.2FCommonInfrastructure.Linux_kernel_3.5.5) [Python 3.2](ja#QuantalQuetzal.2FReleaseNotes.2Fja.2FCommonInfrastructure.Python_3.2) [GNUツールチェイン](ja#QuantalQuetzal.2FReleaseNotes.2Fja.2FCommonInfrastructure.GNU.2BMMQw.2FDDrMMEwpzCkMPM-) [Javaツールチェイン](ja#QuantalQuetzal.2FReleaseNotes.2Fja.2FCommonInfrastructure.Java.2BMMQw.2FDDrMMEwpzCkMPM-)

@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/SaucySalamander/Beta1/UbuntuStudio
 
 ## [UbuntuStudio](UbuntuStudio)
 
-| Contents New Features in Ubuntu Studio 13.10 Beta 1 Ubuntu Studio Applications Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 13.04 Upgrading from Other Releases Infrastructure Linux kernel Known Problems Ubuntu Studio Desktop Installation and Updates Kernel Networking Support |
-| --- |
-
 Contents
 
 1. [New Features in Ubuntu Studio 13.10 Beta 1](UbuntuStudio#New_Features_in_Ubuntu_Studio_13.10_Beta_1) [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications)

@@ -1,11 +1,5 @@
 # WikiGuide/DeletingAndRenaming - Community Help Wiki
 
-| WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
-| --- | --- | --- | --- | --- | --- |
-
-| Create a Page | Documentation Template | Writing Guide |
-| --- | --- | --- |
-
 - ***Do not delete or rename pages unless you really know what you're doing.***
 
 Users do not have permission on this wiki to delete or rename pages. Doing so can sometimes cause accidental, yet major, problems. This includes, but is not limited to, breaking links within the wiki itself and on the internet, as well as people's bookmarks.

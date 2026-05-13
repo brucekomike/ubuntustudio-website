@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/XenialXerus/Beta1/UbuntuStudio
 
 ## [UbuntuStudio](UbuntuStudio)
 
-| Contents Introduction Ubuntu Studio 16.04 Beta 1 Release Notes Getting Ubuntu Studio 16.04 Beta 1 |
-| --- |
-
 Contents
 
 1. [Introduction](UbuntuStudio#Introduction)

@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio
 
 ## [UbuntuStudio](UbuntuStudio)
 
-| Home | Roadmap | News | Getting Involved | Derivatives | Knowledge Base | FAQ | Contacts | NEXT MEETING : soon 18.00 UTC ( details ) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
 [Home](https://wiki.ubuntu.com/DerivativeTeam)
 
 [Roadmap](https://wiki.ubuntu.com/DerivativeTeam/Roadmap)
@@ -24,9 +21,6 @@ Source: https://wiki.ubuntu.com/DerivativeTeam/Derivatives/UbuntuStudio
 [Contacts](https://wiki.ubuntu.com/DerivativeTeam/Contacts)
 
 **NEXT MEETING**: soon 18.00 UTC ([details](https://wiki.ubuntu.com/DerivativeTeam/Meeting))
-
-| Contents Introduction Contact Information Audience Mission Goals Collaboration Focuses |
-| --- |
 
 Contents
 

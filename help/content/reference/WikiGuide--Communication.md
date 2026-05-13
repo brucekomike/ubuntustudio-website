@@ -1,11 +1,5 @@
 # WikiGuide/Communication - Community Help Wiki
 
-| WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
-| --- | --- | --- | --- | --- | --- |
-
-| Create a Page | Documentation Template | Writing Guide |
-| --- | --- | --- |
-
 # Introduction
 
 Good communication with other wiki contributors is essential to writing great resources. Some guidelines:

@@ -1,12 +1,8 @@
 # UbuntuStudio/AudioHandbook/OverviewInstrumentsEffects - Community Help Wiki
 
-
 # Overview of Out-of-the-box Instruments and Effects
 
 ## Sound Generators
-
-| To audition sounds without a physical controller, use Audio Production/Midi Utilities/JACK keyboard Be sure JACK is running first. Follow the instructions below to connect the virtual keyboard, and use the mouse to play a few notes. |
-| --- |
 
 Start up QjackCtrl, then from the main Ubuntu menu, select Audio Production/Sound Generators, to see a list of pre-installed virtual instruments.
 
@@ -19,9 +15,6 @@ A list of eleven plugins appears (far right menu), with “Extra Sound Generator
 In Hexter's clean interface, it's easy to find a patch, and the patches are familiar sounds like marimba, clavinet, and synth brass. Screenshot 3.2 shows the surprisingly punchy patch, Growler, selected – be sure to give it a try along with other Hexter patches.
 
 You can connect the other instruments in JACK the same way, but some of them may require additional setup, including connecting the MIDI out from your controller, which may appear in JACK's ALSA tab under the aj2 drowdown menu rather than under the MIDI tab where you would expect to find it. Let's continue the tour with an eye towards making sure everything plays.
-
-| If you select P, the Principle manual, to respond to MIDI channel 1, then it's possible to toggle the other manuals viaaeolus' buttons labeled “P+I”, “P+II”, and “P+III”. This is helpful if you are only using a single controller and solves the problem of some stops appearing not to work. |
-| --- |
 
 **Aeolus** is a pipe organ emulator whose gorgeous sound compensates for a notably drab Graphical User Interface (GUI, pronounced “gooey”). When you launch Aeolus, all of its buttons flash in sequence. On older versions of Ubuntu Studio, it was necessary to install an additional helper program to run Aeolus. There is no default sound, and you must click “Recall” to get to the first preset. Depending how Aeolus is set up, you may notice that enabling and disabling some stops doesn't change the sound. Clicking on the MIDI button opens a grid where you can assign a different MIDI input channels to manuals P, I, II, or III. Remember to set the MIDI send channel accordingly on each controller (assuming you have more than one tier of keyboards).
 

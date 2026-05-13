@@ -1,13 +1,6 @@
 # WikiGuide - Community Help Wiki
 
-| WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
-| --- | --- | --- | --- | --- | --- |
-
-| Create a Page | Documentation Template | Writing Guide |
-| --- | --- | --- |
-
 # Introduction
-
 
 This page contains guidelines and help on how to contribute to the documentation in this wiki.
 

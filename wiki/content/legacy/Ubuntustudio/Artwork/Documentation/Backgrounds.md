@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds
 
 ## [Backgrounds](Backgrounds)
 
-|  | Home |  |  | Projects |  |  | Documentation |  |  | Accolades |  |  | Local Contacts |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
 ![emoticons01_64.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/Artwork/PageTemplate/Header/emoticons01_64.png)
 
 [Home](https://wiki.ubuntu.com/Artwork)
@@ -26,9 +23,6 @@ Source: https://wiki.ubuntu.com/Ubuntustudio/Artwork/Documentation/Backgrounds
 ![emoticons06_64.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/Artwork/PageTemplate/Header/emoticons06_64.png)
 
 [Local Contacts](https://wiki.ubuntu.com/Artwork/LocalContacts)
-
-| Contents Goal(s) Assumptions Subject Matter Composition Constraints Screen Resolution and Aspect Ratio Desktops Laptops Tablets Background Guidelines File Formats Templates Comments / Suggestions for this Document |
-| --- |
 
 Contents
 

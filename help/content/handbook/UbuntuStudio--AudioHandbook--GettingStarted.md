@@ -1,6 +1,5 @@
 # UbuntuStudio/AudioHandbook/GettingStarted - Community Help Wiki
 
-
 # Getting started
 
 ## Gear on a Budget
@@ -28,9 +27,6 @@ Before running the installation, you might want to check that your computer has 
 ## Running Ubuntu from media
 
 By now you should have a computer and soundcard. If you're still unsure about whether Ubuntu will work on your system, or just want to give it a test drive prior to committing, it's possible to run the system from either a DVD or USB drive – this is one of the startup options on the same disc image we'll use to run the full installation. The steps are:
-
-| ISO, stands for “International Standards Organization” and an ISO file or ISO image is a compressed copy of the contents of a CD or DVD; it's a common format for shipping large programs over the internet. |
-| --- |
 
 - • Download the Ubuntu Studio ISO file at [https://ubuntustudio.org/download](https://ubuntustudio.org/download) • Burn it to a CD/DVD or bootable USB stick (DVD image is about 2.6 GB for version 16.04) • Restart the computer with media in place and follow the installation instructions
 

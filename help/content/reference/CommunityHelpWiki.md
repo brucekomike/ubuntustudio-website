@@ -2,12 +2,6 @@
 
 ## Welcome!
 
-| This user-created and maintained wiki is a reference for various Ubuntu-related Howto's, tips, tricks and hacks. Scroll down to find the list of the major topics in this wiki. |  | Official Documentation Check out the official documentation consisting of the Desktop, Server and Installation Guides. |
-| --- | --- | --- |
-
-|  | FAQ Here are some common questions that new users ask. |  |  | Most popular pages We have gathered an alphabetical list of the most popular pages in this wiki. |  |  | Other resources This wiki is just one of the places to get help. See the list for more Ubuntu help resources . |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-
 ## Topics by Release
 
 | Release | Notes |
@@ -62,8 +56,5 @@
 | Xubuntu | Xubuntu Documentation |
 
 ## More resources
-
-|  | Browse this wiki by category Do you have questions that aren't answered here? Browse this wiki by category . |  |  | All pages in this wiki Still haven't found what you're looking for? Use the title index for this wiki. |  |  | Terminology Learn the most commonly-used terms in this wiki from our Glossary . |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 
 **IMPORTANT:** The upgrade for the latest LTS versions from older versions will be available when the first point release is published. It can take a few days, so please be patient. Thank you!

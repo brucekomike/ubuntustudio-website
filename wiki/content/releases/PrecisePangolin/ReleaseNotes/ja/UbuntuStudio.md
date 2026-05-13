@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/ja/UbuntuStudio
 
 ## [UbuntuStudio](UbuntuStudio)
 
-| Contents Ubuntu Studio 12.04 LTSの新機能 Ubuntu Studioのアプリケーション 共通インフラストラクチャ Linux v3.2.14 Kernel Upstart 1.5 GNU Toolchain Python Toolchain Java Toolchain 概要 ダウンロード システム要件 アップグレード Ubuntu Studio 11.10からのアップグレード Ubuntu Studio 10.04 LTSからUbuntu Studio 12.04 LTSにアップグレード その他のリリースからのアップグレード 既知の不具合 グラフィックおよびディスプレイ アプリケーション 起動とインストール・インストール直後の問題 アップグレード 12.04.2の追加事項/日本語訳版独自の項目 Kernel サポート |
-| --- |
-
 Contents
 
 1. [Ubuntu Studio 12.04 LTSの新機能](UbuntuStudio#Ubuntu_Studio_12.04_LTS.2BMG5lsGpfgP0-) [Ubuntu Studioのアプリケーション](UbuntuStudio#Ubuntu_Studio.2BMG4wojDXMOowsTD8MLcw5zDz-) [共通インフラストラクチャ](UbuntuStudio#PrecisePangolin.2FReleaseNotes.2Fja.2FCommonInfrastructure.A.2BUXGQGjCkMPMw1TDpMLkwyDDpMK8wwTDj-) [Linux v3.2.14 Kernel](UbuntuStudio#PrecisePangolin.2FReleaseNotes.2Fja.2FCommonInfrastructure.Linux_v3.2.14_Kernel) [Upstart 1.5](UbuntuStudio#PrecisePangolin.2FReleaseNotes.2Fja.2FCommonInfrastructure.Upstart_1.5) [GNU Toolchain](UbuntuStudio#PrecisePangolin.2FReleaseNotes.2Fja.2FCommonInfrastructure.GNU_Toolchain) [Python Toolchain](UbuntuStudio#PrecisePangolin.2FReleaseNotes.2Fja.2FCommonInfrastructure.Python_Toolchain) [Java Toolchain](UbuntuStudio#PrecisePangolin.2FReleaseNotes.2Fja.2FCommonInfrastructure.Java_Toolchain) [概要](UbuntuStudio#A.2BaYKJgQ-) [ダウンロード](UbuntuStudio#A.2BMMAwpjDzMO0w.2FDDJ-) [システム要件](UbuntuStudio#A.2BMLcwuTDGMOCJgU72-) [アップグレード](UbuntuStudio#A.2BMKIwwzDXMLAw7DD8MMk-) [Ubuntu Studio 11.10からのアップグレード](UbuntuStudio#Ubuntu_Studio_11.10.2BMEswiTBuMKIwwzDXMLAw7DD8MMk-) [Ubuntu Studio 10.04 LTSからUbuntu Studio 12.04 LTSにアップグレード](UbuntuStudio#Ubuntu_Studio_10.04_LTS.2BMEswiQ-Ubuntu_Studio_12.04_LTS.2BMGswojDDMNcwsDDsMPwwyQ-) [その他のリリースからのアップグレード](UbuntuStudio#A.2BMF0wbk7WMG4w6jDqMPwwuTBLMIkwbjCiMMMw1zCwMOww.2FDDJ-)

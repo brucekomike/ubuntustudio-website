@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.
 
 ## [UbuntuStudio-12.04.3](UbuntuStudio-12.04.3)
 
-| Contents Ubuntu Studio 12.04.3 LTS Ubuntu Studio Applications Common Infrastructure Ubuntu Kernel 3.2.0-52.54 Upstart 1.5 GNU Toolchain Python Toolchain Java Toolchain Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 11.10 Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS Upgrading from Other Releases Known Issues Graphics and Display Applications Boot, Installation and Post-Installation Upgrades Kernel Support |
-| --- |
-
 Contents
 
 1. [Ubuntu Studio 12.04.3 LTS](UbuntuStudio-12.04.3#Ubuntu_Studio_12.04.3_LTS) [Ubuntu Studio Applications](UbuntuStudio-12.04.3#Ubuntu_Studio_Applications) [Common Infrastructure](UbuntuStudio-12.04.3#Common_Infrastructure) [Ubuntu Kernel 3.2.0-52.54](UbuntuStudio-12.04.3#Ubuntu_Kernel_3.2.0-52.54) [Upstart 1.5](UbuntuStudio-12.04.3#Upstart_1.5) [GNU Toolchain](UbuntuStudio-12.04.3#GNU_Toolchain) [Python Toolchain](UbuntuStudio-12.04.3#Python_Toolchain) [Java Toolchain](UbuntuStudio-12.04.3#Java_Toolchain)

@@ -1,11 +1,5 @@
 # WikiGuide/WritingGuide - Community Help Wiki
 
-| WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
-| --- | --- | --- | --- | --- | --- |
-
-| Create a Page | Documentation Template | Writing Guide |
-| --- | --- | --- |
-
 # Introduction
 
 The pages in this wiki should be as easy to understand as possible and follow. With this in mind, please take into account the following suggested writing style guidelines:

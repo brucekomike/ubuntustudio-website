@@ -1,15 +1,8 @@
 # WikiGuide/Formatting - Community Help Wiki
 
-| WikiGuide | Wiki Mark-up Formatting | Icons | Tags | Deleting & Renaming | Communication |
-| --- | --- | --- | --- | --- | --- |
-
-| Create a Page | Documentation Template | Writing Guide |
-| --- | --- | --- |
-
 The Ubuntu Community Help Wiki can often seem like a daunting thing to start editing, but this is in fact NOT the case! It is easy to start editing and improving the information recorded here. The best way to start is to look at the formatting which is employed on various pages. You can see the code of a page by logging in and selecting "Raw Text" from the 'More Actions:' drop down menu on the page.
 
 ## The basics
-
 
 - Paragraphs should be separated by a blank line.
 - To make a list, use a white space at the beginning of a line, followed by either an asterisk (for bullet points), a number, letter etc.
@@ -35,8 +28,6 @@ This page is going to explain how to write a guide on the wiki. The following th
 
  * Ask the DocumentationTeam to check the guide afterwards and tag it appropriately
 
-
-
 The following paragraph is a ordered list using lowercase letters as list markers:
 
  a. this is the ''first'' item
@@ -44,8 +35,6 @@ The following paragraph is a ordered list using lowercase letters as list marker
  a. this is the ''second'' item
 
  a. this is the ''third'' item
-
-
 
 {{{
 

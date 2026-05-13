@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio
 
 ## [UbuntuStudio](index)
 
-| Contents Ubuntu Studio 12.04.4 LTS Ubuntu Studio Applications Common Infrastructure Linux-lowlatency kernel Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 11.10 Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS Upgrading from Other Releases Support |
-| --- |
-
 Contents
 
 1. [Ubuntu Studio 12.04.4 LTS](index#Ubuntu_Studio_12.04.4_LTS) [Ubuntu Studio Applications](index#Ubuntu_Studio_Applications) [Common Infrastructure](index#Common_Infrastructure) [Linux-lowlatency kernel](index#Linux-lowlatency_kernel)

@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/RaringRingtail/Beta2/UbuntuStudio
 
 ## [UbuntuStudio](UbuntuStudio)
 
-| Contents New Features in Ubuntu Studio 13.04 Beta 2 Ubuntu Studio Applications Fixed bugs Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 12.10 Upgrading from Other Releases Infrastructure Linux kernel 3.8 GNU Toolchain Java Toolchain Support |
-| --- |
-
 Contents
 
 1. [New Features in Ubuntu Studio 13.04 Beta 2](UbuntuStudio#New_Features_in_Ubuntu_Studio_13.04_Beta_2) [Ubuntu Studio Applications](UbuntuStudio#Ubuntu_Studio_Applications) [Fixed bugs](UbuntuStudio#Fixed_bugs)

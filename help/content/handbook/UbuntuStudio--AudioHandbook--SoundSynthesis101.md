@@ -1,6 +1,5 @@
 # UbuntuStudio/AudioHandbook/SoundSynthesis101 - Community Help Wiki
 
-
 ## Sound Synthesis 101
 
 By now you have seen quite a few virtual synthesizers with a bewildering array of GUIs. In this section, we will try to see what they all have in common with the goal of being able to modify and create patches.
@@ -100,9 +99,6 @@ Let's apply some of the above ideas to make a simple funky bass, a classic analo
 
 **Start Synth1**
 
-| Note: CARLA is not yet included in the Ubuntu repositories and is therefore not officially supported. |
-| --- |
-
 1. Open the terminal window and change directory to where you installed Carla, for example: $ cd /usr/local/share/Carla
 2. Launch Carla: /usr/local/share/carla$ Carla
 3. In Carla's window, click the green '+' sign (Add Plugin), and select Synth1.
@@ -131,9 +127,6 @@ This plugin has very clearly marked "Arpegiator [sic] Gate" section at bottom ri
 ![Poly2106Arp.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/help/image/SoundSynthesis101_9cf8c7b906.png)
 
 ## Crafting Noise
-
-| Note: The following application is not included in the Ubuntu repositories and is therefore not officially supported. |
-| --- |
 
 Install TAL-Noisemaker from here: [https://tal-software.com/products/tal-noisemaker](https://tal-software.com/products/tal-noisemaker)
 

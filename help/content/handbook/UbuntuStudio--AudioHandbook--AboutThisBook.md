@@ -1,6 +1,5 @@
 # UbuntuStudio/AudioHandbook/AboutThisBook - Community Help Wiki
 
-
 # About this book
 
 ## Who this book is for
@@ -20,9 +19,6 @@ No knowledge of Ubuntu is required - this book in not an Ubuntu manual, but will
 ## How to use this book
 
 You might be stuck on something. This book may or may not provide the answer, but it will show that, with a little patience, you can get un-stuck from whatever the problem is. I tried everything as I wrote – demonstrating that “it really does do that”. Maybe there's a buried menu, hard-to-find checkbox, or something needs to be restarted/re-installed. The point is: knowing what's possible is valuable in itself because it shows persistence will be rewarded.
-
-| Know what's possible. Knowing what's possible is valuable in itself - it shows that persistence will be rewarded. |
-| --- |
 
 - There is no need to read this book cover-to-cover. It's fine to skip over things you know to the things you want to learn about.
 - Have a book marker at hand so you can try things out as you go. Do put the book to one side and open a new project or noodle around with presets whenever the mood strikes.

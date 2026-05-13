@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuStudio-12.04.
 
 ## [UbuntuStudio-12.04.1](UbuntuStudio-12.04.1)
 
-| Contents Ubuntu Studio 12.04 LTS Ubuntu Studio Applications Common Infrastructure Linux v3.2.14 Kernel Upstart 1.5 GNU Toolchain Python Toolchain Java Toolchain Installation Overview Download System Requirements Upgrading Upgrading from Ubuntu Studio 11.10 Upgrading from Ubuntu Studio 10.04 LTS to Ubuntu Studio 12.04 LTS Upgrading from Other Releases Known Issues Graphics and Display Applications Boot, Installation and Post-Installation Upgrades Kernel Support |
-| --- |
-
 Contents
 
 1. [Ubuntu Studio 12.04 LTS](UbuntuStudio-12.04.1#Ubuntu_Studio_12.04_LTS) [Ubuntu Studio Applications](UbuntuStudio-12.04.1#Ubuntu_Studio_Applications) [Common Infrastructure](UbuntuStudio-12.04.1#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.1.Common_Infrastructure) [Linux v3.2.14 Kernel](UbuntuStudio-12.04.1#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.1.Linux_v3.2.14_Kernel) [Upstart 1.5](UbuntuStudio-12.04.1#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.1.Upstart_1.5) [GNU Toolchain](UbuntuStudio-12.04.1#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.1.GNU_Toolchain) [Python Toolchain](UbuntuStudio-12.04.1#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.1.Python_Toolchain) [Java Toolchain](UbuntuStudio-12.04.1#PrecisePangolin.2FReleaseNotes.2FCommonInfrastructure-12.04.1.Java_Toolchain)

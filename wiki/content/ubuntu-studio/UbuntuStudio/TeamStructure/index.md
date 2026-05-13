@@ -37,55 +37,9 @@ The organization of the teams is related to the design of launchpad, which we us
 Lead positions that may or may not correspond with any of the teams. A lead will have special duties and responsibilities.
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Set Hallstrom | Sweden | sakrecoer | Project Lead | Overall Quality Assurance and last say | Until April 2018 |
-| Currently undefined (zequence?) | -- | -- | Art Lead | Lead the artwork design for Ubuntu Studio | At least until April 2016 |
-| Ross Gammon | Denmark |  | Testing Lead | Release manager and organizes application testing | At least until April 2016 |
-
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Title**
-
-**Duties**
-
-**Time Commitment**
-
-[Set Hallstrom](https://wiki.ubuntu.com/SetHallstrom)
-
-Sweden
-
-sakrecoer
-
-Project Lead
-
-Overall Quality Assurance and last say
-
-Until April 2018
-
-[Currently undefined (zequence?)](https://wiki.ubuntu.com/Currently%20undefined%20%28zequence%3F%29)
-
---
-
---
-
-Art Lead
-
-Lead the artwork design for Ubuntu Studio
-
-At least until April 2016
-
-Ross Gammon
-
-Denmark
-
-Testing Lead
-
-Release manager and organizes application testing
-
-At least until April 2016
+| Erich Eickmeyer | United States | eeickmeyer | Project Lead | Overall Quality Assurance and last say | --- |
+| Eylul Dogruel | Turkey | eylul | Art Lead | Lead the artwork design for Ubuntu Studio | --- |
+| Ross Gammon | Denmark | rosco | Testing Lead | Organizes application testing | --- |
 
 # Ubuntu Studio Teams
 **Open Teams** Anyone can join
@@ -108,90 +62,6 @@ At least until April 2016
 | Website Team | ~ubuntustudio-website | Design and administration of ubuntustudio.org |
 | IRC Ubuntu Studio Ops | ~irc-ubuntustudio-ops | Operators for the Ubuntu Studio IRC channels. |
 | Core Team | ~ubuntustudio-core | Owns and administers all the official Ubuntu Studio teams |
-
-**Team **
-
-**Launchpad Team**
-
-**Description**
-
-[Ubuntu Studio User Team](../UbuntuStudioTeamPage)
-
-[~ubuntustudio](https://launchpad.net/~ubuntustudio)
-
-Open team for Ubuntu Studio users that acts as a portal for information. Members of this team are allowed to comment on posts at the website.
-
-[Testing Team](../TestingTeamPage)
-
-[~ubuntustudio-testing](https://launchpad.net/~ubuntustudio-testing)
-
-Team that does testing and QA insurance. May include test development and writing documentation.
-
-[Documentation Team](../DocumentationTeamPage)
-
-[~ubuntustudio-documentation-team](https://launchpad.net/~ubuntustudio-documentation-team)
-
-Writes user and developer documentation for the website and wikis. Maintains [UbuntuStudio](..) and [UbuntuStudio](../../../../../help)
-
-[Bugs Team](../UbuntuStudioBugsTeamPage)
-
-[~ubuntustudio-bugs](https://launchpad.net/~ubuntustudio-bugs)
-
-A team which is subscribed to Ubuntu Studio related bug reports
-
-[Contributor Team](../ContributorTeamPage)
-
-[~ubuntustudio-contributors](https://launchpad.net/~ubuntustudio-contributors)
-
-moderated team for those wanting to become Ubuntu Studio developers
-
-[Public Relations and Support team](../PRSupportTeamPage)
-
-[~ubuntustudio-public-relations](https://launchpad.net/~ubuntustudio-public-relations)
-
-Makes announcements on social channels and mail lists. Also handles support and has experience in common user problems. Forwards possible bugs.
-
-[Art Team](../ArtTeamPage)
-
-[~ubuntustudio-art](https://launchpad.net/~ubuntustudio-art)
-
-Collects and creates art for Ubuntu Studio.
-
-[Release Team](../ReleaseTeamPage)
-
-[~ubuntustudio-release](https://launchpad.net/~ubuntustudio-release)
-
-Maintains and executes the release process in [a specific wiki page](../ReleaseProcedure).
-
-[Development Team](../DevTeamPage)
-
-[~ubuntustudio-dev](https://launchpad.net/~ubuntustudio-dev)
-
-Packaging and bug fixing. Maintenance of Ubuntu Studio sources. Application development and maintenance.
-
-[Kernel Team](../KernelTeamPage)
-
-[~ubuntustudio-kernel-team](https://launchpad.net/~ubuntustudio-kernel-team)
-
-Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatency.
-
-[Website Team](../WebsiteTeamPage)
-
-[~ubuntustudio-website](https://launchpad.net/~ubuntustudio-website)
-
-Design and administration of [ubuntustudio.org](http://ubuntustudio.org)
-
-[IRC Ubuntu Studio Ops](../IRCUbuntuStudioOpsPage)
-
-[~irc-ubuntustudio-ops](https://launchpad.net/~irc-ubuntustudio-ops)
-
-Operators for the Ubuntu Studio IRC channels.
-
-[Core Team](../CoreTeamPage)
-
-[~ubuntustudio-core](https://launchpad.net/~ubuntustudio-core)
-
-Owns and administers all the official Ubuntu Studio teams
 
 ## [Ubuntu Studio User Team (edit)](../UbuntuStudioTeam)
 |  |  |
@@ -263,25 +133,9 @@ Primarily testing and QA insurance. May involve test development and writing doc
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+| Name | Location | IRC Nick | Time Commitment | Title |
+| --- | --- | --- | --- | --- |
 | Ross Gammon | Denmark | Rosco2 |  | Testing Lead |
-
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-[Ross Gammon](https://wiki.ubuntu.com/RossGammon)
-
-Denmark
-
-Rosco2
-
-Testing Lead
 
 ## [Documentation Team (edit)](../DocumentationTeam)
 |  |  |
@@ -325,38 +179,14 @@ Write user and developer documentation for the website and wikis. Maintains [Ubu
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+| Name | Location | IRC Nick | Time Commitment | Title |
+| --- | --- | --- | --- | --- |
 | autumna | ? | autumna |  | Team-Member |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-[autumna](http://launchpad.net/~autumna)
-
-?
-
-autumna
-
-Team-Member
-
-[Set Hallstrom](https://wiki.ubuntu.com/SetHallstrom)
-
-Sweden
-
-sakrecoer
-
-April 2018
-
-Project Lead
-
 ## [Ubuntu Studio Bugs Team (edit)](../UbuntuStudioBugsTeam)
+| Field | Value |
+| --- | --- |
 | Launchpad Team | ~ubuntustudio-bugs |
 | Team Landing Page | Ubuntu Studio Bugs Team Page |
 
@@ -371,25 +201,9 @@ Join this team to be subscribed to all Ubuntu Studio related bugs
 **Team Landing Page**
 
 [Ubuntu Studio Bugs Team Page](../UbuntuStudioBugsTeamPage)
+| Name | Location | IRC Nick | Time Commitment | Title |
+| --- | --- | --- | --- | --- |
 | Ross Gammon | Denmark | Rosco2 |  | Testing Lead |
-
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-[Ross Gammon](https://wiki.ubuntu.com/RossGammon)
-
-Denmark
-
-Rosco2
-
-Testing Lead
 
 ## [Contributor Team (edit)](../ContributorTeam)
 |  |  |
@@ -434,30 +248,6 @@ See the [Blueprints Overview](../../Blueprints)
 | Luke Kuhn | USA |  |  |  |
 | Jimmy Sjölund | Sweden | cub |  |  |
 
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-Maik Adamietz
-
-Belgium
-
-D****arkEra
-
-Luke Kuhn
-
-USA
-
-[Jimmy Sjölund](https://wiki.ubuntu.com/cub)
-
-Sweden
-
-cub
-
 ## [Public Relations/Support Team (edit)](../PRSupportTeam)
 |  |  |
 | --- | --- |
@@ -501,42 +291,6 @@ Makes announcements on social channels and mail lists. Also handles support and 
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 | Ttoine | France | ttoine |  | currently unavailable |
 
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-cfhowlett
-
-japan
-
-cfhowlett
-
-Team-Member
-
-[Set Hallstrom](https://wiki.ubuntu.com/SetHallstrom)
-
-Sweden
-
-sakrecoer
-
-April 2018
-
-Project Lead
-
-[Ttoine](https://wiki.ubuntu.com/Ttoine)
-
-France
-
-ttoine
-
-currently unavailable
-
 ## [Art Team (edit)](../ArtTeam)
 |  |  |
 | --- | --- |
@@ -578,42 +332,6 @@ See the [Blueprints Overview](../../Blueprints)
 | madeinkobaia | Belgium | madeinkobaia |  | Independent Team-Asset |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-Geirdal
-
-Iceland
-
-geirdal
-
-Team Member
-
-madeinkobaia
-
-Belgium
-
-madeinkobaia
-
-Independent Team-Asset
-
-[Set Hallstrom](https://wiki.ubuntu.com/SetHallstrom)
-
-Sweden
-
-sakrecoer
-
-April 2018
-
-Project Lead
-
 ## [Release Team (edit)](../ReleaseTeam)
 |  |  |
 | --- | --- |
@@ -651,34 +369,10 @@ N/A
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+| Name | Location | IRC Nick | Time Commitment | Title |
+| --- | --- | --- | --- | --- |
 | Kaj Ailomaa | Sweden | zequence |  | Team Member |
 | Ross Gammon | Denmark | Rosco2 |  | Testing Lead |
-
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-[Kaj Ailomaa](https://wiki.ubuntu.com/zequence)
-
-Sweden
-
-zequence
-
-Team Member
-
-[Ross Gammon](https://wiki.ubuntu.com/RossGammon)
-
-Denmark
-
-Rosco2
-
-Testing Lead
 
 ## [Development Team (edit)](../DevTeam)
 |  |  |
@@ -730,50 +424,6 @@ See the [Blueprint Overview](../../Blueprints)
 | Ross Gammon | Denmark | Rosco2 |  |  |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-[Janne Jokitalo](https://wiki.ubuntu.com/astraljava)
-
-Finland
-
-astraljava
-
-[Kaj Ailomaa](https://wiki.ubuntu.com/zequence)
-
-Sweden
-
-zequence
-
-Len Ovens
-
-Canada
-
-[OvenWerks](https://wiki.ubuntu.com/OvenWerks)
-
-[Ross Gammon](https://wiki.ubuntu.com/RossGammon)
-
-Denmark
-
-Rosco2
-
-[Set Hallstrom](https://wiki.ubuntu.com/SetHallstrom)
-
-Sweden
-
-sakrecoer
-
-April 2018
-
-Project Lead
-
 ## [Kernel Team (edit)](../KernelTeam)
 |  |  |
 | --- | --- |
@@ -816,25 +466,9 @@ Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatenc
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](../DevelopmentReleaseSchedule)
+| Name | Location | IRC Nick | Time Commitment | Title |
+| --- | --- | --- | --- | --- |
 | Kaj Ailomaa | Sweden | zequence | indefinite |  |
-
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-[Kaj Ailomaa](https://wiki.ubuntu.com/zequence)
-
-Sweden
-
-zequence
-
-indefinite
 
 ## [Website Team (edit)](../WebsiteTeam)
 |  |  |
@@ -880,46 +514,6 @@ Design and administration of the Ubuntu Studio web site.
 | Kaj Ailomaa | Sweden | zequence |  |  |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-[autumna](http://launchpad.net/~autumna)
-
-?
-
-autumna
-
-Team-Member
-
-[Jimmy Sjölund](https://wiki.ubuntu.com/cub)
-
-Sweden
-
-cub
-
-[Kaj Ailomaa](https://wiki.ubuntu.com/zequence)
-
-Sweden
-
-zequence
-
-[Set Hallstrom](https://wiki.ubuntu.com/SetHallstrom)
-
-Sweden
-
-sakrecoer
-
-April 2018
-
-Project Lead
-
 ## [IRC Ops Team (edit)](../IRCUbuntuStudioOps)
 |  |  |
 | --- | --- |
@@ -952,34 +546,6 @@ Operators for the Ubuntu Studio IRC channels.
 | Jimmy Sjölund | Sweden | cub |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |
 | Janne Jokitalo | Finland | astraljava |  |  |
-
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-[Jimmy Sjölund](https://wiki.ubuntu.com/cub)
-
-Sweden
-
-cub
-
-[Kaj Ailomaa](https://wiki.ubuntu.com/zequence)
-
-Sweden
-
-zequence
-
-[Janne Jokitalo](https://wiki.ubuntu.com/astraljava)
-
-Finland
-
-astraljava
 
 ## [Ubuntu Studio Core Team (edit)](../CoreTeam)
 |  |  |
@@ -1028,42 +594,6 @@ See [Blueprints](../Blueprints)
 | Kaj Ailomaa | Sweden | zequence | indefinite |  |
 | Len Ovens | Canada | Ovenwerks | indefinite |  |
 | Set Hallstrom | Sweden | sakrecoer | april 2018 | Project Lead |
-
-**Name**
-
-**Location**
-
-**IRC Nick**
-
-**Time Commitment**
-
-**Title**
-
-[Kaj Ailomaa](https://wiki.ubuntu.com/zequence)
-
-Sweden
-
-zequence
-
-indefinite
-
-Len Ovens
-
-Canada
-
-Ovenwerks
-
-indefinite
-
-[Set Hallstrom](https://wiki.ubuntu.com/SetHallstrom)
-
-Sweden
-
-sakrecoer
-
-april 2018
-
-Project Lead
 
 ---
 

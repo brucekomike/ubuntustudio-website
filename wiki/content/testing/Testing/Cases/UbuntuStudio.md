@@ -4,9 +4,6 @@ Source: https://wiki.ubuntu.com/Testing/Cases/UbuntuStudio
 
 ## [UbuntuStudio](UbuntuStudio)
 
-| Testing Home | Test Cases | Install Methods | Reporting |
-| --- | --- | --- | --- |
-
 [Testing Home](https://wiki.ubuntu.com/Testing)
 
 [Test Cases](https://wiki.ubuntu.com/Testing/Cases)
@@ -14,9 +11,6 @@ Source: https://wiki.ubuntu.com/Testing/Cases/UbuntuStudio
 [Install Methods](https://wiki.ubuntu.com/Testing/InstallMethods)
 
 [Reporting](https://wiki.ubuntu.com/Testing/ISO/Procedures)
-
-| Contents Summary Procedures Post-install testing |
-| --- |
 
 Contents
 

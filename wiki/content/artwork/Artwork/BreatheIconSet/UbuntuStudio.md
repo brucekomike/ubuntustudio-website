@@ -8,9 +8,6 @@ Source: https://wiki.ubuntu.com/Artwork/BreatheIconSet/UbuntuStudio
 
 This page will be the development page for the Ubuntu Studio variant of Breathe currently target for a Lucid Lynx release.
 
-| Contents Current Icons Guidelines Submissions Final |
-| --- |
-
 Contents
 
 1. [Current Icons](UbuntuStudio#Current_Icons)
