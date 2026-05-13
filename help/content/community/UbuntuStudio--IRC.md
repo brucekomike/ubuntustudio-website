@@ -1,17 +1,21 @@
 # UbuntuStudio/IRC - Community Help Wiki
 
-NOTE: This page is community chat information, not the preferred support channel.
+NOTE: IRC is legacy for Ubuntu Studio community discussion. For support, use Ubuntu Discourse first and Matrix second.
 
 # Community Chat
 
-Ubuntu Studio community chat is on **irc.libera.chat** and Matrix. For support, use Ubuntu Discourse first and Matrix support chat second.
+Ubuntu Studio support is centered on Discourse and Matrix:
+
+- [Ubuntu Discourse Support and Help](https://discourse.ubuntu.com/c/support-and-help/306)
+- [Ubuntu Studio category on Discourse](https://discourse.ubuntu.com/c/flavors/ubuntustudio/188)
+- [Matrix support chat](https://matrix.to/#/#ubuntustudio:ubuntu.com)
+
+IRC information is kept below for legacy community reference only.
 
 - **#ubuntustudio** - user channel for discussion and community help
 - **#ubuntustudio-devel** - developer discussion
 
 # Matrix support chat: [Ubuntu Studio support room](https://matrix.to/#/#ubuntustudio:ubuntu.com)
-
-# Libera doesn't have webchat as of this writing.
 
 # Useful channels on libera.chat related to Ubuntu Studio:
 

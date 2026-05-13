@@ -2,6 +2,8 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/LandingPageStaging
 
+> Historical import note: this page is a migrated snapshot from wiki.ubuntu.com and preserves old planning content for reference. For current information, use [ubuntustudio.org](https://ubuntustudio.org/), [Ubuntu Studio on Discourse](https://discourse.ubuntu.com/c/flavors/ubuntustudio/188), and [Ubuntu Studio support](https://ubuntustudio.org/support/).
+
 ## [LandingPageStaging](https://wiki.ubuntu.com/UbuntuStudio/LandingPageStaging)
 
 [https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)

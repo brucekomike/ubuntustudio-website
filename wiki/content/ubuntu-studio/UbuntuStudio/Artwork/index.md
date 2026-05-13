@@ -2,6 +2,10 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork
 
+> Current artwork note: the current Ubuntu Studio logo (March 2022 refresh) is localized in this repository as PNG assets at [../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_banner.png) (standalone mark-only banner, no wordmark), [../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_wordmark-horizontal.png) (full horizontal wordmark), [../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB.png) (legacy horizontal wordmark alias), [../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB_reverse.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_RGB_reverse.png) (reverse for dark backgrounds), and [../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_stacked.png) (stacked wordmark). The square variant is [../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_square.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-logo-2022_square.png), and the icon is [../../../_assets/ubuntustudio_org/branding/UbuntuStudio-icon-2022_RGB.png](../../../_assets/ubuntustudio_org/branding/UbuntuStudio-icon-2022_RGB.png).
+>
+> Typography and palette references for current branding are documented in [NewBrand](NewBrand).
+
 ## [Artwork](https://wiki.ubuntu.com/UbuntuStudio/Artwork)
 
 [https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)

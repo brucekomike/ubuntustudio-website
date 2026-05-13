@@ -2,10 +2,18 @@
 
 # Ubuntu Studio Resources
 
+For current release support and actively monitored help channels, start with:
+
+- [Ubuntu Studio Support](https://ubuntustudio.org/support/)
+- [Ubuntu Discourse Support and Help](https://discourse.ubuntu.com/c/support-and-help/306)
+- [Ubuntu Studio category on Discourse](https://discourse.ubuntu.com/c/flavors/ubuntustudio/188)
+
+The link collections below are largely historical references from the community wiki era. Some links may be outdated.
+
 
 Links to informative pages that are somehow related to Ubuntu Studio.
 
-Don't forget to checkout the [HowTos](https://help.ubuntu.com/community/UbuntuStudio/HowTos) Section.
+Don't forget to check out the [HowTos](https://help.ubuntu.com/community/UbuntuStudio/HowTos) section.
 
 ## Audio
 

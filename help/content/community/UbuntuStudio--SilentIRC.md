@@ -1,11 +1,18 @@
 # UbuntuStudio/SilentIRC - Community Help Wiki
 
-# No Answer in the IRC Chatroom!
+# No Answer in Chat?
 
-If you're here, chances are you have been to our IRC channel asking for help and received no answer. Since the Ubuntu Studio team is a fairly small group of volunteers with varying schedules around the world, this can happen.
+If you're here, chances are you asked in chat and did not get an immediate answer. Since the Ubuntu Studio team is a fairly small group of volunteers with varying schedules around the world, this can happen.
 
-However, you're still in luck and there are still ways to get help via IRC. If the issue is related to...
+The preferred support method is Ubuntu Discourse:
 
-- - the **user interface (desktop environment)**, the **Xubuntu** team is happy to help in **#xubuntu**. - a **specific application**, try the channel for that particular app. For instance, **Ardour** help can typically be found in **#ardour**. See the application's website for details. If you don't know where the website is, try a web search (Google, DuckDuckGo, etc.) - a problem with the **operating system** (configuration, boot, etc.) there is plenty of support in **#ubuntu**.
+- [Ubuntu Discourse Support and Help](https://discourse.ubuntu.com/c/support-and-help/306)
+- [Ubuntu Studio category on Discourse](https://discourse.ubuntu.com/c/flavors/ubuntustudio/188)
 
-In any case, please be patient. In the words of our trusty IRC bot Ubottu, *"Don't feel ignored and repeat your question quickly; if nobody knows your answer, nobody will answer you. While you wait, try searching [https://help.ubuntu.com](https://help.ubuntu.com) or [https://ubuntuforums.org](https://ubuntuforums.org) or [https://askubuntu.com/](https://askubuntu.com/)"*.
+If you still want real-time support, Matrix can help. If the issue is related to:
+
+- the **user interface (desktop environment)**, the **Kubuntu** and broader Ubuntu communities can often help.
+- a **specific application**, try that application's support channel/community (for example, Ardour support spaces).
+- a problem with the **operating system** (configuration, boot, package management), try Ubuntu support channels.
+
+In any case, please be patient. Do not repeat your question quickly in chat; answers depend on who is online at the time.

@@ -9,16 +9,16 @@ Frequently asked questions about Ubuntu Studio.
 - **What is the Jack Audio Connection Kit?**
   - Also known as JACK for short, it is the low-latency audio graph used by pro-audio applications. Current Ubuntu Studio releases use PipeWire for desktop audio with JACK compatibility.
 - **What is the difference between Ubuntu Studio and Ubuntu?**
-  - Learn about some of the differences between Ubuntu and Ubuntu Studio at the [Ubuntu Studio vs. Ubuntu page](https://help.ubuntu.com/community/What Is Ubuntu Studio#Ubuntu Studio vs. Ubuntu).
+  - Learn about Ubuntu Studio goals and features on the [Ubuntu Studio about page](https://ubuntustudio.org/about/).
 - **What is a low latency kernel?**
   - See the [low latency kernels](../../help/content/support/UbuntuStudio--RealTimeKernel) page for information about the current low-latency boot parameters and kernel behavior used in Ubuntu Studio.
 - **When is the next version coming out?**
-  - Ubuntu Studio follows the same release cycle as Ubuntu, with current supported releases listed on the Ubuntu Studio support page.
+  - Ubuntu Studio follows the Ubuntu release cycle. See currently supported releases on the [Ubuntu Studio support page](https://ubuntustudio.org/support/).
 
 # Installation
 
 - **How do I install Ubuntu Studio?**
-  - Follow the current installation instructions on ubuntustudio.org.
+  - Follow the current installation instructions on the [Ubuntu Studio download page](https://ubuntustudio.org/download/).
 - **Can I install Ubuntu Studio onto an existing Ubuntu installation?**
   - Yes, use Ubuntu Studio Installer on a supported Ubuntu flavor.
 

@@ -1,12 +1,12 @@
 # Welcome to Ubuntu Studio Community Help!
 
-Ubuntu Studio is an official flavor of [Ubuntu](http://ubuntu.com/), and the most widely used multimedia orientated [GNU/Linux](http://en.wikipedia.org/wiki/GNU/Linux) distribution in the world.
+Ubuntu Studio is an official flavor of [Ubuntu](https://ubuntu.com/) focused on creative workflows for audio, video, graphics, photography, and publishing.
 
 Ubuntu Studio is a community effort, targeted towards all skill levels, from beginner to pro, and aims to be easy to install and easy to use, as well as providing all the tools necessary for any type of media content creation.
 
-Please note that much of the information in this wiki is obsolete and needs updating. While we are working on updating much of this, please be patient. If you would like to help in this effort, let us know!
+This help area is actively maintained, but some legacy pages remain for historical reference. For release-specific support details, always check the current Ubuntu Studio support page first.
 
-If you came here from the IRC Chat Room after waiting for an answer, [Click Here](content/community/UbuntuStudio--SilentIRC).
+If you came here from chat after waiting for an answer, [click here](content/community/UbuntuStudio--SilentIRC).
 
 # Support
 
@@ -22,17 +22,19 @@ If you came here from the IRC Chat Room after waiting for an answer, [Click Here
 
 ## Contact Us
 
-[ubuntustudio.org](http://ubuntustudio.org/) - our website
+[ubuntustudio.org](https://ubuntustudio.org/) - the official Ubuntu Studio website
 
-[IRC](content/community/UbuntuStudio--IRC) - Get online and talk with other users and Ubuntu Studio developers directly.
+[Ubuntu Discourse Support and Help](https://discourse.ubuntu.com/c/support-and-help/306) - preferred support method
 
-[Mail List](http://lists.ubuntu.com/mailman/listinfo/ubuntu-studio-users) - Join The Ubuntu Studio User Mail list
+[Ubuntu Studio on Discourse](https://discourse.ubuntu.com/c/flavors/ubuntustudio/188) - Ubuntu Studio release notes and team posts
 
-[Ubuntu Forums](http://ubuntuforums.org/) - Join the Ubuntu Forums, where there's a special [category for Ubuntu Studio](http://ubuntuforums.org/forumdisplay.php?f=335)
+[Matrix support chat](https://matrix.to/#/#ubuntustudio:ubuntu.com) - real-time chat support
+
+[Ubuntu Studio support page](https://ubuntustudio.org/support/) - currently supported releases and support options
 
 ## Common Questions
 
-[Where can I find more help?](content/reference/UbuntuStudio--Resources) - links to Manuals, User Guides, Mailing lists etc..
+[Where can I find more help?](content/reference/UbuntuStudio--Resources) - links to manuals, user guides, and support channels.
 
 [How do I find software?](content/support/UbuntuStudio--FindingSoftware) - Finding applications that may be useful for multimedia production.
 

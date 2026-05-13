@@ -2,6 +2,8 @@
 
 Source: https://wiki.ubuntu.com/UbuntuStudio
 
+> Historical import note: this page is a migrated snapshot from wiki.ubuntu.com and may contain outdated release/channel details. For current information, use [ubuntustudio.org](https://ubuntustudio.org/), [Ubuntu Studio on Discourse](https://discourse.ubuntu.com/c/flavors/ubuntustudio/188), and [Ubuntu Studio support](https://ubuntustudio.org/support/).
+
 ## [UbuntuStudio](https://wiki.ubuntu.com/UbuntuStudio)
 
 [https://help.ubuntu.com/community/UbuntuStudio](https://help.ubuntu.com/community/UbuntuStudio)

@@ -2,6 +2,8 @@
 
 Source: https://wiki.ubuntu.com/Artwork/BreatheIconSet/UbuntuStudio
 
+> Historical import note: this page documents an older Breathe icon effort. Current Ubuntu Studio systems use the Papirus icon theme with Papirus Colors variants. You can find practical examples of these icons and color variants on current Ubuntu Studio installations.
+
 ## [UbuntuStudio](https://wiki.ubuntu.com/Artwork/BreatheIconSet/UbuntuStudio)
 
 This page will be the development page for the Ubuntu Studio variant of Breathe currently target for a Lucid Lynx release.
