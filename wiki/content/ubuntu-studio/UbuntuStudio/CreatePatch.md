@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/CreatePatch
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/CreatePatch
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
-| --- |
-
 **-- [Developer](Development) Side Bar -- ([Edit](Navigation/DevSideBar))** **Team Pages** - [Bugs Team](UbuntuStudioBugsTeamPage) - [Contributor Team](ContributorTeamPage) - [Core Team](CoreTeamPage) - [Dev Team](DevTeamPage) - [Kernel Team](KernelTeamPage) - [Release Team](ReleaseTeamPage) - [Testing Team](TestingTeamPage) **[Ubuntu Studio Policy](Policy)** - [Project Lead Vote](ProjectLeadVote) **[UbuntuStudio/Packaging](Packaging)** [Needs Packaging](NeedsPackaging) **[Developer Documentation](DeveloperDocumentation)** - [Setup Dev Environment](SetupDeveloperEnvironment) - [Bzr Cheat Sheet](Bzr) - [Bug Management](BugManagement) - [Packaging](Packaging) -- [Ubuntu Studio Package Maintenance](Packaging/UploadingPackages) -- [Uploading Packages (to the archive)](Packaging/UploadingPackages) - [Backports](Backports) - [Stable Release Updates (SRU)](StableReleaseUpdates) - [Seed Management](PackageSelectionDevelopment) - [Uploading to PPA](Packaging/UploadingPackages) - [Applying Patches](PatchingSourcePackages) - [Deb Diff](DebDiff) - [Setup Local ISO Build Server](SetupLocalIsoBuildServer) - [All About ISOs](AllAboutISOs) - [Kernel Maintenance](KernelMaintenance) - [Ubiquity - the live installer](Ubiquity) **[Developer Tutorials](DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](DeveloperTutorials/SimpleBugFixExample) **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Video](Workflows/Video) - [Graphics](Workflows/Graphics) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) **[Workflow Categories](WorkflowCategories)** **[Freedesktop Categories](FreedesktopCategories)** **[Deb Tags](Debtags)** **[Ubuntu Studio Packages](UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](LaunchpadProjects)** **Reference** - [Terminology](Terminology)
 
 # Creating a Patch
@@ -41,10 +33,6 @@ A patch is really just a textfile which contains a collection of lines to be add
 [git](http://en.wikipedia.org/wiki/Git_%28software%29) is a source code management tool, which is becoming more and more popular. Creating a patch from a git repo is quite easy, if you know which commit(s) you are looking for.
 
 If you know which commit includes the changes you are interested of, for instance *886600b5a2baa0c88f4d709dbc6ab0896e6565cb*, in the root of the git source, do:
-
-| git show 886600b5a2baa0c88f4d709dbc6ab0896e6565cb |
-| --- |
-
 git show 886600b5a2baa0c88f4d709dbc6ab0896e6565cb
 
 The result could look something like this:
@@ -54,59 +42,47 @@ The result could look something like this:
  
 commit 886600b5a2baa0c88f4d709dbc6ab0896e6565cb
 
-
    2
  
 Author: Kaj Ailomaa <zequence@mousike.me>
-
 
    3
  
 Date:   Mon Mar 18 22:15:05 2013 +0100
 
-
    4
  
-
 
    5
  
     added a few lines to a README
 
-
    6
  
-
 
    7
  
 diff --git a/README b/README
 
-
    8
  
 index e69de29..4a2b88c 100644
-
 
    9
  
 --- a/README
 
-
   10
  
 +++ b/README
-
 
   11
  
 @@ -0,0 +1 @@
 
-
   12
  
 +Adding a few lines to this README
-
 
   13
 ```

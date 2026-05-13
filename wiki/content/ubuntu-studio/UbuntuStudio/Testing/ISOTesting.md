@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](index)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Testing/ISOTesting
 **[Documentation](../Documentation)**
 
 **[Organization](../Organization)**
-
-| -- Testing Sidebar -- ( edit ) Team Pages - Testing Team Page Testing Documentation - Application Testing .. Test Cases - ISO Testing - Performance Testing - Kernel Testing Desktop Environment Testing |
-| --- |
-
 ** -- [Testing](index) Sidebar -- ([edit](../Navigation/TestingSideBar))** **Team Pages** - **[Testing Team Page](../TestingTeamPage)** **[Testing Documentation](../TestingDocumentation)** - [Application Testing](ApplicationTesting) ..[Test Cases](Testcases) - [ISO Testing](ISOTesting) - [Performance Testing](Testing/PerformanceTesting) - [Kernel Testing](KernelTesting) **[Desktop Environment Testing](../DesktopEnvironmentTesting)**
 
 Contents
@@ -56,9 +48,6 @@ Contents
 # When do we test?
 
 An ISO is tested just before it is released, always on a Thursday. These are the possible ISO releases during a development period (releases marked as opt-in are not obligatory for flavors):
-
-| Release | Description |
-| --- | --- |
 | Alpha 1(opt-in) | About four months before FinalRelease |
 | Alpha 2(opt-in) | About three months before FinalRelease |
 | Beta 1(opt-in) | About two months before FinalRelease |

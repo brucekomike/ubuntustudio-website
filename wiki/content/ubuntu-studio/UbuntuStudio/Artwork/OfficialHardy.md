@@ -39,10 +39,6 @@ This page reflects the current official Ubuntu Studio 8.04 artwork. If you are a
 ![nautilus-icons1.resized.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/OfficialHardy/nautilus-icons1.resized.png) [BIG](../../../_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/OfficialHardy/nautilus-icons1.png) Pretty much the same set as always. Mimetype and app icons added. (Places Hidden)
 
 ## Colour Palette
-
-| Please do not edit these pages as they reflect solid info about the project. If you have questions please look HERE to contact us. |
-| --- |
-
 **Please do not edit these pages as they reflect solid info about the project. If you have questions please look [HERE](http://ubuntustudio.org/support) to contact us.**
 
 UbuntuStudio/Artwork/OfficialHardy (last edited 2008-08-06 16:41:26 by localhost)

@@ -11,10 +11,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -28,14 +24,11 @@ Source: https://wiki.ubuntu.com/UbuntuStudio
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| Want to Contribute to the most widely used Linux Multimedia distro? |
-| --- |
-| - Go ahead! Join the team! |
-| Ubuntu Studio Releases: |
-| Latest LTS Release: 24.04.3 LTS Noble Numbat Latest Release: 25.10 Questing Quokka Current Development ISO: Daily Build |
-| Search the Ubuntu Studio Wiki: |
-| Ubuntu Studio Subpages By Category: CategoryUbuntuStudio Team Categories: CategoryUbuntuStudioTesting CategoryUbuntuStudioArtwork CategoryUbuntuStudioPlanning CategoryUbuntuStudioPublicRelations CategoryUbuntuStudioDev CategoryUbuntuStudioKernel |
+- Go ahead! Join the team!
+Ubuntu Studio Releases:
+Latest LTS Release: 24.04.3 LTS Noble Numbat Latest Release: 25.10 Questing Quokka Current Development ISO: Daily Build
+Search the Ubuntu Studio Wiki:
+Ubuntu Studio Subpages By Category: CategoryUbuntuStudio Team Categories: CategoryUbuntuStudioTesting CategoryUbuntuStudioArtwork CategoryUbuntuStudioPlanning CategoryUbuntuStudioPublicRelations CategoryUbuntuStudioDev CategoryUbuntuStudioKernel
 
 **Want to Contribute to the most widely used Linux Multimedia distro?**
 
@@ -62,14 +55,11 @@ Our goal is to be an example on how to configure a [Debian](http://debian.org) a
 We aim at being the gateway for new users coming into the Linux world, wanting to use Linux for multimedia content creation, by providing applications and documentation, as well as being a portal to other GNU/Linux and FLOSS communities in the world.
 
 # Please Join Us!
-
-| Interested in contributing? |
-| --- |
-| - Go ahead, and join the Ubuntu Studio team ! We are always looking for new contributors of any skill level. We are all volunteers. |
-| You may find us at: |
-| IRC - Chat with us online |
-| Mail Lists - These are our mailing lists |
-| Social Channels - Interact with us on different social sites |
+- Go ahead, and join the Ubuntu Studio team ! We are always looking for new contributors of any skill level. We are all volunteers.
+You may find us at:
+IRC - Chat with us online
+Mail Lists - These are our mailing lists
+Social Channels - Interact with us on different social sites
 
 **Interested in contributing?**
 

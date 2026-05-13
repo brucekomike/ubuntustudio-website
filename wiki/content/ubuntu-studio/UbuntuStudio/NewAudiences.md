@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/NewAudiences
 
 ## [NewAudiences](NewAudiences)
-
-| Contents Rationale Potential Audiences DJ's Scope of Needs Pros Cons Podcasters Scope of Needs Pros Cons University Audio Lab Scope of Needs Pros Cons Musicians Scope of Needs Pros Cons |
-| --- |
-
 Contents
 
 1. [Rationale](NewAudiences#Rationale)

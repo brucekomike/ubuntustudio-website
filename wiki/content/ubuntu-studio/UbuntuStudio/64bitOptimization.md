@@ -7,10 +7,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/64bitOptimization
 This page will list the packages that could be optimized for operation on 64-bit processors.
 
 # Ardour
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
-
 **Package Name**
 
 **Assignment**
@@ -22,10 +18,6 @@ This page will list the packages that could be optimized for operation on 64-bit
 **Notes**
 
 # Jack & JackDSP
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
-
 **Package Name**
 
 **Assignment**
@@ -37,10 +29,6 @@ This page will list the packages that could be optimized for operation on 64-bit
 **Notes**
 
 # Rosegarden
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
-
 **Package Name**
 
 **Assignment**
@@ -52,10 +40,6 @@ This page will list the packages that could be optimized for operation on 64-bit
 **Notes**
 
 # Hydrogen
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
-
 **Package Name**
 
 **Assignment**

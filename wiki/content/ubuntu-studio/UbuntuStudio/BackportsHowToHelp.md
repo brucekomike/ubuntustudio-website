@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/BackportsHowToHelp
 
 ## [BackportsHowToHelp](BackportsHowToHelp)
-
-| Contents Abstract Required Tools Process Overview Prerequisites Setting Up Pbuilder Packages for Building Get the Source Code File Bug Report Updating changelog Package Number Distribution Change Details Name/Email Date/Time Example Build in pbuilder Uploading to PPA Detailed Process for Ubuntu Studio |
-| --- |
-
 Contents
 
 1. [Abstract](BackportsHowToHelp#Abstract)
@@ -248,25 +244,15 @@ Following our example of backporting qjackctl from maverick to lucid, these are 
 ```
 qjackctl (0.3.6-1build1~lucid1~ppa1) lucid; urgency=low
 
-
-
   * backport to lucid (LP: #681873)
 
   * bumped the standards version to 3.9.1
 
-
-
  -- Scott Lavender <slavender@ubuntu.com>  Fri, 26 Nov 2010 11:14:57 -0600
-
-
 
 qjackctl (0.3.6-1build1) maverick; urgency=low
 
-
-
   * No-change rebuild to pick up new j-a-c-k shlibs
-
-
 
  -- Luke Yelavich <themuso@ubuntu.com>  Wed, 21 Jul 2010 11:06:46 +0200
 ```

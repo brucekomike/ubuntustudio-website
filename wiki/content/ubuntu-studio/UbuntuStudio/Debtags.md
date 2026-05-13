@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Debtags
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Debtags
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
-| --- |
-
 **-- [Developer](Development) Side Bar -- ([Edit](Navigation/DevSideBar))** **Team Pages** - [Bugs Team](UbuntuStudioBugsTeamPage) - [Contributor Team](ContributorTeamPage) - [Core Team](CoreTeamPage) - [Dev Team](DevTeamPage) - [Kernel Team](KernelTeamPage) - [Release Team](ReleaseTeamPage) - [Testing Team](TestingTeamPage) **[Ubuntu Studio Policy](Policy)** - [Project Lead Vote](ProjectLeadVote) **[UbuntuStudio/Packaging](Packaging)** [Needs Packaging](NeedsPackaging) **[Developer Documentation](DeveloperDocumentation)** - [Setup Dev Environment](SetupDeveloperEnvironment) - [Bzr Cheat Sheet](Bzr) - [Bug Management](BugManagement) - [Packaging](Packaging) -- [Ubuntu Studio Package Maintenance](Packaging/UploadingPackages) -- [Uploading Packages (to the archive)](Packaging/UploadingPackages) - [Backports](Backports) - [Stable Release Updates (SRU)](StableReleaseUpdates) - [Seed Management](PackageSelectionDevelopment) - [Uploading to PPA](Packaging/UploadingPackages) - [Applying Patches](PatchingSourcePackages) - [Deb Diff](DebDiff) - [Setup Local ISO Build Server](SetupLocalIsoBuildServer) - [All About ISOs](AllAboutISOs) - [Kernel Maintenance](KernelMaintenance) - [Ubiquity - the live installer](Ubiquity) **[Developer Tutorials](DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](DeveloperTutorials/SimpleBugFixExample) **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Video](Workflows/Video) - [Graphics](Workflows/Graphics) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) **[Workflow Categories](WorkflowCategories)** **[Freedesktop Categories](FreedesktopCategories)** **[Deb Tags](Debtags)** **[Ubuntu Studio Packages](UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](LaunchpadProjects)** **Reference** - [Terminology](Terminology)
 
 # Debtags
@@ -39,9 +31,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Debtags
 Currently, not all Debian packages have a rich set of correct debtags. It is planned to assist Debian with correcting this for applications applicable to Ubuntu Studio worksflows. The following table lists the Debtags that fit with the Ubuntu Studio workflow categories. A short description is also provided to help with the process of choosing the right tags so that we do it in a consistent way. The more applicable tags that are added to each Debian package, the easier it will be for an Ubuntu Studio user to find the desired package when they search for it.
 
 Audio Workflow:
-
-| Facet | Tag | Description |
-| --- | --- | --- |
 | sound | recorder | Application to record audio (single or multi-track) |
 | sound | mixer | Application to set levels and do signal processing on individual tracks |
 | sound | midi | Application that has midi functionality (or relates to midi) |
@@ -176,9 +165,6 @@ sound
 A software instrument for playing recorded samples
 
 Graphics Workflow:
-
-| Facet | Tag | Description |
-| --- | --- | --- |
 | graphics | sketch | Application for producing and editing sketches |
 | graphics | image | Application for producing and editing images |
 | graphics | paint | Application for producing and editing paintings |
@@ -292,9 +278,6 @@ typeface
 Application for working with fonts and typefaces
 
 Video Workflow:
-
-| Facet | Tag | Description |
-| --- | --- | --- |
 | video | compositing | Application for editing frames in a sequence of images |
 | video | rendering | Application for creating a finalized video-file |
 | video | animation | Application for creating animations |
@@ -359,9 +342,6 @@ encoding
 Application for encoding video to various video-file formats
 
 Photography Workflow:
-
-| Facet | Tag | Description |
-| --- | --- | --- |
 | photography | developing | Application for developing raw files |
 | photography | management | Application for Photo-Library management |
 | photography | library | Application for Photo-Library management |
@@ -419,10 +399,6 @@ bluetooth
 Application for bluetooth cameras
 
 Note: none of these tags or the gramphics facet exist yet in Debtags and need to be requested
-
-| Publishing Subcategories | To be added |
-| --- | --- |
-
 **Publishing Subcategories**
 
 **To be added**

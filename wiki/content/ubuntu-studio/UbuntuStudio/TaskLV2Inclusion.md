@@ -13,9 +13,6 @@ See [DebianMultimedia/Policy/LV2](http://wiki.debian.org/DebianMultimedia/Policy
 [LukeYelavich](https://wiki.ubuntu.com/LukeYelavich) said on IRC that any package in Debian Squeeze (testing) will automagically by synced with Ubuntu if we don't already have that package. Therefore, this greatly reduces our responsibilities but still leaves a considerable amount of work.
 
 ### Task Matrix for Lucid, Maverick & Natty
-
-| Package Name | Fixed by Debian Merge | Task | Responsible | Bug No. | Completed | Comments |
-| --- | --- | --- | --- | --- | --- | --- |
 | invada-studio-plugins-lv2 | yes | none | n/a | n/a | YES |  |
 | liblv2dynparam1-dev | yes | none | n/a | n/a | YES |  |
 | liblv2dynparamhost1-1 | yes | none | n/a | n/a | YES |  |
@@ -403,9 +400,6 @@ Available since Natty
 More details on LV2 can be found here: [http://lv2plug.in/](http://lv2plug.in/)
 
 ## Available Packages in Debian Squeeze (testing)
-
-| Package Name | Version | Description |
-| --- | --- | --- |
 | invada-studio-plugins-lv2 | 1.2.0-1 | a set of LV2 audio plugins |
 | liblv2dynparam1-dev | 2-2 | LV2 plugin interface extension |
 | liblv2dynparamhost1-1 | 2-2 | LV2 plugin interface extension - host |
@@ -477,9 +471,6 @@ Documentation for SLV2
 Jack support for LV2 plugins
 
 ## Ubuntu Packages
-
-| Package Name | Version | Description |
-| --- | --- | --- |
 | CALF plugin | 0.0.18.5-0ubuntu1 | a set of LV2 audio plugins |
 
 **Package Name**
@@ -495,9 +486,6 @@ Jack support for LV2 plugins
 a set of LV2 audio plugins
 
 ## Launchpad Bugs
-
-| LP: bugnumber | Package | Description | Fixed by Debian Merging? |
-| --- | --- | --- | --- |
 | LP: 183111 | zynjacku (LV2 synth host) | needs packaging | NO |
 | LP: 183113 | zyn (LV2 soft synth) | needs packaging | NO |
 | LP: 183114 | SWH plugins | needs packaging | NO |

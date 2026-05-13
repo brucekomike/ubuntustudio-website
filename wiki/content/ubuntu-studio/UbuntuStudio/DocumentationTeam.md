@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeam
 
 ## [DocumentationTeam](DocumentationTeam)
-
-| Task Description | Write user and developer documentation for the website and wikis. Maintains UbuntuStudio and UbuntuStudio as well as ubuntustudio.org |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-documentation |
 | Team Wiki | Documentation Team Page |
 | Team Documentation | Documentation |
@@ -45,9 +42,6 @@ Write user and developer documentation for the website and wikis. Maintains [Ubu
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | autumna | ? | autumna |  | Team-Member |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 

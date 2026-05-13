@@ -15,10 +15,6 @@ Welcome to the Ubuntu Studio reporting page. Every month this page should be fil
 Keep it simple and short - single sentences are best. ![Smile :)](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_smile.png/icon_smile.png)
 
 ## The Report
-
-| Contents Release Development Website Update ubuntustudio-controls Backports Bug Reports Opened Bugs Updated Bugs Marked as Incomplete Bugs Closed Bugs Kernel Development |
-| --- |
-
 Contents
 
 1. [Release Development](index#UbuntuStudio.2FTeamReports.2F11.2FJune.Release_Development)

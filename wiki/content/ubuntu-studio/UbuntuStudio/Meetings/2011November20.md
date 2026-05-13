@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20
 
 ## [2011November20](2011November20)
-
-| Ubuntu Studio Meetings Schedule | Old Meeting Logs |
-| --- | --- |
-
 [Ubuntu Studio Meetings Schedule](index)
 
 [Old Meeting Logs](Minutes)
@@ -16,10 +12,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011November20
 **When:** Sunday, 2011 November 20th - 17:00 UTC **To view the meeting date/time in your time zone, **[click here](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Ubuntu+Studio+Contributor+Meeting&iso=20111120T17).
 
 **Where:** irc.freenode.net #ubuntu-meeting
-
-| Contents Agenda for Meeting Call Meeting to Order Old Business previous action items Any Other Business Next Meeting Time/Location Next Meeting Chair action items and logs |
-| --- |
-
 Contents
 
 1. [Agenda for Meeting](2011November20#Agenda_for_Meeting) [Call Meeting to Order](2011November20#Call_Meeting_to_Order) [Old Business](2011November20#Old_Business) [previous action items](2011November20#previous_action_items) [Any Other Business](2011November20#Any_Other_Business) [Next Meeting Time/Location](2011November20#Next_Meeting_Time.2FLocation) [Next Meeting Chair](2011November20#Next_Meeting_Chair)

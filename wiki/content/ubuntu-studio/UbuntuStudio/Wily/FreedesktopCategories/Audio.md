@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Audio
 [/UbuntuStudio](../..)
 
 [UbuntuStudio/Community](../../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](../..)**
 
 **[Testing](../../Testing)**
@@ -35,9 +31,6 @@ Contents
 When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](../../FreedesktopCategories).
 
 # Universe
-
-| Package Name | Description | Desktop File | Current FDC | Suggested FDC | Bug |
-| --- | --- | --- | --- | --- | --- |
 | aconnectgui | graphical ALSA sequencer connection manager | aconnectgui.desktop | Application; AudioVideo ; | AudioVideo ;Audio;Midi |  |
 | acoustid-fingerprinter | Acoustid fingerprinter | acoustid-fingerprinter.desktop | AudioVideo ;Audio;Qt; AudioVideoEditing ; | AudioVideo ;Audio;Qt;X- AudioUtility |  |
 | aeolus | Synthesised pipe organ emulator | aeolus.desktop | AudioVideo ;Audio; | AudioVideo ;Audio;X- VirtualInstrument |  |
@@ -1978,9 +1971,6 @@ lv2rack.desktop
 [AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio;
 
 # Multiverse
-
-| Package Name | Description | Desktop File | Current FDC | Suggested FDC | Bug |
-| --- | --- | --- | --- | --- | --- |
 | mp3diags | find issues in MP3 files and help to solve them | mp3diags.desktop | Audio; AudioVideo ; AudioVideoEditing ; | Audio; AudioVideo ;X- AudioEditing ; |  |
 | xjadeo | Video player with JACK sync | xjadeo.desktop | AudioVideo ;Video;Player; | OK |  |
 

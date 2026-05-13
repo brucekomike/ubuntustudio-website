@@ -21,9 +21,6 @@ We are aiming to get any new packages in before Gutsy's Tribe 3. We would also l
 # Open Libraries
 
 About: [http://openlibraries.org](http://openlibraries.org)
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
 | Open Libraries | rexbron | In Progress | hardy | See Below |
 
 **Package Name**
@@ -55,9 +52,6 @@ deb [http://ppa.launchpad.net/rexbron/ubuntu](http://ppa.launchpad.net/rexbron/u
 # Celtx
 
 About: [http://celtx.com/](http://celtx.com/)
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
 | Celtx | rexbron | In Progress | Hardy Heron | See UbuntuStudio/ToPackage/Celtx for a plan of action. |
 
 **Package Name**
@@ -83,9 +77,6 @@ See [UbuntuStudio/ToPackage/Celtx](Celtx) for a plan of action.
 # Genpo
 
 About: [http://genpo.sourceforge.net/](http://genpo.sourceforge.net/)
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
 | Genpo | rexbron | Inital testing repo available. | Hardy | See below |
 
 **Package Name**
@@ -113,9 +104,6 @@ To test genpo add "deb [http://ppa.launchpad.net/rexbron/ubuntu](http://ppa.laun
 # Soma Suite
 
 About: [http://www.somasuite.org](http://www.somasuite.org)
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
 | Soma | rexbron | Defered. | n/a | See Note [1] |
 | SomaX | TobySmithe | Pushed back to +1 | n/a | Waiting on developer instruction or documentation |
 | SomaPlayer | none | Done | ← | Synced From Debian |
@@ -257,9 +245,6 @@ Rexbron, in luisbg's absence has packaged soma (including libsoma2) get binaries
 # Cinelerra-CV
 
 About: [http://cvs.cinelerra.org/](http://cvs.cinelerra.org/)
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
 | Cinelerra-CV | muzzol | In Progress | N/A | Deferred until the license issues can be worked out. |
 
 **Package Name**
@@ -285,9 +270,6 @@ Deferred until the license issues can be worked out.
 # LiVES
 
 About: [http://lives.sourceforge.net](http://lives.sourceforge.net)
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
 | LiVES | tsmithe | Pushed back to +1 | n/a | Multiverse; pitivi easier to supply |
 
 **Package Name**
@@ -313,9 +295,6 @@ Multiverse; pitivi easier to supply
 # Jahshaka
 
 About: [http://www.jahshaka.org/](http://www.jahshaka.org/)
-
-| Package Name | Assignment | Status | Must Complete By: | Notes |
-| --- | --- | --- | --- | --- |
 | jahshaka | rexbron | Not Started | N/A | Deferring until next upstream release.[1] |
 
 **Package Name**
@@ -341,10 +320,6 @@ Deferring until next upstream release.[1]
 ### Notes
 
 [1] - Was unable to compile any version. Many unlisted dependencies with build issues. Reviewed the responce from the forums, same thing. The project is being rewritten from scratch for next upstream release, will reconsider for inclusion then. [http://www.jahshaka.org/forum/showthread.php?t=1140&page=3&highlight=ubuntu](http://www.jahshaka.org/forum/showthread.php?t=1140&page=3&highlight=ubuntu) ([AndrewHunter](https://wiki.ubuntu.com/AndrewHunter))
-
-| Please do not edit this page as it reflects solid info about the project. If you have questions please look HERE to contact us. |
-| --- |
-
 **Please do not edit this page as it reflects solid info about the project. If you have questions please look [HERE](http://ubuntustudio.org/support) to contact us.**
 
 UbuntuStudio/ToPackage (last edited 2008-08-06 16:35:47 by localhost)

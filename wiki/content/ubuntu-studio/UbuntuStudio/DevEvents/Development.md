@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -28,9 +24,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Development
 **[Organization](../Organization)**
 
 ## Tasks during development
-
-| week 1-4 | Preliminary development before FeatureDefinitionFreeze . |
-| --- | --- |
 | week 5-17 | Implement features as defined in blueprints until FeatureFreeze |
 | week 5-20 | User interface development continues until UserInterfaceFreeze |
 | week 5-21 | Documentation development confinues until DocumentationStringFreeze |

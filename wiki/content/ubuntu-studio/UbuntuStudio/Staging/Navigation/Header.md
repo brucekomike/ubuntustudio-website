@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/Staging/Navigation/Header
 
 ## [Header](Header)
-
-|  | User Help Wiki |  | Developer Wiki |  | Community Links |
-| --- | --- | --- | --- | --- | --- |
-
 ![WikiEmblem.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Staging/Navigation/Header/WikiEmblem.png)
 
 **[User Help Wiki](../../../../../../help)**
@@ -18,10 +14,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Staging/Navigation/Header
 ![WikiEmblem.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Staging/Navigation/Header/WikiEmblem.png)
 
 **[Community Links](communitylinks)**
-
-| Home | Testing | Documentation | PR & Support | Artwork | Developer/Contributor | Planning |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](../..)**
 
 **[Testing](../../TestingDocumentation)**

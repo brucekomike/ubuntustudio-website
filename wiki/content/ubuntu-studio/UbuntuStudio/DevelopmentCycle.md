@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevelopmentCycle
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
-| --- |
-
 **-- [Organization](Organization) Side Bar -- ([Edit](Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](Policy) - [Project Lead Vote](ProjectLeadVote) -- [Project Lead Vote 2016](ProjectLeadVote2016) - [Team Structure](TeamStructure) - [Release Procedure](ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](DevelopmentReleaseSchedule) - [Blueprints](Blueprints) - [Feature Definitions](FeatureDefinitions) - [Package Selection](PackageSelection) - [Dates (not used)](Dates) - [Meetings](Meetings) **Planning Documentation** - [Managing Blueprints](ManagingBlueprints) - [Development Cycle](DevelopmentCycle) .. [Feature Definition Period](DevEvents/FeatureDefinition) .. [Development Period](DevEvents/Development) .. [Testing Period](DevEvents/Testing) .. [Releasing](DevEvents/Release)
 
 # Development Cycle
@@ -43,9 +35,6 @@ To keep track of important dates, we use a development release schedule. See our
 ## Important Events
 
 A development cycle is divided into different periods, following the important events that occur.
-
-| Period | Description | Starts roughly at: | Ends roughly at: |
-| --- | --- | --- | --- |
 | Feature Definition | We plan for what features to add for the next release of Ubuntu Studio. | week 1 | week 4 - FeatureDefinitionFreeze |
 | Development | The period during which we add features to Ubuntu Studio - application development, changing settings, artwork, etc. The end date depends on the development type. | week 1 (or before) | feature addition ends: week 17 - FeatureFreeze artwork development ends: week 20 - UserInterfaceFreeze kernel development ends: week 24 - KernelFreeze |
 | Beta Testing | Begins at DebianImportFreeze . Initially we test Debian packages for bugs. Once we hit feature freeze, we start doing beta testing. | week 17 | week 25 - FinalFreeze |

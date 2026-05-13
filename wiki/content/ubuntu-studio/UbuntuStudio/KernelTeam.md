@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/KernelTeam
 
 ## [KernelTeam](KernelTeam)
-
-| Task Description | Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatency. |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-kernel-team |
 | Team Wiki | Kernel Team Page |
 | Team Documentation | Kernel Team Documentation |
@@ -45,9 +42,6 @@ Maintenance and development of Ubuntu Studio kernels. Currently, linux-lowlatenc
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Kaj Ailomaa | Sweden | zequence | indefinite |  |
 
 **Name**

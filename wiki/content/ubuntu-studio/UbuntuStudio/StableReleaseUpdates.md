@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/StableReleaseUpdates
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/StableReleaseUpdates
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
-| --- |
-
 **-- [Developer](Development) Side Bar -- ([Edit](Navigation/DevSideBar))** **Team Pages** - [Bugs Team](UbuntuStudioBugsTeamPage) - [Contributor Team](ContributorTeamPage) - [Core Team](CoreTeamPage) - [Dev Team](DevTeamPage) - [Kernel Team](KernelTeamPage) - [Release Team](ReleaseTeamPage) - [Testing Team](TestingTeamPage) **[Ubuntu Studio Policy](Policy)** - [Project Lead Vote](ProjectLeadVote) **[UbuntuStudio/Packaging](Packaging)** [Needs Packaging](NeedsPackaging) **[Developer Documentation](DeveloperDocumentation)** - [Setup Dev Environment](SetupDeveloperEnvironment) - [Bzr Cheat Sheet](Bzr) - [Bug Management](BugManagement) - [Packaging](Packaging) -- [Ubuntu Studio Package Maintenance](Packaging/UploadingPackages) -- [Uploading Packages (to the archive)](Packaging/UploadingPackages) - [Backports](Backports) - [Stable Release Updates (SRU)](StableReleaseUpdates) - [Seed Management](PackageSelectionDevelopment) - [Uploading to PPA](Packaging/UploadingPackages) - [Applying Patches](PatchingSourcePackages) - [Deb Diff](DebDiff) - [Setup Local ISO Build Server](SetupLocalIsoBuildServer) - [All About ISOs](AllAboutISOs) - [Kernel Maintenance](KernelMaintenance) - [Ubiquity - the live installer](Ubiquity) **[Developer Tutorials](DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](DeveloperTutorials/SimpleBugFixExample) **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Video](Workflows/Video) - [Graphics](Workflows/Graphics) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) **[Workflow Categories](WorkflowCategories)** **[Freedesktop Categories](FreedesktopCategories)** **[Deb Tags](Debtags)** **[Ubuntu Studio Packages](UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](LaunchpadProjects)** **Reference** - [Terminology](Terminology)
 
 Contents
@@ -48,10 +40,6 @@ Contents
 A stable release update simply means doing an update on a package that exists on a stable release, i.e. not a package in the development release. There is a special procedure for doing updates on stable release packages. Read more at [StableReleaseUpdates](https://wiki.ubuntu.com/StableReleaseUpdates).
 
 # When to do a SRU
-
-| Add exception for Ubuntu Studio source |
-| --- |
-
 Add exception for Ubuntu Studio source
 
 Currently, as far as Ubuntu Studio is concerned, we only do one kind of SRU - to fix a serious bug. The bug needs to result in some kind of crash that stops the user from accomplishing a task using any of the applications used on a Ubuntu Studio desktop. The bug-fix should optimally only fix that specific bug, and not cause any regressions.
@@ -99,11 +87,7 @@ Once changes were applied, use *Ctrl+D* to exit *edit-patch*. This will create t
 ```
 jackd2 (1.9.8~dfsg.1-1ubuntu2) precise; urgency=low
 
-
-
   * debian/patches/jackdbus-stop-fix.patch: [fixes LP: #956438]
-
-
 
  -- Kaj Ailomaa <zequence@mousike.me>  Mon, 18 Mar 2013 16:25:32 +0100
 ```

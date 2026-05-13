@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioCont
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**

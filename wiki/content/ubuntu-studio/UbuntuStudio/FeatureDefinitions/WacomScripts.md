@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WacomScripts
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/WacomScripts
 **[Documentation](../Documentation)**
 
 **[Organization](../Organization)**
-
-| -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
-| --- |
-
 **-- [Organization](../Organization) Side Bar -- ([Edit](../Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](../Policy) - [Project Lead Vote](../ProjectLeadVote) -- [Project Lead Vote 2016](../ProjectLeadVote2016) - [Team Structure](../TeamStructure) - [Release Procedure](../ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](../DevelopmentReleaseSchedule) - [Blueprints](../Blueprints) - [Feature Definitions](index) - [Package Selection](../PackageSelection) - [Dates (not used)](../Dates) - [Meetings](../Meetings) **Planning Documentation** - [Managing Blueprints](../ManagingBlueprints) - [Development Cycle](../DevelopmentCycle) .. [Feature Definition Period](../DevEvents/FeatureDefinition) .. [Development Period](../DevEvents/Development) .. [Testing Period](../DevEvents/Testing) .. [Releasing](../DevEvents/Release)
 
 # Feature definition for Wacom scripts
@@ -79,10 +71,6 @@ proof of concept commandline script
 
 #GPLv.3
 
-
-
-
-
 mydevice="Wacom Intuos4 6x9"
 
 pad="$mydevice pad"
@@ -93,15 +81,9 @@ stylus="$mydevice stylus"
 
 eraser="$mydevice eraser"
 
-
-
 toggle1=$HOME/.wacomscreen.1
 
 toggle2=$HOME/.wacomscreen.2
-
-
-
-
 
 usage ()
 
@@ -125,8 +107,6 @@ usage ()
 
 }
 
-
-
 button ()
 
 {
@@ -134,8 +114,6 @@ button ()
 echo xsetwacom --set '$pad' button $1 \"$2\"
 
 }
-
-
 
 screensetter ()
 
@@ -145,13 +123,9 @@ echo xsetwacom --set '$stylus' MapToOutput $1
 
 }
 
-
-
 screen()
 
 {
-
-
 
   #how coordinates works - see link below for screen rotation cases
 
@@ -176,8 +150,6 @@ screen()
   # |0  1  0|  | |0 0.5 0|  |0 0.5 0.5| |
 
   # |0  0  1|  | |0  0  1|  |0  0   1 | |
-
-
 
   #both screens - remove all indicators
 
@@ -223,23 +195,13 @@ screen()
 
 } 
 
-
-
 #first
 
 #device list
 
-
-
-
-
-
-
 #script for setting up Wacom buttons and abilities
 
 #for intuos4 6x9 pad
-
-
 
 #------------------
 
@@ -247,13 +209,9 @@ screen()
 
 #------------------
 
-
-
 echo $mydevice
 
 echo "xsetwacom --get '$pad' button 1"
-
-
 
 #set the top buttons. 
 
@@ -265,13 +223,9 @@ button 8 "key d"
 
 button 9 "key e"
 
-
-
 #wheel
 
 button 1 "key a"
-
-
 
 #set the bottom buttons
 
@@ -282,8 +236,6 @@ button 11 "key g"
 button 12 "key h"
 
 button 13 "key i"
-
-
 
 #check for screen
 
@@ -311,8 +263,6 @@ if test "$1" == "--screen"
 
  fi
 
-
-
 #check for key
 
 elif test "$1" == "--key"
@@ -321,15 +271,11 @@ elif test "$1" == "--key"
 
  echo "key!"
 
-
-
 else
 
  echo "wrong argument!"
 
 fi
-
-
 
 #if it gets this far either the options were blank or wrong input
 

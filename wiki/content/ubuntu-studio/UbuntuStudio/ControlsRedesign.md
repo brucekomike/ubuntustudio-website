@@ -5,10 +5,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/ControlsRedesign
 ## [ControlsRedesign](ControlsRedesign)
 
 # Ubuntu Studio Controls Redesign
-
-| Contents Ubuntu Studio Controls Redesign Summary Changes for Natty Fix Broken Items Improve User Experience Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10) Development information about this application Features Proposed This topic is intended to propose new features or redesign of already existent Mock-ups Links and tutorials |
-| --- |
-
 Contents
 
 1. [Ubuntu Studio Controls Redesign](ControlsRedesign#Ubuntu_Studio_Controls_Redesign) [Summary](ControlsRedesign#Summary) [Changes for Natty](ControlsRedesign#Changes_for_Natty) [Fix Broken Items](ControlsRedesign#Fix_Broken_Items) [Improve User Experience](ControlsRedesign#Improve_User_Experience) [Ubuntu Studio controls redesign proposal for the next release of Ubuntu (10.10)](ControlsRedesign#Ubuntu_Studio_controls_redesign_proposal_for_the_next_release_of_Ubuntu_.2810.10.29) [Development information about this application](ControlsRedesign#Development_information_about_this_application) [Features Proposed](ControlsRedesign#Features_Proposed) [This topic is intended to propose new features or redesign of already existent](ControlsRedesign#This_topic_is_intended_to_propose_new_features_or_redesign_of_already_existent) [Mock-ups](ControlsRedesign#Mock-ups) [Links and tutorials](ControlsRedesign#Links_and_tutorials)

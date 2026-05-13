@@ -5,9 +5,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadCandidateTemplate
 ## [ProjectLeadCandidateTemplate](ProjectLeadCandidateTemplate)
 
 # Personal Info
-
-| Name: | put your name here |
-| --- | --- |
 | Launchpad Page: | put a link here |
 | Other links of interest: |  |
 

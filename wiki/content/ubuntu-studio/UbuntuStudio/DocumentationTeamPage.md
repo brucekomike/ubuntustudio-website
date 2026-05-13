@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,16 +22,9 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DocumentationTeamPage
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Documentation Sidebar -- ( edit ) Team Pages - Documentation Team Page Documentation - Video Format - For Video-tutorials - Youtube Specifics - Archive.org Specifics |
-| --- |
-
 ** -- [Documentation](Documentation) Sidebar -- ([edit](Navigation/DocSideBar))** **Team Pages** - [Documentation Team Page](DocumentationTeamPage) **[Documentation](Documentation)** - [Video Format](VideoFormat) - For Video-tutorials - [Youtube Specifics](YoutubeVideoFormat) - [Archive.org Specifics](ArchiveVideoFormat)
 
 # Ubuntu Studio Documentation Team Landing Page
-
-| Task Description | Write user and developer documentation for the website and wikis. Maintains UbuntuStudio and UbuntuStudio as well as ubuntustudio.org |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-documentation |
 | Team Wiki | Documentation Team Page |
 | Team Documentation | Documentation |
@@ -75,9 +64,6 @@ Write user and developer documentation for the website and wikis. Maintains [Ubu
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | autumna | ? | autumna |  | Team-Member |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 

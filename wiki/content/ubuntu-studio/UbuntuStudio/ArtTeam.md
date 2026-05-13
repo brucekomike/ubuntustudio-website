@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/ArtTeam
 
 ## [ArtTeam](ArtTeam)
-
-| Task Description | Collects and creates art for Ubuntu Studio. |
-| --- | --- |
 | Launchpad Team |  |
 | Team Wiki | Art Team Page |
 | Blueprint | See the Blueprints Overview |
@@ -38,9 +35,6 @@ See the [Blueprints Overview](Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Geirdal | Iceland | geirdal |  | Team Member |
 | madeinkobaia | Belgium | madeinkobaia |  | Independent Team-Asset |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |

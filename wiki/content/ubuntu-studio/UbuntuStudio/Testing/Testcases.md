@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Testing/Testcases
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](index)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Testing/Testcases
 **[Documentation](../Documentation)**
 
 **[Organization](../Organization)**
-
-| -- Testing Sidebar -- ( edit ) Team Pages - Testing Team Page Testing Documentation - Application Testing .. Test Cases - ISO Testing - Performance Testing - Kernel Testing Desktop Environment Testing |
-| --- |
-
 ** -- [Testing](index) Sidebar -- ([edit](../Navigation/TestingSideBar))** **Team Pages** - **[Testing Team Page](../TestingTeamPage)** **[Testing Documentation](../TestingDocumentation)** - [Application Testing](ApplicationTesting) ..[Test Cases](Testcases) - [ISO Testing](ISOTesting) - [Performance Testing](Testing/PerformanceTesting) - [Kernel Testing](KernelTesting) **[Desktop Environment Testing](../DesktopEnvironmentTesting)**
 
 Packages and testcase bug numbers.
@@ -43,9 +35,6 @@ Marked as synced once merged, with testcase number added to package name
 Set priorities for testcase creation.
 
 Meta packages - GR-Graphics, VI - Video, PU - Publishing, PH- Photography - everything with that 'code' missing is Audio.
-
-| Meta | Package | Bug number | Priority | Bzr | Tracker |
-| --- | --- | --- | --- | --- | --- |
 |  | aeolus | 1184777 | 2 |  |  |
 | GR,PU | agave | 1184753 | 2 | 1662_Agave | 1662_Agave |
 |  | alsa-tools-gui |  |  |  |  |

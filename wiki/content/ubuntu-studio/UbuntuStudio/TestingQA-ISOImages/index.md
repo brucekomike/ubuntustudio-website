@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/TestingQA-ISOImages
 
 ## [TestingQA-ISOImages](index)
-
-| Contents Abstract Definition Purpose Image Availability Process Testing with VM Testing on Spare Computer Get Involved |
-| --- |
-
 Contents
 
 1. [Abstract](index#Abstract)

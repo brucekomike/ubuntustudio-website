@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Policy
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Policy
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
-| --- |
-
 **-- [Organization](Organization) Side Bar -- ([Edit](Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](Policy) - [Project Lead Vote](ProjectLeadVote) -- [Project Lead Vote 2016](ProjectLeadVote2016) - [Team Structure](TeamStructure) - [Release Procedure](ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](DevelopmentReleaseSchedule) - [Blueprints](Blueprints) - [Feature Definitions](FeatureDefinitions) - [Package Selection](PackageSelection) - [Dates (not used)](Dates) - [Meetings](Meetings) **Planning Documentation** - [Managing Blueprints](ManagingBlueprints) - [Development Cycle](DevelopmentCycle) .. [Feature Definition Period](DevEvents/FeatureDefinition) .. [Development Period](DevEvents/Development) .. [Testing Period](DevEvents/Testing) .. [Releasing](DevEvents/Release)
 
 Contents
@@ -61,9 +53,6 @@ Contents
 # Ubuntu Studio Policy
 
 ## The Purpose of Ubuntu Studio
-
-| 1. | Provide a desktop base suitable for multimedia production work |
-| --- | --- |
 | 2. | Optimize system performance needed for multimedia applications |
 | 3. | Include relevant and up to date applications that cover all digital arts workflows |
 | 4. | Provide documentation for users that covers every aspect of digital arts creation on Linux |

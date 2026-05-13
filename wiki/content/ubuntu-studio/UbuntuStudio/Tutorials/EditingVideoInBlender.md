@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Tutorials/EditingVideoInBlender
 **[Documentation](../Documentation)**
 
 **[Organization](../Organization)**
-
-| Contents Editing Video In Blender Get familiar with blender VSE Preparing the interface Interface basics Preparing for your project Understanding Frame rates Preparing video-files with ffmpeg Render your project Dimensions Video Formats |
-| --- |
-
 Contents
 
 1. [Editing Video In Blender](EditingVideoInBlender#Editing_Video_In_Blender) [Get familiar with blender VSE](EditingVideoInBlender#Get_familiar_with_blender_VSE) [Preparing the interface](EditingVideoInBlender#Preparing_the_interface) [Interface basics](EditingVideoInBlender#Interface_basics)

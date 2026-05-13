@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp
 
 ## [TaskWebRevamp](index)
-
-| Contents preface goals of the website maintain presence on the web provide news and udpates educate non-users educate existing users ISO download point user help contribute/develop social experience Audience James : Independent Musician Why he's the (main) target audience Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him. Offer encouraging and easy to get support Possible Website Themes Shiny Punk DIY Stylized Comic Book Website Mock-ups Audio Horizons v2 Impact Rough Site Map Original vs Planned Site: Original Documentation Central Ideas/Concepts Technicals/Implementation Other Points Miscellaneous |
-| --- |
-
 Contents
 
 1. [preface](index#preface)
@@ -46,10 +42,6 @@ Contents
 2. [Technicals/Implementation](index#Technicals.2FImplementation)
 3. [Other Points](index#Other_Points)
 4. [Miscellaneous](index#Miscellaneous)
-
-| Back to Natty Narwhal Release Planning |
-| --- |
-
 [Back to Natty Narwhal Release Planning](../ReleasePlanning)
 
 # preface

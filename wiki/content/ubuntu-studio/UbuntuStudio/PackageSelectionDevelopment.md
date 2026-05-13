@@ -9,9 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PackageSelectionDevelopment
 This list contrasts and compares between applications in Maverick and proposed for Natty and is derived from the [workflows page](Workflows).
 
 ** Please do not edit the Package Selection page unless you are a Ubuntu Studio Developer!**
-
-| Legend |  |
-| --- | --- |
 | Y | = Either currently installed in metapackage or should be installed in proposed metapackage due to workflow inclusion |
 | N | = Either not currently installed in metapackage or will not be installed in proposed meapackages |
 | ? | = Would reside in a proposed metapackage but is not currently included in a workflow, might be dropped |
@@ -34,9 +31,6 @@ N
 ?
 
 = Possibly could be in a -performance metapackage
-
-| Audio Seeds |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Application Name | Current in Maverick | Natty | Proposed |  |  |
 | -audio-common | -generation | -recording | -live |  |  |
 | a2jmidid | Y | N | Y | N | N |
@@ -943,9 +937,6 @@ N
 N
 
 [1] denemo and lillypond to be replaced by musescore [2] does not currently build and old versions do not work, not to be currently included [3] mscore is a transition package which will be replaced by musescore [4] to be removed because package is not in archives [5] zynaddsubfx to be replaced by yoshimi
-
-| Audio Plugins Seeds |  |  |
-| --- | --- | --- |
 | Application Name | Current in Maverick | Proposed for Natty |
 | aeolus | Y | Y |
 | blop | Y | Y |
@@ -1125,9 +1116,6 @@ Y
 N
 
 [1] believe these are either for development or provided purely as examples [2] not included in seeds, but will be pulled into image as dependency (e.g. for hexter, fluidsynth-dssi, whysynth) [3] fil-plugins to be replaced by lv2fil [4] to be removed because package is not in archives [5] swh-plugins to be replaced by swh-lv2 [6] zynadd does not appear to be working currently
-
-| Graphics Seeds |  |  |
-| --- | --- | --- |
 | Application Name | Current in Maverick | Proposed for Natty |
 | agave | Y |  |
 | blender [1] | Y | N |
@@ -1269,9 +1257,6 @@ yafray
 Y
 
 [1] blender probably should be included in the Video Seeds due to workflow categorization
-
-| Video Seeds |  |  |
-| --- | --- | --- |
 | Application Name | Current in Maverick | Proposed for Natty |
 | blender [1] | N | Y |
 | dvgrab | Y |  |

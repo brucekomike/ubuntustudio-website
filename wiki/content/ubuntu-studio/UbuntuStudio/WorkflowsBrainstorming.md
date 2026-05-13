@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/WorkflowsBrainstorming
 
 ## [WorkflowsBrainstorming](WorkflowsBrainstorming)
-
-| Contents Abstract Approved Tasks Approved Workflows for 12.04 LTS Workflow Based Menu Possible Future Workflows Live Music/Video Live Video Live Music User workflows holstein Introducing Ubuntu Studio Software to the User Using videos Using a script Using Ladish |
-| --- |
-
 Contents
 
 1. [Abstract](WorkflowsBrainstorming#Abstract)

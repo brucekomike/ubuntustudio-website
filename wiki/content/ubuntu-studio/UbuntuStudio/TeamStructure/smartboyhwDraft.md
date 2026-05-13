@@ -5,9 +5,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/TeamStructure/smartboyhwDraft
 ## [smartboyhwDraft](smartboyhwDraft)
 
 This page is the official structure for the Ubuntu Studio team. It will reflect the current state of the team and clearly define the roles of each member. It is to be used as a reference for current and new members.
-
-| Name | Location | IRC Nick | Title | Duties | Time Commitment |
-| --- | --- | --- | --- | --- | --- |
 | Scott Lavender | USA | ScottL | Project Lead | General development and coordination |  |
 | Janne Jokitalo | Finland | astraljava | ex-QA Lead | Bug Fixing, packaging and developing |  |
 | Kaj Ailomaa | Sweden | ailo | Documentation Lead | Documentation, testing and kernel | 6 months |

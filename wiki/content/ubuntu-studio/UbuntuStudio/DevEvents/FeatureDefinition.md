@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -30,9 +26,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevEvents/FeatureDefinition
 In the beginning of a development we do feature definition.
 
 ## Tasks during feature definition
-
-| week 1-8 | Discuss on mail list, irc and social channels about feature additions. Collect ideas on wiki pages, and then create blueprints. |
-| --- | --- |
 | week 8-9 | finalize blueprints at around week 8, and have them approved by ubuntustudio-core team before FeatureDefinitionFreeze |
 
 week 1-8

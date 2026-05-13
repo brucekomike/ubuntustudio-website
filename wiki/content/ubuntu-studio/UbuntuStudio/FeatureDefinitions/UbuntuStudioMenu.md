@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioMenu
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -30,9 +26,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/FeatureDefinitions/UbuntuStudioMenu
 ## Ubuntu Studio Menu Feature Definition
 
 ### Menu layout in 15.04 Vivid
-
-| Main Category | Sub Category |
-| --- | --- |
 | Audio Production |  |
 |  | Audio Processors |
 |  | Midi Utilities |
@@ -73,9 +66,6 @@ Audio Tools
 Categories marked with ![(./)](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/checkmark.png/checkmark.png) are freedesktop categories. The freedesktop category name may be marked inside (), if the menu requires a fancier descriptive name for the category.
 
 A sub-category does not need to be a menu. It can just as well be a divider with a description in the menu.
-
-| Main Category | Sub Category | Additional Info |
-| --- | --- | --- |
 | Audio |  |  |
 |  | DAW | No freedesktop category exists. ( AudioVideoEditing ?) |
 |  | Effects | No freedesktop category exists. Was renamed from audio processors. In plain language, people commonly call those effects. |

@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/RaringReleaseSchedule
 
 ## [RaringReleaseSchedule](RaringReleaseSchedule)
-
-| Week | Date (Thursday) | Planning Week 1-5 |
-| --- | --- | --- |
 | October 2012 |  |  |
 | 1 | October 25th | Announce Brainstorming for this release at the ubuntu-studio-devel mail list |
 | November 2012 |  |  |

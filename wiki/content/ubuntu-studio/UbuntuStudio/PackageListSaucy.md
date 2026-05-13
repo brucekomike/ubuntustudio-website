@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PackageListSaucy
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Workflow Side Bar -- ( edit ) Workflows - Audio - Graphics - Video - Photography - Publishing Package List Saucy (with categorization) Workflow Categories Freedesktop Categories |
-| --- |
-
 **-- Workflow Side Bar -- ([edit](Navigation/WorkflowSideBar))** **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Graphics](Workflows/Graphics) - [Video](Workflows/Video) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) [Package List Saucy](PackageListSaucy) (with categorization) [Workflow Categories](WorkflowCategories) [Freedesktop Categories](FreedesktopCategories)
 
 **THIS PAGE IS UNDER CONSTRUCTION**
@@ -76,9 +68,6 @@ It's not working perfectly yet, but it's workable..
 **UNDER CONSTRUCTION**
 
 ## A
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | a2jmidid | [universe] | Daemon for exposing legacy ALSA MIDI in JACK MIDI systems | Audio-Glue (Example) | X (example) |
 | aac-enc | [multiverse] | Fraunhofer FDK AAC Codec Library - frontend binary | Codec (example ) | (License) (example) |
 | abcde | [universe] | A Better CD Encoder | Encoding (example) |  |
@@ -588,9 +577,6 @@ azr3-jack
 drawbar organ simulator
 
 ## B
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | banshee | [universe] | Media Management and Playback application |  |  |
 | banshee-extension-alarm | [universe] | Alarm extension for Banshee |  |  |
 | banshee-extension-albumartwriter | [universe] | Album art writer extension for Banshee |  |  |
@@ -848,9 +834,6 @@ buzztard-data
 Modular music composer - shared data files
 
 ## C
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | calf-plugins | [universe] | Calf Studiogear - audio effects and sound generators |  |  |
 | cam | [universe] | Cpu's Audio Mixer for Linux |  |  |
 | canorus | [universe] | graphical music score editor |  |  |
@@ -1101,9 +1084,6 @@ cynthiune.app
 Music player for GNUstep
 
 ## D
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | daisy-player | [universe] | player for DAISY Digital Talking Books |  |  |
 | darkice | [multiverse] | Live audio streamer |  |  |
 | darksnow | [multiverse] | simple graphical user interface to darkice |  |  |
@@ -1284,9 +1264,6 @@ dssi-vst
 Adapter for VST an VSTi audio plugins
 
 ## E
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | ears | [universe] | collection of Last.fm clients and CD-ripping tools |  |  |
 | easyh10 | [universe] | Utility to manage the iRiver H10 music player |  |  |
 | easymp3gain-data | [universe] | GUI for MP3Gain, VorbisGain and AACGain (data files) |  |  |
@@ -1503,9 +1480,6 @@ ezstream
 easy media streaming client over icecast servers
 
 ## F
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | faac | [multiverse] | AAC audio encoder |  |  |
 | faad | [universe] | freeware Advanced Audio Decoder player |  |  |
 | fadecut | [universe] | toolset to rip audiostreams, cut, fade in/out and tag the resulting audiofiles |  |  |
@@ -1985,9 +1959,6 @@ freqtweak
 Realtime audio frequency spectral manipulation
 
 ## G
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | gbemol | [universe] | Graphical frontend for the Music Player Daemon |  |  |
 | gbsplay | [universe] | A Gameboy sound player |  |  |
 | gdigi | [universe] | utility to control DigiTech effect pedals |  |  |
@@ -2393,9 +2364,6 @@ gxtuner
 Tuner for Jack
 
 ## H, I, J
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | harvid | [universe] | HTTP Ardour Video Server |  |  |
 | hexter | [universe] | Yamaha DX7 modeling DSSI plugin |  |  |
 | horgand | [universe] | JACK capable organ softsynth |  |  |
@@ -2798,9 +2766,6 @@ julius-voxforge
 acoustic models for Julius
 
 ## K, L
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | klick | [universe] | advanced metronome for JACK |  |  |
 | kluppe | [universe] | a loop-player and recorder designed for live use |  |  |
 | kmetronome | [universe] | ALSA MIDI Metronome |  |  |
@@ -3611,9 +3576,6 @@ lxmusic
 LXDE music player
 
 ## M
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | madfuload | [multiverse] | Firmware loader for M-Audio DFU audio devices |  |  |
 | madplay | [universe] | MPEG audio player in fixed point |  |  |
 | mbrola | [multiverse] | Multilingual software speech synthesizer |  |  |
@@ -4418,9 +4380,6 @@ mythmusic
 Music add-on module for MythTV
 
 ## N, O, P
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | nama | [universe] | Ecasound-based multitrack recorder/mixer |  |  |
 | nas | [universe] | Network Audio System - local server |  |  |
 | nas-bin | [universe] | Network Audio System - client binaries |  |  |
@@ -5362,9 +5321,6 @@ pytone
 Music jukebox with advanced features for DJs and a text-mode user interface
 
 ## Q
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | qarecord | [universe] | audio recording tool |  |  |
 | qasconfig | [universe] | ALSA configuration browser |  |  |
 | qashctl | [universe] | mixer for ALSA's High level Control Interface |  |  |
@@ -5531,9 +5487,6 @@ qutecsound
 frontend for the csound sound processor
 
 ## R
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | radio | [universe] | ncurses-based radio application |  |  |
 | radiotray | [universe] | online radio streaming player |  |  |
 | radium-compressor | [universe] | audio compressor for JACK |  |  |
@@ -5854,9 +5807,6 @@ rumor
 Realtime MIDI keyboard to Lilypond converter
 
 ## S
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | samplv1 | [universe] | polyphonic sampler synthesizer |  |  |
 | saytime | [universe] | speaks the current time through your sound card |  |  |
 | schism | [universe] | ImpulseTracker clone aiming at providing the same look&feel |  |  |
@@ -6410,9 +6360,6 @@ synthv1
 old-school polyphonic synthesizer
 
 ## T
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | taggrepper | [universe] | search and match tags of audio files against regular expressions |  |  |
 | tagtool | [universe] | Tool to tag and rename MP3 and Ogg Vorbis files |  |  |
 | taopm | [universe] | Sound synthesis software with physical models |  |  |
@@ -6607,9 +6554,6 @@ twolame
 MPEG Audio Layer 2 encoder (command line frontend)
 
 ## U, V, W
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | ubuntu-touch-sounds | [universe] | sounds for the Ubuntu Touch image |  |  |
 | udj-desktop-client | [universe] | social music player |  |  |
 | upse123 | [universe] | commandline player based on libupse |  |  |
@@ -6837,9 +6781,6 @@ wsynth-dssi
 hack on Xsynth-DSSI to allow wavetable synthesis
 
 ## X, Y, Z
-
-| Audio Applications (packages) | Repository | Description | Ubuntu Studio Workflow Subcategories | Included |
-| --- | --- | --- | --- | --- |
 | xcfa | [universe] | X Convert File Audio |  |  |
 | xcutmp3 | [universe] | a simple frontend for cutmp3 |  |  |
 | xjadeo | [multiverse] | Video player with JACK sync |  |  |

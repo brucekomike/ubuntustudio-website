@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/TeamReports/11/March
 
 ## [March](March)
-
-| Contents Release Development Website Update ubuntustudio-controls Backports Bug Reports Opened Bugs Updated Bugs Marked as Incomplete Bugs Closed Bugs Kernel Development |
-| --- |
-
 Contents
 
 1. [Release Development](March#Release_Development)

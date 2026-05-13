@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/Oneiric/Timeline
 
 ## [Timeline](Timeline)
-
-|  | Ubuntu Studio |  |  |
-| --- | --- | --- | --- |
 | Wiki Home | Meetings | Release Planning | Current Release Schedule |
 
 ![IconsPage/32pixel/32studiocof.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/IconsPage/32pixel/32studiocof.png)
@@ -21,9 +18,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Oneiric/Timeline
 [Current Release Schedule](https://wiki.ubuntu.com/OneiricReleaseSchedule)
 
 # Timeline
-
-| Task | By | Due Date | Comment |
-| --- | --- | --- | --- |
 | XFCE settings and UI mockup | CKontros | May 20 | req'd to confirm DE and UI |
 | confirm DE and UI | Studio Team | May 27 | required to original seed update |
 | original seed update | CKontros and SLavender | June 10 | DE, UI, LV2, language packs |

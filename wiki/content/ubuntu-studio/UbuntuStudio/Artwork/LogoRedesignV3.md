@@ -5,10 +5,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/LogoRedesignV3
 ## [LogoRedesignV3](LogoRedesignV3)
 
 This page is for ideas of the 3rd iteration of the Ubuntu Studio logo.
-
-| Contents Cory K.'s Ideas Scott L.'s Ideas Brian David.'s Ideas |
-| --- |
-
 Contents
 
 1. [Cory K.'s Ideas](LogoRedesignV3#Cory_K..27s_Ideas)

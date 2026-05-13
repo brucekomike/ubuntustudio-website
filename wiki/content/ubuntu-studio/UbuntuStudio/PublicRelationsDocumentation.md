@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PublicRelationsDocumentation
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- PR & Support Sidebar -- ( edit ) Team Pages - Public Relations Team Page - IRC Ubuntu Studio OPS Page Public Relations Documentation |
-| --- |
-
 ** -- [PR & Support](PublicRelationsDocumentation) Sidebar -- ([edit](Navigation/PRSideBar))** **Team Pages** - [Public Relations Team Page](PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](IRCUbuntuStudioOpsPage) **[Public Relations Documentation](PublicRelationsDocumentation)**
 
 ***
@@ -99,9 +91,6 @@ Furthermore, it might be wise to assign one PR team member for some large, speci
 ## Writing Posts
 
 (update or remove? )
-
-| Event Posting |  |  |  |
-| --- | --- | --- | --- |
 | Event | Description | Channels | Assignee |
 | Release News | Make an official post on a new release every 6 months | website & social channels, G+, mail lists, forums, |  |
 | Milestone Testing | Announce testing, and ask for participants for Beta2 and R.C | website & social channels, G+, mail lists, forums |  |

@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Testing/KernelTesting
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](index)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Testing/KernelTesting
 **[Documentation](../Documentation)**
 
 **[Organization](../Organization)**
-
-| -- Testing Sidebar -- ( edit ) Team Pages - Testing Team Page Testing Documentation - Application Testing .. Test Cases - ISO Testing - Performance Testing - Kernel Testing Desktop Environment Testing |
-| --- |
-
 ** -- [Testing](index) Sidebar -- ([edit](../Navigation/TestingSideBar))** **Team Pages** - **[Testing Team Page](../TestingTeamPage)** **[Testing Documentation](../TestingDocumentation)** - [Application Testing](ApplicationTesting) ..[Test Cases](Testcases) - [ISO Testing](ISOTesting) - [Performance Testing](Testing/PerformanceTesting) - [Kernel Testing](KernelTesting) **[Desktop Environment Testing](../DesktopEnvironmentTesting)**
 
 Kernel testing is done to assure we get the desired performance for our workflows.

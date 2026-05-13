@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOps
 
 ## [IRCUbuntuStudioOps](IRCUbuntuStudioOps)
-
-| Task Description | Operators for the Ubuntu Studio IRC channels. |
-| --- | --- |
 | Launchpad Team | ~irc-ubuntustudio-ops |
 | Team Wiki | IRC Ubuntu Studio Ops Page |
 | Mail Lists | ubuntu-studio-devel |
@@ -30,9 +27,6 @@ Operators for the Ubuntu Studio IRC channels.
 **IRC Channels**
 
 **#ubuntustudio** and **#ubuntustudio-devel** at irc.freenode.net
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Jimmy Sjölund | Sweden | cub |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |
 | Janne Jokitalo | Finland | astraljava |  |  |

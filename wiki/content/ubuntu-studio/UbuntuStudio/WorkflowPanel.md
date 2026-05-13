@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/WorkflowPanel
 
 ## [WorkflowPanel](WorkflowPanel)
-
-| Contents Menus Utilities Workflow Menu |
-| --- |
-
 Contents
 
 1. [Menus](WorkflowPanel#Menus) [Utilities](WorkflowPanel#Utilities) [Workflow Menu](WorkflowPanel#Workflow_Menu)

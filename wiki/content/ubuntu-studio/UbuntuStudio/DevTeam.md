@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/DevTeam
 
 ## [DevTeam](DevTeam)
-
-| Task Description | Packaging and bug fixing. Maintenance of Ubuntu Studio sources. Application development and maintenance. |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-dev |
 | Team Landing Page | Development Team Page |
 | Team Documentation | Developer Documentation |
@@ -45,9 +42,6 @@ See the [Blueprint Overview](Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Janne Jokitalo | Finland | astraljava |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |
 | Len Ovens | Canada | OvenWerks |  |  |

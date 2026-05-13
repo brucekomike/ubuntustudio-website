@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioBugsTeam
 
 ## [UbuntuStudioBugsTeam](UbuntuStudioBugsTeam)
-
-| Task Description | Join this team to be subscribed to all Ubuntu Studio related bugs |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-bugs |
 | Team Landing Page | Ubuntu Studio Bugs Team Page |
 
@@ -20,9 +17,6 @@ Join this team to be subscribed to all Ubuntu Studio related bugs
 **Team Landing Page**
 
 [Ubuntu Studio Bugs Team Page](UbuntuStudioBugsTeamPage)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Ross Gammon | Denmark | Rosco2 |  | Testing Lead |
 
 **Name**

@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/Teams
 
 ## [Teams](Teams)
-
-| Team Pages |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Testing | Development | Documentation | PR & Support | Artwork | Planning |
 
 **Team Pages**

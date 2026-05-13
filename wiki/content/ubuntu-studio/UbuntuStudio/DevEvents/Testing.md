@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevEvents/Testing
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -32,9 +28,6 @@ During the testing period we try to find any bugs so we have time to fix them be
 ## Tasks during development
 
 ### Application Testing
-
-| week 17-20 | Application Testing : We do all of our test cases here, well before Final Beta Freeze, so that we have time to fix any bugs we find. |
-| --- | --- |
 | week 21-25 | Application Testing : Follow up testing of updated packages |
 
 week 17-20
@@ -46,9 +39,6 @@ week 21-25
 [Application Testing](../Testing/ApplicationTesting): Follow up testing of updated packages
 
 ### ISO Testing
-
-| week 18 | ISO Testing : Beta 1 |
-| --- | --- |
 | week 22 | ISO Testing : Final Beta |
 | week 25 | ISO Testing : Release Canidate |
 
@@ -65,9 +55,6 @@ week 25
 [ISO Testing](../Testing/ISOTesting): Release Canidate
 
 ### Kernel Testing
-
-| week 11-23 | Kernel Version Testing : Test each new kernel version |
-| --- | --- |
 | week 24 | Kernel Final testing : after KernelFreeze |
 
 week 11-23

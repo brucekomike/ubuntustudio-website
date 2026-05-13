@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/YoutubeVideoFormat
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/YoutubeVideoFormat
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Documentation Sidebar -- ( edit ) Team Pages - Documentation Team Page Documentation - Video Format - For Video-tutorials - Youtube Specifics - Archive.org Specifics |
-| --- |
-
 ** -- [Documentation](Documentation) Sidebar -- ([edit](Navigation/DocSideBar))** **Team Pages** - [Documentation Team Page](DocumentationTeamPage) **[Documentation](Documentation)** - [Video Format](VideoFormat) - For Video-tutorials - [Youtube Specifics](YoutubeVideoFormat) - [Archive.org Specifics](ArchiveVideoFormat)
 
 # Preliminary format

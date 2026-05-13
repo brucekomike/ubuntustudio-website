@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/IntroTutVideos
 
 ## [IntroTutVideos](IntroTutVideos)
-
-| Contents Overview Objective Target Audience Goals Introduction to Ubuntu Studio What is Ubuntu Studio? Why use Ubuntu Studio? FOSS Applications Store Modest Hardware Requirements Multimedia Applications Differences between Windows and Ubuntu FOSS Open Formats vs. mp3 More Options Non-monolithic Applications Multi-users Hardware Requirements computer video card audio interface pci usb firewire Installing Ubuntu Studio Full Install from DVD Other Installation Options Upgrading from Vanilla Ubuntu Dual Booting Audio Tasks Understanding JACK Ardour - Record Audio Video Tasks Blender - Edit Video Graphical Tasks Inkscape - Create Graphics Appendix A: Troublshooting Objectives: specific videos over here Who |
-| --- |
-
 Contents
 
 1. [Overview](IntroTutVideos#Overview) [Objective](IntroTutVideos#Objective) [Target Audience](IntroTutVideos#Target_Audience) [Goals](IntroTutVideos#Goals)

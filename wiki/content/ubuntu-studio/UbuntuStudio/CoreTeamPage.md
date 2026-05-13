@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -28,9 +24,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/CoreTeamPage
 **[Organization](Organization)**
 
 # Ubuntu Studio Core Team Page
-
-| Task Description | Quality Assurance Leadership and overall last say |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-core |
 | Team Wiki | Core Team Page |
 | Team Documentation | Core Team Documentation |
@@ -70,9 +63,6 @@ See [Blueprints](Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Kaj Ailomaa | Sweden | zequence | indefinite |  |
 | Len Ovens | Canada | Ovenwerks | indefinite |  |
 | Set Hallstrom | Sweden | sakrecoer | april 2018 | Project Lead |

@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/CoreTeam
 
 ## [CoreTeam](CoreTeam)
-
-| Task Description | Quality Assurance Leadership and overall last say |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-core |
 | Team Wiki | Core Team Page |
 | Team Documentation | Core Team Documentation |
@@ -45,9 +42,6 @@ See [Blueprints](Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Kaj Ailomaa | Sweden | zequence | indefinite |  |
 | Len Ovens | Canada | Ovenwerks | indefinite |  |
 | Set Hallstrom | Sweden | sakrecoer | april 2018 | Project Lead |

@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,18 +22,11 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DevelopmentReleaseSchedule
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Organization Side Bar -- ( Edit ) Organization - Ubuntu Studio Policy - Project Lead Vote -- Project Lead Vote 2016 - Team Structure - Release Procedure Planning - Release Schedule (not up to date) - Blueprints - Feature Definitions - Package Selection - Dates (not used) - Meetings Planning Documentation - Managing Blueprints - Development Cycle .. Feature Definition Period .. Development Period .. Testing Period .. Releasing |
-| --- |
-
 **-- [Organization](Organization) Side Bar -- ([Edit](Navigation/OrganizationSideBar))** **Organization** - [Ubuntu Studio Policy](Policy) - [Project Lead Vote](ProjectLeadVote) -- [Project Lead Vote 2016](ProjectLeadVote2016) - [Team Structure](TeamStructure) - [Release Procedure](ReleaseProcedure) **Planning** - [Release Schedule (not up to date)](DevelopmentReleaseSchedule) - [Blueprints](Blueprints) - [Feature Definitions](FeatureDefinitions) - [Package Selection](PackageSelection) - [Dates (not used)](Dates) - [Meetings](Meetings) **Planning Documentation** - [Managing Blueprints](ManagingBlueprints) - [Development Cycle](DevelopmentCycle) .. [Feature Definition Period](DevEvents/FeatureDefinition) .. [Development Period](DevEvents/Development) .. [Testing Period](DevEvents/Testing) .. [Releasing](DevEvents/Release)
 
 ### The current Ubuntu Studio Development Release Schedule
 
 *Edit original page at [UbuntuStudio/TrustyReleaseSchedule](TrustyReleaseSchedule)*
-
-| Week | Date (Thursday) | 14.04 LTS Events |
-| --- | --- | --- |
 | October 2013 |  |  |
 | 1 | October 24th |  |
 | 2 | October 31st |  |

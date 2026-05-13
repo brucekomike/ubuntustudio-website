@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/TestingTeam
 
 ## [TestingTeam](TestingTeam)
-
-| Task Description | Primarily testing and QA insurance. May involve test development and writing documentation. |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-testing |
 | Team Landing Page | Testing Team Page |
 | Team Documentation | Testing Team Documentation |
@@ -45,9 +42,6 @@ Primarily testing and QA insurance. May involve test development and writing doc
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Ross Gammon | Denmark | Rosco2 |  | Testing Lead |
 
 **Name**

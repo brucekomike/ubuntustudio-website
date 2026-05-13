@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Wily/FreedesktopCategories/Video
 [/UbuntuStudio](../..)
 
 [UbuntuStudio/Community](../../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](../..)**
 
 **[Testing](../../Testing)**
@@ -36,9 +32,6 @@ Contents
 When checking for which categories a desktop file belongs to, use this page as reference - [UbuntuStudio/FreedesktopCategories](../../FreedesktopCategories).
 
 # Universe
-
-| Package Name | Description | Desktop File | Current FDC | Suggested FDC | Bug |
-| --- | --- | --- | --- | --- | --- |
 | aegisub | advanced subtitle editor | aegisub.desktop | AudioVideo ; AudioVideoEditing ; | Video |  |
 | bino | 3D video player | bino.desktop | AudioVideo ;Player;Video; | OK |  |
 | freetuxtv | Internet television and radio player | freetuxtv.desktop | AudioVideo ;Video;TV; | Player |  |

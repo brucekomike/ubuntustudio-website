@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/TrustyReleaseSchedule
 
 ## [TrustyReleaseSchedule](TrustyReleaseSchedule)
-
-| Week | Date (Thursday) | 14.04 LTS Events |
-| --- | --- | --- |
 | October 2013 |  |  |
 | 1 | October 24th |  |
 | 2 | October 31st |  |

@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- PR & Support Sidebar -- ( edit ) Team Pages - Public Relations Team Page - IRC Ubuntu Studio OPS Page Public Relations Documentation |
-| --- |
-
 ** -- [PR & Support](PublicRelationsDocumentation) Sidebar -- ([edit](Navigation/PRSideBar))** **Team Pages** - [Public Relations Team Page](PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](IRCUbuntuStudioOpsPage) **[Public Relations Documentation](PublicRelationsDocumentation)**
 
 ---
@@ -37,9 +29,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/IRCUbuntuStudioOpsPage
 [CategoryCleanup](https://wiki.ubuntu.com/CategoryCleanup) [CategoryCleanup](https://wiki.ubuntu.com/CategoryCleanup)
 
 # Ubuntu Studio IRC Ops Team Landing Page
-
-| Task Description | Operators for the Ubuntu Studio IRC channels. |
-| --- | --- |
 | Launchpad Team | ~irc-ubuntustudio-ops |
 | Team Wiki | IRC Ubuntu Studio Ops Page |
 | Mail Lists | ubuntu-studio-devel |
@@ -64,9 +53,6 @@ Operators for the Ubuntu Studio IRC channels.
 **IRC Channels**
 
 **#ubuntustudio** and **#ubuntustudio-devel** at irc.freenode.net
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Jimmy Sjölund | Sweden | cub |  |  |
 | Kaj Ailomaa | Sweden | zequence |  |  |
 | Janne Jokitalo | Finland | astraljava |  |  |

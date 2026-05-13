@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeamPage
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -28,9 +24,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeamPage
 **[Organization](Organization)**
 
 # Ubuntu Studio User Team Page
-
-| Task Description | Open team for ubuntu Studio users. Members of the launchpad team are allowed to comment on posts at ubuntustudio.org . |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio |
 | Team Wiki | Ubuntu Studio Team Page |
 | Mail Lists | Ubuntu-Studio-users |

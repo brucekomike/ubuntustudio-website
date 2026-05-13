@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialXenial
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialXenial
 **[Documentation](../Documentation)**
 
 **[Organization](../Organization)**
-
-| -- Artwork -- ( edit ) Team Pages - Art Team Page - Website Team Page Ubuntu Studio Artwork - User Show Case - Official 13.10 S Art -- S blueprint - Official 14.04 T Art -- T blueprint - Official 16.04 T Art |
-| --- |
-
 **-- [Artwork](index) -- ([edit](../Navigation/ArtSideBar))** **Team Pages** - [Art Team Page](../ArtTeamPage) - [Website Team Page](../WebsiteTeamPage) **[Ubuntu Studio Artwork](index)** - [User Show Case](UserShowcase) - [Official 13.10 S Art](Official1310) -- [S blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-s-artwork) - [Official 14.04 T Art](Official1404) -- [T blueprint](https://blueprints.launchpad.net/ubuntu/+spec/ubuntustudio-t-artwork) - [Official 16.04 T Art](OfficialXenial)
 
 ## Road map
@@ -43,10 +35,6 @@ Everyone could contribute with specific elements to the whole. Someone should be
 # Colors
 
 ## About the colors
-
-| Audio | Video | Graphics |
-| --- | --- | --- |
-
 Audio
 
 Video
@@ -68,10 +56,6 @@ The logic behind the colors: Purple is a mix between red and blue, just as video
 ## About Symbols and icons
 
 We have a set of icons, lets consolidate it. The trunk can be found here: [https://code.launchpad.net/~ubuntustudio-dev/ubuntustudio-menu/trunk](https://code.launchpad.net/~ubuntustudio-dev/ubuntustudio-menu/trunk)
-
-| Audio | Video | Graphics |
-| --- | --- | --- |
-
 Audio
 
 Video

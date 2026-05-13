@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/UbuntuStudioTeam
 
 ## [UbuntuStudioTeam](UbuntuStudioTeam)
-
-| Task Description | Open team for ubuntu Studio users. Members of the launchpad team are allowed to comment on posts at ubuntustudio.org . |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio |
 | Team Wiki | Ubuntu Studio Team Page |
 | Mail Lists | Ubuntu-Studio-users |

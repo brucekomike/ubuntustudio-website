@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/FreedesktopCategories
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
-| --- |
-
 **-- [Developer](Development) Side Bar -- ([Edit](Navigation/DevSideBar))** **Team Pages** - [Bugs Team](UbuntuStudioBugsTeamPage) - [Contributor Team](ContributorTeamPage) - [Core Team](CoreTeamPage) - [Dev Team](DevTeamPage) - [Kernel Team](KernelTeamPage) - [Release Team](ReleaseTeamPage) - [Testing Team](TestingTeamPage) **[Ubuntu Studio Policy](Policy)** - [Project Lead Vote](ProjectLeadVote) **[UbuntuStudio/Packaging](Packaging)** [Needs Packaging](NeedsPackaging) **[Developer Documentation](DeveloperDocumentation)** - [Setup Dev Environment](SetupDeveloperEnvironment) - [Bzr Cheat Sheet](Bzr) - [Bug Management](BugManagement) - [Packaging](Packaging) -- [Ubuntu Studio Package Maintenance](Packaging/UploadingPackages) -- [Uploading Packages (to the archive)](Packaging/UploadingPackages) - [Backports](Backports) - [Stable Release Updates (SRU)](StableReleaseUpdates) - [Seed Management](PackageSelectionDevelopment) - [Uploading to PPA](Packaging/UploadingPackages) - [Applying Patches](PatchingSourcePackages) - [Deb Diff](DebDiff) - [Setup Local ISO Build Server](SetupLocalIsoBuildServer) - [All About ISOs](AllAboutISOs) - [Kernel Maintenance](KernelMaintenance) - [Ubiquity - the live installer](Ubiquity) **[Developer Tutorials](DeveloperTutorials)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](DeveloperTutorials/SimpleBugFixExample) **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Video](Workflows/Video) - [Graphics](Workflows/Graphics) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) **[Workflow Categories](WorkflowCategories)** **[Freedesktop Categories](FreedesktopCategories)** **[Deb Tags](Debtags)** **[Ubuntu Studio Packages](UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](LaunchpadProjects)** **Reference** - [Terminology](Terminology)
 
 # Freedesktop Categories
@@ -43,9 +35,6 @@ The following tables show the Freedesktop Categories that fit with the Ubuntu St
 In the freedesktop category standard, it is stated that any desktop file with the category Audio must also include the category [AudioVideo](https://wiki.ubuntu.com/AudioVideo).
 
 Some of these are duplicates of what exist in the Video category. What separates them should be that something that is strictly Audio should also have the [AudioVideo](https://wiki.ubuntu.com/AudioVideo) category, but not have the Video category, and vice versa.
-
-| Additional Category | Description | Subcategory to |
-| --- | --- | --- |
 | Midi | An app related to MIDI | AudioVideo ;Audio |
 | Mixer | Just a mixer | AudioVideo ;Audio |
 | Sequencer | A sequencer | AudioVideo ;Audio |
@@ -138,9 +127,6 @@ Software Effects (usually plugins)
 [AudioVideo](https://wiki.ubuntu.com/AudioVideo);Audio
 
 ## Graphics Category
-
-| Additional Category | Description | Subcategory to |
-| --- | --- | --- |
 | 2DGraphics | 2D based graphical application | Graphics |
 | VectorGraphics | Application for viewing, creating, or processing vector graphics | Graphics;2DGraphics |
 | RasterGraphics | Application for viewing, creating, or processing raster (bitmap) graphics | Graphics;2DGraphics |
@@ -223,9 +209,6 @@ Graphics (or Office)
 In the freedesktop category standard, it is stated that any desktop file with the category Video must also include the category [AudioVideo](https://wiki.ubuntu.com/AudioVideo).
 
 Some of these are duplicates of what exist in the Audio category. What separates them should be that something that is strictly Video should have the [AudioVideo](https://wiki.ubuntu.com/AudioVideo) category, but not have the Audio category, and vice versa.
-
-| Additional Category | Description | Subcategory to |
-| --- | --- | --- |
 | TV | A TV application | AudioVideo ;Video |
 | AudioVideoEditing | Application to edit audio/video files | Audio or Video or AudioVideo |
 | Player | Application to play audio/video files | Audio or Video or AudioVideo |
@@ -278,9 +261,6 @@ Any form of video related utility
 ## Categories that do not fit the standard
 
 Categories below are categories that Ubuntu Studio feels are misplaced.
-
-| Additional Category | Description | Subcategory to | Information |
-| --- | --- | --- | --- |
 | DiscBurning | Application to burn a disc | AudioVideo | Not a multimedia type of application at all, but a utility. |
 
 **Additional Category**
@@ -302,9 +282,6 @@ Not a multimedia type of application at all, but a utility.
 ## Categories that are not reserved by Freedesktop
 
 These categories do not exist in the list of standard Freedesktop categories, but could be used by Ubuntu Studio as a category extension (with an "X-" prefix):
-
-| Audio | X- AudioEditing |
-| --- | --- |
 | Audio | X- AudioUtility |
 | Audio | X-DAW |
 | Audio | X- AudioProcessing |

@@ -13,9 +13,6 @@ At this time we will only be focusing on backporting to Ubuntu Studio 16.04 (LTS
 Status Use the following indicators for the status column: **not started** - indicates that the backport process has not started **started** - indicated that someone has started backporting, helps prevent duplication of effort **ready to test** - indicates it has been built for Trusty/Xenial, moved to the PPA, and is ready for testing **tested#1** - indicates that one person has tested the package **tested#2** - indicates that two persons have tested the package **ready** - indicates that a bug has been filed and is awaiting backporting
 
 ## Backports to Xenial
-
-| All Possible Backports to Xenial 16.04 |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Package | Original Xenial Version | Backported Version | Potential Version Yakkety | Responsible | Status | Bug # | Comments |
 | Ardour | 1:4.6~dfsg-1 |  | 1:4.7~dfsg-1 | rosco2 | ready | 1584930 |  |
 | Blender | 2.76.b+dfsg0-3build1 |  | 2.77.a+dfsg0-2 |  |  |  |  |
@@ -113,9 +110,6 @@ same
 same
 
 ## Backports to Trusty
-
-| All Possible Backports to Trusty 16.04 |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Package | Original Trusty Version | Backported Version | Potential Xenial/Yakkety Version | Responsible | Status | Bug # | Comments |
 | Ardour | 1:2.8.16+git20131003-1 |  | 1:4.7~dfsg-1 | rosco2 | ready | 1584930 |  |
 | Blender | 2.69-4ubuntu2 |  | 2.77.a+dfsg0-2 |  |  |  |  |

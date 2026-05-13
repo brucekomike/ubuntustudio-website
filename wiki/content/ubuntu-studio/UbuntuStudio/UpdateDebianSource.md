@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/UpdateDebianSource
 
 ## [UpdateDebianSource](UpdateDebianSource)
-
-| Under Development |
-| --- |
-
 Under Development
 
 If you want to try the latest git for an existing Ubuntu package, and upload it to PPA, here is what you can do. First, depending on the Ubuntu release you are aiming for, there may be dependency issues. So, if you have that, you may need to build the dependencies first. Needless to say, with some packages, this can become a complicated issue. If you work from the latest, or development release of Ubuntu, chances are greater that you won't run into this problem. Make sure the source you are going to use is not lacking dependencies on your target system. If you're only interested in a very specific upstream addition to the package, it is wiser to create a patch for it instead.
@@ -62,11 +58,7 @@ Make sure it looks something like this, and specifically that you replace UNRELE
 ```
 pulseaudio (1:3.0-0ubuntu5) raring; urgency=low
 
-
-
   * Uploading latest git source to my PPA (this is just for describing the change)
-
-
 
  -- Kaj Ailomaa <zequence@mousike.me>  Thu, 21 Feb 2013 15:39:00 +0100
 ```

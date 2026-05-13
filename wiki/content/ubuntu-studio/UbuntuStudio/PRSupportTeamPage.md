@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- PR & Support Sidebar -- ( edit ) Team Pages - Public Relations Team Page - IRC Ubuntu Studio OPS Page Public Relations Documentation |
-| --- |
-
 ** -- [PR & Support](PublicRelationsDocumentation) Sidebar -- ([edit](Navigation/PRSideBar))** **Team Pages** - [Public Relations Team Page](PRSupportTeamPage) - [IRC Ubuntu Studio OPS Page](IRCUbuntuStudioOpsPage) **[Public Relations Documentation](PublicRelationsDocumentation)**
 
 ---
@@ -37,9 +29,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeamPage
 [CategoryCleanup](https://wiki.ubuntu.com/CategoryCleanup) [CategoryCleanup](https://wiki.ubuntu.com/CategoryCleanup)
 
 # Ubuntu Studio PR and Support Team Page
-
-| Task Description | Makes announcements on social channels and mail lists. Also handles support and has experience in common user problems. Forwards possible bugs. |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-public-relations |
 | Team Wiki | PR/Support team Page |
 | Blueprint | PR Blueprint |
@@ -74,9 +63,6 @@ Makes announcements on social channels and mail lists. Also handles support and 
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | cfhowlett | japan | cfhowlett |  | Team-Member |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 | Ttoine | France | ttoine |  | currently unavailable |

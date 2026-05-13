@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February19
 
 ## [2012February19](2012February19)
-
-| Ubuntu Studio Meetings Schedule | Old Meeting Logs |
-| --- | --- |
-
 [Ubuntu Studio Meetings Schedule](index)
 
 [Old Meeting Logs](Minutes)
@@ -16,10 +12,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012February19
 **When:** Sunday, 2012 February 19th - 17:00 UTC **To view the meeting date/time in your time zone, **[click here](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Ubuntu+Studio+Contributor+Meeting&iso=20120219T17).
 
 **Where:** irc.freenode.net #ubuntu-meeting
-
-| Contents Agenda for Meeting Call Meeting to Order Old Business Previous Action Items LTS proposal Blueprints statuses Alpha-2 feedback Seeds analysis Any Other Business Next Meeting Time/Location Next Meeting Chair Action Items and Logs Action Items Log and minutes |
-| --- |
-
 Contents
 
 1. [Agenda for Meeting](2012February19#Agenda_for_Meeting) [Call Meeting to Order](2012February19#Call_Meeting_to_Order) [Old Business](2012February19#Old_Business) [Previous Action Items](2012February19#Previous_Action_Items) [LTS proposal](2012February19#LTS_proposal) [Blueprints statuses](2012February19#Blueprints_statuses) [Alpha-2 feedback](2012February19#Alpha-2_feedback) [Seeds analysis](2012February19#Seeds_analysis) [Any Other Business](2012February19#Any_Other_Business) [Next Meeting Time/Location](2012February19#Next_Meeting_Time.2FLocation) [Next Meeting Chair](2012February19#Next_Meeting_Chair)

@@ -5,10 +5,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/DIYConcept
 ## [DIYConcept](index)
 
 This page reflects the current work in progress Ubuntu Studio 8.04 artwork. If you're a user who would like to post your art please do so in our [User Art](../UserContributed) section. This page is for official 8.04 proposals. Please don't edit until I remove this message.
-
-| Contents Concept Examples General Rules/Guidelines Look N' Feel Logo Color Palette Theme Elements MISC Getting Involved & Contacts Contacts |
-| --- |
-
 Contents
 
 1. [Concept](index#Concept) [Examples](index#Examples)
@@ -38,9 +34,6 @@ This page and guidelines will continue to evolve over the next few weeks or so a
 We want to create a D.I.Y. punk/indie/metal/whatever feel with Ubuntu Studio-Hardy. That kinda distressed, show flyer look. Attached are examples of flyers and a show pic to try to convey to you the feeling/emotion that goes into this scene. Anyone "in the scene" I feel will get this concept right off the bat.
 
 ## Examples
-
-|  |  |  | |Here's 2 videos. Jet's " Rip it Up " and Hatebreed's " I Will Be Heard " These are good reference. |
-| --- | --- | --- | --- |
 | BIG | BIG | BIG | WARNING Flash Video. |
 
 ![470649857_l.gif](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/DIYConcept/470649857_l.gif)
@@ -58,10 +51,6 @@ We want to create a D.I.Y. punk/indie/metal/whatever feel with Ubuntu Studio-Har
 [BIG](http://www.dimmak.com/images/Steve-Back.gif)
 
 ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png) WARNING Flash Video. ![Warning /!\](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/moin_static/moin_static198/light/img/icon_eek.png/icon_eek.png)
-
-| BIG | BIG | BIG |
-| --- | --- | --- |
-
 ![l_0854da687828e4028b04d539b88aa34c.jpg](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/DIYConcept/l_0854da687828e4028b04d539b88aa34c.jpg)
 
 ![flyer.jpg](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/DIYConcept/flyer.jpg)

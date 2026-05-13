@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/Staging/Navigation/Menu
 
 ## [Menu](Menu)
-
-| Home | Testing | Documentation | PR & Support | Artwork | Developer/Contributor | Planning |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](../..)**
 
 **[Testing](../../TestingDocumentation)**

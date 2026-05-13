@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/TaskWebRevamp/old
 
 ## [old](old)
-
-| Contents Audience James : Independent Musician Why he's the (main) target audience Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him. Offer encouraging and easy to get support Possible Website Themes Shiny Punk DIY Stylized Comic Book Website Mock-ups Audio Horizons v2 Impact Rough Site Map Original vs Planned Site: Original Documentation Central Ideas/Concepts Technicals/Implementation Other Points Miscellaneous |
-| --- |
-
 Contents
 
 1. [Audience](old#Audience) [James : Independent Musician](old#James_:_Independent_Musician) [Why he's the (main) target audience](old#Why_he.27s_the_.28main.29_target_audience) [Tell him what he can do with Ubuntu Studio, in language that is relevant and meaningful to him.](old#Tell_him_what_he_can_do_with_Ubuntu_Studio.2C_in_language_that_is_relevant_and_meaningful_to_him.) [Offer encouraging and easy to get support](old#Offer_encouraging_and_easy_to_get_support)
@@ -33,10 +29,6 @@ Contents
 2. [Technicals/Implementation](old#Technicals.2FImplementation)
 3. [Other Points](old#Other_Points)
 4. [Miscellaneous](old#Miscellaneous)
-
-| Back to Natty Narwhal Release Planning |
-| --- |
-
 [Back to Natty Narwhal Release Planning](../ReleasePlanning)
 
 This is a scratch page for ideas and organization surrounding the revamp of www.ubuntustudio.org

@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/ReleaseTeam
 
 ## [ReleaseTeam](ReleaseTeam)
-
-| Task Description | Maintains and executes the release in a specific wiki page |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-release |
 | Team Wiki | Release Team Page |
 | Blueprint | N/A |
@@ -40,9 +37,6 @@ N/A
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | Kaj Ailomaa | Sweden | zequence |  | Team Member |
 | Ross Gammon | Denmark | Rosco2 |  | Testing Lead |
 

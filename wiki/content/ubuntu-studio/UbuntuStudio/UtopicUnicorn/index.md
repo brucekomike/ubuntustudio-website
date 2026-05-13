@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/UtopicUnicorn
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -32,8 +28,4 @@ The Ubuntu Studio 14.10 Utopic Unicorn release.
 [UbuntuStudio/UtopicUnicorn/Blueprints](Blueprints) [UbuntuStudio/UtopicUnicorn/ReleaseSchedule](UtopicUnicorn/ReleaseSchedule)
 
 # Child Pages for UbuntuStudio/UtopicUnicorn
-
-| /Blueprints /WhiteBoardSpecs |
-| --- |
-
 UbuntuStudio/UtopicUnicorn (last edited 2014-05-10 16:42:44 by h-4-180)

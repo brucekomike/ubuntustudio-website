@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/RockTheme
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/RockTheme
 **[Documentation](../Documentation)**
 
 **[Organization](../Organization)**
-
-| Artwork | / | RockTheme |
-| --- | --- | --- |
-
 **[Artwork](index)**
 
 **/**

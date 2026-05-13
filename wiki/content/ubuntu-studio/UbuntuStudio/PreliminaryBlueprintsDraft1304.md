@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/PreliminaryBlueprintsDraft1304
 
 ## [PreliminaryBlueprintsDraft1304](PreliminaryBlueprintsDraft1304)
-
-| Contents Resources Blueprints Draft for 13.04 R-Documentation User documentation Developer Documentation (full manual on all things related to Ubuntu Studio development) testing documentation Public Relations R-Workflows and Metas Audio Video R-PerformanceTesting (used to be "performance") R-ISO R-Artwork R-SoftwareDevelopment StartupSystemCheckScript UbuntuStudioControls WorkflowApplication R-Misc |
-| --- |
-
 Contents
 
 1. [Resources](PreliminaryBlueprintsDraft1304#Resources)
@@ -35,10 +31,6 @@ Contents
 1. [StartupSystemCheckScript](PreliminaryBlueprintsDraft1304#StartupSystemCheckScript)
 2. [UbuntuStudioControls](PreliminaryBlueprintsDraft1304#UbuntuStudioControls)
 3. [WorkflowApplication](PreliminaryBlueprintsDraft1304#WorkflowApplication)
-
-| DO NOT EDIT - Go here to see the blueprints: UbuntuStudio/RaringBlueprintsCategories |
-| --- |
-
 DO NOT EDIT - Go here to see the blueprints: [UbuntuStudio/RaringBlueprintsCategories](RaringBlueprintsCategories)
 
 Assembling blueprints here for the 13.04 cycle.

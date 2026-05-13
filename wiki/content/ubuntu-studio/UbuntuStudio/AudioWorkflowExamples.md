@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/AudioWorkflowExamples
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/AudioWorkflowExamples
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Workflow Side Bar -- ( edit ) Workflows - Audio - Graphics - Video - Photography - Publishing Package List Saucy (with categorization) Workflow Categories Freedesktop Categories |
-| --- |
-
 **-- Workflow Side Bar -- ([edit](Navigation/WorkflowSideBar))** **[Workflows](Workflows)** - [Audio](Workflows/Audio) - [Graphics](Workflows/Graphics) - [Video](Workflows/Video) - [Photography](Workflows/Photography) - [Publishing](Workflows/Publishing) [Package List Saucy](PackageListSaucy) (with categorization) [Workflow Categories](WorkflowCategories) [Freedesktop Categories](FreedesktopCategories)
 
 # Audio Tasks

@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/PackageList
 
 ## [PackageList](index)
-
-| OUTDATED |
-| --- |
-
 OUTDATED
 
 This page is a basic overview of what makes up Ubuntu Studio.

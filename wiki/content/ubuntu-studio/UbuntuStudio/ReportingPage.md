@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/ReportingPage
 
 ## [ReportingPage](ReportingPage)
-
-| Contents Hardy Development Cycle November '07 December '07 January '08 February '08 March '08 April '08 Intrepid Development Cycle May '08 June '08 July '08 August '08 September '08 October '08 |
-| --- |
-
 Contents
 
 1. [Hardy Development Cycle](ReportingPage#Hardy_Development_Cycle) [November '07](ReportingPage#November_.2707) [December '07](ReportingPage#December_.2707) [January '08](ReportingPage#January_.2708) [February '08](ReportingPage#February_.2708) [March '08](ReportingPage#March_.2708) [April '08](ReportingPage#April_.2708)

@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExam
 [/UbuntuStudio](..)
 
 [UbuntuStudio/Community](../../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](..)**
 
 **[Testing](../Testing)**
@@ -26,10 +22,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/DeveloperTutorials/SimpleBugFixExam
 **[Documentation](../Documentation)**
 
 **[Organization](../Organization)**
-
-| -- Developer Side Bar -- ( Edit ) Team Pages - Bugs Team - Contributor Team - Core Team - Dev Team - Kernel Team - Release Team - Testing Team Ubuntu Studio Policy - Project Lead Vote UbuntuStudio/Packaging Needs Packaging Developer Documentation - Setup Dev Environment - Bzr Cheat Sheet - Bug Management - Packaging -- Ubuntu Studio Package Maintenance -- Uploading Packages (to the archive) - Backports - Stable Release Updates (SRU) - Seed Management - Uploading to PPA - Applying Patches - Deb Diff - Setup Local ISO Build Server - All About ISOs - Kernel Maintenance - Ubiquity - the live installer Developer Tutorials - Simple bug fix example using 'git', 'bzr' and 'edit-patch' Workflows - Audio - Video - Graphics - Photography - Publishing Workflow Categories Freedesktop Categories Deb Tags Ubuntu Studio Packages Ubuntu Studio Launchpad Projects Reference - Terminology |
-| --- |
-
 **-- [Developer](../Development) Side Bar -- ([Edit](../Navigation/DevSideBar))** **Team Pages** - [Bugs Team](../UbuntuStudioBugsTeamPage) - [Contributor Team](../ContributorTeamPage) - [Core Team](../CoreTeamPage) - [Dev Team](../DevTeamPage) - [Kernel Team](../KernelTeamPage) - [Release Team](../ReleaseTeamPage) - [Testing Team](../TestingTeamPage) **[Ubuntu Studio Policy](../Policy)** - [Project Lead Vote](../ProjectLeadVote) **[UbuntuStudio/Packaging](../Packaging)** [Needs Packaging](../NeedsPackaging) **[Developer Documentation](../DeveloperDocumentation)** - [Setup Dev Environment](../SetupDeveloperEnvironment) - [Bzr Cheat Sheet](../Bzr) - [Bug Management](../BugManagement) - [Packaging](../Packaging) -- [Ubuntu Studio Package Maintenance](../Packaging/UploadingPackages) -- [Uploading Packages (to the archive)](../Packaging/UploadingPackages) - [Backports](../Backports) - [Stable Release Updates (SRU)](../StableReleaseUpdates) - [Seed Management](../PackageSelectionDevelopment) - [Uploading to PPA](../Packaging/UploadingPackages) - [Applying Patches](../PatchingSourcePackages) - [Deb Diff](../DebDiff) - [Setup Local ISO Build Server](../SetupLocalIsoBuildServer) - [All About ISOs](../AllAboutISOs) - [Kernel Maintenance](../KernelMaintenance) - [Ubiquity - the live installer](../Ubiquity) **[Developer Tutorials](index)** - [Simple bug fix example using 'git', 'bzr' and 'edit-patch'](SimpleBugFixExample) **[Workflows](../Workflows)** - [Audio](../Workflows/Audio) - [Video](../Workflows/Video) - [Graphics](../Workflows/Graphics) - [Photography](../Workflows/Photography) - [Publishing](../Workflows/Publishing) **[Workflow Categories](../WorkflowCategories)** **[Freedesktop Categories](../FreedesktopCategories)** **[Deb Tags](../Debtags)** **[Ubuntu Studio Packages](../UbuntuStudioPackages)** **[Ubuntu Studio Launchpad Projects](../LaunchpadProjects)** **Reference** - [Terminology](../Terminology)
 
 # Simple bug fix example using 'git', 'bzr' and 'edit-path'
@@ -116,15 +108,11 @@ Author: Mattia Rizzolo <mattia@mapreri.org>
 
 Date:   Wed Jun 3 03:02:50 2015 +0200
 
-
-
     debian/scribus{,-data}.install: install the .desktop file in /usr/share/applications in the scribus binary
 
     
 
     Closes: #795705
-
-
 
 diff --git a/debian/scribus-data.install b/debian/scribus-data.install
 
@@ -201,8 +189,6 @@ Ok, you're done making changes. Let's finish up the patch by closing edit-patch 
 
 ```
 scribus (1.4.5+dfsg1-1ubuntu1) wily; urgency=medium
-
-
 
   * debian/patches/missing-desktop-file-fix.patch: (LP: #1487031)
 ```

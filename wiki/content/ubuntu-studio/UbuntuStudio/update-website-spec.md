@@ -16,10 +16,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/update-website-spec
 **Contributors**: [ScottLavender](https://wiki.ubuntu.com/ScottLavender)
 
 **Packages affected**:
-
-| Contents Summary Rationale Use Cases Primary Secondary Scope Design Implementation Development Launchpad Branch Website Content Home Page News Blog Download Tutorials Support Contribute Feedback Feature Tour Outstanding Issues BoF agenda and discussion |
-| --- |
-
 Contents
 
 1. [Summary](update-website-spec#Summary)

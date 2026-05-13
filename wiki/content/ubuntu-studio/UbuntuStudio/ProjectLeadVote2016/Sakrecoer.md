@@ -5,9 +5,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/ProjectLeadVote2016/Sakrecoer
 ## [Sakrecoer](Sakrecoer)
 
 # Personal Info
-
-| Name: | Set Hallstrom |
-| --- | --- |
 | Launchpad Page: | https://launchpad.net/~sakrecoer |
 | Other links of interest: | http://set.hallstrom.ch http://sakrecoer.com |
 

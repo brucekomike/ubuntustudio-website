@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/WorkflowMenu
 
 ## [WorkflowMenu](WorkflowMenu)
-
-| Contents Audio /Jack (Pro Audio Control) /Midi Utilities /DAW (recording/mixing/mastering/sequencing) /Midi Sequencers/Trackers /Editing /Mastering /Mixers /Plugin Hosts /Instruments /Convert Graphics Video Photography Publishing |
-| --- |
-
 Contents
 
 1. [Audio](WorkflowMenu#Audio) [/Jack (Pro Audio Control)](WorkflowMenu#A.2FJack_.28Pro_Audio_Control.29) [/Midi Utilities](WorkflowMenu#A.2FMidi_Utilities) [/DAW (recording/mixing/mastering/sequencing)](WorkflowMenu#A.2FDAW_.28recording.2Fmixing.2Fmastering.2Fsequencing.29) [/Midi Sequencers/Trackers](WorkflowMenu#A.2FMidi_Sequencers.2FTrackers) [/Editing](WorkflowMenu#A.2FEditing) [/Mastering](WorkflowMenu#A.2FMastering) [/Mixers](WorkflowMenu#A.2FMixers) [/Plugin Hosts](WorkflowMenu#A.2FPlugin_Hosts) [/Instruments](WorkflowMenu#A.2FInstruments) [/Convert](WorkflowMenu#A.2FConvert)

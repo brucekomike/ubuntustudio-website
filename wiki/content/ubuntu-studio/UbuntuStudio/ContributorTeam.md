@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/ContributorTeam
 
 ## [ContributorTeam](ContributorTeam)
-
-| Task Description | moderated team for those looking to become Ubuntu Studio developers. |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-contributors |
 | Team Wiki | Contributor Team Page |
 | Blueprint | See the Blueprints Overview |
@@ -40,9 +37,6 @@ See the [Blueprints Overview](Blueprints)
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment |  |
-| --- | --- | --- | --- | --- |
 | Maik Adamietz | Belgium | D arkEra |  |  |
 | Luke Kuhn | USA |  |  |  |
 | Jimmy Sjölund | Sweden | cub |  |  |

@@ -5,10 +5,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/OfficialOneiric
 ## [OfficialOneiric](OfficialOneiric)
 
 This page reflects the current developmental Ubuntu Studio 11.10 artwork. If you're a user who would like to post your art please do so in our [User Art](UserContributed) section.
-
-| Please note that this release sees the project switching to XFCE so things here will be a little different. |
-| --- |
-
 **Please note that this release sees the project switching to XFCE so things here will be a little different.**
 
 # Concept

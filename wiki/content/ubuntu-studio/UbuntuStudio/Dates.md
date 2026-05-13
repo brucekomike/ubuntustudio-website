@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Dates
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -28,9 +24,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Dates
 **[Organization](Organization)**
 
 # Color Codes
-
-| Color Code | Description |
-| --- | --- |
 |  | Final Release |
 |  | Milestone Release (Beta, Alpha) |
 |  | Freeze |
@@ -52,9 +45,6 @@ UDS
 Meeting
 
 # Dates
-
-| code | date | description |
-| --- | --- | --- |
 |  | 2013-10-17 | Final Release of 13.10 |
 
 **code**

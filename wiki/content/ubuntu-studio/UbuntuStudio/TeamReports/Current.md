@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/TeamReports/Current
 
 ## [Current](Current)
-
-| Contents Release Development Website Update ubuntustudio-controls Backports Bug Reports Opened Bugs Updated Bugs Marked as Incomplete Bugs Closed Bugs Kernel Development |
-| --- |
-
 Contents
 
 1. [Release Development](Current#UbuntuStudio.2FTeamReports.2F11.2FJune.Release_Development)

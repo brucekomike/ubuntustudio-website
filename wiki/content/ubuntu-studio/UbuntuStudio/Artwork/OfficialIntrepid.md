@@ -23,10 +23,6 @@ There is a scratch page for Intrepid artwork ideas [HERE](IntrepidBrainstorm)
 ## Icons
 
 ## Colour Palette
-
-| Please do not edit these pages as they reflect solid info about the project. If you have questions please look HERE to contact us. |
-| --- |
-
 **Please do not edit these pages as they reflect solid info about the project. If you have questions please look [HERE](http://ubuntustudio.org/support) to contact us.**
 
 UbuntuStudio/Artwork/OfficialIntrepid (last edited 2008-08-06 16:14:14 by localhost)

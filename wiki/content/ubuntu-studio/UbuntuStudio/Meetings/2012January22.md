@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22
 
 ## [2012January22](2012January22)
-
-| Ubuntu Studio Meetings Schedule | Old Meeting Logs |
-| --- | --- |
-
 [Ubuntu Studio Meetings Schedule](index)
 
 [Old Meeting Logs](Minutes)
@@ -16,10 +12,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2012January22
 **When:** Sunday, 2012 January 22nd - 17:00 UTC **To view the meeting date/time in your time zone, **[click here](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Ubuntu+Studio+Contributor+Meeting&iso=20120122T17).
 
 **Where:** irc.freenode.net #ubuntu-meeting
-
-| Contents Agenda for Meeting Call Meeting to Order Old Business Previous Action Items LTS proposal Blueprints statuses mudita24 version debate Any Other Business Next Meeting Time/Location Next Meeting Chair Action Items and Logs Action Items Log and minutes |
-| --- |
-
 Contents
 
 1. [Agenda for Meeting](2012January22#Agenda_for_Meeting) [Call Meeting to Order](2012January22#Call_Meeting_to_Order) [Old Business](2012January22#Old_Business) [Previous Action Items](2012January22#Previous_Action_Items) [LTS proposal](2012January22#LTS_proposal) [Blueprints statuses](2012January22#Blueprints_statuses) [mudita24 version debate](2012January22#mudita24_version_debate) [Any Other Business](2012January22#Any_Other_Business) [Next Meeting Time/Location](2012January22#Next_Meeting_Time.2FLocation) [Next Meeting Chair](2012January22#Next_Meeting_Chair)

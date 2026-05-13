@@ -39,10 +39,6 @@ COMING SOON.
 ## Colour Palette
 
 ![colour_palette.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/UbuntuStudio/Artwork/OfficialGutsy/colour_palette.png)
-
-| Please do not edit this page as it reflects solid info about the project. If you have questions please look HERE to contact us. |
-| --- |
-
 **Please do not edit this page as it reflects solid info about the project. If you have questions please look [HERE](http://ubuntustudio.org/support) to contact us.**
 
 UbuntuStudio/Artwork/OfficialGutsy (last edited 2008-08-06 16:15:14 by localhost)

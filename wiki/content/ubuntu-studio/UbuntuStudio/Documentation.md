@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Documentation
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -26,17 +22,9 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Documentation
 **[Documentation](Documentation)**
 
 **[Organization](Organization)**
-
-| -- Documentation Sidebar -- ( edit ) Team Pages - Documentation Team Page Documentation - Video Format - For Video-tutorials - Youtube Specifics - Archive.org Specifics |
-| --- |
-
 ** -- [Documentation](Documentation) Sidebar -- ([edit](Navigation/DocSideBar))** **Team Pages** - [Documentation Team Page](DocumentationTeamPage) **[Documentation](Documentation)** - [Video Format](VideoFormat) - For Video-tutorials - [Youtube Specifics](YoutubeVideoFormat) - [Archive.org Specifics](ArchiveVideoFormat)
 
 # Ubuntu Studio Documentation
-
-| This page has documentation about how to do Ubuntu Studio documentation. If you instead want to read user documentation , please visit help.ubuntu.com/community/UbuntuStudio . Developer documentation (of which this page is a part of), is found at wiki.ubuntu.com/UbuntuStudio |
-| --- |
-
 **This page has documentation about how to do Ubuntu Studio documentation.** If you instead want to read **user documentation**, please visit [help.ubuntu.com/community/UbuntuStudio](../../../../help). **Developer documentation** (of which this page is a part of), is found at [wiki.ubuntu.com/UbuntuStudio](index)
 
 # Documentation Checklist
@@ -44,9 +32,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Documentation
 If you want to make sure our documentation is up to date, just browse through everything below..
 
 ## ubuntustudio.org
-
-| Page | Maintain-period | Description |
-| --- | --- | --- |
 | Main Page | 6 months | The slideshow, or otherwise known as front tabs, give an introduction to the Ubuntu Studio workflows. Make sure both the front tab and the side panel are up to date, at least once before each release. |
 | About | 2 years (LTS) | A page that explains what Ubuntu Studio is about. Improve if needed for each LTS release. |
 | Feature Tour | 2 years (LTS) | The feature tour should be relevant for the last LTS release at least. |

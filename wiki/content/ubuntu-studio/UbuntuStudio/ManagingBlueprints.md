@@ -9,10 +9,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/ManagingBlueprints
 [/UbuntuStudio](index)
 
 [UbuntuStudio/Community](../../../../help/content/community/UbuntuStudio--Community)
-
-| Home | Testing | PR & Support | Artwork | Packaging/Development | Documentation | Organization |
-| --- | --- | --- | --- | --- | --- | --- |
-
 **[Home](index)**
 
 **[Testing](Testing)**
@@ -70,9 +66,6 @@ When starting to work on a workitem, change the assignee to your own LP name, an
 When the workitem is done, change the implementation to DONE.
 
 Possible implementations are:
-
-| state | possible aliases | description* |
-| --- | --- | --- |
 | TODO | empty string, INPROGRESS | Item is expected to be done by the end of the cycle |
 | INPROGRESS |  | By default, this is an alias for TODO, but teams can choose to track it separately. |
 | BLOCKED |  | Item is still expected to be done by end of cycle, but cannot move forward due to issues outside assignees control |
@@ -171,9 +164,6 @@ Structure for the [ubuntustudio project blueprint](https://blueprints.launchpad.
 **website-social-?** (subtopic)
 
 Each subtopic will have dependencies to blueprints from other Ubuntu Studio projects. Next is a table that shows the structure of those dependencies:
-
-| Subtopic name | Dependecy LP Projects |
-| --- | --- |
 | core-? | linux-lowlatency , linux-rt , ubuntustudio-meta , ubuntustudio-default-settings , ubuntustudio-live |
 | applications-? | ubuntustudio-controls , ubuntustudio-menu , ubuntustudio-installer |
 | testing-? | ubuntustudio-testing |

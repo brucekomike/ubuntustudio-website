@@ -5,9 +5,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Artwork/UbuntuStudioIconSet
 ## [UbuntuStudioIconSet](UbuntuStudioIconSet)
 
 This set follows [FreeDesktop](https://wiki.ubuntu.com/FreeDesktop) naming specification. [LINK](http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html)
-
-| Status Key |  |
-| --- | --- |
 | Final | Done. No changes needed |
 | Fix Me | Is mostly good. Just needs tweake |
 | Redo | Don't like the look. Do it again |
@@ -34,9 +31,6 @@ No icon currently created.
 Text that appears next to the Key will go here.
 
 ---
-
-| Actions (actions) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Icon Name | Description | 16px | 22px | 24px | 32px | Scalable | Status | Notes |
 | address-book-new | The icon used for the action to create a new address book. |  |  |  |  | address-book-new.svg | Test | Test |
 | application-exit | The icon used for exiting an application. Typically this is seen in the application's menus as File->Quit. | Test | Test | Test | Test | Test | Test | Test |
@@ -1918,9 +1912,6 @@ Test
 Test
 
 Test
-
-| Animations (animations) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | process-working | This is the standard spinner animation for web browsers and file managers to show that the location is loading. This image should be a multi-frame PNG with the frames as the size that the directory containing the image, is specified to be in. The first frame of the animation should be used for the resting state of the animation. | Test | Test |
 
@@ -1941,9 +1932,6 @@ This is the standard spinner animation for web browsers and file managers to sho
 Test
 
 Test
-
-| Applications (apps) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | accessories-calculator | The icon used for the desktop's calculator accessory program. | Test | Test |
 | accessories-character-map | The icon used for the desktop's international and extended text character accessory program. | Test | Test |
@@ -2117,9 +2105,6 @@ The icon used for the desktop's terminal emulation application.
 Test
 
 Test
-
-| Categories (categories) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | applications-accessories | The icon for the “Accessories” sub-menu of the Programs menu. | Test | Test |
 | applications-development | The icon for the “Programming” sub-menu of the Programs menu. | Test | Test |
@@ -2302,9 +2287,6 @@ The icon for the “Help” system category.
 Test
 
 Test
-
-| Devices (devices) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | audio-card | The icon used for the audio rendering device. | Test | Test |
 | audio-input-microphone | The icon used for the microphone audio input device. | Test | Test |
@@ -2514,9 +2496,6 @@ The icon used for the monitor that video gets displayed to.
 Test
 
 Test
-
-| Emblems (emblems) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | emblem-default | The icon used as an emblem to specify the default selection of a printer for example. | Test | Test |
 | emblem-documents | The icon used as an emblem for the directory where a user's documents are stored. | Test | Test |
@@ -2645,9 +2624,6 @@ The icon used as an emblem for files and directories that are inaccessible.
 Test
 
 Test
-
-| Emotes (emotes) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | face-angel | The icon used for the 0:-) emote. | Test | Test |
 | face-crying | The icon used for the :'( emote. | Test | Test |
@@ -2785,9 +2761,6 @@ The icon used for the ![Wink ;-)](https://raw.githubusercontent.com/UbuntuStudio
 Test
 
 Test
-
-| International (intl) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | flag-aa | The flag for the country with the ISO 3166 country code AA. All flags should use ISO 3166 two-letter country codes, in lowercase form, as the specifier for the country. | Test | Test |
 
@@ -2808,9 +2781,6 @@ The flag for the country with the ISO 3166 country code AA. All flags should use
 Test
 
 Test
-
-| Mime Types (mimetypes) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | application-x-executable | The icon used for executable file types. | Test | Test |
 | audio-x-generic | The icon used for generic audio file types. | Test | Test |
@@ -2957,9 +2927,6 @@ The icon used for generic spreadsheet file types.
 Test
 
 Test
-
-| Places (places) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | folder | The standard folder icon used to represent directories on local filesystems, mail folders, and other hierarchical groups. | folder.svg | Test |
 | folder-remote | The icon used for normal directories on a remote filesystem. | Test | Test |
@@ -3043,9 +3010,6 @@ The icon for the user's “Trash” place in the desktop's file manager.
 Test
 
 Test
-
-| Status (status) |  |  |  |
-| --- | --- | --- | --- |
 | Icon Name | Description | Current Icon | New Icon |
 | appointment-missed | The icon used when an appointment was missed. | Test | Test |
 | appointment-soon | The icon used when an appointment will occur soon. | Test | Test |

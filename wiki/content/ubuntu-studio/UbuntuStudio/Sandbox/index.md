@@ -3,24 +3,9 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/Sandbox
 
 ## [Sandbox](index)
-
-| Ubuntu Studio Users Documentation |
-| --- |
-
 # Ubuntu Studio Users Documentation
-
-| W elcome to the Ubuntu Studio user documentation on help.ubuntu.com! The documentation in these wiki pages are intended to help users learn about and use Ubuntu Studio. From basic information to detailed tutorials, this is the place for new users to experienced users alike. We also realize that some Ubuntu Studio users are not familiar with Ubuntu as a generalized desktop distribution and include some helpful information on these topics as well. The sidebar below has several of these topics. If you are looking in information on Ubuntu Studio development or want to contribute, please our HowtohelpDevelopment wiki page! |
-| --- |
-
 Welcome to the Ubuntu Studio user documentation on help.ubuntu.com! The documentation in these wiki pages are intended to help users learn about and use Ubuntu Studio. From basic information to detailed tutorials, this is the place for new users to experienced users alike. We also realize that some Ubuntu Studio users are not familiar with Ubuntu as a generalized desktop distribution and include some helpful information on these topics as well. The sidebar below has several of these topics. If you are looking in information on Ubuntu Studio development or want to contribute, please our [HowtohelpDevelopment](https://wiki.ubuntu.com/HowtohelpDevelopment) wiki page!
-
-| Miscellaneous Panel FAQ Click on our FAQLink to see our FAQ including: List of applications How to install other applications What is U/S Why certain apps were chosen Non-A/V/G Want to understand how to rip CD's or other non-audio/video/graphical stuff? The regular stuff that everyone else does? See our HowDoI wiki page. Help with Development We would LOVE to have you help us with development. Not a "developer"? That's cool, because we still need you! Contributors are welcome also. See our HelpWithDevelopment page for how you can help! Introduction to Ubuntu Studio Want to know what Ubuntu Studio is? Don't know JACK? Can't tell the -lowlatency kernel from a -generic kernel with uname ? Learn more about FOSS and Ubuntu Studio by clicking on our LearnUbuntustudio link. Hardware Need to know about hardware? Want to know what is recommended? Or the minimum requirements? Confused about the differences between USB, PCI, and firewire audio interfaces? Then the HardwareLink is where you want to go. Installation Want to install Ubuntu Studio? We can help. Learn to install Ubuntu Studio from DVD for a full install or "upgrade" from a vanilla Ubuntu install HereLink . Optimization The default installation not enough for you? Want to squeeze more out of your system? Then check out our OptimizationLink page! Using Ubuntu Studio Want to learn how to use the applications in Ubuntu Studio? Then this is the link for you. Follow our work flows or spend time with a detailed YouTube tutorial video on our UsingUbuntuStudio page. Support Confused or need help? Click HereLink to see information about our IRC, mailing list, and carrier pigeon support channels. Trouble Shooting Like to figure stuff out yourself? We do too! See our TroubleShooting page to figure it out! | Miscellaneous Panel FAQ Click on our FAQLink to see our FAQ including: List of applications How to install other applications What is U/S Why certain apps were chosen Non-A/V/G Want to understand how to rip CD's or other non-audio/video/graphical stuff? The regular stuff that everyone else does? See our HowDoI wiki page. Help with Development We would LOVE to have you help us with development. Not a "developer"? That's cool, because we still need you! Contributors are welcome also. See our HelpWithDevelopment page for how you can help! |
-| --- | --- |
 | Miscellaneous Panel FAQ Click on our FAQLink to see our FAQ including: List of applications How to install other applications What is U/S Why certain apps were chosen Non-A/V/G Want to understand how to rip CD's or other non-audio/video/graphical stuff? The regular stuff that everyone else does? See our HowDoI wiki page. Help with Development We would LOVE to have you help us with development. Not a "developer"? That's cool, because we still need you! Contributors are welcome also. See our HelpWithDevelopment page for how you can help! |  |
-
-| Miscellaneous Panel FAQ Click on our FAQLink to see our FAQ including: List of applications How to install other applications What is U/S Why certain apps were chosen Non-A/V/G Want to understand how to rip CD's or other non-audio/video/graphical stuff? The regular stuff that everyone else does? See our HowDoI wiki page. Help with Development We would LOVE to have you help us with development. Not a "developer"? That's cool, because we still need you! Contributors are welcome also. See our HelpWithDevelopment page for how you can help! |
-| --- |
-
 ## Miscellaneous Panel
 
 ### FAQ
@@ -73,9 +58,6 @@ Click [HereLink](https://wiki.ubuntu.com/HereLink) to see information about our 
 See our [TroubleShooting](https://wiki.ubuntu.com/TroubleShooting) page to figure it out!
 
 # Headers Testing
-
-| Main Beginners Team Home Join Us Mission Statement Meetings */ |  | Main | Beginners Team Home Join Us Mission Statement Meetings */ | Projects FAQ for Beginners Bash Scripting Development Focus Groups |  | Projects | FAQ for Beginners Bash Scripting Development Focus Groups | Areas of the Community User Support Documentation Bugs Development |  | Areas of the Community | User Support Documentation Bugs Development | Other Beginners Team IRC Team Structure Team Reports */ |  | Other | Beginners Team IRC Team Structure Team Reports */ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Main |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Beginners Team Home Join Us Mission Statement Meetings */ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Projects |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -84,9 +66,6 @@ See our [TroubleShooting](https://wiki.ubuntu.com/TroubleShooting) page to figur
 | User Support Documentation Bugs Development |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Other |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Beginners Team IRC Team Structure Team Reports */ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  | Main |
-| --- | --- |
 | Beginners Team Home Join Us Mission Statement Meetings */ |  |
 
 ![penguin.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/BeginnersTeam/Includes/HeaderMain/penguin.png)
@@ -94,9 +73,6 @@ See our [TroubleShooting](https://wiki.ubuntu.com/TroubleShooting) page to figur
 **Main**
 
 [Beginners Team Home](https://wiki.ubuntu.com/BeginnersTeam) [Join Us](https://wiki.ubuntu.com/BeginnersTeam/Membership) [Mission Statement](https://wiki.ubuntu.com/BeginnersTeam/MissionStatement) [Meetings](https://wiki.ubuntu.com/BeginnersTeam/Meetings) */
-
-|  | Projects |
-| --- | --- |
 | FAQ for Beginners Bash Scripting Development Focus Groups |  |
 
 ![IconsPage/32pixel/package.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/IconsPage/32pixel/package.png)
@@ -104,9 +80,6 @@ See our [TroubleShooting](https://wiki.ubuntu.com/TroubleShooting) page to figur
 **Projects**
 
 [FAQ for Beginners](https://help.ubuntu.com/community/Beginners/FAQ) [Bash Scripting](https://help.ubuntu.com/community/Beginners/BashScripting) [Development](https://help.ubuntu.com/community/Beginners/Development) [Focus Groups](https://wiki.ubuntu.com/BeginnersTeam/FocusGroups)
-
-|  | Areas of the Community |
-| --- | --- |
 | User Support Documentation Bugs Development |  |
 
 ![fish.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/BeginnersTeam/Includes/HeaderGroups/fish.png)
@@ -114,9 +87,6 @@ See our [TroubleShooting](https://wiki.ubuntu.com/TroubleShooting) page to figur
 **Areas of the Community**
 
 [User Support](https://wiki.ubuntu.com/BeginnersTeam/FocusGroups/Support) [Documentation](https://wiki.ubuntu.com/BeginnersTeam/FocusGroups/Docs) [Bugs](https://wiki.ubuntu.com/BeginnersTeam/FocusGroups/Bugs) [Development](https://wiki.ubuntu.com/BeginnersTeam/FocusGroups/Development)
-
-|  | Other |
-| --- | --- |
 | Beginners Team IRC Team Structure Team Reports */ |  |
 
 ![engineering.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/BeginnersTeam/Includes/HeaderOther/engineering.png)
@@ -124,9 +94,6 @@ See our [TroubleShooting](https://wiki.ubuntu.com/TroubleShooting) page to figur
 **Other**
 
 [Beginners Team IRC](https://wiki.ubuntu.com/BeginnersTeam/IRC) [Team Structure](https://wiki.ubuntu.com/BeginnersTeam/Structure) [Team Reports](https://wiki.ubuntu.com/BeginnersTeam/TeamReports) */
-
-|  | Ubuntu Studio Header |  |  |
-| --- | --- | --- | --- |
 | Wiki Home | Meetings | Release Planning | Current Release Schedule |
 
 ![IconsPage/32pixel/32studiocof.png](https://raw.githubusercontent.com/UbuntuStudio-Official/ubuntustudio-website/main/wiki/content/_assets/wiki_ubuntu_com/IconsPage/32pixel/32studiocof.png)
@@ -159,10 +126,6 @@ Building an ISO image:
 - allows for system level configuration (e.g. user in the audio group)
 
 allows us to control what is *not* installed - good example is the use of gnome-network-admin in lieu of network manager (which was found to degrade recording performance) or the MeMenu
-
-| Contents Ubuntu Studio Users Documentation Miscellaneous Panel FAQ Non-A/V/G Help with Development Headers Testing ISO vs PPA Notes from IRC Logs Core Issues Website New Website Vision Introduction Requirements detrate offers Ubuntu Studio - Core Issues Project Goals Audience Why this Audience? Audience Requirements Mission Statement Video Editing Reviews Kino Benefits Limitations Conclusion Seeds Update Preparation Modifying Seeds Get Code Change Seeds Update Bzr Update ubuntustudio-meta Get Source Update /debian/control Modify update.cfg ./update Limit List Update ubuntustudio-menu package size testing file manager nautilus disc burner brasero k3b video editor kdenlive openshot blender summary |
-| --- |
-
 Contents
 
 1. [Ubuntu Studio Users Documentation](index#UbuntuStudio.2FSandbox.2FTitle.Ubuntu_Studio_Users_Documentation) [Miscellaneous Panel](index#UbuntuStudio.2FSandbox.2FSidebar.Miscellaneous_Panel) [FAQ](index#UbuntuStudio.2FSandbox.2FSidebar.FAQ) [Non-A/V/G](index#UbuntuStudio.2FSandbox.2FSidebar.Non-A.2FV.2FG) [Help with Development](index#UbuntuStudio.2FSandbox.2FSidebar.Help_with_Development)
@@ -1033,9 +996,6 @@ Do you want to continue [Y/n]?
 the small size is rather surprising.
 
 ## summary
-
-| Application Installation Comparison (on Xubuntu 12.04 daily installation) |  |  |  |
-| --- | --- | --- | --- |
 | Application Type | Application Name | # New Packages | Size of Install |
 | File Manager | nautilus | 16 | 14.0 MB |
 | Disc Burner | brasero | 10 | 7.7 MB |

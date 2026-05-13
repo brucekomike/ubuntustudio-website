@@ -3,10 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11
 
 ## [2011December11](2011December11)
-
-| Ubuntu Studio Meetings Schedule | Old Meeting Logs |
-| --- | --- |
-
 [Ubuntu Studio Meetings Schedule](index)
 
 [Old Meeting Logs](Minutes)
@@ -16,10 +12,6 @@ Source: https://wiki.ubuntu.com/UbuntuStudio/Meetings/2011December11
 **When:** Sunday, 2011 December 11th - 17:00 UTC **To view the meeting date/time in your time zone, **[click here](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Ubuntu+Studio+Contributor+Meeting&iso=20111211T17).
 
 **Where:** irc.freenode.net #ubuntu-meeting
-
-| Contents Agenda for Meeting Call Meeting to Order Old Business previous action items Blueprints situation Bugs Old bugs Old releases Precise New bugs Old releases Precise Any Other Business Next Meeting Time/Location Next Meeting Chair Action Items and Logs Action Items Log and minutes |
-| --- |
-
 Contents
 
 1. [Agenda for Meeting](2011December11#Agenda_for_Meeting) [Call Meeting to Order](2011December11#Call_Meeting_to_Order) [Old Business](2011December11#Old_Business) [previous action items](2011December11#previous_action_items) [Blueprints situation](2011December11#Blueprints_situation) [Bugs](2011December11#Bugs) [Old bugs](2011December11#Old_bugs) [Old releases](2011December11#Old_releases) [Precise](2011December11#Precise) [New bugs](2011December11#New_bugs) [Old releases](2011December11#Old_releases-1) [Precise](2011December11#Precise-1) [Any Other Business](2011December11#Any_Other_Business) [Next Meeting Time/Location](2011December11#Next_Meeting_Time.2FLocation) [Next Meeting Chair](2011December11#Next_Meeting_Chair)

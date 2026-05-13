@@ -3,9 +3,6 @@
 Source: https://wiki.ubuntu.com/UbuntuStudio/PRSupportTeam
 
 ## [PRSupportTeam](PRSupportTeam)
-
-| Task Description | Makes announcements on social channels and mail lists. Also handles support and has experience in common user problems. Forwards possible bugs. |
-| --- | --- |
 | Launchpad Team | ~ubuntustudio-public-relations |
 | Team Wiki | PR/Support team Page |
 | Blueprint | PR Blueprint |
@@ -40,9 +37,6 @@ Makes announcements on social channels and mail lists. Also handles support and 
 **Schedules**
 
 [UbuntuStudio/DevelopmentReleaseSchedule](DevelopmentReleaseSchedule)
-
-| Name | Location | IRC Nick | Time Commitment | Title |
-| --- | --- | --- | --- | --- |
 | cfhowlett | japan | cfhowlett |  | Team-Member |
 | Set Hallstrom | Sweden | sakrecoer | April 2018 | Project Lead |
 | Ttoine | France | ttoine |  | currently unavailable |
