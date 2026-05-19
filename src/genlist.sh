@@ -40,7 +40,7 @@ function gen_list(){
         title=$(grep -m 1 "^# " "$file")
         title=${title#\# }
         indent_level=$(indent_for_file "$file" "$1")
-        printf '%*s- [%s](%s)\n' $((indent_level * 2)) '' "$title" "$file"
+        printf '%*s- [%s](%s)\n' $((indent_level * 4)) '' "$title" "$file"
     done
 }
 
