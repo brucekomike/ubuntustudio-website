@@ -37,7 +37,7 @@ function gen_list(){
         sort_key="${file%/index.md}/0000.md"
         printf '%s\t%s\n' "$sort_key" "$file"
     done | sort -f | cut -f2- | while IFS= read -r file; do
-        title=$(head -n 1 "$file")
+        title=$(grep -m 1 "^# " "$file")
         title=${title#\# }
         indent_level=$(indent_for_file "$file" "$1")
         printf '%*s- [%s](%s)\n' $((indent_level * 2)) '' "$title" "$file"
