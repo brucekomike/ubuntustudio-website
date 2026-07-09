@@ -12,6 +12,8 @@ If you came here from chat after waiting for an answer, [click here](content/com
 
 # Support
 
+[Ubuntu Studio setup guides](content/setups/index)
+
 [Pro Audio Intro](content/handbook/UbuntuStudio--ProAudioIntro) - Introduction to audio on Ubuntu Studio
 
 [Ubuntu Studio Audio Handbook](content/handbook/UbuntuStudio--AudioHandbook) - Handbook for audio and music production on Ubuntu Studio
