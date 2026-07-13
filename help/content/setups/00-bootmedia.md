@@ -2,10 +2,13 @@
 ## Before creating the boot media
 - Download the UbuntuStudio iso image at [ubuntustudio.org](https://ubuntustudio.org/)
 ## USB stick (single boot)
-In this guide rpi-imager is chosed.
+> Ubuntu Studio desktop installation come with a built-in `Startup Disk Creator`, 
+> therefore no addtional installation required.
 
-1. Download the imager at [raspberrypi software webpage](https://www.raspberrypi.com/software/) (or rpi-imager snap package)
-3. Use rpi-imager to burn the image to your usb stick.
+There is various tools can be used for creating a boot media.
+- [balenaEtcher](https://etcher.balena.io/#download-etcher)
+- [Raspberry Pi imager](https://www.raspberrypi.com/software/)
+  - (this software also available in apt repository.)
 
 ## USB stick (multi boot with ventoy)
 1. [Download ventoy](https://sourceforge.net/projects/ventoy/files/v1.1.10/) (futher version seems to have capability issue with bios boot)
