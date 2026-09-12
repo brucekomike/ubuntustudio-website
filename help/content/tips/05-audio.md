@@ -2,7 +2,7 @@
 - [back to index](../)
 
 ## the migration from jackd to pipewire
-from 24.04 LTS, Ubuntu Studio has migrated from using `jackd` to `PipeWire` for audio management. 
+from 23.04, Ubuntu Studio has migrated from using `jackd` to `PipeWire` for audio management. 
 And the jackd method was deprecated starting from 24.10.
 - the PipeWire provides jack-compatible audio management, allowing applications that previously relied on `jackd` to work seamlessly with PipeWire.
 - In any application, use jack for audio backend will connect to PipeWire seamlessly.

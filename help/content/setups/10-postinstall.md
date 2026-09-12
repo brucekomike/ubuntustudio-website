@@ -6,7 +6,7 @@ all tips here are for ubuntu 26.04
 
 ## avoiding yoshimi crash in wayland
 ```
-# thie method is used in ardour-1:9.0.0+ds-1ubuntu2
+# thie method is used in ardour-1:9.0.0+ds-1ubuntu2 and later.
 # therefore no action needed in new installations with online updates.
 #
 # older installations may still encounter this issue. 
