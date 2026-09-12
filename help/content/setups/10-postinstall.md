@@ -1,10 +1,14 @@
 # Post Installation
+- [back](../)
 all tips here are for ubuntu 26.04
 ## grab a browser if firefox still not available
 `sudo apt install falkon`
 
 ## avoiding yoshimi crash in wayland
-
+```
+# thie method is used in ardour-1:9.0.0+ds-1ubuntu2
+# therefore this step can be skipped for latest version of ardour
+```
 add `FLTK_BACKEND=x11` env for any DAW
 
 > reference:
