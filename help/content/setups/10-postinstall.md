@@ -7,7 +7,10 @@ all tips here are for ubuntu 26.04
 ## avoiding yoshimi crash in wayland
 ```
 # thie method is used in ardour-1:9.0.0+ds-1ubuntu2
-# therefore this step can be skipped for latest version of ardour
+# therefore no action needed in new installations with online updates.
+#
+# older installations may still encounter this issue. 
+# (such as offline installations)
 ```
 add `FLTK_BACKEND=x11` env for any DAW
 
