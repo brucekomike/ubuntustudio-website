@@ -22,8 +22,12 @@ in case you miss the no-feedback experience.
 
 `echo "Defaults !pwfeedback" | sudo tee /etc/sudoers.d/00-passwordfeedback`
 
+## RDP support
+- install the package via `sudo apt install krdp`
+- then the "remote desktop" entry will appear in system settings.
+
 ## X11 session
-This is no longer recommended and will be deprecated, 
-but may required for some remote desktop software to achive unattended access.
+This setup is not recommended and is going to be deprecated,
+but may required for some third party remote desktop softwares to achieve unattended access.
 
 `sudo apt install plasma-session-x11`
